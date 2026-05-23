@@ -1,0 +1,1 @@
+Riding Beasts are implemented as NPCs that cannot talk.

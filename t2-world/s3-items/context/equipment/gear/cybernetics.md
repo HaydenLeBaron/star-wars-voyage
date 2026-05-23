@@ -1,0 +1,73 @@
+
+Search
+Sign In
+Create a Free Account
+Home
+
+Explore
+Saved
+Progress
+
+History
+
+More
+Skip to content
+Star Wars RPG (FFG) Wiki
+Star Wars RPG (FFG) Wiki
+3,331
+pages
+Explore
+Star Wars RPGs
+Equipment
+Transportation
+Other
+
+in: Gear
+Cybernetics
+Category page
+Sign In to Save
+Edit
+The advanced technologies of the galaxy which empowers droids to specialize beyond human capacity can be implanted to some degree into organic lifeforms as well (or even upgrade droids as well). These are known as cybernetics, and while it may come at a biological cost to enhance oneself with this technology, sometimes they serve to replace lost functions too.
+
+
+
+Gear	(R)	Price	Rare.	Features
+Adrenal Implant		2250	5	Rapid Recovery talent rank
+Appraiser's Eye		700	7	Better results selling/buying
+Avionics Interface		8000	6	Increases flying/driving skill for existing pilots
+Biofeedback Regulator		3000	8	Increases cybernetic cap for non-droids
+Cortex Bomb	(R)	1200	6	Detonates in response to code-word/signal
+Cyber Disguise	(R)	18000	8	Indistinguishable talent ranks & counts as disguise kit
+Cybernetic Arms (Mod V)		10000	6	Add +1 to Brawn
+Cybernetic Arms (Mod VI)		10000	6	Add +1 to Agility
+Cybernetic Brain Implant		10000	6	Add +1 to Intellect, and built in comlink and computer access link
+Cybernetic Cavity	(R)	775	3	Hidden Storage talent rank, and can hide item within body
+Cybernetic Eyes		7500	6	Add +1 to Vigilance & Perception
+Cybernetic Legs (Mod II)		10000	6	Add +1 to Brawn
+Cybernetic Legs (Mod III)		10000	6	Add +1 to Agility
+Cybernetic Reflexes		2750	5	Rapid Reaction talent rank
+Cybernetic Respirator		2000	4	Permanent benefits of Breath Mask & Respirator & Blooded talent rank
+Cybernetic Weapon Implant		4000	7	Retractable Light Blaster Pistol in cyber-arm
+Cyberscanner Limb		4000	7	Counts as a General Purpose Scanner
+Digital Lockpick	(R)	2750	5	Bypass Security talent rank
+Escape Circuit	(R)	1000	6	Allows droid to escape restraining bolt easily
+Gank Comm Implant		250	7	Telepathic comms with several km range (can be jammed)
+Immune Implant		5000	6	Add +1 to Resilience
+Implant Armor		7500	6	Add +1 to Soak
+Implanted Cyberjack		3750	6	Reduces difficulty of disabling security devices and slicing computer systems
+Lockbreaker Hand	(R)	2200	6	Bypass Security talent rank & assists in getting through locks
+Multi-Tool Hand		650	4	Counts as a Tool Kit
+Networked Slicing Uplink	(R)	1250	7	For droids, counts as Slicer Gear & harder to identify
+Neural Recorder		250	8	Allows recollection of events easily & can store on external drive
+Neuro-Saav Cyborg/Droid Interface		600	4	Can easily coerce information from a droid
+Neuromachine Interface	(R)	3500	6	Can use Coordination instead of a Piloting skill to pilot
+Pain Damper		1800	6	Resist pain and physical torture more
+Q-22 Retinal Tracker		2500	6	Fire larger ranged weapons with more accuracy (Heavy and Artillery)
+Repli-Limb Prosthetic (Limbs)		2000	4	Replaces limb in appearance & function
+Repli-Limb Prosthetic (Organs)		1000	4	Replaces organ in function
+Repulsor Fist		4750	7	Defensive Stance talent rank & is a brawling weapon
+Retinal Implant	(R)	1250	6	Can change retina to fool retinal scanners
+Surge Override Switch		1000	6	Kickstart cybernetics after overcharge or ion damage
+Swift 78B Vessel Courier System		5000	6	Stores large amounts of data
+Vessel Implant		900	4	Stores data & is hard to detect
+Vocal Emulator Implant		1300	5	Can change voice

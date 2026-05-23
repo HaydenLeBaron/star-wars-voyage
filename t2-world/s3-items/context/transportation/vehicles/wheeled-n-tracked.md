@@ -1,0 +1,22 @@
+# Wheeled & Tracked
+
+source: https://star-wars-rpg-ffg.fandom.com/wiki/Category:Wheeled_%26_Tracked
+
+There are few specific models of wheeled or tracked vehicles as their utility is far superseded by repulsorlift technology and walker abilities. However, there are a number which are still produced by certain industries as they have some cult following. In fact, many of these vehicles are actually droid-brain operated vehicles which are entirely unmanned.
+
+Model	Silhouette	Speed	HP	(R)	Price	Rarity	Weapons?
+A-11 Model III "Burrower"	3	1	2		45000	7	No
+A-19 "Iron Crawler" Armoured Transport	5	1	4		12500	6	Yes
+Corellian Mining Corporation Digger Crawler	4	1	5		50000	7	No
+Gallis-Tech 48 Roller	2	3	0		750	5	No
+Groundcar	2	2	2		1500	2	No
+HAVw A6 Juggernaut Heavy Armoured Fighting Vehicle	4	3	3	(R)	180000	7	Yes
+HCVw A9 Turbo Tank	4	3	2	(R)	180000	6	Yes
+I-C2 Civil Industrial Droid	4	1	1		1700000	6	No
+I-C4A Combat Construction Droid	3	1	1	(R)	750000	6	Yes
+IG-227 Hailfire Tank	3	3	1	(R)	25000	6	Yes
+NR-N99 Persuader Heavy Droid Tank	3	2	4	(R)	120000	5	Yes
+Personnel Carrier	3	2	2		3000	3	No
+Tagge Dustcrawler	4	2	6		60000	5	No
+Tsmeu-6 Personal Wheel Bike	2	3	2		15000	7	Yes
+TX-225 GAVw "Occupier" Combat Assault Tank	3	2	2	(R)	45000	6	Yes
