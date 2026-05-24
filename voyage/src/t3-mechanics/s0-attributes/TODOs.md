@@ -1,1 +1,1 @@
-- [ ] Tune numbers in @attributes through playtesting (right now they are probably whacked)
+- [ ] Tune numbers in @attributes through playtesting (I tried as much as possible to mirror Larion)

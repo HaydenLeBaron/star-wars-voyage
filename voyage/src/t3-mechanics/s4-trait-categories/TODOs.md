@@ -1,0 +1,2 @@
+- [x] POC Traits: Health, Stamina, Midichlorians, Strain
+- [ ] Test POC traits
