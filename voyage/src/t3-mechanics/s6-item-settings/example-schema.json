@@ -1,0 +1,83 @@
+{
+    "itemSettings": {
+        "currencyName": "florins",
+        "itemSlots": [
+            {
+                "slot": "head",
+                "category": "Armor",
+                "quantity": 1
+            },
+            {
+                "slot": "body",
+                "category": "Armor",
+                "quantity": 1
+            },
+            {
+                "slot": "shield",
+                "category": "Armor",
+                "quantity": 1
+            },
+            {
+                "slot": "legs",
+                "category": "Armor",
+                "quantity": 1
+            },
+            {
+                "slot": "outerwear",
+                "category": "Armor",
+                "quantity": 1
+            },
+            {
+                "slot": "feet",
+                "category": "Armor",
+                "quantity": 1
+            },
+            {
+                "slot": "hands",
+                "category": "Armor",
+                "quantity": 1
+            },
+            {
+                "slot": "Weapon",
+                "category": "Weapon",
+                "quantity": 3
+            },
+            {
+                "slot": "Accessory",
+                "category": "Accessory",
+                "quantity": 3
+            },
+            {
+                "slot": "Consumable",
+                "category": "Consumable",
+                "quantity": 3
+            }
+        ],
+        "itemCategories": [
+            "Currency",
+            "Armor",
+            "Weapon",
+            "Tool",
+            "Consumable",
+            "Accessory",
+            "Miscellaneous"
+        ],
+        "startingItems": [
+            {
+                "item": "[Common] Iron Dagger [piercing]",
+                "quantity": 1
+            },
+            {
+                "item": "florins",
+                "quantity": 60
+            },
+            {
+                "item": "[Uncommon] Mongo's Medium Health Potion",
+                "quantity": 1
+            }
+        ],
+        "lootValueMultiplier": 1,
+        "lootValueVariability": 0.2,
+        "itemValueVariation": 0.1
+    }
+}

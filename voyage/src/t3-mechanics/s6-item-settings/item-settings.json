@@ -1,0 +1,75 @@
+{
+    "itemSettings": {
+        "currencyName": "credits",
+        "itemSlots": [
+            {
+                "slot": "head",
+                "category": "Apparel",
+                "quantity": 1
+            },
+            {
+                "slot": "body",
+                "category": "Apparel",
+                "quantity": 1
+            },
+            {
+                "slot": "shield",
+                "category": "Apparel",
+                "quantity": 1
+            },
+            {
+                "slot": "legs",
+                "category": "Apparel",
+                "quantity": 1
+            },
+            {
+                "slot": "outerwear",
+                "category": "Apparel",
+                "quantity": 1
+            },
+            {
+                "slot": "feet",
+                "category": "Apparel",
+                "quantity": 1
+            },
+            {
+                "slot": "hands",
+                "category": "Apparel",
+                "quantity": 1
+            },
+            {
+                "slot": "Weapon",
+                "category": "Weapon",
+                "quantity": 3
+            },
+            {
+                "slot": "Accessory",
+                "category": "Accessory",
+                "quantity": 3
+            },
+            {
+                "slot": "Consumable",
+                "category": "Consumable",
+                "quantity": 3
+            }
+        ],
+        "itemCategories": [
+            "Currency",
+            "Apparel",
+            "Weapon",
+            "Tool",
+            "Consumable",
+            "Accessory",
+            "Miscellaneous"
+        ],
+        "startingItems": [
+            {
+                "item": "credits",
+                "quantity": 60
+            }
+        ],
+        "lootValueMultiplier": 1,
+        "lootValueVariability": 0.2,
+        "itemValueVariation": 0.1
+    }
+}
