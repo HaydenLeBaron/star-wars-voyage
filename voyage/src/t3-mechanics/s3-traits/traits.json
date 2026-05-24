@@ -1,8 +1,8 @@
 {
     "traits": {
-        "Human": {
-            "name": "Human",
-            "description": "",
+        "Species - Human": {
+            "name": "Species - Human",
+            "description": "Versatile and ambitious sentients who dominate the galaxy through adaptability, sheer numbers, and endless drive.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -12,9 +12,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Human Clone (of Jango Fett)": {
-            "name": "Human Clone (of Jango Fett)",
-            "description": "",
+        "Species - Human Clone (of Jango Fett)": {
+            "name": "Species - Human Clone (of Jango Fett)",
+            "description": "Genetically engineered soldiers grown on Kamino, possessing identical features, exceptional training, and rapid aging.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -24,9 +24,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Chiss": {
-            "name": "Chiss",
-            "description": "",
+        "Species - Chiss": {
+            "name": "Species - Chiss",
+            "description": "Highly analytical and blue-skinned near-humans from the Unknown Regions, known for their tactical brilliance, discipline, and secrecy.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -36,9 +36,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Mirialan": {
-            "name": "Mirialan",
-            "description": "",
+        "Species - Mirialan": {
+            "name": "Species - Mirialan",
+            "description": "Deeply spiritual green-skinned near-humans, recognized by geometric facial tattoos representing personal achievements and destiny.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -48,9 +48,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Zabrak": {
-            "name": "Zabrak",
-            "description": "",
+        "Species - Zabrak": {
+            "name": "Species - Zabrak",
+            "description": "Strong-willed near-humans from Iridonia, sporting a crown of vestigial horns and distinctive facial tattoos, known for their resilience.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -60,9 +60,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Pantoran": {
-            "name": "Pantoran",
-            "description": "",
+        "Species - Pantoran": {
+            "name": "Species - Pantoran",
+            "description": "Blue-skinned near-humans from Pantora, valued for their strong diplomatic traditions and distinct yellow facial paint representing lineage.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -72,9 +72,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Togruta": {
-            "name": "Togruta",
-            "description": "",
+        "Species - Togruta": {
+            "name": "Species - Togruta",
+            "description": "Colorful sentients with curved montrals and lekku, possessing natural echolocation and a deeply communal, pack-oriented culture.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -84,9 +84,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Twi'lek": {
-            "name": "Twi'lek",
-            "description": "",
+        "Species - Twi'lek": {
+            "name": "Species - Twi'lek",
+            "description": "Elegant sentients with twin head-tails (lekku), known for their grace, non-verbal communication, and resilience on Ryloth.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -96,9 +96,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Dathomirian": {
-            "name": "Dathomirian",
-            "description": "",
+        "Species - Dathomirian": {
+            "name": "Species - Dathomirian",
+            "description": "Pale near-humans from Dathomir, whose society is defined by the magick-wielding Nightsisters and martial Nightbrothers.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -108,9 +108,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Wookiee": {
-            "name": "Wookiee",
-            "description": "",
+        "Species - Wookiee": {
+            "name": "Species - Wookiee",
+            "description": "Towering, fur-covered sentients from Kashyyyk, renowned for their incredible strength, fierce loyalty, and honor-bound life debts.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -120,9 +120,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Rodian": {
-            "name": "Rodian",
-            "description": "",
+        "Species - Rodian": {
+            "name": "Species - Rodian",
+            "description": "Reptilian sentients with large multifaceted eyes and snout-like mouths, hailing from a hunt-centric culture on swampy Rodia.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -132,9 +132,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Trandoshan": {
-            "name": "Trandoshan",
-            "description": "",
+        "Species - Trandoshan": {
+            "name": "Species - Trandoshan",
+            "description": "Large, reptilian sentients from Dosha, dedicated to the Scorekeeper goddess, known for their regeneration and passion for the hunt.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -144,9 +144,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Mon Calamari": {
-            "name": "Mon Calamari",
-            "description": "",
+        "Species - Mon Calamari": {
+            "name": "Species - Mon Calamari",
+            "description": "Amphibious sentients from Dac, highly advanced in technology and art, recognized for their organic-style starships.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -156,9 +156,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Quarren": {
-            "name": "Quarren",
-            "description": "",
+        "Species - Quarren": {
+            "name": "Species - Quarren",
+            "description": "Squid-like amphibious sentients from Dac, sharing their homeworld with the Mon Calamari, known for their pragmatic, isolationist views.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -168,9 +168,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Bothan": {
-            "name": "Bothan",
-            "description": "",
+        "Species - Bothan": {
+            "name": "Species - Bothan",
+            "description": "Feline-canine humanoids from Bothawui, famed throughout the galaxy for their intricate spying networks and political maneuvering.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -180,9 +180,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Hutt": {
-            "name": "Hutt",
-            "description": "",
+        "Species - Hutt": {
+            "name": "Species - Hutt",
+            "description": "Gargantuan, slug-like sentients from Nal Hutta, renowned for their immense lifespans, cunning minds, and powerful criminal empires.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -192,9 +192,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Jawa": {
-            "name": "Jawa",
-            "description": "",
+        "Species - Jawa": {
+            "name": "Species - Jawa",
+            "description": "Diminutive, cloak-wearing scavengers from Tatooine, recognized by glowing yellow eyes and a keen talent for repairing junk.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -204,9 +204,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Tusken Raider": {
-            "name": "Tusken Raider",
-            "description": "",
+        "Species - Tusken Raider": {
+            "name": "Species - Tusken Raider",
+            "description": "Nomadic, heavily wrapped desert-dwellers from Tatooine, fiercely territorial and protective of their sacred ancestral oases.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -216,9 +216,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Gamorrean": {
-            "name": "Gamorrean",
-            "description": "",
+        "Species - Gamorrean": {
+            "name": "Species - Gamorrean",
+            "description": "Stocky, pig-like sentients from Gamorr, highly valued across the galaxy as loyal, brute-force bodyguards and mercenaries.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -228,9 +228,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Ithorian": {
-            "name": "Ithorian",
-            "description": "",
+        "Species - Ithorian": {
+            "name": "Species - Ithorian",
+            "description": "Gentle, hammer-headed sentients with two mouths, deeply devoted to preserving nature, ecology, and peaceful coexistence.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -240,9 +240,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Duros": {
-            "name": "Duros",
-            "description": "",
+        "Species - Duros": {
+            "name": "Species - Duros",
+            "description": "Blue-skinned, red-eyed near-humans who were among the galaxy's earliest spacefarers, renowned as expert starship pilots and navigators.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -252,9 +252,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Sullustan": {
-            "name": "Sullustan",
-            "description": "",
+        "Species - Sullustan": {
+            "name": "Species - Sullustan",
+            "description": "Jowled, subterranean sentients from Sullust, known for their incredible sense of direction and excellence in piloting and engineering.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -264,9 +264,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Gungan": {
-            "name": "Gungan",
-            "description": "",
+        "Species - Gungan": {
+            "name": "Species - Gungan",
+            "description": "Amphibious, long-eared sentients from Naboo, living in bubble cities and wielding unique plasma-based technology.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -276,9 +276,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Neimoidian": {
-            "name": "Neimoidian",
-            "description": "",
+        "Species - Neimoidian": {
+            "name": "Species - Neimoidian",
+            "description": "Pragmatic, green-skinned humanoids closely related to the Duros, known for their mercantile dominance and bureaucratic caution.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -288,9 +288,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Kaminoan": {
-            "name": "Kaminoan",
-            "description": "",
+        "Species - Kaminoan": {
+            "name": "Species - Kaminoan",
+            "description": "Elegant, long-necked cloners from Kamino, known for their cold scientific precision and genetic engineering mastery.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -300,9 +300,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Geonosian": {
-            "name": "Geonosian",
-            "description": "",
+        "Species - Geonosian": {
+            "name": "Species - Geonosian",
+            "description": "Winged, insectoid sentients from Geonosis, living in towering hives and possessing a highly rigid, caste-based society.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -312,9 +312,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Kel Dor": {
-            "name": "Kel Dor",
-            "description": "",
+        "Species - Kel Dor": {
+            "name": "Species - Kel Dor",
+            "description": "Sentients from Dorin who must wear specialized breath masks in oxygen-rich atmospheres, known for their strong sense of justice.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -324,9 +324,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Nautolan": {
-            "name": "Nautolan",
-            "description": "",
+        "Species - Nautolan": {
+            "name": "Species - Nautolan",
+            "description": "Amphibious green sentients from Glee Anselm, sporting a crown of sensory tentacles that can read emotions via pheromones.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -336,9 +336,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Toydarian": {
-            "name": "Toydarian",
-            "description": "",
+        "Species - Toydarian": {
+            "name": "Species - Toydarian",
+            "description": "Stubborn, winged sentients from Toydaria, completely immune to Force mind tricks due to their unique brain chemistry.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -348,9 +348,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Lasat": {
-            "name": "Lasat",
-            "description": "",
+        "Species - Lasat": {
+            "name": "Species - Lasat",
+            "description": "Tall, powerful sentients from Lira San, possessing remarkable agility, prehensile toes, and a fierce warrior tradition.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -360,9 +360,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Chagrian": {
-            "name": "Chagrian",
-            "description": "",
+        "Species - Chagrian": {
+            "name": "Species - Chagrian",
+            "description": "Horned, blue-skinned sentients from Champala, known for their discipline, legal expertise, and distinguished governmental service.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -372,9 +372,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Devaronian": {
-            "name": "Devaronian",
-            "description": "",
+        "Species - Devaronian": {
+            "name": "Species - Devaronian",
+            "description": "Sentients from Devaron; males are horned and wanderlust-driven, while females are hornless and dominate local politics and industry.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -384,9 +384,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Weequay": {
-            "name": "Weequay",
-            "description": "",
+        "Species - Weequay": {
+            "name": "Species - Weequay",
+            "description": "Leathery-skinned sentients from Sriluur, who communicate silently via pheromones and are highly prized as mercenaries and pirates.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -396,9 +396,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Nikto": {
-            "name": "Nikto",
-            "description": "",
+        "Species - Nikto": {
+            "name": "Species - Nikto",
+            "description": "Reptilian sentients from Kintan, divided into multiple sub-species, historically bound in servitude to the Hutt Cartels.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -408,9 +408,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Klatooinian": {
-            "name": "Klatooinian",
-            "description": "",
+        "Species - Klatooinian": {
+            "name": "Species - Klatooinian",
+            "description": "Dog-faced, leathery-skinned sentients from Klatooine, renowned for their deep respect for age, tradition, and treaty law.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -420,9 +420,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Aqualish": {
-            "name": "Aqualish",
-            "description": "",
+        "Species - Aqualish": {
+            "name": "Species - Aqualish",
+            "description": "Walrus-faced sentients from Ando, divided into sub-species, known for their gruff demeanor and aggressive survival instincts.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -432,9 +432,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Protocol Droid": {
-            "name": "Protocol Droid",
-            "description": "",
+        "Species - Protocol Droid": {
+            "name": "Species - Protocol Droid",
+            "description": "Advanced human-cyborg relations droids designed to facilitate communication, translation, and diplomatic etiquette.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -444,9 +444,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Astromech Droid": {
-            "name": "Astromech Droid",
-            "description": "",
+        "Species - Astromech Droid": {
+            "name": "Species - Astromech Droid",
+            "description": "Highly versatile utility droids built for starship repair, computer slicing, and hyperspace navigation calculation.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -456,9 +456,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Research Droid": {
-            "name": "Research Droid",
-            "description": "",
+        "Species - Research Droid": {
+            "name": "Species - Research Droid",
+            "description": "Droids equipped with specialized scanners, databases, and analytical tools for scientific exploration and data archival.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -468,9 +468,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Medical Droid": {
-            "name": "Medical Droid",
-            "description": "",
+        "Species - Medical Droid": {
+            "name": "Species - Medical Droid",
+            "description": "Droids programmed with extensive anatomical databases, surgical skills, and pharmaceutical knowledge to heal sentients.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -480,9 +480,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Combat Droid": {
-            "name": "Combat Droid",
-            "description": "",
+        "Species - Combat Droid": {
+            "name": "Species - Combat Droid",
+            "description": "Droids built specifically for warfare, equipped with heavy armor plating, weapon systems, and targeting algorithms.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -492,9 +492,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Labor Droid": {
-            "name": "Labor Droid",
-            "description": "",
+        "Species - Labor Droid": {
+            "name": "Species - Labor Droid",
+            "description": "Heavy-duty droids designed for raw physical labor, industrial construction, cargo hauling, and hazardous environments.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -504,9 +504,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Assasain Droid": {
-            "name": "Assasain Droid",
-            "description": "",
+        "Species - Assassin Droid": {
+            "name": "Species - Assassin Droid",
+            "description": "Lethal, independent-minded droids programmed for tracking, stealth, infiltration, and the silent elimination of targets.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -516,9 +516,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Addiction": {
-            "name": "Addiction",
-            "description": "",
+        "Obligation - Addiction": {
+            "name": "Obligation - Addiction",
+            "description": "The character is physically or psychologically dependent on a substance, activity, or vice, demanding regular attention.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -528,9 +528,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Betrayal": {
-            "name": "Betrayal",
-            "description": "",
+        "Obligation - Betrayal": {
+            "name": "Obligation - Betrayal",
+            "description": "The character has either been deeply betrayed by someone they trusted, or is hiding their own past acts of treachery.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -540,9 +540,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Blackmail": {
-            "name": "Blackmail",
-            "description": "",
+        "Obligation - Blackmail": {
+            "name": "Obligation - Blackmail",
+            "description": "Someone knows a dark, damaging secret about the character and uses it to extort money, favors, or compliance.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -552,9 +552,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Bounty": {
-            "name": "Bounty",
-            "description": "",
+        "Obligation - Bounty": {
+            "name": "Obligation - Bounty",
+            "description": "There is a price on the character's head, attracting active pursuit from bounty hunters and law enforcement across the galaxy.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -564,9 +564,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Criminal Record": {
-            "name": "Criminal Record",
-            "description": "",
+        "Obligation - Criminal Record": {
+            "name": "Obligation - Criminal Record",
+            "description": "The character is wanted by regional or galactic authorities for past crimes, making travel and open business dangerous.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -576,9 +576,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Debt": {
-            "name": "Debt",
-            "description": "",
+        "Obligation - Debt": {
+            "name": "Obligation - Debt",
+            "description": "The character owes a massive sum of credits to a powerful lender, cartel, or syndicate, requiring regular payments.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -588,9 +588,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Dutybound": {
-            "name": "Dutybound",
-            "description": "",
+        "Obligation - Dutybound": {
+            "name": "Obligation - Dutybound",
+            "description": "The character feels a deep, unshakeable moral or professional obligation to an organization, creed, or specific individual.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -600,9 +600,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Family": {
-            "name": "Family",
-            "description": "",
+        "Obligation - Family": {
+            "name": "Obligation - Family",
+            "description": "The character has family members they must support, protect, or hide, presenting a constant vulnerability.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -612,9 +612,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Favor": {
-            "name": "Favor",
-            "description": "",
+        "Obligation - Favor": {
+            "name": "Obligation - Favor",
+            "description": "The character owes a massive, open-ended favor to a powerful figure, who could call in the debt at any moment.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -624,9 +624,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Oath": {
-            "name": "Oath",
-            "description": "",
+        "Obligation - Oath": {
+            "name": "Obligation - Oath",
+            "description": "The character has sworn a sacred vow or code of honor that dictates their behavior and restricts their choices.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -636,9 +636,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Obsession": {
-            "name": "Obsession",
-            "description": "",
+        "Obligation - Obsession": {
+            "name": "Obligation - Obsession",
+            "description": "The character is consumed by a single-minded pursuit, whether it is a rare artifact, a person, or a grand mystery.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -648,9 +648,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Responsibility": {
-            "name": "Responsibility",
-            "description": "",
+        "Obligation - Responsibility": {
+            "name": "Obligation - Responsibility",
+            "description": "The character carries the burden of caring for a group, a vessel, or a localized population, prioritizing them above all.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -660,9 +660,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Bounty Hunter": {
-            "name": "Bounty Hunter",
-            "description": "",
+        "Career - Bounty Hunter": {
+            "name": "Career - Bounty Hunter",
+            "description": "A professional tracker who hunts down targets for credits, utilizing survival skills, gear, and combat training.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -672,9 +672,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Colonist": {
-            "name": "Colonist",
-            "description": "",
+        "Career - Colonist": {
+            "name": "Career - Colonist",
+            "description": "A pioneer building a life on the galactic frontier, skilled in civilian pursuits like medicine, trade, and leadership.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -684,9 +684,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Explorer": {
-            "name": "Explorer",
-            "description": "",
+        "Career - Explorer": {
+            "name": "Career - Explorer",
+            "description": "A trailblazer who charts the unknown hyperlanes and survives the harshest wilderness of the galaxy.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -696,9 +696,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Hired Gun": {
-            "name": "Hired Gun",
-            "description": "",
+        "Career - Hired Gun": {
+            "name": "Career - Hired Gun",
+            "description": "A combat specialist providing muscle, defense, or heavy firepower to whoever has the credits to pay.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -708,9 +708,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Smuggler": {
-            "name": "Smuggler",
-            "description": "",
+        "Career - Smuggler": {
+            "name": "Career - Smuggler",
+            "description": "A rogue operating outside the law, moving illegal cargo, evading blockades, and relying on wit and charm.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -720,9 +720,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Technician": {
-            "name": "Technician",
-            "description": "",
+        "Career - Technician": {
+            "name": "Career - Technician",
+            "description": "An expert in machines and electronics, keeping starships running and slicing security systems with ease.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -732,9 +732,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Ace": {
-            "name": "Ace",
-            "description": "",
+        "Career - Ace": {
+            "name": "Career - Ace",
+            "description": "A highly skilled pilot and vehicle operator who feels most at home in the cockpit of a starfighter or speeder.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -744,9 +744,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Commander": {
-            "name": "Commander",
-            "description": "",
+        "Career - Commander": {
+            "name": "Career - Commander",
+            "description": "A military leader and strategist trained to coordinate troops, manage logistics, and win battles.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -756,9 +756,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Diplomat": {
-            "name": "Diplomat",
-            "description": "",
+        "Career - Diplomat": {
+            "name": "Career - Diplomat",
+            "description": "A representative skilled in negotiation, mediation, and advocacy, resolving conflicts with words.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -768,9 +768,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Engineer": {
-            "name": "Engineer",
-            "description": "",
+        "Career - Engineer": {
+            "name": "Career - Engineer",
+            "description": "A technical specialist who designs, builds, and occasionally demolishes structures, vehicles, and weapons.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -780,9 +780,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Soldier": {
-            "name": "Soldier",
-            "description": "",
+        "Career - Soldier": {
+            "name": "Career - Soldier",
+            "description": "A dedicated combat professional trained in front-line warfare, squad tactics, and weapon operations.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -792,9 +792,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Spy": {
-            "name": "Spy",
-            "description": "",
+        "Career - Spy": {
+            "name": "Career - Spy",
+            "description": "A covert operative specializing in intelligence gathering, infiltration, sabotage, and information warfare.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -804,9 +804,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Consular": {
-            "name": "Consular",
-            "description": "",
+        "Career - Consular": {
+            "name": "Career - Consular",
+            "description": "A Force-user dedicated to diplomacy, healing, and seeking a deeper, peaceful understanding of the Force.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -816,9 +816,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Guardian": {
-            "name": "Guardian",
-            "description": "",
+        "Career - Guardian": {
+            "name": "Career - Guardian",
+            "description": "A Force-user who stands as a protector of the weak, defending justice and fighting against tyranny.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -828,9 +828,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Mystic": {
-            "name": "Mystic",
-            "description": "",
+        "Career - Mystic": {
+            "name": "Career - Mystic",
+            "description": "A Force-user deeply in tune with the cosmic Force, uncovering secrets and guiding others through visions.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -840,9 +840,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Seeker": {
-            "name": "Seeker",
-            "description": "",
+        "Career - Seeker": {
+            "name": "Career - Seeker",
+            "description": "A Force-user who travels the wild edges of the galaxy, hunting dark side threats and following the Force's will.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -852,9 +852,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Sentinel": {
-            "name": "Sentinel",
-            "description": "",
+        "Career - Sentinel": {
+            "name": "Career - Sentinel",
+            "description": "A Force-user operating in urban shadows, blending stealth, slicing, and street-level justice.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -864,9 +864,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Warrior": {
-            "name": "Warrior",
-            "description": "",
+        "Career - Warrior": {
+            "name": "Career - Warrior",
+            "description": "A Force-user focused on martial perfection, lightsaber combat, and offensive applications of the Force.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -876,9 +876,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Assassin": {
-            "name": "Assassin",
-            "description": "",
+        "Bounty Hunter - Assassin (Specialism)": {
+            "name": "Bounty Hunter - Assassin (Specialism)",
+            "description": "A lethal specialist focusing on stealth, sniping, and quick kills.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -888,9 +888,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Gadgeteer": {
-            "name": "Gadgeteer",
-            "description": "",
+        "Bounty Hunter - Gadgeteer (Specialism)": {
+            "name": "Bounty Hunter - Gadgeteer (Specialism)",
+            "description": "A tech-savvy hunter who uses customized armor and high-tech weaponry.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -900,9 +900,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Survivalist": {
-            "name": "Survivalist",
-            "description": "",
+        "Bounty Hunter - Survivalist (Specialism)": {
+            "name": "Bounty Hunter - Survivalist (Specialism)",
+            "description": "A rugged tracker skilled at surviving in harsh wilderness and tracking prey.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -912,9 +912,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Martial Artist": {
-            "name": "Martial Artist",
-            "description": "",
+        "Bounty Hunter - Martial Artist (Specialism)": {
+            "name": "Bounty Hunter - Martial Artist (Specialism)",
+            "description": "A close-quarters specialist who uses hand-to-hand combat and pressure points.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -924,9 +924,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Operator": {
-            "name": "Operator",
-            "description": "",
+        "Bounty Hunter - Operator (Specialism)": {
+            "name": "Bounty Hunter - Operator (Specialism)",
+            "description": "A vehicle-focused bounty hunter skilled in pursuit and piloting.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -936,9 +936,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Skip Tracer": {
-            "name": "Skip Tracer",
-            "description": "",
+        "Bounty Hunter - Skip Tracer (Specialism)": {
+            "name": "Bounty Hunter - Skip Tracer (Specialism)",
+            "description": "A detective who tracks down debtors and targets in urban settings.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -948,9 +948,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Doctor": {
-            "name": "Doctor",
-            "description": "",
+        "Colonist - Doctor (Specialism)": {
+            "name": "Colonist - Doctor (Specialism)",
+            "description": "A medical professional skilled in treating injuries, curing diseases, and saving lives in the field.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -960,9 +960,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Politico": {
-            "name": "Politico",
-            "description": "",
+        "Colonist - Politico (Specialism)": {
+            "name": "Colonist - Politico (Specialism)",
+            "description": "A charismatic speaker and politician who influences others through rhetoric and social pressure.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -972,9 +972,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Scholar": {
-            "name": "Scholar",
-            "description": "",
+        "Colonist - Scholar (Specialism)": {
+            "name": "Colonist - Scholar (Specialism)",
+            "description": "An academic dedicated to research, data analysis, and broad historical or scientific lore.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -984,9 +984,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Entrepreneur": {
-            "name": "Entrepreneur",
-            "description": "",
+        "Colonist - Entrepreneur (Specialism)": {
+            "name": "Colonist - Entrepreneur (Specialism)",
+            "description": "A savvy business mind who manages investments, deals in commerce, and maximizes credit flow.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -996,9 +996,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Marshal": {
-            "name": "Marshal",
-            "description": "",
+        "Colonist - Marshal (Specialism)": {
+            "name": "Colonist - Marshal (Specialism)",
+            "description": "A law enforcer on the frontier, dedicated to keeping the peace and bringing outlaws to justice.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1008,9 +1008,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Performer": {
-            "name": "Performer",
-            "description": "",
+        "Colonist - Performer (Specialism)": {
+            "name": "Colonist - Performer (Specialism)",
+            "description": "A talented entertainer who draws attention, distracts crowds, and raises morale through art.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1020,9 +1020,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Fringer": {
-            "name": "Fringer",
-            "description": "",
+        "Explorer - Fringer (Specialism)": {
+            "name": "Explorer - Fringer (Specialism)",
+            "description": "A wanderer of the outer rim, skilled in finding safe paths and negotiating at remote outposts.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1032,9 +1032,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Scout": {
-            "name": "Scout",
-            "description": "",
+        "Explorer - Scout (Specialism)": {
+            "name": "Explorer - Scout (Specialism)",
+            "description": "A pathfinder who surveys planets, maps terrain, and warns the party of upcoming natural threats.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1044,9 +1044,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Trader": {
-            "name": "Trader",
-            "description": "",
+        "Explorer - Trader (Specialism)": {
+            "name": "Explorer - Trader (Specialism)",
+            "description": "A merchant voyager who buys low, sells high, and manages the logistics of interstellar trade.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1056,9 +1056,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Archaeologist": {
-            "name": "Archaeologist",
-            "description": "",
+        "Explorer - Archaeologist (Specialism)": {
+            "name": "Explorer - Archaeologist (Specialism)",
+            "description": "A researcher of ancient ruins and lost civilizations, uncovering secrets from the galactic past.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1068,9 +1068,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Big-Game Hunter": {
-            "name": "Big-Game Hunter",
-            "description": "",
+        "Explorer - Big-Game Hunter (Specialism)": {
+            "name": "Explorer - Big-Game Hunter (Specialism)",
+            "description": "A tracker of massive beasts, specializing in survival, trapping, and high-caliber weapons.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1080,9 +1080,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Driver": {
-            "name": "Driver",
-            "description": "",
+        "Explorer - Driver (Specialism)": {
+            "name": "Explorer - Driver (Specialism)",
+            "description": "A master of planetary vehicles, driving speeders, tanks, and walkers through impossible terrain.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1092,9 +1092,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Bodyguard": {
-            "name": "Bodyguard",
-            "description": "",
+        "Hired Gun - Bodyguard (Specialism)": {
+            "name": "Hired Gun - Bodyguard (Specialism)",
+            "description": "A defender who shields allies from harm and acts as a bullet-catcher in dangerous situations.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1104,9 +1104,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Marauder": {
-            "name": "Marauder",
-            "description": "",
+        "Hired Gun - Marauder (Specialism)": {
+            "name": "Hired Gun - Marauder (Specialism)",
+            "description": "A brutal melee fighter who unleashes raw fury with axes, vibroblades, and close-range weapons.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1116,9 +1116,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Mercenary Soldier": {
-            "name": "Mercenary Soldier",
-            "description": "",
+        "Hired Gun - Mercenary Soldier (Specialism)": {
+            "name": "Hired Gun - Mercenary Soldier (Specialism)",
+            "description": "A tactical professional skilled in squad combat, disciplined firing lines, and battlefield maneuvers.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1128,9 +1128,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Enforcer": {
-            "name": "Enforcer",
-            "description": "",
+        "Hired Gun - Enforcer (Specialism)": {
+            "name": "Hired Gun - Enforcer (Specialism)",
+            "description": "A street-level thug who intimidates rivals and uses brute force to maintain order.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1140,9 +1140,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Demolitionist": {
-            "name": "Demolitionist",
-            "description": "",
+        "Hired Gun - Demolitionist (Specialism)": {
+            "name": "Hired Gun - Demolitionist (Specialism)",
+            "description": "An explosives expert skilled in setting charges, breaching doors, and controlled destruction.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1152,9 +1152,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Heavy": {
-            "name": "Heavy",
-            "description": "",
+        "Hired Gun - Heavy (Specialism)": {
+            "name": "Hired Gun - Heavy (Specialism)",
+            "description": "A gunner specializing in laying down suppressive fire with heavy repeaters and launchers.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1164,9 +1164,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Pilot": {
-            "name": "Pilot",
-            "description": "",
+        "Smuggler - Pilot (Specialism)": {
+            "name": "Smuggler - Pilot (Specialism)",
+            "description": "A master of starship flight, capable of dodging asteroids, imperial blockades, and dogfighters.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1176,9 +1176,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Scoundrel": {
-            "name": "Scoundrel",
-            "description": "",
+        "Smuggler - Scoundrel (Specialism)": {
+            "name": "Smuggler - Scoundrel (Specialism)",
+            "description": "A charming rogue who relies on luck, fast-talk, and dirty fighting to survive tight spots.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1188,9 +1188,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Thief": {
-            "name": "Thief",
-            "description": "",
+        "Smuggler - Thief (Specialism)": {
+            "name": "Smuggler - Thief (Specialism)",
+            "description": "A stealthy operator skilled in pickpocketing, security bypassing, and silent thievery.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1200,9 +1200,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Charmer": {
-            "name": "Charmer",
-            "description": "",
+        "Smuggler - Charmer (Specialism)": {
+            "name": "Smuggler - Charmer (Specialism)",
+            "description": "A smooth talker who uses charm, elegance, and seduction to disarm potential threats.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1212,9 +1212,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Gambler": {
-            "name": "Gambler",
-            "description": "",
+        "Smuggler - Gambler (Specialism)": {
+            "name": "Smuggler - Gambler (Specialism)",
+            "description": "A high-stakes player who calculates odds, bluffs opponents, and makes fortune work for them.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1224,9 +1224,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Gunslinger": {
-            "name": "Gunslinger",
-            "description": "",
+        "Smuggler - Gunslinger (Specialism)": {
+            "name": "Smuggler - Gunslinger (Specialism)",
+            "description": "A rapid-draw duelist who wields dual blasters with blinding speed and accuracy.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1236,9 +1236,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Mechanic": {
-            "name": "Mechanic",
-            "description": "",
+        "Technician - Mechanic (Specialism)": {
+            "name": "Technician - Mechanic (Specialism)",
+            "description": "A repair expert who keeps starships, speeders, and equipment running under extreme pressure.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1248,9 +1248,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Outlaw Tech": {
-            "name": "Outlaw Tech",
-            "description": "",
+        "Technician - Outlaw Tech (Specialism)": {
+            "name": "Technician - Outlaw Tech (Specialism)",
+            "description": "A creative modder who bypasses safety protocols to supercharge weapons and shields illegally.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1260,9 +1260,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Slicer": {
-            "name": "Slicer",
-            "description": "",
+        "Technician - Slicer (Specialism)": {
+            "name": "Technician - Slicer (Specialism)",
+            "description": "A master computer hacker who infiltrates networks, rewrites code, and disables security systems.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1272,9 +1272,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Cyber Tech": {
-            "name": "Cyber Tech",
-            "description": "",
+        "Technician - Cyber Tech (Specialism)": {
+            "name": "Technician - Cyber Tech (Specialism)",
+            "description": "A specialist in biomechanical upgrades, installing cybernetic limbs and enhancements.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1284,9 +1284,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Droid Tech": {
-            "name": "Droid Tech",
-            "description": "",
+        "Technician - Droid Tech (Specialism)": {
+            "name": "Technician - Droid Tech (Specialism)",
+            "description": "An engineer dedicated to building, reprogramming, and repairing all models of droids.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1296,9 +1296,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Modder": {
-            "name": "Modder",
-            "description": "",
+        "Technician - Modder (Specialism)": {
+            "name": "Technician - Modder (Specialism)",
+            "description": "A hands-on tinkerer who customizes gear, weapons, and tools to maximize their efficiency.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1308,9 +1308,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Rigger": {
-            "name": "Rigger",
-            "description": "",
+        "Ace - Rigger (Specialism)": {
+            "name": "Ace - Rigger (Specialism)",
+            "description": "A vehicle customizer who upgrades their personal ship or speeder into a customized masterpiece.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1320,9 +1320,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Hotshot": {
-            "name": "Hotshot",
-            "description": "",
+        "Ace - Hotshot (Specialism)": {
+            "name": "Ace - Hotshot (Specialism)",
+            "description": "A daring pilot who flies with reckless abandon, pulling off spectacular, death-defying maneuvers.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1332,9 +1332,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Beast Rider": {
-            "name": "Beast Rider",
-            "description": "",
+        "Ace - Beast Rider (Specialism)": {
+            "name": "Ace - Beast Rider (Specialism)",
+            "description": "A rider who bonds with and controls alien creatures as mounts or companions in battle.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1344,9 +1344,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Commodore": {
-            "name": "Commodore",
-            "description": "",
+        "Commander - Commodore (Specialism)": {
+            "name": "Commander - Commodore (Specialism)",
+            "description": "A naval officer who coordinates capital ship fleets and excels in large-scale space warfare.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1356,9 +1356,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Squadron Leader": {
-            "name": "Squadron Leader",
-            "description": "",
+        "Commander - Squadron Leader (Specialism)": {
+            "name": "Commander - Squadron Leader (Specialism)",
+            "description": "A tactical flight commander who coordinates starfighter wings for maximum effectiveness.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1368,9 +1368,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Strategist": {
-            "name": "Strategist",
-            "description": "",
+        "Commander - Strategist (Specialism)": {
+            "name": "Commander - Strategist (Specialism)",
+            "description": "A high-level planner who coordinates theater-wide operations and outmaneuvers enemy armies.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1380,9 +1380,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Tactician": {
-            "name": "Tactician",
-            "description": "",
+        "Commander - Tactician (Specialism)": {
+            "name": "Commander - Tactician (Specialism)",
+            "description": "A ground-combat leader who reads the battlefield and directs squad maneuvers in real-time.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1392,9 +1392,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Figurehead": {
-            "name": "Figurehead",
-            "description": "",
+        "Commander - Figurehead (Specialism)": {
+            "name": "Commander - Figurehead (Specialism)",
+            "description": "A symbolic leader whose presence inspires absolute loyalty and rallies troops to victory.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1404,9 +1404,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Instructor": {
-            "name": "Instructor",
-            "description": "",
+        "Commander - Instructor (Specialism)": {
+            "name": "Commander - Instructor (Specialism)",
+            "description": "A drill sergeant and mentor who trains recruits, maximizing the potential of their comrades.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1416,9 +1416,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Ambassador": {
-            "name": "Ambassador",
-            "description": "",
+        "Diplomat - Ambassador (Specialism)": {
+            "name": "Diplomat - Ambassador (Specialism)",
+            "description": "A formal representative who negotiates treaties, handles statecraft, and manages high-level alliances.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1428,9 +1428,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Agitator": {
-            "name": "Agitator",
-            "description": "",
+        "Diplomat - Agitator (Specialism)": {
+            "name": "Diplomat - Agitator (Specialism)",
+            "description": "A revolutionary speaker who rouses crowds, sparks rebellions, and undermines existing authority.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1440,9 +1440,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Quartermaster": {
-            "name": "Quartermaster",
-            "description": "",
+        "Diplomat - Quartermaster (Specialism)": {
+            "name": "Diplomat - Quartermaster (Specialism)",
+            "description": "A supply officer who manages resources, secures gear, and handles the logistics of rebellion.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1452,9 +1452,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Advocate": {
-            "name": "Advocate",
-            "description": "",
+        "Diplomat - Advocate (Specialism)": {
+            "name": "Diplomat - Advocate (Specialism)",
+            "description": "A legal expert who negotiates contracts, defends clients, and uses laws to get results.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1464,9 +1464,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Propagandist": {
-            "name": "Propagandist",
-            "description": "",
+        "Diplomat - Propagandist (Specialism)": {
+            "name": "Diplomat - Propagandist (Specialism)",
+            "description": "A media specialist who shapes public perception, spreads messages, and counters enemy spin.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1476,9 +1476,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Analyst": {
-            "name": "Analyst",
-            "description": "",
+        "Diplomat - Analyst (Specialism)": {
+            "name": "Diplomat - Analyst (Specialism)",
+            "description": "An intelligence examiner who processes data, decodes signals, and uncovers enemy patterns.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1488,9 +1488,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Saboteur": {
-            "name": "Saboteur",
-            "description": "",
+        "Engineer - Saboteur (Specialism)": {
+            "name": "Engineer - Saboteur (Specialism)",
+            "description": "A demolitionist covertly targeting enemy infrastructure, supply lines, and bases.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1500,9 +1500,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Scientist": {
-            "name": "Scientist",
-            "description": "",
+        "Engineer - Scientist (Specialism)": {
+            "name": "Engineer - Scientist (Specialism)",
+            "description": "A researcher exploring physical laws, developing new materials, and inventing technologies.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1512,9 +1512,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Droid Specialist": {
-            "name": "Droid Specialist",
-            "description": "",
+        "Engineer - Droid Specialist (Specialism)": {
+            "name": "Engineer - Droid Specialist (Specialism)",
+            "description": "A designer who programs, repairs, and optimizes droids for scientific or military utility.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1524,9 +1524,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Shipwright": {
-            "name": "Shipwright",
-            "description": "",
+        "Engineer - Shipwright (Specialism)": {
+            "name": "Engineer - Shipwright (Specialism)",
+            "description": "A starship designer and structural engineer skilled in shipyard construction and repairs.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1536,9 +1536,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Artillerist": {
-            "name": "Artillerist",
-            "description": "",
+        "Engineer - Artillerist (Specialism)": {
+            "name": "Engineer - Artillerist (Specialism)",
+            "description": "A specialist in heavy turrets, vehicle weapons, and bombardment fire support.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1548,9 +1548,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Commando": {
-            "name": "Commando",
-            "description": "",
+        "Soldier - Commando (Specialism)": {
+            "name": "Soldier - Commando (Specialism)",
+            "description": "A special forces soldier skilled in stealth, jungle/desert survival, and lethal strikes.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1560,9 +1560,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Medic": {
-            "name": "Medic",
-            "description": "",
+        "Soldier - Medic (Specialism)": {
+            "name": "Soldier - Medic (Specialism)",
+            "description": "A combat first-responder trained to patch up wounded troops in the middle of active firefights.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1572,9 +1572,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Sharpshooter": {
-            "name": "Sharpshooter",
-            "description": "",
+        "Soldier - Sharpshooter (Specialism)": {
+            "name": "Soldier - Sharpshooter (Specialism)",
+            "description": "A long-range marksman who eliminates high-value targets from concealment.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1584,9 +1584,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Vanguard": {
-            "name": "Vanguard",
-            "description": "",
+        "Soldier - Vanguard (Specialism)": {
+            "name": "Soldier - Vanguard (Specialism)",
+            "description": "A front-line shock trooper who breaches enemy lines and absorbs the initial assault.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1596,9 +1596,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Trailblazer": {
-            "name": "Trailblazer",
-            "description": "",
+        "Soldier - Trailblazer (Specialism)": {
+            "name": "Soldier - Trailblazer (Specialism)",
+            "description": "A scout trooper who pathfinds wild battlefields and establishes forward observation posts.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1608,9 +1608,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Infiltrator": {
-            "name": "Infiltrator",
-            "description": "",
+        "Spy - Infiltrator (Specialism)": {
+            "name": "Spy - Infiltrator (Specialism)",
+            "description": "A stealth operative skilled in slipping past guards, disguise, and silent close-quarters combat.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1620,9 +1620,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Interrogator": {
-            "name": "Interrogator",
-            "description": "",
+        "Spy - Interrogator (Specialism)": {
+            "name": "Spy - Interrogator (Specialism)",
+            "description": "An examiner who extracts information from captives through psychological and physical pressure.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1632,9 +1632,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Sleeper Agent": {
-            "name": "Sleeper Agent",
-            "description": "",
+        "Spy - Sleeper Agent (Specialism)": {
+            "name": "Spy - Sleeper Agent (Specialism)",
+            "description": "An operative who blends into target societies for months or years, awaiting activation.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1644,9 +1644,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Courier": {
-            "name": "Courier",
-            "description": "",
+        "Spy - Courier (Specialism)": {
+            "name": "Spy - Courier (Specialism)",
+            "description": "A high-risk messenger skilled in smuggling critical data and documents across imperial lines.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1656,9 +1656,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Healer": {
-            "name": "Healer",
-            "description": "",
+        "Consular - Healer (Specialism)": {
+            "name": "Consular - Healer (Specialism)",
+            "description": "A Force-user dedicated to curing injuries, cleansing poison, and restoring vitality through the Force.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1668,9 +1668,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Niman Disciple": {
-            "name": "Niman Disciple",
-            "description": "",
+        "Consular - Niman Disciple (Specialism)": {
+            "name": "Consular - Niman Disciple (Specialism)",
+            "description": "A practitioner of lightsaber Form VI, balancing physical blade work with offensive Force powers.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1680,9 +1680,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Sage": {
-            "name": "Sage",
-            "description": "",
+        "Consular - Sage (Specialism)": {
+            "name": "Consular - Sage (Specialism)",
+            "description": "A scholar who seeks ancient secrets, interprets prophecies, and guides others with deep wisdom.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1692,9 +1692,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Arbiter": {
-            "name": "Arbiter",
-            "description": "",
+        "Consular - Arbiter (Specialism)": {
+            "name": "Consular - Arbiter (Specialism)",
+            "description": "A legal mediator who uses Force intuition to resolve disputes and broker peace.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1704,9 +1704,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Ascetic": {
-            "name": "Ascetic",
-            "description": "",
+        "Consular - Ascetic (Specialism)": {
+            "name": "Consular - Ascetic (Specialism)",
+            "description": "A monk who shuns material comfort, mastering internal discipline and physical endurance.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1716,9 +1716,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Teacher": {
-            "name": "Teacher",
-            "description": "",
+        "Consular - Teacher (Specialism)": {
+            "name": "Consular - Teacher (Specialism)",
+            "description": "An instructor who guides apprentices, passing down the history and philosophy of the Force.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1728,9 +1728,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Peacekeeper": {
-            "name": "Peacekeeper",
-            "description": "",
+        "Guardian - Peacekeeper (Specialism)": {
+            "name": "Guardian - Peacekeeper (Specialism)",
+            "description": "A law enforcer who patrols troubled regions, keeping order and defending communities.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1740,9 +1740,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Protector": {
-            "name": "Protector",
-            "description": "",
+        "Guardian - Protector (Specialism)": {
+            "name": "Guardian - Protector (Specialism)",
+            "description": "A defender who shields allies from danger and stands as an unbreakable wall against threats.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1752,9 +1752,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Soresu Defender": {
-            "name": "Soresu Defender",
-            "description": "",
+        "Guardian - Soresu Defender (Specialism)": {
+            "name": "Guardian - Soresu Defender (Specialism)",
+            "description": "A master of lightsaber Form III, focusing on perfect defense and parrying blaster fire.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1764,9 +1764,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Armorer": {
-            "name": "Armorer",
-            "description": "",
+        "Guardian - Armorer (Specialism)": {
+            "name": "Guardian - Armorer (Specialism)",
+            "description": "A blacksmith who crafts, tempers, and infuses defensive armor and gear with the Force.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1776,9 +1776,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Warden": {
-            "name": "Warden",
-            "description": "",
+        "Guardian - Warden (Specialism)": {
+            "name": "Guardian - Warden (Specialism)",
+            "description": "A sentinel who guards sacred temple sites and holds the line against dark side corruption.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1788,9 +1788,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Warleader": {
-            "name": "Warleader",
-            "description": "",
+        "Guardian - Warleader (Specialism)": {
+            "name": "Guardian - Warleader (Specialism)",
+            "description": "A combat commander who inspires allies and coordinates front-line tactical defenses.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1800,9 +1800,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Advisor": {
-            "name": "Advisor",
-            "description": "",
+        "Mystic - Advisor (Specialism)": {
+            "name": "Mystic - Advisor (Specialism)",
+            "description": "A counselor who uses Force intuition to guide leaders and expose deception.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1812,9 +1812,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Makashi Duelist": {
-            "name": "Makashi Duelist",
-            "description": "",
+        "Mystic - Makashi Duelist (Specialism)": {
+            "name": "Mystic - Makashi Duelist (Specialism)",
+            "description": "A master of lightsaber Form II, specializing in elegant, precise, one-on-one dueling.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1824,9 +1824,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Seer": {
-            "name": "Seer",
-            "description": "",
+        "Mystic - Seer (Specialism)": {
+            "name": "Mystic - Seer (Specialism)",
+            "description": "A prophet who peers into the streams of time, receiving visions of the future and the past.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1836,9 +1836,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Alchemist": {
-            "name": "Alchemist",
-            "description": "",
+        "Mystic - Alchemist (Specialism)": {
+            "name": "Mystic - Alchemist (Specialism)",
+            "description": "A researcher who infuses materials, chemicals, and potions with Force energy.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1848,9 +1848,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Magus": {
-            "name": "Magus",
-            "description": "",
+        "Mystic - Magus (Specialism)": {
+            "name": "Mystic - Magus (Specialism)",
+            "description": "A practitioner of esoteric Force rites, manipulating energy and environmental elements.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1860,9 +1860,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Prophet": {
-            "name": "Prophet",
-            "description": "",
+        "Mystic - Prophet (Specialism)": {
+            "name": "Mystic - Prophet (Specialism)",
+            "description": "A voice of the Force who inspires crowds and speaks ancient truths to challenge tyrants.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1872,9 +1872,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Ataru Striker": {
-            "name": "Ataru Striker",
-            "description": "",
+        "Seeker - Ataru Striker (Specialism)": {
+            "name": "Seeker - Ataru Striker (Specialism)",
+            "description": "A highly acrobatic lightsaber Form IV duelist, utilizing leaps, flips, and fast attacks.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1884,9 +1884,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Hunter": {
-            "name": "Hunter",
-            "description": "",
+        "Seeker - Hunter (Specialism)": {
+            "name": "Seeker - Hunter (Specialism)",
+            "description": "A rugged tracker who hunts dangerous beasts and dark side entities across wild worlds.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1896,9 +1896,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Pathfinder": {
-            "name": "Pathfinder",
-            "description": "",
+        "Seeker - Pathfinder (Specialism)": {
+            "name": "Seeker - Pathfinder (Specialism)",
+            "description": "A survivalist who guides travelers through unexplored planetary wilderness and hazards.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1908,9 +1908,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Executioner": {
-            "name": "Executioner",
-            "description": "",
+        "Seeker - Executioner (Specialism)": {
+            "name": "Seeker - Executioner (Specialism)",
+            "description": "A lethal tracker tasked with hunting down and eliminating designated enemies of the Force.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1920,9 +1920,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Hermit": {
-            "name": "Hermit",
-            "description": "",
+        "Seeker - Hermit (Specialism)": {
+            "name": "Seeker - Hermit (Specialism)",
+            "description": "A solitary survivalist who lives off the land and communicates with alien beasts.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1932,9 +1932,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Navigator": {
-            "name": "Navigator",
-            "description": "",
+        "Seeker - Navigator (Specialism)": {
+            "name": "Seeker - Navigator (Specialism)",
+            "description": "A spacefarer who uses the Force to navigate through uncharted hyperlanes and space hazards.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1944,9 +1944,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Artisan": {
-            "name": "Artisan",
-            "description": "",
+        "Sentinel - Artisan (Specialism)": {
+            "name": "Sentinel - Artisan (Specialism)",
+            "description": "A creator who fuses technology and craftsmanship with the guiding energy of the Force.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1956,9 +1956,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Shadow": {
-            "name": "Shadow",
-            "description": "",
+        "Sentinel - Shadow (Specialism)": {
+            "name": "Sentinel - Shadow (Specialism)",
+            "description": "A covert agent who hunts down dark side artifacts and operatives from the cover of darkness.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1968,9 +1968,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Shien Expert": {
-            "name": "Shien Expert",
-            "description": "",
+        "Sentinel - Shien Expert (Specialism)": {
+            "name": "Sentinel - Shien Expert (Specialism)",
+            "description": "A master of lightsaber Form V, specializing in deflecting blaster bolts back at attackers.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1980,9 +1980,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Investigator": {
-            "name": "Investigator",
-            "description": "",
+        "Sentinel - Investigator (Specialism)": {
+            "name": "Sentinel - Investigator (Specialism)",
+            "description": "A detective who uses keen observation and Force intuition to solve crimes in urban sprawls.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -1992,9 +1992,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Racer": {
-            "name": "Racer",
-            "description": "",
+        "Sentinel - Racer (Specialism)": {
+            "name": "Sentinel - Racer (Specialism)",
+            "description": "A speed enthusiast who uses Force reflexes to pilot swoops and pods at lethal velocities.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -2004,9 +2004,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Sentry": {
-            "name": "Sentry",
-            "description": "",
+        "Sentinel - Sentry (Specialism)": {
+            "name": "Sentinel - Sentry (Specialism)",
+            "description": "An urban guardian who keeps watch over city neighborhoods and protects the downtrodden.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -2016,9 +2016,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Aggressor": {
-            "name": "Aggressor",
-            "description": "",
+        "Warrior - Aggressor (Specialism)": {
+            "name": "Warrior - Aggressor (Specialism)",
+            "description": "A terrifying combatant who uses fear, intimidation, and brutal strikes to break the enemy's will.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -2028,9 +2028,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Shii-Cho Knight": {
-            "name": "Shii-Cho Knight",
-            "description": "",
+        "Warrior - Shii-Cho Knight (Specialism)": {
+            "name": "Warrior - Shii-Cho Knight (Specialism)",
+            "description": "A practitioner of lightsaber Form I, focusing on fighting multiple enemies and sweeping strikes.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -2040,9 +2040,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Starfighter Ace": {
-            "name": "Starfighter Ace",
-            "description": "",
+        "Warrior - Starfighter Ace (Specialism)": {
+            "name": "Warrior - Starfighter Ace (Specialism)",
+            "description": "A pilot who merges their consciousness with their ship, performing impossible flight feats.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -2052,9 +2052,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Colossus": {
-            "name": "Colossus",
-            "description": "",
+        "Warrior - Colossus (Specialism)": {
+            "name": "Warrior - Colossus (Specialism)",
+            "description": "An imposing fighter of incredible endurance, capable of shrugging off wounds that would kill others.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -2064,9 +2064,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Juyo Berserker": {
-            "name": "Juyo Berserker",
-            "description": "",
+        "Warrior - Juyo Berserker (Specialism)": {
+            "name": "Warrior - Juyo Berserker (Specialism)",
+            "description": "A master of lightsaber Form VII, channeling inner passion into wild, unpredictable strikes.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -2076,9 +2076,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Steel Hand Adept": {
-            "name": "Steel Hand Adept",
-            "description": "",
+        "Warrior - Steel Hand Adept (Specialism)": {
+            "name": "Warrior - Steel Hand Adept (Specialism)",
+            "description": "A martial artist who infuses their unarmed strikes and physical body with Force energy.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -2088,9 +2088,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "No Force Sensitivity": {
-            "name": "No Force Sensitivity",
-            "description": "",
+        "Force Sensitivity - None": {
+            "name": "Force Sensitivity - None",
+            "description": "The character has no connection to the Force and cannot sense or manipulate its energies.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -2100,9 +2100,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Low Force Sensitivity": {
-            "name": "Low Force Sensitivity",
-            "description": "",
+        "Force Sensitivity - Low": {
+            "name": "Force Sensitivity - Low",
+            "description": "An almost imperceptible connection. No amount of training could make the character a Jedi or other Force user, but they occasionally have gut feelings or premonitions that prove to be right, or just seem like a somewhat 'lucky' person.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -2112,9 +2112,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Medium Force Sensitivity": {
-            "name": "Medium Force Sensitivity",
-            "description": "",
+        "Force Sensitivity - Medium": {
+            "name": "Force Sensitivity - Medium",
+            "description": "A noticeable connection. With training, the character can attain the level of a Novice Force practitioner.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -2124,9 +2124,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "High Force Sensitivity": {
-            "name": "High Force Sensitivity",
-            "description": "",
+        "Force Sensitivity - High": {
+            "name": "Force Sensitivity - High",
+            "description": "A strong, pronounced connection. With training, the character can attain the level of a Jedi Knight or powerful Force practitioner.",
             "skills": [],
             "attributes": [],
             "resources": [],
@@ -2136,21 +2136,9 @@
             "unlockedBy": [],
             "excludedBy": []
         },
-        "Abnormally High Force Sensitivity": {
-            "name": "Abnormally High Force Sensitivity",
-            "description": "",
-            "skills": [],
-            "attributes": [],
-            "resources": [],
-            "quirk": "",
-            "startingItems": [],
-            "abilities": [],
-            "unlockedBy": [],
-            "excludedBy": []
-        },
-        "Chosen One Force Sensitivity": {
-            "name": "Chosen One Force Sensitivity",
-            "description": "",
+        "Force Sensitivity - Abnormally High": {
+            "name": "Force Sensitivity - Abnormally High",
+            "description": "An exceptionally rare and intense connection. With training, the character can attain the level of a Grand Master.",
             "skills": [],
             "attributes": [],
             "resources": [],
