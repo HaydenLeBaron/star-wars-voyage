@@ -21,6 +21,13 @@
             "description": "Represents fighting with hand‑held close‑combat weapons such as vibroblades, clubs, shock batons, and polearms. Use Melee when a character is attacking with a purpose‑built weapon rather than bare hands or improvised strikes.",
             "startingItems": []
         },
+        "lightsaber": {
+            "name": "lightsaber",
+            "type": "combat",
+            "attribute": "force-sensitivity",
+            "description": "Represents training in the ancient Jedi arts of lightsaber combat. It covers basic strikes, parrying melee attacks, deflecting blaster bolts, and the advanced forms unique to the weapon of a Jedi. Extremely dangerous and ineffective to wield for the non-force sensitive character, except with much specialized training.",
+            "startingItems": []
+        },
         "ranged_heavy": {
             "name": "ranged-heavy",
             "type": "combat",
@@ -229,6 +236,13 @@
             "type": "utility",
             "attribute": "intellect",
             "description": "Represents study of alien species, their physiology, cultures, and typical environments. It is rolled to recall traits and weaknesses of unfamiliar species, judge likely customs or taboos, and adapt medicine, gear, or plans to non‑human needs.",
+            "startingItems": []
+        },
+        "knowledge_warfare": {
+            "name": "knowledge - warfare",
+            "type": "utility",
+            "attribute": "intellect",
+            "description": "Represents formal military training, strategic and tactical doctrine, and familiarity with famous battles, armies, and weapon systems. It is rolled to recognize troop deployments, recall standard Imperial operating procedures, analyze a battlefield, or identify specific military hardware.",
             "startingItems": []
         }
     }

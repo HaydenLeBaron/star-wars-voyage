@@ -1,0 +1,10 @@
+{
+    "realms": {
+        "The Galaxy: ": {
+            "name": "The Star Wars Galaxy (5 BBY - 0 ABY)",
+            "basicInfo": "The Star Wars Galaxy ruled by the newly formed Galactic Empire. The Imperial Senate has not yet been dissolved. The Rebel Alliance has not yet been formed--only fragmented, barely connected Rebel Cells currently exist.",
+            "known": true,
+            "embeddingId": "hFeJ-Kv9"
+        }
+    }
+}
