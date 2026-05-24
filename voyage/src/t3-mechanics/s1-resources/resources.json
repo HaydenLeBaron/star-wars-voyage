@@ -1,0 +1,56 @@
+{
+    "resourceSettings": {
+        "health": {
+            "name": "health",
+            "initialValue": 80,
+            "maxValue": 80,
+            "rechargeRate": 1,
+            "restRechargeMultiplier": 1,
+            "color": "#D7263D",
+            "gainPerLevel": 10,
+            "isHealth": true,
+            "usageInstructions": "### Health Changes\n- Small injuries: -1 to 15% player health\n- Medium injuries: -5 to 25% player health\n- Massive injuries: -15 to 50% of player health\n- Normal Healing potions +30 - +40\n- Bandages + 20\n- Waking from unconsciousness: +5 to +10\n- Resurrection from death: heal to full health\n### Don't Deduct Health When\n- The story mentions treated or untreated wounds\n- Story mentions pain from a wound\n- When unconscious or carried\n- An environment is generally dangerous, but does not explicitly damage the character\n- A character is only looking around. Look around is a safe action.\n",
+            "canCost": false,
+            "replenishOnLongRest": false
+        },
+        "midichlorians": {
+            "name": "midichlorians",
+            "canCost": true,
+            "initialValue": 20,
+            "maxValue": 20,
+            "rechargeRate": 2,
+            "replenishOnLongRest": true,
+            "restRechargeMultiplier": 1,
+            "color": "#4D96FF",
+            "usageInstructions": "### Mana Changes\n\nMana is spent only when a character actually casts a spell or channels magical power. Not spent for: thinking about magic, knowing magical things, using enchanted items that have their own power source.\n\n- Trivial magic (lighting a candle, sensing nearby magic, minor telekinesis, small illusions): 0 to -2\n\n- Moderate magic (combat spells, healing wounds, useful illusions, summoning small creatures, magical barriers): -5 to -10\n\n- Major magic (large-scale destruction, major healing, terrain reshaping, powerful summons, breaking curses): -15 to -25\n\n- Legendary magic (world-altering effects, mass resurrection, binding powerful entities): -30 to -50\n\nJudge by what the story describes, not by the skill name. A fire mage lighting a campfire is trivial. A fire mage calling down a firestorm is major. The same skill at different scales costs different amounts.\n\nFailed spells still cost mana — the power was drawn and spent, it just didn't achieve the intended effect.",
+            "isHealth": false,
+            "gainPerLevel": 0
+        },
+        "stamina": {
+            "name": "stamina",
+            "canCost": true,
+            "initialValue": 20,
+            "maxValue": 20,
+            "rechargeRate": 2,
+            "replenishOnLongRest": true,
+            "restRechargeMultiplier": 1,
+            "color": "#52DB48",
+            "usageInstructions": "### Stamina Changes - Simple actions: 0. Medium actions: -3 to -5. Large actions: -5 to -10. No cost for: Walking, basic movement. Apply cost for: Leaping, combat actions, heavy physical exertion",
+            "isHealth": false,
+            "gainPerLevel": 0
+        },
+        "strain": {
+            "name": "strain",
+            "canCost": true,
+            "initialValue": 100,
+            "maxValue": 100,
+            "rechargeRate": 100,
+            "replenishOnLongRest": true,
+            "restRechargeMultiplier": 1,
+            "color": "#52DB48",
+            "usageInstructions": "TODO",
+            "isHealth": true,
+            "gainPerLevel": 0
+        }
+    }
+}
