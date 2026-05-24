@@ -1,0 +1,455 @@
+{
+    "skills": {
+        "acrobatics": {
+            "name": "acrobatics",
+            "type": "utility",
+            "attribute": "dexterity",
+            "description": "Perform acrobatic maneuvers such as flips, somersaults and tumbles.",
+            "startingItems": []
+        },
+        "athletics": {
+            "name": "athletics",
+            "type": "utility",
+            "attribute": "strength",
+            "description": "Perform feats of running, jumping, climbing, and other physical challenges.",
+            "startingItems": []
+        },
+        "intimidation": {
+            "name": "intimidation",
+            "type": "utility",
+            "attribute": "charisma",
+            "description": "Strike fear into others to sway the outcome of confrontations.",
+            "startingItems": []
+        },
+        "investigation": {
+            "name": "investigation",
+            "type": "utility",
+            "attribute": "intelligence",
+            "description": "Find clues and uncover hidden information through careful observation.",
+            "startingItems": []
+        },
+        "performance": {
+            "name": "performance",
+            "type": "utility",
+            "attribute": "charisma",
+            "description": "Entertain others with dancing, singing, jokes, acting or other performing arts.",
+            "startingItems": []
+        },
+        "persuasion": {
+            "name": "persuasion",
+            "type": "utility",
+            "attribute": "charisma",
+            "description": "Influence others through speech and gesture.",
+            "startingItems": []
+        },
+        "survival": {
+            "name": "survival",
+            "type": "utility",
+            "attribute": "constitution",
+            "description": "Forage for food and water and build makeshift shelters.",
+            "startingItems": []
+        },
+        "shape shifting": {
+            "name": "shape shifting",
+            "type": "combat",
+            "attribute": "wisdom",
+            "description": "Magically shapeshift into animal form and fight while transformed.",
+            "startingItems": []
+        },
+        "air magic": {
+            "name": "air magic",
+            "type": "magic",
+            "attribute": "intelligence",
+            "description": "Magically command the element of air",
+            "startingItems": []
+        },
+        "alchemy": {
+            "name": "alchemy",
+            "type": "utility",
+            "attribute": "intelligence",
+            "description": "Make potions and other alchemical substances",
+            "startingItems": []
+        },
+        "animal handling": {
+            "name": "animal handling",
+            "type": "utility",
+            "attribute": "wisdom",
+            "description": "Communicate with, train and give commands to animals.",
+            "startingItems": []
+        },
+        "archery": {
+            "name": "archery",
+            "type": "combat",
+            "attribute": "dexterity",
+            "description": "Shoot with bows and crossbows.",
+            "startingItems": [
+                {
+                    "item": "[Common] Short Bow [piercing]",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Wooden Arrows [piercing]",
+                    "quantity": 20
+                }
+            ]
+        },
+        "axe": {
+            "name": "axe",
+            "type": "combat",
+            "attribute": "strength",
+            "description": "Fight with axes.",
+            "startingItems": [
+                {
+                    "item": "[Common] Battle Axe [slashing]",
+                    "quantity": 1
+                }
+            ]
+        },
+        "blood magic": {
+            "name": "blood magic",
+            "type": "magic",
+            "attribute": "constitution",
+            "description": "Magically command the element of blood.",
+            "startingItems": []
+        },
+        "conjuration magic": {
+            "name": "conjuration magic",
+            "type": "magic",
+            "attribute": "intelligence",
+            "description": "Magically summon living creatures.",
+            "startingItems": []
+        },
+        "dagger": {
+            "name": "dagger",
+            "type": "combat",
+            "attribute": "dexterity",
+            "description": "Fight with daggers and other short blades.",
+            "startingItems": [
+                {
+                    "item": "[Common] Iron Dagger [piercing]",
+                    "quantity": 1
+                }
+            ]
+        },
+        "dark magic": {
+            "name": "dark magic",
+            "type": "magic",
+            "attribute": "intelligence",
+            "description": "Wield forbidden powers drawn from shadow, decay, and malevolent forces to curse enemies, drain life, and corrupt the natural order. This dangerous magic exacts a toll on those who use it but offers devastating power.",
+            "startingItems": []
+        },
+        "divination magic": {
+            "name": "divination magic",
+            "type": "magic",
+            "attribute": "wisdom",
+            "description": "Magically foresee future events and uncover hidden information.",
+            "startingItems": []
+        },
+        "earth magic": {
+            "name": "earth magic",
+            "type": "magic",
+            "attribute": "intelligence",
+            "description": "Magically command the element of earth.",
+            "startingItems": []
+        },
+        "fire magic": {
+            "name": "fire magic",
+            "type": "magic",
+            "attribute": "intelligence",
+            "description": "Magically command the element of fire.",
+            "startingItems": []
+        },
+        "hunting": {
+            "name": "hunting",
+            "type": "combat",
+            "attribute": "dexterity",
+            "description": "Track and hunt animals and people.",
+            "startingItems": []
+        },
+        "illusion magic": {
+            "name": "illusion magic",
+            "type": "magic",
+            "attribute": "charisma",
+            "description": "Create magical illusions.",
+            "startingItems": []
+        },
+        "leadership": {
+            "name": "leadership",
+            "type": "utility",
+            "attribute": "charisma",
+            "description": "Lead others, in and out of combat.",
+            "startingItems": []
+        },
+        "divine magic": {
+            "name": "divine magic",
+            "type": "magic",
+            "attribute": "wisdom",
+            "description": "Channel spiritual power to smite foes with radiant energy, turn undead, ward against evil, and fortify the spirit through blessing and consecration.",
+            "startingItems": []
+        },
+        "lockpicking": {
+            "name": "lockpicking",
+            "type": "utility",
+            "attribute": "dexterity",
+            "description": "Pick locks, using tools to open locked doors and containers without having the key.",
+            "startingItems": [
+                {
+                    "item": "[Common] Lockpick Set",
+                    "quantity": 1
+                }
+            ]
+        },
+        "lore": {
+            "name": "lore",
+            "type": "utility",
+            "attribute": "intelligence",
+            "description": "Theoretical knowledge of history, magic, culture, and the natural world.",
+            "startingItems": []
+        },
+        "medicine": {
+            "name": "medicine",
+            "type": "utility",
+            "attribute": "intelligence",
+            "description": "Diagnose and treat injuries and diseases, as well as perform basic surgical procedures.",
+            "startingItems": []
+        },
+        "nature magic": {
+            "name": "nature magic",
+            "type": "magic",
+            "attribute": "wisdom",
+            "description": "Magically command natural growth and decay, commune with beasts, and channel the primal forces of wilderness.",
+            "startingItems": []
+        },
+        "necromancy magic": {
+            "name": "necromancy magic",
+            "type": "magic",
+            "attribute": "intelligence",
+            "description": "Magically communicate with and reanimate the dead, as well as summon and command undead beings.",
+            "startingItems": []
+        },
+        "healing magic": {
+            "name": "healing magic",
+            "type": "magic",
+            "attribute": "wisdom",
+            "description": "Restore living tissue, close wounds, regenerate limbs, and cure poisons through restorative magic.",
+            "startingItems": []
+        },
+        "riding": {
+            "name": "riding",
+            "type": "utility",
+            "attribute": "constitution",
+            "description": "Ride horses and other mounts, in and out of combat.",
+            "startingItems": []
+        },
+        "enchanting magic": {
+            "name": "enchanting magic",
+            "type": "magic",
+            "attribute": "intelligence",
+            "description": "Magically enhance inanimate objects with arcane properties.",
+            "startingItems": []
+        },
+        "ritual magic": {
+            "name": "ritual magic",
+            "type": "magic",
+            "attribute": "intelligence",
+            "description": "Cast spells that require lengthy, complex preparation and execution.",
+            "startingItems": []
+        },
+        "pickpocketing": {
+            "name": "pickpocketing",
+            "type": "utility",
+            "attribute": "dexterity",
+            "description": "Pick pockets and perform slight of hand through manual dexterity.",
+            "startingItems": []
+        },
+        "spear": {
+            "name": "spear",
+            "type": "combat",
+            "attribute": "dexterity",
+            "description": "Fight with spears.",
+            "startingItems": [
+                {
+                    "item": "[Common] Short Spear [piercing]",
+                    "quantity": 1
+                }
+            ]
+        },
+        "staff": {
+            "name": "staff",
+            "type": "combat",
+            "attribute": "dexterity",
+            "description": "Fight with staves.",
+            "startingItems": [
+                {
+                    "item": "[Common] Wooden Staff [impact]",
+                    "quantity": 1
+                }
+            ]
+        },
+        "stealth": {
+            "name": "stealth",
+            "type": "utility",
+            "attribute": "dexterity",
+            "description": "Evade detection by hiding and sneaking.",
+            "startingItems": []
+        },
+        "sword": {
+            "name": "sword",
+            "type": "combat",
+            "attribute": "strength",
+            "description": "Fight with swords.",
+            "startingItems": [
+                {
+                    "item": "[Common] Iron Shortsword [slashing]",
+                    "quantity": 1
+                }
+            ]
+        },
+        "tactics": {
+            "name": "tactics",
+            "type": "utility",
+            "attribute": "intelligence",
+            "description": "Coordinate with others in combat and identify enemies' strengths and weaknesses.",
+            "startingItems": []
+        },
+        "throwing": {
+            "name": "throwing",
+            "type": "combat",
+            "attribute": "dexterity",
+            "description": "Throw small objects, in and out of combat.",
+            "startingItems": [
+                {
+                    "item": "[Common] Throwing Knife [piercing]",
+                    "quantity": 1
+                }
+            ]
+        },
+        "unarmed combat": {
+            "name": "unarmed combat",
+            "type": "combat",
+            "attribute": "strength",
+            "description": "Fight without weapons.",
+            "startingItems": []
+        },
+        "water magic": {
+            "name": "water magic",
+            "type": "magic",
+            "attribute": "intelligence",
+            "description": "Magically command the element of water.",
+            "startingItems": []
+        },
+        "cooking": {
+            "name": "cooking",
+            "type": "utility",
+            "attribute": "intelligence",
+            "description": "Prepare food and cook meals from ingredients.",
+            "startingItems": []
+        },
+        "smithing": {
+            "name": "smithing",
+            "type": "utility",
+            "attribute": "strength",
+            "description": "Forge and repair metal weapons, armor, and tools.",
+            "startingItems": []
+        },
+        "carpentry": {
+            "name": "carpentry",
+            "type": "utility",
+            "attribute": "strength",
+            "description": "Build and repair wooden structures, furniture, and simple wooden items.",
+            "startingItems": []
+        },
+        "leatherworking": {
+            "name": "leatherworking",
+            "type": "utility",
+            "attribute": "dexterity",
+            "description": "Craft and repair leather armor, bags, boots, and other leather goods.",
+            "startingItems": []
+        },
+        "tailoring": {
+            "name": "tailoring",
+            "type": "utility",
+            "attribute": "dexterity",
+            "description": "Sew and repair clothing, cloth armor, and fabric goods.",
+            "startingItems": []
+        },
+        "psionics": {
+            "name": "psionics",
+            "type": "magic",
+            "attribute": "intelligence",
+            "description": "Magically manipulating the mind, matter, or energy through thought alone.",
+            "startingItems": []
+        },
+        "blunt weapons": {
+            "name": "blunt weapons",
+            "type": "combat",
+            "attribute": "strength",
+            "description": "Fight with a mace, club, hammer or other bludgeoning weapon.",
+            "startingItems": [
+                {
+                    "item": "[Common] Battle Mace [impact]",
+                    "quantity": 1
+                }
+            ]
+        },
+        "telepathy": {
+            "name": "telepathy",
+            "type": "magic",
+            "attribute": "intelligence",
+            "description": "Read surface thoughts, send mental messages, and sense emotions.",
+            "startingItems": []
+        },
+        "telekinesis": {
+            "name": "telekinesis",
+            "type": "magic",
+            "attribute": "intelligence",
+            "description": "Move and manipulate objects through mental force alone.",
+            "startingItems": []
+        },
+        "engineering": {
+            "name": "engineering",
+            "type": "utility",
+            "attribute": "intelligence",
+            "description": "Knowledge of mechanical principles, structural design, and the construction of complex devices. Encompasses everything from siege engines and fortifications to clever mechanisms, water systems, and ingenious contraptions.",
+            "startingItems": []
+        },
+        "shield": {
+            "name": "shield",
+            "type": "combat",
+            "attribute": "constitution",
+            "description": "Fight defensively with shields, blocking incoming attacks and protecting allies. Can use shields to bash enemies in close combat.",
+            "startingItems": [
+                {
+                    "item": "[Common] Wooden Round Shield",
+                    "quantity": 1
+                }
+            ]
+        },
+        "lightning magic": {
+            "name": "lightning magic",
+            "type": "magic",
+            "attribute": "intelligence",
+            "description": "Magically command the raw power of lightning and storms to strike foes. Wielders can focus this energy for precise shocks or unleash devastating arcs of lightning.",
+            "startingItems": []
+        },
+        "ice magic": {
+            "name": "ice magic",
+            "type": "magic",
+            "attribute": "intelligence",
+            "description": "Magically command the element of ice to freeze foes and create barriers. Wielders can conjure biting frosts or shape solid structures from thin air.",
+            "startingItems": []
+        },
+        "warhammer": {
+            "name": "warhammer",
+            "type": "combat",
+            "attribute": "strength",
+            "description": "Fight with heavy blunt weapons designed to crush armor and bone. This skill allows for powerful overhead strikes and defensive counters.",
+            "startingItems": [
+                {
+                    "item": "[Common] Iron Warhammer [impact]",
+                    "quantity": 1
+                }
+            ]
+        }
+    }
+}

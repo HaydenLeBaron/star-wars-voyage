@@ -1,0 +1,2431 @@
+{
+    "traits": {
+        "Determined": {
+            "name": "Determined",
+            "description": "You don't go down easy.\n\nConstitution makes you harder to kill and keeps you going when others drop. It boosts Survival, Riding, Shield use, and Blood Magic.",
+            "skills": [],
+            "attributes": [
+                {
+                    "attribute": "Constitution",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Health",
+                    "modifier": 25
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Graceful": {
+            "name": "Graceful",
+            "description": "You move well and your hands are quick.\n\nDexterity governs agility and fine control. It boosts Stealth, Acrobatics, Archery, Throwing, and fast weapons like Daggers, Spears, and Staves. Also helps with Lockpicking, Pickpocketing, Hunting, and delicate crafts like Leatherworking and Tailoring",
+            "skills": [],
+            "attributes": [
+                {
+                    "attribute": "Dexterity",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Stamina",
+                    "modifier": 20
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Strong": {
+            "name": "Strong",
+            "description": "You've always had a powerful build.\n\nStrength governs raw physical power. It boosts Athletics and heavy weapons like Swords, Axes, Blunt Weapons, Warhammers, and Unarmed Combat. Also helps with Smithing and Carpentry.",
+            "skills": [],
+            "attributes": [
+                {
+                    "attribute": "Strength",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Stamina",
+                    "modifier": 20
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Charming": {
+            "name": "Charming",
+            "description": "People like to be around you.\n\nCharisma governs social influence and force of personality. It boosts Persuasion, Intimidation, Leadership, Performance, and Illusion Magic.",
+            "skills": [],
+            "attributes": [
+                {
+                    "attribute": "Charisma",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Stamina",
+                    "modifier": 10
+                },
+                {
+                    "resource": "Mana",
+                    "modifier": 10
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Intelligent": {
+            "name": "Intelligent",
+            "description": "You're a quick study and knowledge comes easily.\n\nIntelligence governs learning, logic, and arcane knowledge. It boosts most magic schools including Elemental, Dark, Necromancy, Conjuration, Enchanting, and Ritual Magic. Also helps with Alchemy, Medicine, Investigation, Tactics, Lore, and Engineering.",
+            "skills": [],
+            "attributes": [
+                {
+                    "attribute": "Intelligence",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 20
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Wise": {
+            "name": "Wise",
+            "description": "You're wise beyond your years.\n\nWisdom governs intuition and spiritual awareness. It boosts Divine Magic, Healing Magic, Nature Magic, Divination, Shapeshifting, and Animal Handling.",
+            "skills": [],
+            "attributes": [
+                {
+                    "attribute": "Wisdom",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Stamina",
+                    "modifier": 10
+                },
+                {
+                    "resource": "Mana",
+                    "modifier": 10
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Friendly Face": {
+            "name": "Friendly Face",
+            "description": "People like you. They can't always explain why. You have a way of saying things that makes people want to agree, and a smile that makes them forget they weren't going to.",
+            "skills": [
+                {
+                    "skill": "persuasion",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Charisma",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "Wisdom",
+                    "modifier": 1
+                }
+            ],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Noble Heritage": {
+            "name": "Noble Heritage",
+            "description": "You were born into a family with a name, a crest, and expectations. You learned to lead, to speak to power, and to carry yourself like someone who belongs at the high table. Your family name opens doors in places where it's recognized.",
+            "skills": [
+                {
+                    "skill": "leadership",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Charisma",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "Intelligence",
+                    "modifier": 1
+                }
+            ],
+            "resources": [],
+            "quirk": "May be recognized as of noble birth by kinsmen or nobles of similar background.",
+            "startingItems": [],
+            "abilities": [
+                "Name And Seal"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Craftsman": {
+            "name": "Craftsman",
+            "description": "You apprenticed with tools in your hands — forge, workbench, needle, awl. You know how things are made, how they break, and how to put them back together. Give you the right materials and you can make almost anything.",
+            "skills": [
+                {
+                    "skill": "smithing",
+                    "modifier": 5
+                },
+                {
+                    "skill": "carpentry",
+                    "modifier": 5
+                },
+                {
+                    "skill": "leatherworking",
+                    "modifier": 5
+                },
+                {
+                    "skill": "tailoring",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Intelligence",
+                    "modifier": 1
+                }
+            ],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [
+                {
+                    "item": "[Common] Craftsman's Toolkit",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Good With Tools",
+                "Quick Patch"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Trade Contacts": {
+            "name": "Trade Contacts",
+            "description": "You've worked the trade roads long enough to know people in most towns — merchants, innkeepers, caravan masters, the sort of folk who can find you a bed, a ride, or a deal. You know how to haggle and how to lean on someone when haggling doesn't work.",
+            "skills": [
+                {
+                    "skill": "persuasion",
+                    "modifier": 5
+                },
+                {
+                    "skill": "intimidation",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Dexterity",
+                    "modifier": 1
+                }
+            ],
+            "resources": [],
+            "quirk": "May be known to trading and mercantile circles via contacts from trading days.",
+            "startingItems": [],
+            "abilities": [
+                "Friend Of A Friend"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Athlete": {
+            "name": "Athlete",
+            "description": "You've always been fast, strong, and hard to keep up with. Running, climbing, jumping, swimming — whatever the obstacle, you go over it, under it, or through it.",
+            "quirk": "",
+            "skills": [
+                {
+                    "skill": "athletics",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Strength",
+                    "modifier": 1
+                }
+            ],
+            "resources": [],
+            "startingItems": [],
+            "abilities": [
+                "Athletic Burst"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Sword": {
+            "name": "Sword",
+            "description": "You've put in the hours with a blade. Drawing, cutting, parrying — the fundamentals that keep you alive when someone else has a weapon too.\n\nStarting Weapon: Iron shortsword (Damage type: slashing).\nAttribute Used: (Strength).",
+            "skills": [
+                {
+                    "skill": "sword",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Guardbreaker"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Shield": {
+            "name": "Shield",
+            "description": "A shield is more than something to hide behind. You know how to turn blows, cover the person next to you, and slam the rim into someone's face when they get too close. You start with a wooden round shield. (Constitution)",
+            "skills": [
+                {
+                    "skill": "shield",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Constitution",
+                    "modifier": 1
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Health",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Cover Ally"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Staff": {
+            "name": "Staff",
+            "description": "A length of hardwood and two ends to hit with. Simple, versatile, and brutal when you know the angles.\n\nStarting Weapon: Wooden Staff (Damage type: impact).\nAttribute: Dexterity",
+            "skills": [
+                {
+                    "skill": "staff",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Ringing Strike"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Archery": {
+            "name": "Archery",
+            "description": "You can put an arrow where you want it at distance. Draw, aim, loose — the rhythm is second nature.\n\nStarting Weapon: Short Bow + Arrows (Damage type: piercing).\nAttribute: Dexterity",
+            "skills": [
+                {
+                    "skill": "archery",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Pinning Shot"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Axe": {
+            "name": "Axe",
+            "description": "You know how to put an axe where it hurts. Heavy, committed swings that split shields and don't stop at leather.\n\nStarting Weapon: Battle Axe (Damage type: slashing).\nAttribute: Strength",
+            "skills": [
+                {
+                    "skill": "axe",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Carving Chop"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Spear": {
+            "name": "Spear",
+            "description": "Reach wins fights. You know how to keep enemies at the pointy end and control the space between you and them.\n\nStarting Weapon: Short Spear (Damage type: piercing).\nAttribute: Dexterity",
+            "skills": [
+                {
+                    "skill": "spear",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Blood Point"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Blunt Weapons": {
+            "name": "Blunt Weapons",
+            "description": "A mace is a soldier's best friend — simple, cheap, and it doesn't care what the other person is wearing. You know how to swing one fast and put it where it counts.\n\nStarting Weapon: Battle Mace (Damage type: impact).\nAttribute: Strength",
+            "skills": [
+                {
+                    "skill": "blunt weapons",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Cracking Blow"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Dagger": {
+            "name": "Dagger",
+            "description": "Close, fast, and ugly. You fight at a range most people aren't comfortable with and you're very comfortable there.\n\nStarting Weapon: Iron Dagger (Damage type: piercing).\nAttribute: Dexterity",
+            "skills": [
+                {
+                    "skill": "dagger",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Venom Scratch"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Unarmed Combat": {
+            "name": "Unarmed Combat",
+            "description": "Fists, elbows, knees, headbutts — you fight with what you were born with and you've learned to make it count.\n\nStarting Weapon: None.\nAttribute: Strength",
+            "skills": [
+                {
+                    "skill": "unarmed combat",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Knuckle Check"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Called to the Divine": {
+            "name": "Called to the Divine",
+            "description": "You have a connection to a benevolent divine power.",
+            "skills": [
+                {
+                    "skill": "divine magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "mana",
+                    "modifier": 20
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Sacred Word"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Human": {
+            "name": "Human",
+            "description": "Humans live fast and refuse to accept it. Where longer-lived races measure ambition in centuries, humans measure it in decades — and somehow get more done. They fill every role, chase every calling, and build kingdoms in a single generation through sheer restless drive. What they lack in raw power or ancient wisdom, they make up for with stamina, charm, and a refusal to stay down. No race in Larion is more varied in temperament or talent, and none spreads faster.\n\nThe most physically diverse people in Larion. Skin from pale to deep brown, hair from flaxen to black, builds from slight to broad. Heights range from just over five feet to well past six. No single look defines them — a human from the Bright Kingdoms and a human from Aurora might not recognize each other as kin.\n\nCommon enough in every corner of Larion that a human face rarely draws a second glance. They walk into taverns, trading posts, and throne rooms without raising eyebrows — a convenience that rarer folk don't enjoy. Other races find them ambitious to a fault, always building something new before the last thing is finished. Respected for their energy. Exhausting to keep up with.",
+            "quirk": "Human race draws no special attention in most settlements across Larion.",
+            "attributes": [
+                {
+                    "attribute": "charisma",
+                    "modifier": 2
+                },
+                {
+                    "attribute": "constitution",
+                    "modifier": 1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "leadership",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [
+                {
+                    "item": "[Common] Leather Boots",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Human Resolve",
+                "Rallying Voice"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Dwarf": {
+            "name": "Dwarf",
+            "description": "Built for stone and deep places. Dwarves live in clan-holds carved into mountain roots, bound by ties of kinship, craft, and duty that outlast human kingdoms. They measure worth by what you make and whether you keep your word. A dwarf who breaks an oath is already dead to their clan — and most would rather die than prove it true. They live two centuries or more, and every year makes them more stubborn.\n\nBroad and dense-boned, rarely more than five feet tall but often nearly as wide at the shoulder. Thick-fingered hands built for hammer and chisel. Skin tones from ruddy bronze to deep granite-grey. Hair worn long and often braided — copper, black, iron-grey, or stark white regardless of age. Heavy brows, deep-set eyes, and defined jawlines.\n\nA dwarf's word is taken seriously everywhere in Larion, and so is their coin. Merchants offer fair prices, smiths acknowledge a peer, and strangers assume competence. But no one expects a dwarf to be flexible, funny, or fast. Seen as reliable, immovable, and predictable — which suits most dwarves just fine.",
+            "quirk": "Dwarven heritage commands respect among craftspeople and traders; assumed to be dependable and hard to cheat.",
+            "attributes": [
+                {
+                    "attribute": "constitution",
+                    "modifier": 3
+                },
+                {
+                    "attribute": "strength",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "dexterity",
+                    "modifier": -1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "smithing",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [
+                {
+                    "item": "[Common] Leather Boots",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Dwarven Fortitude",
+                "Stonecunning Read"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Halfling": {
+            "name": "Halfling",
+            "description": "Small, quick, and easy to underestimate: just how most halflings like it. They stand about three feet tall and make up for it with fast hands, sharp instincts, and more charm than anyone expects. Halflings turn up everywhere: running market stalls, cooking for mercenary companies, scouting for armies, or quietly running the best tavern in town. They prize comfort, good food, and good company, but don't mistake that for softness. A halfling who's survived the road has done it by being quicker, cleverer, and more likeable than whatever was trying to kill them.\n\nSmall and slight with nimble builds. Round faces, bright eyes, and curly hair in shades of brown, auburn, copper, or straw-blond. Bare feet by preference — the soles toughen like leather — though boots are worn when the terrain demands it. Halfling hands are deft and nimble, a boon for locksmiths, tailors, and thieves alike. \n\nPeople like halflings. They can't help it. A halfling in the room lowers the tension, and most folk are disarmed before they realize they've let their guard down. The flip side: nobody takes them seriously at first. Guards look past them, warlords dismiss them, and shopkeepers assume they can't afford the good stock. Halflings who've learned to use that blind spot tend to do very well for themselves.",
+            "quirk": "Small stature; often overlooked or underestimated by strangers, which cuts both ways.",
+            "attributes": [
+                {
+                    "attribute": "dexterity",
+                    "modifier": 2
+                },
+                {
+                    "attribute": "charisma",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "strength",
+                    "modifier": -1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "cooking",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [
+                {
+                    "item": "[Common] Leather Boots",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Lucky Break",
+                "Underfoot"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Orc": {
+            "name": "Orc",
+            "description": "Orcs are born to the saddle and raised on competition. Their horse-clans ride the open steppe of the Ironwolds in seasonal circuits between holdfasts, and everything in orc culture comes back to strength — strength of arm, strength of will, strength of one's word. They settle disputes through challenge, honor their ancestors through deed, and have no patience for talk that doesn't lead to action. An orc who can't fight can't lead, and an orc who can't lead rides in someone else's dust.\n\nTall, broad, and heavy with muscle. Green or brown skin, prominent lower tusks, and deep-set eyes in shades of amber, black, or copper. Thick jaws, heavy brows, and builds that run to powerful rather than lean. Most stand over six feet. Hair is worn in braids, topknots, or shaved close, often decorated with clan tokens or bone rings.\n\nStrangers see a fighter first and ask questions second. In the Ironwolds this is just how things are. Elsewhere in Larion, orcs get noticed. Guards watch them a little longer, merchants speak a little more carefully, and strangers give them a wider berth than necessary. Those who've worked alongside orcs know them as fiercely loyal and blunt to a fault — an orc tells you where you stand, whether you asked or not.",
+            "quirk": "Outside orc lands, orcish build draws attention; strangers tend to assume a warrior before anything else.",
+            "attributes": [
+                {
+                    "attribute": "strength",
+                    "modifier": 3
+                },
+                {
+                    "attribute": "constitution",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "charisma",
+                    "modifier": -1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "riding",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [
+                {
+                    "item": "[Common] Leather Boots",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Ancestral Surge",
+                "Hard To Drop"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Dragonkin": {
+            "name": "Dragonkin",
+            "description": "Descended from true dragons through bloodlines no one fully understands. Dragonkin carry that heritage in their bones — the scales, the horns, the elemental fire in their veins, and the instinct to dominate any room they enter. They're drawn to power the way their ancestors were drawn to hoards, though what a dragonkin hoards varies: gold, followers, knowledge, territory. Most feel the pull of elemental magic whether they train in it or not. A dragonkin who ignores their draconic nature entirely is rare and usually unhappy.\n\nLarge and powerfully built, standing six to seven feet tall with dense, scaled skin in shades of bronze, crimson, obsidian, emerald, or pale silver. Pronounced horns curve back from the skull — shape and size vary by lineage. Vertical-slit pupils, heavy clawed hands, and a broad chest built for the deep breath that precedes something terrible. Tails are common but not universal. Some lineages show more human features, others look barely humanoid at all.\n\nDragonkin don't walk into a room unnoticed. This isn't fear exactly — it's the recognition that something powerful just arrived. In the Bright Kingdoms and Highvale, dragonkin often find doors opened for them simply because no one wants to be the one who said no. The assumption is always strength first, subtlety never. Dragonkin who prefer books to battlefields spend a lot of time correcting first impressions.",
+            "quirk": "Draconic features command immediate attention; outside dragonkin communities, strangers assume authority and physical power.",
+            "attributes": [
+                {
+                    "attribute": "strength",
+                    "modifier": 2
+                },
+                {
+                    "attribute": "constitution",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "charisma",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "dexterity",
+                    "modifier": -1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "intimidation",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [
+                {
+                    "item": "[Common] Leather Boots",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Scale Hardening",
+                "Lesser Breath"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Moon elf": {
+            "name": "Moon elf",
+            "description": "Moon elves withdrew from the world after the Kindred War split elvenkind, and they've spent the centuries since accumulating knowledge the way other races accumulate coin. They live five hundred years or more, and it shows in everything they do. They take the long view on matters other races consider urgent, and the very long view on everything else. Magic comes to them as naturally as breathing, and most moon elf children can read a ward before they can read a book.\n\nTall and slender with silver-pale skin. Hair ranges from white-platinum to deep blue-black, worn long. Eyes are large and luminous — silver, violet, pale gold, or solid black — adapted for perfect vision in darkness. Their features are angular and fine-boned, with a stillness to their expressions that other races often misread as coldness.\n\nMoon elves are treated as authorities on magic and history whether they've earned it or not. A moon elf who walks into a library or academy is assumed to belong there. A moon elf who walks into a tavern gets watched — not because anyone necessarily minds, but because everyone assumes the moon elf is sizing them up. The reputation for arrogance isn't entirely unfair. Some moon elves may be patient with ignorance, but they rarely bother to hide that they consider it ignorance.",
+            "quirk": "Moon elf features and silver-pale coloring mark them immediately; outside elf lands, assumed to be knowledgeable, magical, and slightly superior.",
+            "attributes": [
+                {
+                    "attribute": "intelligence",
+                    "modifier": 3
+                },
+                {
+                    "attribute": "wisdom",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "constitution",
+                    "modifier": -1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "lore",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [
+                {
+                    "item": "[Common] Leather Boots",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Moonlit Sight",
+                "Ancestral Whisper"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Wood elf": {
+            "name": "Wood elf",
+            "description": "Wood elves never left the forests. When the Kindred War tore elvenkind apart, they chose neither side — they chose the trees. They live in scattered communities through the deep woodlands of Larion, particularly the Everwood, building with living wood and answering to councils of elders rather than kings. Where moon elves hoard knowledge and dark elves prize cleverness, wood elves value connection — to the land, the seasons, the signs that something is wrong before anyone else notices. They live as long as their moon elf cousins, but count their years in seasons and harvests rather than books read.\n\nLean and long-limbed with sun-darkened skin in shades of brown, olive, and weathered bronze. Hair tends toward earth tones — chestnut, deep red, black, mossy green — often worn loose or tied back for practicality. Their eyes are bright and watchful: green, amber, hazel, or deep brown. They move quietly by habit, and most have the kind of stillness that lets them disappear into a treeline without trying.\n\nWood elves are trusted in wild places and treated as outsiders in cities. Farmers and villagers on the forest edge welcome them as trading partners and wardens. In larger towns, they're regarded as capable but odd — people who could live comfortably but choose bark and rain instead. Most folk assume a wood elf knows the answer to any question about weather, beasts, or which mushrooms will kill you.",
+            "quirk": "Wood elf features mark them as forest folk; assumed to be capable outdoors and out of place in cities.",
+            "attributes": [
+                {
+                    "attribute": "wisdom",
+                    "modifier": 3
+                },
+                {
+                    "attribute": "dexterity",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "strength",
+                    "modifier": -1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "survival",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [
+                {
+                    "item": "[Common] Leather Boots",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Forest Step",
+                "Nature's Voice"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Catkin": {
+            "name": "Catkin",
+            "description": "Feline folk with the reflexes and restlessness to match. Catkin are found across Larion but never in large numbers — they don't build cities or hold territory the way other races do. They drift, settle for a while, drift again. Most are drawn to work that rewards quick reflexes and independent judgment: scouting, hunting, rooftop courier work, the kind of job where being able to land on your feet matters literally. They're social on their own terms, affectionate when they choose to be, and gone without warning when they don't.\n\nLithe builds covered in short fur ranging from tawny gold to charcoal, tabby-striped, calico, or solid black. Cat-shaped ears sit high on the head and move independently, tracking sound before the catkin consciously reacts. Eyes are large with vertical pupils — green, gold, copper, or pale blue — and see well in near-darkness. Retractable claws on both hands and feet. Tails are expressive and hard to control, giving away mood even when the face stays composed.\n\nPeople find catkin charming in small doses and unsettling in large ones. The way they watch, the way they go still before they move, the fact that they're always closer than you thought — it reads as predatory even when it isn't. Most folk enjoy a catkin's company but wouldn't trust one with a key to the shop. Whether that caution is earned depends entirely on the catkin.",
+            "quirk": "Catkin's feline features and movement may be noted; seen as quick and capable but not entirely trustworthy.",
+            "attributes": [
+                {
+                    "attribute": "dexterity",
+                    "modifier": 3
+                },
+                {
+                    "attribute": "wisdom",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "strength",
+                    "modifier": -1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "acrobatics",
+                    "modifier": 5
+                },
+                {
+                    "skill": "unarmed combat",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [],
+            "abilities": [
+                "Claw Strike",
+                "Always Lands"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Demonborn": {
+            "name": "Demonborn",
+            "description": "Children of a bloodline that mixed with something from beyond the mortal world, generations ago. No two demonborn look alike — the fiendish heritage expresses differently every time — but all carry visible marks that can't be hidden. Horns, clawed hands, eyes without whites, skin in shades no human is born with. Most demonborn never meet the ancestor responsible and couldn't banish the blood if they tried. What they can do is use it. The connection to otherworldly power runs deep, and demonborn who embrace it find that dark magic answers their call.\n\nWild variation in appearance. Horns range from small nubs to sweeping curves. Skin from deep crimson to ashen grey to bruise-purple, sometimes patterned or faintly luminous. Clawed fingers, pointed teeth, and eyes in solid gold, red, black, or silver without visible iris. Builds trend toward lean and angular. Tails are common, vestigial wings less so. The one constant is that no demonborn passes for human — something about them is always visibly, unmistakably other.\n\nDemonborn turn heads everywhere. Temple-goers make warding signs. Children stare. Innkeepers charge more for rooms or suddenly have none available. In the Moon Kingdoms and parts of Ntar Vanna, this fades — fiendish blood is understood, even respected. Elsewhere, demonborn learn early that first impressions are uphill. The saving grace is that the same features that unsettle people also fascinate them. A demonborn draws every eye in the room, and not everyone looks away.",
+            "quirk": "Fiendish features are impossible to hide; draws notice ranging from fascination to wariness depending on the region.",
+            "attributes": [
+                {
+                    "attribute": "charisma",
+                    "modifier": 3
+                },
+                {
+                    "attribute": "intelligence",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "wisdom",
+                    "modifier": -1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "dark magic",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [
+                {
+                    "item": "[Common] Leather Boots",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Fiendish Charm",
+                "Horn And Shadow"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Giantborn": {
+            "name": "Giantborn",
+            "description": "The blood of giants runs thin but never quiet. Giantborn stand head and shoulders above every other race in Larion. The giant blood gives them size, strength, and a voice that carries across valleys, but also a temperament that runs to extremes — giantborn joy is thunderous, giantborn anger clears rooms. They're most common in the Highlands, where the giant clans still claim the high peaks, but giantborn wander everywhere. Hard not to, when most roofbeams are too low.\n\nMassive. Seven feet is average, eight not unusual. Thick-limbed and heavy-boned with broad hands that make human weapons look undersized. Skin tones mirror human ranges but often carry a stony undertone — slate-grey, ruddy granite, pale quartz. Hair is coarse and heavy, usually dark. Their features are blunt and strong, with heavy brows and deep-set eyes.\n\nGiantborn are impossible to miss. People step aside, perhaps less from fear than from simple necessity — a giantborn in a crowded space parts the crowd without trying. Giantborn don't fit in. Literally. Stools buckle, market awnings catch on shoulders, and every doorway is a reminder to duck. People remember a giantborn — they're the easiest witness to recall, the hardest person to lose in a crowd, and the first face that comes to mind when something goes wrong nearby. Anonymity is a luxury giantborn never have.",
+            "quirk": "Giantborn are impossible to miss due to sheer size; outside the Highlands, strangers assume uncouth, brute strength and not much else.",
+            "attributes": [
+                {
+                    "attribute": "strength",
+                    "modifier": 2
+                },
+                {
+                    "attribute": "constitution",
+                    "modifier": 2
+                },
+                {
+                    "attribute": "dexterity",
+                    "modifier": -1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "athletics",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [
+                {
+                    "item": "[Common] Leather Boots",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Ground Slam",
+                "Mountain Frame"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Dark Elf": {
+            "name": "Dark Elf",
+            "description": "Banished underground after the Kindred War, dark elves rebuilt their world in the deep places and came out sharper for it. Where their surface cousins pursue knowledge or commune with nature, dark elves pursue velesse — the art of getting exactly what you want while making it look effortless. Wit matters more than wisdom in their undercities. A clever lie told well earns more respect than a dull truth, and being boring is a worse offense than being wrong. They're Larion's finest illusionists and its most brazen thieves — two traditions they consider velesse at its purest.\n\nSilver-white or blue-black hair against skin ranging from charcoal grey to deep obsidian. Eyes adapted for total darkness — pale violet, silver, amber, or faintly luminous red. Lean and sharp-featured with the angular elven bone structure carried to its most severe. They tend to dress well even when they have nothing, and the way they carry themselves often suggests they know something you don't.\n\nDark elves have a reputation, and most of them enjoy it. People watch their coin purses, lock up early, and trade rumors about what dark elves get up to below the surface. The smart ones also hire them — as spies, enchanters, entertainers, and negotiators. A dark elf in the room raises the stakes and everyone knows it. They're welcome in cosmopolitan cities and the Moon Kingdoms, tolerated with suspicion in conservative regions, and endlessly underestimated by anyone who assumes that charm and danger are separate qualities.",
+            "quirk": "Dark elven appearance is immediately recognizable; reputation as tricksters, illusionists, and thieves follows them everywhere.",
+            "attributes": [
+                {
+                    "attribute": "charisma",
+                    "modifier": 3
+                },
+                {
+                    "attribute": "intelligence",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "strength",
+                    "modifier": -1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "illusion",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [],
+            "abilities": [
+                "Shadow Step",
+                "Panache Cut"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Construct": {
+            "name": "Construct",
+            "description": "Made, not born. Constructs are artificial beings — bodies of stone, metal, wood, or ceramic animated by a soul bound through enchantment. Who made them and why varies: some were forged as laborers, some as guardians, some as experiments. Whatever the original purpose, the art of making them is believed to be lost, and their kind is rarer by the day. Every construct faces the same question sooner or later — what am I for now? The answer is theirs to decide, which may be more freedom than most of their creators intended.\n\nNo two constructs look alike. A body of riveted iron plates moves differently from one carved in smooth granite or assembled from lacquered hardwood. Some are roughly humanoid, others only approximate it. Eyes glow or don't. Joints click or hum or grind. Faces range from expressive carved features to featureless masks to bare metal with nothing resembling a face at all. Size varies with construction but most fall within human range. They don't need to breathe, eat or sleep, though some learn to mimic such behaviors for the peace of mind of those around them. But, like the other races, they can be hurt and die when their bodies sustain too much damage.\n\nPeople don't know what to make of constructs, and it shows. Are you a person or a thing? Most folk land on person eventually, but the hesitation is always there. In big cities, they're rare but common enough to be accepted without open fear. In rural places, where most people have never seen one, reactions may be more varied and extreme: fear, revulsion, or even worship.",
+            "quirk": "As a construct, a visibly artificial being; a rarity worth staring at outside of big cities and magical circles. Strangers may gawk, stare or react with open fear or confusion, uncertain whether to treat them as a person, a marvel, or a piece of equipment.",
+            "attributes": [
+                {
+                    "attribute": "constitution",
+                    "modifier": 3
+                },
+                {
+                    "attribute": "intelligence",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "charisma",
+                    "modifier": -1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "smithing",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Health",
+                    "modifier": 10
+                },
+                {
+                    "resource": "Stamina",
+                    "modifier": 10
+                }
+            ],
+            "startingItems": [],
+            "abilities": [
+                "Soul Flare",
+                "Reinforced Body"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Serpentkin": {
+            "name": "Serpentkin",
+            "description": "Cold-blooded in more senses than one. Serpentkin are reptilian humanoids with snake-like heads, fanged jaws, and a way of thinking that other races find alien and a little frightening. They don't rush. They don't panic. They let a situation play out before they move, and when they move, they don't miss. Serpentkin societies in Ntar Vanna are ancient and layered — built on obligation, hierarchy, and the understanding that venom is only one of several tools available. Outside their homeland, most serpentkin operate alone or in small enclaves, and they prefer it that way.\n\nScaled skin in patterns of jade, amber, obsidian, sand-brown, or deep emerald, sometimes banded or diamond-patterned. Serpentine heads with lidless eyes — gold, slit-pupiled, unblinking. Forked tongues that read scent the way others read expressions. Lean, flexible builds with deceptive strength in the grip. Fangs carry mild venom in most bloodlines, though potency varies. They move with an unsettling smoothness — no wasted motion, no fidgeting, no tells.\n\nSerpentkin make people nervous. The unblinking stare, the tongue-flick, the absolute stillness before they speak — it all reads as predatory even in friendly conversation. Merchants deal with them fairly because serpentkin have long memories and longer grudges. Alchemists and poisoners seek them out for their expertise. Most folk are polite, careful, and quietly relieved when they leave. Serpentkin are aware of this effect and few go out of their way to soften it.",
+            "quirk": "Serpentkin's reptilian features unsettle most other non-exotic races, who may assume a cold, predatory nature.",
+            "attributes": [
+                {
+                    "attribute": "intelligence",
+                    "modifier": 3
+                },
+                {
+                    "attribute": "constitution",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "charisma",
+                    "modifier": -1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "alchemy",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [],
+            "abilities": [
+                "Serpent's Gaze",
+                "Venom Bite"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Berserker": {
+            "name": "Berserker",
+            "description": "Main Attributes: Strength and Constitution\n\nBerserkers carry something inside them that isn't entirely theirs. A beast spirit — wolf, bear, boar, something older and less nameable — bonded through ritual, inherited through bloodline, or awakened by a moment of desperate violence. In battle, the spirit surges forward. The berserker's eyes change, their strength doubles, pain stops mattering. It's not mindless rage. It's a partnership with something wild, and the berserker who loses that partnership — who lets the beast take over completely — doesn't come back the same.\n\nBerserkers fight like natural disasters. No formation, no technique, no waiting for an opening — just speed and fury and a weapon that doesn't stop moving. They're prized in warbands and dreaded in duels. The tradeoff is obvious to anyone who's seen one after the trance breaks: shaking, spent, sometimes bloody from wounds they didn't notice taking. The spirit gives everything and the body pays for it. Berserkers don't tend to live long, careful lives. The ones who've lasted know their beast, know their limits, and know when to let the leash slip.\n\nSpecial Starting Gear: Leather Jerkin (+ 50 Armor)",
+            "quirk": "The berserker's beast spirit may surface in moments of stress or strong emotion — a flash in the eyes, a growl under the breath, a sudden stillness. Animals and perceptive people sometimes react to the berserker's primal presence.",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "survival",
+                    "modifier": 5
+                },
+                {
+                    "skill": "blood magic",
+                    "modifier": 5
+                },
+                {
+                    "skill": "axe",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 20
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Common] Cloth Trousers",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Leather Jerkin",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Primal Fury"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Cleric": {
+            "name": "Cleric",
+            "description": "Main Attribute: Wisdom\n\nClerics hear the call and the call gives them power. Divine magic — real divine magic, not cantrips and parlor tricks — flows through their prayers, their rituals, their hands. They heal wounds that should kill, turn undead with a word, and consecrate ground that evil can't touch. A cleric in the party means someone can drag you back from the edge. A cleric against you means something much older than them has decided you're a problem.\n\nClerics serve temples, shrines, orders, or simply a faith they carry with them. Some are gentle healers who tend the sick in village chapels. Others are battlefield priests who wade into the fighting with mace in hand and divine fire in their eyes. The divine doesn't choose the meek — it chooses the willing, and it gives them the tools to do work that matters. In a world full of curses, undead, and things that crawl out of the dark, a cleric is never short of work.\n\nSpecial Starting Gear: Linen Robe (+ 25 Armor)",
+            "quirk": "Temples and the faithful tend to welcome and offer support to a cleric and may ask for blessings, counsel, or aid.",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "blunt weapons",
+                    "modifier": 5
+                },
+                {
+                    "skill": "ritual magic",
+                    "modifier": 5
+                },
+                {
+                    "skill": "divine magic",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 40
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Common] Linen Robe",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Cloth Trousers",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Blessing Touch"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Half-elf": {
+            "name": "Half-elf",
+            "description": "Caught between two worlds and at home in both — or neither, depending on who you ask. Half-elves carry enough of each parent's blood to belong everywhere and nowhere. Among humans they're exotic, graceful, touched by something older. Among elves they're blunt, hasty, burning through a life that's long by human measure and embarrassingly short by elven. Most half-elves stop trying to pick a side early and learn to be whatever the room needs instead. It makes them very good with people.\n\nElven heritage softens human features without replacing them. Pointed ears, slightly angular bone structure, and eyes a shade too bright to be fully human. They age slowly — a half-elf at sixty might pass for a human at thirty — but they do age, visibly, which sets them apart from their elven parent's people. Builds vary widely depending on the human side. Hair and coloring tend toward the elven parent but nothing is guaranteed.\n\nHalf-elves fit in. That's the short version. They pick up local customs fast, adjust their manner to match their company, and rarely give offense without meaning to. People find them easy to talk to and hard to pin down — friendly without being fully knowable. Elves consider them charming but shallow. Humans consider them elegant but distant. Half-elves have heard both opinions enough times to stop caring, or at least to fake it convincingly.",
+            "quirk": "Half-elven blood means elven features are visible but subtle; accepted in most communities and quick to adapt to local customs, but never quite belongs to any one people..",
+            "attributes": [
+                {
+                    "attribute": "charisma",
+                    "modifier": 2
+                },
+                {
+                    "attribute": "dexterity",
+                    "modifier": 1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "persuasion",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [],
+            "abilities": [
+                "Cultural Chameleon",
+                "Between Worlds"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Ratkin": {
+            "name": "Ratkin",
+            "description": "Survivors first, everything else second. Ratkin are small, quick, and very hard to get rid of — a description they'd take as a compliment. They live in the spaces other races overlook: crawlways, storm drains, wall cavities, the gaps between buildings where the light doesn't reach. Most cities have a ratkin population whether they know it or not. They're scavengers, informants, couriers, fixers — people who make a living in the margins and know more about how a city actually works than anyone sitting in a guildhall. Ratkin don't build empires. They outlast them.\n\nSmall and lean, standing three and a half to four feet tall. Coarse fur in shades of brown, grey, black, or dull tawny. Pointed faces with bright dark eyes, prominent front teeth, and round ears that swivel toward sound. Hairless tails as long as their bodies, used for balance in tight spaces. Narrow builds that can squeeze through gaps that look impossible. Their hands are small but extraordinarily quick — a ratkin can strip a lock, re-stitch a seam, or empty a pocket faster than most people can follow.\n\nNobody trusts a ratkin on sight. That's the reality, and most ratkin stopped being hurt by it a long time ago. Merchants watch them, guards move them along, and polite company pretends they aren't there. In the underworld they're valued — good ratkin informants and couriers are worth their weight in coin. Above ground, earning trust takes time and proof. Ratkin who've done it tend to inspire fierce loyalty precisely because everyone knows what it cost them to be taken seriously.",
+            "quirk": "Ratkin are immediately recognized and widely distrusted; treated as thieves or vermin until they prove otherwise.",
+            "attributes": [
+                {
+                    "attribute": "dexterity",
+                    "modifier": 3
+                },
+                {
+                    "attribute": "intelligence",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "strength",
+                    "modifier": -1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "stealth",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [],
+            "abilities": [
+                "Bolt Hole",
+                "Iron Stomach"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Lizardfolk": {
+            "name": "Lizardfolk",
+            "description": "Older than the elves and unimpressed by the fact. Lizardfolk have lived in the marshes, rivers, and coastal shallows of Larion since before anyone started writing things down, and they regard the rise and fall of kingdoms with the polite disinterest of someone watching weather pass. They're not primitive — they build, trade, worship, and wage war — they just don't see the point of doing any of it faster than necessary. A lizardfolk hunts when hungry, fights when threatened, and rests without guilt. Other races call this lazy. Lizardfolk call it sane.\n\nBroad and solid, standing five and a half to six and a half feet tall with dense, scaled hide in shades of green, brown, slate-grey, or muddy gold. Blunt snouts, heavy jaws, and eyes set wide on the skull — amber, yellow, or dark brown with horizontal pupils. Thick tails used for balance and swimming. Clawed hands and feet. Their faces are largely unreadable to mammalian eyes — the muscles aren't built for the same expressions, and most lizardfolk don't bother learning to fake them.\n\nLizardfolk confuse people. They're not hostile, not friendly, not rude, not polite — they're just there, watching with those flat unblinking eyes, saying exactly what they mean in as few words as possible. Most folk find the honesty refreshing for about ten minutes and then deeply unsettling. Lizardfolk don't do small talk, don't feign interest, and won't laugh at a joke they don't find funny. In the Great Lagoon and Ntar Vanna this is understood. Elsewhere, people assume they're either stupid or angry. They're usually neither.",
+            "quirk": "Reptilian features and flat affect make social reading difficult for both sides; strangers often misinterpret lizardfolk silence as hostility or slowness.",
+            "attributes": [
+                {
+                    "attribute": "constitution",
+                    "modifier": 2
+                },
+                {
+                    "attribute": "wisdom",
+                    "modifier": 2
+                },
+                {
+                    "attribute": "charisma",
+                    "modifier": -1
+                }
+            ],
+            "skills": [
+                {
+                    "skill": "hunting",
+                    "modifier": 5
+                }
+            ],
+            "resources": [],
+            "startingItems": [],
+            "abilities": [
+                "Cold Blood",
+                "Thicken Hide"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Bard": {
+            "name": "Bard",
+            "description": "Main Attribute: Charisma\n\nA good bard can talk their way into a fortress, sing a bar into a riot, and leave town with secrets worth more than gold — all in the same night. Bards are performers, yes, but performance is just one of their talents. Their magic runs through music, voice, and story, bending emotions and perceptions the way a wizard bends fire. A bard who's really working doesn't look like a caster. They look like the most interesting person in the room. That's the point.\n\nBards go everywhere and know everyone. Taverns, courts, military camps, criminal hideouts — anywhere people gather, a performer is welcome and a good one is celebrated. That access is the real weapon. Bards collect rumors, favors, and alliances the way other adventurers collect loot. They fight with wit and illusion, and when that fails, whatever's handy. Underestimate them once. You won't get the chance to do it twice.\n\nSpecial Starting Gear: Maple Lute",
+            "quirk": "Performers are welcome in most social spaces; a bard can often find an audience, a meal, and loose talk wherever people gather",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "illusion magic",
+                    "modifier": 5
+                },
+                {
+                    "skill": "performance",
+                    "modifier": 5
+                },
+                {
+                    "skill": "persuasion",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 20
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Common] Faded Doublet",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Worn Breeches",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Maple Lute",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Cutting Verse"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Blood Dancer": {
+            "name": "Blood Dancer",
+            "description": "Main Attributes: Constitution and Dexterity\n\nBlood dancers are blade-wielding acrobatic fighters who fuel their combat with blood magic — their own and their enemies'. A slice across the palm to ignite a burst of speed. A blade drawn across a wounded foe to drain strength back into themselves. They move fast, strike from angles, and spend vitality to power abilities that pure martial skill can't match. It's an old tradition, rooted in warrior-cults that treated combat as ritual and ritual as combat.\n\nThe scarification isn't decoration — each mark is a channel, a way to let power in faster when the blood starts flowing. A blood dancer in motion is hard to pin down: acrobatic, relentless, always a half-step ahead of where you're swinging. The style is spectacular and unsettling in equal measure. Most people have never seen a blood dancer fight. Those who have tend to remember it vividly — and keep their distance afterward.\n\nSpecial Starting Gear: Leather Jerkin (+ 50 Armor)",
+            "quirk": "Blood dancers' ritual scars and fighting style mark them visibly. Those who recognize blood magic may react with fascination or unease; in conservative or religious communities, open practice may draw suspicion",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "blood magic",
+                    "modifier": 5
+                },
+                {
+                    "skill": "acrobatics",
+                    "modifier": 5
+                },
+                {
+                    "skill": "dagger",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 20
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Common] Leather Jerkin",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Cloth Trousers",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Crimson Step"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Druid": {
+            "name": "Druid",
+            "description": "Main Attribute: Wisdom\n\nDruids speak to the wild and the wild speaks back. Not in words — in growth, in rot, in the way a storm turns or a wolf pack splits. Druidic magic is old. Older than temples, older than academies, older than the languages people use to talk about magic. It comes from the living world itself: root and river, fang and feather. A druid doesn't study spells. They listen until the land trusts them enough to lend its power.\n\nThat power is vast and strange. A druid can call thorns from bare stone, take the shape of a bear or a hawk, speak with beasts as easily as people, and sense corruption in the land the way you'd smell smoke. They tend sacred groves, protect wild places from things that would poison them, and walk paths that haven't seen a human foot in centuries. Druids make poor city dwellers. But when something ancient stirs in the deep forest, or a blight creeps across the farmland, or the wolves come down from the hills in numbers that don't make sense — a druid is the one who knows why, and the one who can make it stop.\n\nSpecial Starting Gear: Linen Robe (+ 25 Armor).",
+            "quirk": "Animals tend to be calm and curious around a druid rather than fearful; rural folk and forest communities may seek a druid's counsel on matters of weather, blight, or strange happenings in the wild.",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "nature magic",
+                    "modifier": 5
+                },
+                {
+                    "skill": "shape shifting",
+                    "modifier": 5
+                },
+                {
+                    "skill": "survival",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 40
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Common] Linen Robe",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Cloth Trousers",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Thorncall"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Fighter": {
+            "name": "Fighter",
+            "description": "Main Attribute: Strength\n\nA sword, an axe, a spear: dangerous in anyone's hands, but deadly in the right ones. Fighters are the right ones. They're the people who put in the years of drill and sparring and getting knocked down until the weapon moves like a part of them. Academy-trained duelists, mercenary veterans, pit champions, village kids who picked up a blade and never put it down — the path matters, but the destination is the same: someone you want on your side when steel comes out.\n\nEvery army, guard company, and mercenary outfit in Larion runs on fighters. So does every caravan, every dungeon expedition, and every noble household that takes security seriously. Say what you like about swords: they never run dry, never misfire, and never ask for anything back. In a world full of things that want to kill you, the person who can put a weapon to work every time, under pressure, without fail — that's someone worth having on your side.\n\nSpecial Starting Gear: Iron Breastplate (+ 100 Armor)",
+            "quirk": "Occasionally, an experienced warrior or soldier may recognize a fellow trained fighter by how they carry themselves",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "shield",
+                    "modifier": 5
+                },
+                {
+                    "skill": "tactics",
+                    "modifier": 5
+                },
+                {
+                    "skill": "sword",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Health",
+                    "modifier": 10
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Uncommon] Iron Breastplate",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Cloth Trousers",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Hold The Line"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Hammerdwarf": {
+            "name": "Hammerdwarf",
+            "description": "Main Attributes: Strength and Constitution\n\nHammerdwarves are armored warriors who fight the way dwarves build — heavy, precise, and methodical. They know how things are put together, which makes them very good at taking things apart.",
+            "quirk": "Trained as a hammerdwarf",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "warhammer",
+                    "modifier": 5
+                },
+                {
+                    "skill": "smithing",
+                    "modifier": 5
+                },
+                {
+                    "skill": "tactics",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Health",
+                    "modifier": 10
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Uncommon] Iron Breastplate",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Cloth Trousers",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Dwarven Brace"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Monk": {
+            "name": "Monk",
+            "description": "Main Attributes: Wisdom, Dexterity, and Strength\n\nMonks train until the difference between body and spirit stops mattering. Fists that crack stone. Feet that barely touch the ground. A stillness in combat that looks like calm and hits like thunder. Monastic orders across Larion teach different paths, some through meditation and prayer, some through pain and endurance, some through movement drilled so deep it becomes instinct, but the result is the same: a person who doesn't need a weapon because they already are one.\n\nMonks fight without armor and without fear, and both choices are deliberate. Speed is their shield. Discipline is their edge. A trained monk can deflect a sword with an open hand, close a gap faster than a fighter can draw, and strike pressure points that drop opponents twice their size. Off the battlefield, monks tend toward discipline and restraint, not because they're serene by nature, but because they've learned what happens when they aren't. The power they carry demands control. The ones worth fearing are the ones who make it look effortless.\n\nSpecial Starting Gear: Linen Robe (+ 25 Armor)",
+            "quirk": "A monk's physical control and unusual fighting style may draw curiosity or recognition; monastic orders and martial artists may acknowledge a fellow practitioner.",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "acrobatics",
+                    "modifier": 5
+                },
+                {
+                    "skill": "divine magic",
+                    "modifier": 5
+                },
+                {
+                    "skill": "unarmed combat",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 20
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Common] Linen Robe",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Cloth Trousers",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Ki Strike"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Paladin": {
+            "name": "Paladin",
+            "description": "Main Attributes: Wisdom, Strength, and Charisma\n\nPaladins fight for something greater than themselves. They swear sacred oaths — to a god, a temple, a cause — and divine power flows back into their blade, their voice, their presence. A paladin holding the line against the dead isn't just a fighter with a holy symbol. They're a wall of conviction that the dead break against.\n\nNot all paladins serve the same creed, and not all of them are gentle about it. Some are temple knights who protect pilgrims and heal the sick. Others are zealots who hunt demons and heretics with equal fervor. What they share is belief. A paladin who doesn't believe is just a fighter with a prayer book. A paladin who believes? That's the one undead flee from, demons bargain with, and soldiers follow into places they'd never go alone.\n\nSpecial Starting Gear: Iron Breastplate (+ 100 Armor)",
+            "quirk": "The faithful may recognize a paladin's divine calling; temples and religious communities tend to offer respect and hospitality, though they may also request service",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "sword",
+                    "modifier": 5
+                },
+                {
+                    "skill": "leadership",
+                    "modifier": 5
+                },
+                {
+                    "skill": "divine magic",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 20
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Uncommon] Iron Breastplate",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Cloth Trousers",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Oath Strike"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Ranger": {
+            "name": "Ranger",
+            "description": "Main Attributes: Dexterity and Constitution\n\nRangers are at home in places where the only law is what can catch you and what you can catch first. They're hunters, trackers, scouts, and wardens — the people who know which prints mean wolves and which mean something worse, who can sleep in a tree and wake up dry, who talk to their hawk like it understands and maybe it does. Civilization trains fighters. The wilderness trains rangers.\n\nEvery frontier settlement, logging camp, and trade caravan knows the value of a good ranger. They're the early warning when something moves in the forest that shouldn't be there, the guide who gets you through the mountain pass alive, the quiet figure at the treeline who put an arrow through the warg before you knew it was there. Rangers don't tend to boast. They don't need to. The people who've been saved by one remember. The things that have been hunted by one remember too.\n\nSpecial Starting Gear: Leather Jerkin (+ 50 Armor)",
+            "quirk": "Frontier folk, hunters, and woodsmen tend to recognize a ranger as one of their own and may share news of the wilds.",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "archery",
+                    "modifier": 5
+                },
+                {
+                    "skill": "survival",
+                    "modifier": 5
+                },
+                {
+                    "skill": "hunting",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Stamina",
+                    "modifier": 10
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Common] Cloth Trousers",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Leather Jerkin",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Wool Cloak",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Ranger's Mark"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Rogue": {
+            "name": "Rogue",
+            "description": "Main Attribute: Dexterity\n\nEverything and everyone has a weak point. A lock to pick, a throat to cut, a shadow nobody's watching. Rogues find it. Some learned in thieves' guilds, some in back alleys, some from a parent who learned the same way. Not all rogues are thieves — plenty are spies, assassins, or the person a crime boss sends when a problem needs to disappear quietly. But all of them share a talent for being where they shouldn't be, doing what they shouldn't do, and getting out clean.\n\nRogues don't fight fair. They fight first, fight dirty, and fight from angles you weren't covering. A rogue in a straight duel is a rogue who made a mistake — but a rogue in the shadows, behind you, with a blade already drawn? That's a rogue doing their job. Quick hands, quick feet, and a mind that thinks in shortcuts. In Larion's cities, that skillset is always in demand. In its dungeons, it's the difference between walking into a trap and walking past it.\n\nSpecial Starting Gear: Leather Jerkin (+ 50 Armor)",
+            "quirk": "In settlements, the rogue may notice — and be noticed by — the local underworld: a fence's mark on a doorpost, a thieves' cant phrase, a knowing look from someone in the trade",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "stealth",
+                    "modifier": 5
+                },
+                {
+                    "skill": "pickpocketing",
+                    "modifier": 15
+                },
+                {
+                    "skill": "lockpicking",
+                    "modifier": 15
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Stamina",
+                    "modifier": 20
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Common] Leather Jerkin",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Cloth Trousers",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Loaded Dice",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Cheap Shot"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Warlock": {
+            "name": "Warlock",
+            "description": "Main Attributes: Intelligence and Charisma\n\nMost mages spend years earning what a warlock gets in a single moment. Somewhere in their past — an unexpected discovery, a long-lost ritual, a voice that answered when no one should have been listening — they struck a bargain with something from beyond the mortal world. A demon, a fey lord, a thing with no name that lives between the planes. The pact took hold, and the power came flooding in.\n\nWhat other casters build through decades of study, a warlock channels through their bond — conjuration, curses, blasts of eldritch force. But the bond pulls both ways. The source of their magic — their patron — is out there. Sooner or later it will want something. That's the bargain they've struck. Every warlock knows it. The good ones learn to stay one step ahead.\n\nSpecial Starting Gear: Linen Robe (+ 25 Armor)",
+            "quirk": "Bound to an extraplanar patron whose presence occasionally surfaces. Other magic-users may sense the pact",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "persuasion",
+                    "modifier": 5
+                },
+                {
+                    "skill": "dark magic",
+                    "modifier": 5
+                },
+                {
+                    "skill": "conjuration magic",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 40
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Uncommon] Silver Binding Chain",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Linen Robe",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Cloth Trousers",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Eldritch Blast"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Wizard": {
+            "name": "Wizard",
+            "description": "Main Attribute: Intelligence\n\nWizards earn every scrap of power they wield. No bloodline gift, no patron's bargain — just years of study, practice, and the stubborn conviction that the fundamental forces of reality can be understood, harnessed, and aimed at something. Wizardry is the hardest school of magic in Larion. The dropout rate is brutal. The ones who survive it and master it can set the air on fire, stop a heart with a word, or open a door to somewhere that shouldn't exist.\n\nA wizard's spellbook is their life's work — formulas, diagrams, notes in three languages, corrections in a fourth. Every spell is a problem they solved. Every new one is a problem they haven't solved yet, and that's what keeps them going. Wizards are found in academies, towers, courts, and dusty rooms full of books they haven't finished reading. The best ones are also found on the road, because theory only gets you so far. Sooner or later, you have to test it against something that's trying to kill you.\n\nSpecial Starting Gear: Linen Robe (+ 25 Armor)",
+            "quirk": "Wizards may be recognized by their manner and tools of the trade; academies, libraries, and magic schools tend to treat a fellow practitioner as a peer.",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "fire magic",
+                    "modifier": 5
+                },
+                {
+                    "skill": "lore",
+                    "modifier": 5
+                },
+                {
+                    "skill": "ritual magic",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 40
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Common] Linen Robe",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Cloth Trousers",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Scholar's Bolt"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Tinker": {
+            "name": "Tinker",
+            "description": "Main Attributes: Intelligence and Dexterity\n\nTinkers build things that shouldn't work — and then they do. Their signature is the construct companion: a small clockwork creature, hand-sized to dog-sized, animated through mechanical ingenuity and enchantment. Every tinker's construct is different because every tinker solves the problem differently. One might be a brass beetle that scouts ahead. Another might be a wooden fox with knife-blade teeth. A third might be a copper spider that pins enemies in wire. The tinker built it, the tinker maintains it, and in a fight, the tinker and their construct work as a team.\n\nBeyond the construct, tinkers are gadget-makers, trap-setters, and problem-solvers. They enchant ordinary objects to do extraordinary things, brew alchemical concoctions from whatever's on hand, and rig devices that can lock down a corridor or blow open a wall. In combat, a tinker doesn't wade in swinging — they set the board. A trap here, a gadget there, the construct flanking while the tinker stays one step ahead. Off the battlefield, they're the person who can fix the wagon, pick apart a magical lock, and tell you exactly why that ancient mechanism stopped working. Everything a tinker makes is handmade, one-of-a-kind, and slightly unreliable. They wouldn't have it any other way.\n\nSpecial Starting Gear: Artificer's Toolkit, Leather Jerkin (+ 50 Armor).",
+            "quirk": "People, especially other tinkers and enchanters, may react with curiosity, wonder or fascination to a tinker's construct companion, gadgets and other magical devices.",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "engineering",
+                    "modifier": 5
+                },
+                {
+                    "skill": "enchanting magic",
+                    "modifier": 5
+                },
+                {
+                    "skill": "alchemy",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 20
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Uncommon] Artificer's Toolkit",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Cloth Trousers",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Leather Jerkin",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Pocket Contraption"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Sorcerer": {
+            "name": "Sorcerer",
+            "description": "Main Attribute: Intelligence\n\nSorcerers are born with magic already inside them — inherited, awakened, or simply there with no explanation anyone can offer. Where wizards study for years to light a candle, a sorcerer might set a barn on fire at age six and spend the next decade learning not to do it again. The power is raw, instinctive, and bigger than the person carrying it. Training helps. Control helps. But underneath the technique, a sorcerer's magic has a will of its own, and it wants out.\n\nThat rawness is both the gift and the problem. A sorcerer at full tilt can match any wizard alive — conjuration, elemental destruction, force that bends the air around it. But wizard magic is precise. Sorcerer magic is a flood behind a dam, and the dam is the caster's concentration. When it works, it's spectacular. When it slips, everyone nearby knows it. Sorcerers tend to be intense people. They don't have much choice.\n\nSpecial Starting Gear: Linen Robe (+ 25 Armor)",
+            "quirk": "A sorcerer's innate, wild magic may occasionally surface in small, involuntary ways",
+            "attributes": [],
+            "skills": [
+                {
+                    "skill": "fire magic",
+                    "modifier": 5
+                },
+                {
+                    "skill": "conjuration magic",
+                    "modifier": 5
+                },
+                {
+                    "skill": "intimidation",
+                    "modifier": 5
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 40
+                }
+            ],
+            "startingItems": [
+                {
+                    "item": "[Common] Linen Robe",
+                    "quantity": 1
+                },
+                {
+                    "item": "[Common] Cloth Trousers",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [
+                "Wild Bolt"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Vampire": {
+            "name": "Vampire",
+            "description": "You have become a vampire, gaining supernatural power at the cost of a bestial hunger for blood and vulnerability to sunlight.",
+            "skills": [
+                {
+                    "skill": "stealth",
+                    "modifier": 5
+                },
+                {
+                    "skill": "seduction",
+                    "modifier": 5
+                },
+                {
+                    "skill": "blood magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Dexterity",
+                    "modifier": 3
+                },
+                {
+                    "attribute": "Charisma",
+                    "modifier": 2
+                },
+                {
+                    "attribute": "Constitution",
+                    "modifier": -2
+                }
+            ],
+            "resources": [],
+            "quirk": "Possesses dark sight and blood sense. Extremely vulnerable to sunlight and weak by holy symbols. Must regularly consume fresh blood or grow weak and lose self-control.",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Lycanthrope": {
+            "name": "Lycanthrope",
+            "description": "You have been cursed with the affliction of the werewolf. Under the full moon, you transform into a powerful beast, gaining supernatural strength and senses at the cost of feral rage and loss of self-control.",
+            "skills": [
+                {
+                    "skill": "survival",
+                    "modifier": 5
+                },
+                {
+                    "skill": "hunting",
+                    "modifier": 5
+                },
+                {
+                    "skill": "unarmed combat",
+                    "modifier": 5
+                },
+                {
+                    "skill": "shape shifting",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Strength",
+                    "modifier": 3
+                },
+                {
+                    "attribute": "Constitution",
+                    "modifier": 2
+                },
+                {
+                    "attribute": "Wisdom",
+                    "modifier": -2
+                }
+            ],
+            "resources": [
+                {
+                    "resource": "Health",
+                    "modifier": 15
+                }
+            ],
+            "quirk": "Can transform into a werewolf, gaining enhanced strength, speed, and senses. Heightened senses of smell and hearing. Vulnerable to silver weapons.",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Fire Magic": {
+            "name": "Fire Magic",
+            "description": "You can call fire from your hands and bend it where you want it. A spark, a bolt, a wall of flame. (Intelligence)",
+            "skills": [
+                {
+                    "skill": "fire magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Spark Cast"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Air Magic": {
+            "name": "Air Magic",
+            "description": "Wind answers when you call it. A gust to knock someone off their feet, a cushion to slow a fall, a crack of thunder from a clear sky. (Intelligence)",
+            "skills": [
+                {
+                    "skill": "air magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Static Snap"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Water Magic": {
+            "name": "Water Magic",
+            "description": "You can pull water from the air, shape it, freeze it, drive it forward like a fist. Where there's moisture, you have a weapon. (Intelligence)",
+            "skills": [
+                {
+                    "skill": "water magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Rushing Water"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Earth Magic": {
+            "name": "Earth Magic",
+            "description": "Stone listens to you. You can crack rock, raise walls from bare ground, and make the earth move under someone's feet. (Intelligence)",
+            "skills": [
+                {
+                    "skill": "earth magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Stone Fist"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Divine Magic": {
+            "name": "Divine Magic",
+            "description": "You can channel holy power — a smite that burns the unholy, a ward that holds evil at bay, a blessing that strengthens the faithful. (Wisdom)",
+            "skills": [
+                {
+                    "skill": "divine magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Sacred Word"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Dark Magic": {
+            "name": "Dark Magic",
+            "description": "You've learned to wield shadow, decay, and worse. It's dangerous, it's forbidden in most places, and it works. (Intelligence)",
+            "skills": [
+                {
+                    "skill": "dark magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Umbral Lash"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Illusion Magic": {
+            "name": "Illusion Magic",
+            "description": "You can make people see things that aren't there and miss things that are. A useful trick that scales as far as your imagination does. (Charisma)",
+            "skills": [
+                {
+                    "skill": "illusion magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Splinter Image"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Necromancy": {
+            "name": "Necromancy",
+            "description": "You can speak to the dead and, when needed, make them get back up. Most people find this unsettling. The dead don't seem to mind. (Intelligence)",
+            "skills": [
+                {
+                    "skill": "necromancy magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Grave Touch"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Conjuration": {
+            "name": "Conjuration",
+            "description": "You can reach across the veil and pull something through — a servant, a beast, a thing that follows your commands. What comes depends on what you call. (Intelligence)",
+            "skills": [
+                {
+                    "skill": "conjuration magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Lesser Servant"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Divination": {
+            "name": "Divination",
+            "description": "You can see what others can't — glimpses of what's coming, traces of what's hidden, the thread connecting a question to its answer. (Wisdom)",
+            "skills": [
+                {
+                    "skill": "divination magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Read The Pattern"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Nature Magic": {
+            "name": "Nature Magic",
+            "description": "You can coax a seed to sprout in seconds, command roots to bind, and call on the green world to fight for you. (Wisdom)",
+            "skills": [
+                {
+                    "skill": "nature magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Thorn Lash"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Blood Magic": {
+            "name": "Blood Magic",
+            "description": "You can turn living blood into power — your own or someone else's. It costs something every time. It's always worth it in the moment. (Constitution)",
+            "skills": [
+                {
+                    "skill": "blood magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Blood Siphon"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Healing Magic": {
+            "name": "Healing Magic",
+            "description": "You can close wounds, purge poison, and mend what's broken. In a world full of things that hurt people, you're the one who puts them back together. (Wisdom)",
+            "skills": [
+                {
+                    "skill": "healing magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Healing Touch"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Enchanting": {
+            "name": "Enchanting",
+            "description": "You can pour magic into an object and make it hold. A blade that glows hot, a lock that won't open, a shield that turns spells. (Intelligence)",
+            "skills": [
+                {
+                    "skill": "enchanting magic",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [
+                {
+                    "resource": "Mana",
+                    "modifier": 5
+                }
+            ],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [
+                "Bright Edge"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Tactics": {
+            "name": "Tactics",
+            "description": "You read a fight before it starts — who's exposed, where the line will break, when to press. You make everyone around you more dangerous. (Intelligence)",
+            "skills": [
+                {
+                    "skill": "tactics",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Medicine": {
+            "name": "Medicine",
+            "description": "You know how to stop bleeding, set bones, and brew a poultice from roadside plants. Steady hands, hard-won knowledge, and no magic required. (Intelligence)",
+            "skills": [
+                {
+                    "skill": "medicine",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Investigation": {
+            "name": "Investigation",
+            "description": "You notice what other people walk past — the scratches on the lock, the footprint under the window, the thing that doesn't belong. (Intelligence)",
+            "skills": [
+                {
+                    "skill": "investigation",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Animal Handling": {
+            "name": "Animal Handling",
+            "description": "Animals trust you. You can calm a spooked horse, read a dog's warning, and earn the loyalty of creatures most people can't get near. (Wisdom)",
+            "skills": [
+                {
+                    "skill": "animal handling",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Riding": {
+            "name": "Riding",
+            "description": "You're at home in the saddle — riding hard, fighting mounted, and handling beasts that throw anyone else. (Constitution)",
+            "skills": [
+                {
+                    "skill": "riding",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Warhammer": {
+            "name": "Warhammer",
+            "description": "Two hands, a long haft, and an iron head that turns plate armor into a coffin. Warhammers are specialist weapons for people who like to solve problems in one swing.\n\nStarting Weapon: Iron Warhammer (Damage type: impact).\nAttribute: Strength.",
+            "skills": [
+                {
+                    "skill": "warhammer",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [],
+            "startingItems": [],
+            "resources": [],
+            "quirk": "",
+            "abilities": [
+                "Armor Bell"
+            ],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Criminal": {
+            "name": "Criminal",
+            "description": "You grew up on the wrong side of the law — picking pockets, running jobs, learning which alleys go through and which ones are traps. You know how the underworld works because you worked in it.",
+            "skills": [
+                {
+                    "skill": "stealth",
+                    "modifier": 5
+                },
+                {
+                    "skill": "pickpocketing",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Dexterity",
+                    "modifier": 1
+                }
+            ],
+            "resources": [],
+            "quirk": "Known in criminal circles; fences, thieves, and underworld figures may recognize a fellow operator.",
+            "startingItems": [
+                {
+                    "item": "[Common] Hooded Cloak",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Soldier": {
+            "name": "Soldier",
+            "description": "You did a stint in a company, a garrison, or a lord's retinue. Long enough to learn camp discipline, formation drill, and how to sleep in the rain. Short enough that you're nobody's sergeant.",
+            "skills": [
+                {
+                    "skill": "tactics",
+                    "modifier": 5
+                },
+                {
+                    "skill": "survival",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Constitution",
+                    "modifier": 1
+                }
+            ],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Outlaw": {
+            "name": "Outlaw",
+            "description": "You lived outside the law and outside the walls — in the hills, the forest, the places where the king's writ doesn't reach. Banditry, smuggling, poaching, whatever kept you fed. You know how to survive and how to make people do what you want when asking nicely isn't an option.",
+            "skills": [
+                {
+                    "skill": "survival",
+                    "modifier": 5
+                },
+                {
+                    "skill": "intimidation",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Strength",
+                    "modifier": 1
+                }
+            ],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Herbalist": {
+            "name": "Herbalist",
+            "description": "You learned which plants close wounds and which ones stop hearts. Village healer, roadside apothecary, hedge-doctor — whatever the title, people came to you when they were hurt and the nearest temple was three days' ride away.",
+            "skills": [
+                {
+                    "skill": "medicine",
+                    "modifier": 5
+                },
+                {
+                    "skill": "alchemy",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Intelligence",
+                    "modifier": 1
+                }
+            ],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [
+                {
+                    "item": "[Common] Herbalist's Kit",
+                    "quantity": 1
+                }
+            ],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Hunter": {
+            "name": "Hunter",
+            "description": "You fed your family from the forest. Tracks, traps, patience, and a clean kill. You know animal behavior the way a merchant knows prices — instinct backed by experience.",
+            "skills": [
+                {
+                    "skill": "hunting",
+                    "modifier": 5
+                },
+                {
+                    "skill": "survival",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Dexterity",
+                    "modifier": 1
+                }
+            ],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Acolyte": {
+            "name": "Acolyte",
+            "description": "You were raised in a temple or monastery. Maybe you believed, maybe you just needed a roof. Either way, you learned to read, studied history and scripture, and came out knowing more about the world than most people who've actually seen it.",
+            "skills": [
+                {
+                    "skill": "lore",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Wisdom",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "Intelligence",
+                    "modifier": 1
+                }
+            ],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        },
+        "Entertainer": {
+            "name": "Entertainer",
+            "description": "You've worked stages, tavern floors, and street corners. Singing, juggling, acting, telling stories — whatever held the crowd. You know how to walk into a room full of strangers and leave with their attention, their coin, or both.",
+            "skills": [
+                {
+                    "skill": "performance",
+                    "modifier": 5
+                }
+            ],
+            "attributes": [
+                {
+                    "attribute": "Charisma",
+                    "modifier": 1
+                },
+                {
+                    "attribute": "Dexterity",
+                    "modifier": 1
+                }
+            ],
+            "resources": [],
+            "quirk": "",
+            "startingItems": [],
+            "abilities": [],
+            "unlockedBy": [],
+            "excludedBy": []
+        }
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "skills": {
+        "brawl": {
+            "name": "brawl",
+            "type": "combat",
+            "attribute": "brawn",
+            "description": "Represents unarmed fighting or using improvised close‑quarters attacks, such as punches, kicks, grapples, or smashing someone with a barstool. Used whenever a character relies on their body rather than a dedicated melee weapon.",
+            "startingItems": []
+        },
+        "gunnery": {
+            "name": "gunnery",
+            "type": "combat",
+            "attribute": "agility",
+            "description": "Covers operating heavy and mounted weapons, including vehicle and starship guns, emplaced turrets, artillery, and similar systems. It is distinct from Ranged skills, which handle personal weapons, and is the primary combat skill for ship‑to‑ship broadsides and vehicle fire support.",
+            "startingItems": []
+        },
+        "melee": {
+            "name": "melee",
+            "type": "combat",
+            "attribute": "brawn",
+            "description": "Represents fighting with hand‑held close‑combat weapons such as vibroblades, clubs, shock batons, and polearms. Use Melee when a character is attacking with a purpose‑built weapon rather than bare hands or improvised strikes.",
+            "startingItems": []
+        },
+        "ranged_heavy": {
+            "name": "ranged-heavy",
+            "type": "combat",
+            "attribute": "agility",
+            "description": "Covers the use of heavy personal ranged weapons that require two hands or careful bracing, such as blaster rifles, carbines, bows, and slugthrower rifles. It is used when engaging targets at longer ranges or with more powerful shoulder‑fired weapons than typical pistols.",
+            "startingItems": []
+        },
+        "ranged_light": {
+            "name": "ranged-light",
+            "type": "combat",
+            "attribute": "agility",
+            "description": "Represents the use of light, typically one‑handed ranged weapons like blaster pistols, hold‑out blasters, and small slugthrowers. This skill is used for quick‑draw gunfights, shooting while moving, or firing in cramped spaces where heavier weapons are unwieldy.",
+            "startingItems": []
+        },
+        "astrogation": {
+            "name": "astrogation",
+            "type": "utility",
+            "attribute": "intellect",
+            "description": "Astrogation covers plotting safe hyperspace jumps using navicomputers, star charts, and current sensor data. Navigating hyperspace is dangerous because realspace obstacles like stars, gravity wells, and debris fields still exist; a bad course can drop a ship into lethal proximity to these hazards or leave it stranded far off route. This skill check is used to compute jump vectors, adjust them for local anomalies, and avoid well‑known dangers such as flying too close to a star, appearing inside an interdiction field, or clipping a gravity shadow. Skilled astrogators cut travel time along known hyperlanes, chart risky shortcuts through the Outer Rim, and keep crews alive when fleeing the Empire at lightspeed.",
+            "startingItems": []
+        },
+        "athletics": {
+            "name": "athletics",
+            "type": "utility",
+            "attribute": "brawn",
+            "description": "Measures overall physical fitness for feats like running, climbing, swimming, jumping, and forcing doors or barriers. It is used whenever raw strength and endurance decide whether a character can push through a demanding physical challenge.",
+            "startingItems": []
+        },
+        "charm": {
+            "name": "charm",
+            "type": "utility",
+            "attribute": "presence",
+            "description": "Charm is friendly persuasion through warmth, sincerity, flirtation, or social grace. It is used to win people over, make positive first impressions, and turn potential opponents into allies without threats or hard bargaining.",
+            "startingItems": []
+        },
+        "coercion": {
+            "name": "coercion",
+            "type": "utility",
+            "attribute": "willpower",
+            "description": "Coercion is the art of getting compliance through fear, intimidation, or psychological pressure rather than genuine goodwill. It covers explicit threats, menacing body language, and interrogation, and is the opposite end of the spectrum from Charm or Negotiation.",
+            "startingItems": []
+        },
+        "computers": {
+            "name": "computers",
+            "type": "utility",
+            "attribute": "intellect",
+            "description": "Represents using and manipulating computer systems, from basic slicing and security bypassing to reprogramming droids and accessing restricted data. It is rolled to hack terminals, crack encrypted files, forge digital records, and wrest control of automated systems.",
+            "startingItems": []
+        },
+        "cool": {
+            "name": "cool",
+            "type": "utility",
+            "attribute": "presence",
+            "description": "Cool measures composure, poise, and the ability to act calmly under pressure. It is used for prepared or ambush‑like initiative and for staying unflappable in tense social situations, negotiations, or standoffs.",
+            "startingItems": []
+        },
+        "coordination": {
+            "name": "coordination",
+            "type": "utility",
+            "attribute": "agility",
+            "description": "Represents balance, body control, and fine physical timing. It covers slipping through tight spaces, keeping footing on unstable surfaces, tumbling, and performing acrobatic maneuvers that rely on agility rather than brute strength.",
+            "startingItems": []
+        },
+        "deception": {
+            "name": "deception",
+            "type": "utility",
+            "attribute": "cunning",
+            "description": "Deception is used to tell convincing lies, maintain false identities, and mislead others with half‑truths and forged evidence. It comes up in cons, disguises, and verbal misdirection, and is distinct from Skulduggery’s focus on physical trickery and theft.",
+            "startingItems": []
+        },
+        "discipline": {
+            "name": "discipline",
+            "type": "utility",
+            "attribute": "willpower",
+            "description": "Measures focus, mental fortitude, and the ability to keep one’s mind on task despite stress, fear, or temptation. It is often rolled to resist coercion, distraction, or mental influence, and can also be used for calm, deliberate initiative checks.",
+            "startingItems": []
+        },
+        "leadership": {
+            "name": "leadership",
+            "type": "utility",
+            "attribute": "presence",
+            "description": "Leadership is commanding others through authority, inspiration, and clear direction. It is used to rally allies, issue orders in combat or crises, and maintain discipline in followers, troops, or crews who might otherwise panic or break.",
+            "startingItems": []
+        },
+        "mechanics": {
+            "name": "mechanics",
+            "type": "utility",
+            "attribute": "intellect",
+            "description": "Represents hands‑on technical work with machines, vehicles, droids, and starships. It is rolled to repair damage, jury‑rig systems, modify equipment, and build or dismantle hardware from blasters to hyperdrives.",
+            "startingItems": []
+        },
+        "medicine": {
+            "name": "medicine",
+            "type": "utility",
+            "attribute": "intellect",
+            "description": "Covers diagnosing injuries and illnesses, applying first aid, and performing advanced medical treatment or surgery. It is used to stabilize wounded allies, accelerate recovery, and mitigate the long‑term effects of trauma and critical injuries.",
+            "startingItems": []
+        },
+        "negotiation": {
+            "name": "negotiation",
+            "type": "utility",
+            "attribute": "presence",
+            "description": "Negotiation is formal haggling, diplomacy, and compromise where both sides want a deal. It is rolled for setting prices, brokering agreements, and resolving disputes by finding mutually acceptable terms rather than relying on charm or threats alone.",
+            "startingItems": []
+        },
+        "perception": {
+            "name": "perception",
+            "type": "utility",
+            "attribute": "cunning",
+            "description": "Perception is active awareness of the physical environment: spotting hidden threats, noticing small details, eavesdropping, or searching a room. It is distinct from Vigilance, which represents passive readiness to react to sudden events.",
+            "startingItems": []
+        },
+        "piloting_planetary": {
+            "name": "piloting-planetary",
+            "type": "utility",
+            "attribute": "agility",
+            "description": "Covers operating ground vehicles, speeders, airspeeders, and other craft that stay within planetary atmospheres or close to the surface. It is rolled for high‑speed chases, hazardous terrain navigation, and precision maneuvers in cities, canyons, or weather.",
+            "startingItems": []
+        },
+        "piloting_space": {
+            "name": "piloting-space",
+            "type": "utility",
+            "attribute": "agility",
+            "description": "Represents flying starfighters, freighters, and capital ships in space, including dogfights, evasive maneuvers, and docking under difficult conditions. It is distinct from Astrogation, which plots hyperspace courses, and from Gunnery, which fires the ship’s weapons.",
+            "startingItems": []
+        },
+        "resilience": {
+            "name": "resilience",
+            "type": "utility",
+            "attribute": "brawn",
+            "description": "Measures physical toughness and the ability to endure hardship, toxins, disease, and fatigue. It is used to resist poison, survive harsh environments, and keep going when wounded, exhausted, or starved.",
+            "startingItems": []
+        },
+        "skulduggery": {
+            "name": "skulduggery",
+            "type": "utility",
+            "attribute": "cunning",
+            "description": "Skulduggery is hands‑on criminality: picking locks and pockets, planting items, sleight of hand, and setting up physical cons. It focuses on tangible tricks and illicit techniques, whereas Deception covers verbal lying and social misdirection.",
+            "startingItems": []
+        },
+        "stealth": {
+            "name": "stealth",
+            "type": "utility",
+            "attribute": "agility",
+            "description": "Represents moving quietly and staying unseen, whether sneaking through alleys, infiltrating guarded complexes, or lying in ambush. It is rolled to avoid detection by guards, sensors, and hostile creatures.",
+            "startingItems": []
+        },
+        "streetwise": {
+            "name": "streetwise",
+            "type": "utility",
+            "attribute": "cunning",
+            "description": "Streetwise is practical knowledge of the underworld and rough neighborhoods: who to talk to, where to find illegal goods, and how to blend in. It is used to locate fences, black markets, safe houses, and rumors among criminals and fringe dwellers.",
+            "startingItems": []
+        },
+        "survival": {
+            "name": "survival",
+            "type": "utility",
+            "attribute": "cunning",
+            "description": "Covers living off the land and coping with wild environments—tracking, hunting, building shelter, and navigating wilderness. It is rolled to avoid getting lost, find food and water, and endure natural hazards on remote worlds.",
+            "startingItems": []
+        },
+        "vigilance": {
+            "name": "vigilance",
+            "type": "utility",
+            "attribute": "willpower",
+            "description": "Vigilance measures general alertness and readiness to react to sudden danger. It is used for unprepared or surprise‑situation initiative and for noticing threats or clues when a character is not actively searching but staying on edge.",
+            "startingItems": []
+        },
+        "knowledge_core_worlds": {
+            "name": "knowledge - core worlds",
+            "type": "utility",
+            "attribute": "intellect",
+            "description": "Represents formal and practical knowledge about the Core Worlds, including their cultures, laws, major governments, and key institutions. It is used to recall details about planets like Coruscant or Corellia, their politics, and how to operate within their norms.",
+            "startingItems": []
+        },
+        "knowledge_education": {
+            "name": "knowledge - education",
+            "type": "utility",
+            "attribute": "intellect",
+            "description": "Covers broad academic learning such as sciences, mathematics, history, and general scholarly theory. It is rolled for questions where a trained researcher or well‑schooled character would know the answer rather than a local specialist.",
+            "startingItems": []
+        },
+        "knowledge_lore": {
+            "name": "knowledge - lore",
+            "type": "utility",
+            "attribute": "intellect",
+            "description": "Represents familiarity with ancient history, myths, religions, and obscure traditions, including half‑forgotten tales about the Jedi and the Old Republic. It is used to recall esoteric facts, interpret symbols, and understand relics or forgotten cults.",
+            "startingItems": []
+        },
+        "knowledge_outer_rim": {
+            "name": "knowledge - outer rim",
+            "type": "utility",
+            "attribute": "intellect",
+            "description": "Covers information about the Outer Rim Territories: backwater worlds, local powers, trade routes, and law‑enforcement presence (or lack thereof). It is rolled to identify remote planets, regional factions, and customs on the galactic fringe.",
+            "startingItems": []
+        },
+        "knowledge_underworld": {
+            "name": "knowledge - underworld",
+            "type": "utility",
+            "attribute": "intellect",
+            "description": "Measures understanding of organized crime, smugglers, syndicates, and black‑market operations across the galaxy. It is used to recognize criminal symbols, know Hutt or Black Sun practices, and identify who really controls a sector’s illicit trade.",
+            "startingItems": []
+        },
+        "knowledge_xenology": {
+            "name": "knowledge - xenology",
+            "type": "utility",
+            "attribute": "intellect",
+            "description": "Represents study of alien species, their physiology, cultures, and typical environments. It is rolled to recall traits and weaknesses of unfamiliar species, judge likely customs or taboos, and adapt medicine, gear, or plans to non‑human needs.",
+            "startingItems": []
+        }
+    }
+}

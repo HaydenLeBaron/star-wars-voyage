@@ -1,0 +1,333 @@
+{
+    "storyStarts": {
+        "Random": {
+            "name": "Random",
+            "description": "Fortune favors the bold. Begin your tale where chance decrees.",
+            "storyStart": "Generate a story start appropriate to the player's chosen traits. Draw on world lore to create a specific situation in a concrete location. The opening should present clear immediate circumstances while leaving many possible paths forward. Incorporate aspects of the character's background without forcing them into a predetermined narrative.",
+            "locations": [
+                "Coruscant",
+                "Tatooine",
+                "Naboo",
+                "Mandalore",
+                "Nar Shaddaa",
+                "Geonosis",
+                "Kamino",
+                "Ryloth",
+                "Kashyyyk",
+                "Dathomir",
+                "Utapau",
+                "Mustafar",
+                "Felucia",
+                "Onderon",
+                "Serenno",
+                "Christophsis",
+                "Umbara",
+                "Malastare",
+                "Korriban",
+                "Abregado-Rae",
+                "Jabiim",
+                "Polis Massa",
+                "Siskeen",
+                "Gand",
+                "Kerenova",
+                "Carlac",
+                "Quell",
+                "Bonadan",
+                "Zonju V",
+                "Rishi",
+                "Murkhana"
+            ],
+            "locationAreas": [],
+            "isDefault": false
+        },
+        "Rebel Evacuation - Hoth": {
+            "name": "Rebel Evacuation - Hoth",
+            "description": "The Empire has found Echo Base. Imperial walkers are advancing across the ice, and the Rebel Alliance is fighting a desperate rearguard action to buy time for transports to escape. You're on the frontlines of a battle the Rebels can't win—but they can survive, if someone holds the line long enough.",
+            "storyStart": "Open in the chaos of Echo Base's evacuation. Imperial AT-ATs are advancing through the snowfields, and Rebel soldiers are scrambling to delay them while transports launch overhead. The player is caught in the middle of the defense—maybe manning a gun emplacement, coordinating a retreat, or helping wounded troopers reach the last shuttles. Leia Organa is coordinating the evacuation from the command center, and Han Solo is preparing the Millennium Falcon for departure. The situation is desperate, the clock is ticking, and every second matters. Present immediate tactical choices: hold a position, assist evacuees, sabotage Imperial equipment, or flee before the base is overrun.",
+            "locations": [
+                "Hoth"
+            ],
+            "locationAreas": [
+                "Frozen Wastes",
+                "Ice Cavern Networks"
+            ],
+            "startingPartyNPCs": [
+                "Leia Organa",
+                "Han Solo",
+                "Chewbacca"
+            ],
+            "startingItems": [],
+            "isDefault": false
+        },
+        "Jedi Exile - Cornered": {
+            "name": "Jedi Exile - Cornered",
+            "description": "You're a Jedi survivor hiding in the ruins of Dantooine's old enclave when the Inquisitorius finally tracks you down. Imperial hunters are closing in through the grasslands, and the crumbling temple offers both shelter and trap. Fight, flee, or find another way—but the choice must be made now.",
+            "storyStart": "Open in the Ruined Jedi Enclave on Dantooine at night. The player is a Jedi exile who has been using the abandoned temple as a hideout, but Imperial Inquisitors have tracked them here. Red lightsabers ignite in the tall grass outside, and the sound of a TIE fighter circling overhead signals that escape routes are being sealed.",
+            "locations": [
+                "Dantooine"
+            ],
+            "locationAreas": [
+                "Ruined Jedi Enclave"
+            ],
+            "startingPartyNPCs": [],
+            "startingItems": [
+                {
+                    "item": "thermal detonator",
+                    "quantity": 1
+                }
+            ],
+            "isDefault": false
+        },
+        "Inquisitor's Hunt - Coruscant": {
+            "name": "Inquisitor's Hunt - Coruscant",
+            "description": "You've been forcefully twisted into the visage of an Inquisitor, a Jedi tortured to the point of no return. Now, a Force-sensitive fugitive has been tracked to the Coruscant underworld—your first true hunt as an Inquisitor. The Emperor expects results, Vader is watching, and the target is desperate enough to fight back. Prove your worth, or become another failure buried in the depths. What Vader didn't tell you is that the fugitive you're after is fully aware you're coming. This is a test as much as a kill.",
+            "storyStart": "Open in the Underworld Levels of Coruscant, where you've cornered a Force-sensitive refugee hiding among the forgotten masses. Your orders from the Inquisitorius are clear: capture or kill, extract information, and demonstrate your loyalty to the Empire. The fugitive knows you're coming and has prepared traps, allies, and escape routes through the labyrinthine depths. Darth Vader has assigned you this mission personally—your performance will be noted. Present immediate tactical choices: pursue aggressively through dangerous territory, interrogate witnesses to narrow the search, set an ambush at known exits, or use the Force to sense your prey's location and intentions.",
+            "locations": [
+                "Coruscant"
+            ],
+            "locationAreas": [
+                "Underworld Levels"
+            ],
+            "startingPartyNPCs": [],
+            "startingItems": [],
+            "isDefault": false
+        },
+        "Imperial Assault - Hoth": {
+            "name": "Imperial Assault - Hoth",
+            "description": "The Rebel base has been located. You're part of the Imperial ground assault on Hoth, advancing with AT-AT walkers and stormtrooper legions to crush the Rebellion's hidden stronghold. Victory is inevitable—but how you claim it will determine your standing in the Empire's eyes.",
+            "storyStart": "Open during the Imperial assault on Echo Base. The player is embedded with the ground forces—either commanding a walker crew, leading a stormtrooper squad, or coordinating the attack from a command speeder. Darth Vader has ordered the base taken intact if possible, and Grand Moff Tarkin's protocols demand efficiency and brutality. The Rebels are retreating, but they're fighting hard to buy time for their transports. Present immediate tactical choices: press the assault aggressively, capture fleeing personnel for interrogation, secure valuable intelligence from the base, or pursue escaping ships. The player's decisions will be noticed by Imperial command.",
+            "locations": [
+                "Hoth"
+            ],
+            "locationAreas": [
+                "Frozen Wastes",
+                "Ice Cavern Networks"
+            ],
+            "startingPartyNPCs": [],
+            "startingItems": [],
+            "isDefault": false
+        },
+        "Imperial Inspection - Mos Eisley": {
+            "name": "Imperial Inspection - Mos Eisley",
+            "description": "You're a stormtrooper conducting a routine checkpoint inspection in Mos Eisley Spaceport. Hundreds are lined up.",
+            "storyStart": "Open at a busy Imperial checkpoint in Mos Eisley Spaceport. The player is a stormtrooper stationed at the inspection line, processing a long queue of travelers, merchants, and locals under the watchful eye of the squad leader. The heat is oppressive and the crowd is restless. Grand Moff Tarkin's recent directive demands zero tolerance for Rebel activity, and your squad leader expects results.",
+            "locations": [
+                "Tatooine"
+            ],
+            "locationAreas": [
+                "Mos Eisley Spaceport"
+            ],
+            "startingPartyNPCs": [],
+            "startingItems": [
+                {
+                    "item": "E-5 blaster rifle",
+                    "quantity": 1
+                },
+                {
+                    "item": "thermal detonator",
+                    "quantity": 1
+                }
+            ],
+            "isDefault": false
+        },
+        "Imperial Officer - Rebel Sabotage": {
+            "name": "Imperial Officer - Rebel Sabotage",
+            "description": "You're an Imperial officer aboard a Star Destroyer when alarms scream through the corridors—Rebel saboteurs have infiltrated the ship and are moving toward the reactor core. Your crew is scattered, security is compromised, and command is demanding results. Stop the sabotage, contain the chaos, or watch your career burn with the ship.",
+            "storyStart": "Open in the command corridor of an Imperial Star Destroyer in orbit above Coruscant. The player is a mid-level Imperial officer who has just been alerted that Rebel infiltrators have breached the lower decks and are heading toward the main reactor. Alarms are blaring, stormtroopers are mobilizing, and Grand Moff Tarkin has transmitted orders demanding immediate containment. The player must coordinate security teams, seal blast doors, and hunt down the saboteurs before they cripple the ship. Present immediate tactical choices: pursue the infiltrators directly, lock down critical systems, interrogate detained suspects for intelligence, or call in reinforcements from nearby sectors.",
+            "locations": [
+                "Coruscant"
+            ],
+            "locationAreas": [
+                "Galactic City Sprawl"
+            ],
+            "startingPartyNPCs": [
+                "Grand Moff Tarkin"
+            ],
+            "startingItems": [
+                {
+                    "item": "blaster pistol",
+                    "quantity": 1
+                },
+                {
+                    "item": "tactical datapad",
+                    "quantity": 1
+                }
+            ],
+            "isDefault": false
+        },
+        "Imperial Officer - Occupation Duty": {
+            "name": "Imperial Officer - Occupation Duty",
+            "description": "You're an Imperial garrison commander on a newly occupied Outer Rim world where the population is restless and resistance cells are forming. Your orders are clear: maintain order, crush dissent, and extract resources for the Empire. But every decision you make—brutal crackdown or strategic restraint—will determine whether this world stays pacified or erupts into open rebellion.",
+            "storyStart": "Open in the garrison command center of an Imperial occupation force on Ryloth. The player is a garrison commander overseeing security operations in the capital city of Lessu. Local Twi'lek leaders are demanding an audience to protest harsh labor quotas, while intelligence reports indicate Rebel sympathizers are stockpiling weapons in the underground spice caves. Darth Vader has personally transmitted orders emphasizing the importance of resource extraction and zero tolerance for insurgency.",
+            "locations": [
+                "Ryloth"
+            ],
+            "locationAreas": [
+                "Ryloth Capital Lessu",
+                "Spice Caves"
+            ],
+            "startingPartyNPCs": [],
+            "startingItems": [
+                {
+                    "item": "blaster pistol",
+                    "quantity": 1
+                },
+                {
+                    "item": "tactical datapad",
+                    "quantity": 1
+                },
+                {
+                    "item": "diplomatic credentials",
+                    "quantity": 1
+                }
+            ],
+            "isDefault": false
+        },
+        "Imperial Prisoner - Vessel Under Attack": {
+            "name": "Imperial Prisoner - Vessel Under Attack",
+            "description": "You wake in a detention cell aboard an Imperial transport as alarm klaxons scream and the ship shudders under fire. Someone—Rebels, pirates, or worse—is attacking the vessel, and the crew is scrambling. You're locked in, unarmed, and caught between your captors and whoever's trying to tear the ship apart. This is your chance to escape, die trying, or seize control of your fate.",
+            "storyStart": "Open in a detention cell aboard an Imperial prison transport in deep space. The player is a prisoner who awakens to violent shaking, blaring alarms, and the distant sound of blaster fire and explosions. The ship is under attack—hull breaches are imminent, stormtroopers are rushing to defensive positions, and the detention block is being evacuated or abandoned.",
+            "locations": [
+                "Deep Space"
+            ],
+            "locationAreas": [],
+            "startingPartyNPCs": [],
+            "startingItems": [],
+            "isDefault": false
+        },
+        "Marked for Death": {
+            "name": "Marked for Death",
+            "description": "You're a bounty hunter on an average job, looking to score big with this one.",
+            "storyStart": "Begin in the Vertical City Sectors of Nar Shaddaa, inside a smoke-filled cantina called the Rusty Blaster. The player is a bounty hunter who is actively receiving their job from a unique character. Have the player's bounty also be an original character. It should be a high paying but dangerous job.",
+            "locations": [
+                "Nar Shaddaa"
+            ],
+            "locationAreas": [
+                "Vertical City Sectors"
+            ],
+            "startingPartyNPCs": [],
+            "startingItems": [
+                {
+                    "item": "blaster pistol",
+                    "quantity": 1
+                },
+                {
+                    "item": "thermal detonator",
+                    "quantity": 1
+                }
+            ],
+            "isDefault": false
+        },
+        "Blood Debt": {
+            "name": "Blood Debt",
+            "description": "You're a bounty hunter working off a massive debt to Jabba the Hutt, and your latest contract just went sideways in the worst way possible. Your target escaped into Tatooine's Dune Sea with stolen spice worth a fortune, and if you don't bring them back—or their corpse—Jabba's enforcers will be collecting from you instead.",
+            "storyStart": "Begin at the edge of Mos Eisley Spaceport on Tatooine, just after dawn. The player is a bounty hunter who tracked a spice smuggler named Vekk to a hangar bay, but Vekk spotted them and fled into the Dune Sea on a stolen speeder bike with Jabba's spice. Jabba's majordomo, a slimy Twi'lek named Bib Fortuna, is present via hologram, coldly reminding the player that failure means being fed to the rancor. The player has a choice: pursue Vekk immediately into the dangerous desert (risking Tusken Raiders, sandstorms, and running out of water), try to hire local trackers or Jawas for help, or attempt to negotiate more time with Jabba's representatives. Establish the brutal heat, the distant dust cloud from Vekk's speeder, Fortuna's menacing tone, and the weight of the debt hanging over the player's head.",
+            "locations": [
+                "Tatooine"
+            ],
+            "locationAreas": [
+                "Mos Eisley Spaceport",
+                "Dune Sea"
+            ],
+            "startingPartyNPCs": [],
+            "startingItems": [
+                {
+                    "item": "blaster pistol",
+                    "quantity": 1
+                },
+                {
+                    "item": "first aid kit",
+                    "quantity": 1
+                }
+            ],
+            "isDefault": false
+        },
+        "Rebel - Rebel": {
+            "name": "Rebel - Rebel",
+            "description": "You've just joined the Rebellion with a group of friends. However noble and/or misguided you are, the main issue is that you've never fired a blaster.",
+            "storyStart": "Open in Echo Base on the planet Hoth. Have a comedic opening scene in which you and your group of friends have arrived to Echo Base to join the Rebellion. Introduce the small group of four friends, each of a different race with a different, distinct personality, make none boring. Have one of them complain about how cold it is, a lot of bickering and small friendly banter as they await the arrival of an officer. Introduce the person who recruits them, a mid-ranking Rebel, make him distinct and memorable too, exasperated by the group of youngsters he now has to manage. Make his race unique too.",
+            "locations": [
+                "Hoth"
+            ],
+            "locationAreas": [
+                "Ice Cavern Networks"
+            ],
+            "startingPartyNPCs": [],
+            "startingItems": [
+                {
+                    "item": "blaster pistol",
+                    "quantity": 1
+                },
+                {
+                    "item": "forged credentials",
+                    "quantity": 1
+                }
+            ],
+            "isDefault": false
+        },
+        "Empire - Rebel": {
+            "name": "Empire - Rebel",
+            "description": "You come from a planet where Imperial recruitment is as simple as giving your name and being over the age of fourteen. The benefits starting out aren't great, and you don't even get the shiny white stormtrooper getup until you either do something impressive or exist long enough, but given the alternative is the rebellion, you and your ragtag group of friends feel this is the better bet.",
+            "storyStart": "Open in the hangar bay of an Imperial Star Destroyer in deep space. The player and their friends and brand new imperial troopers, not even high enough rank to be stormtroopers. The four of them hail from a planet where recruitment was as simple as giving a name and age, which the commanding officer who grimly overlooks them finds to be disconcerting. Have a blend of comedy as the player's friends are quite immature, unable to sit still, making small talk where not appropriate, being distracted et cetera. Make each of the friends unique, with a distinct personality and species. The commanding officer is not amused, and openly grimaces at one of the player's friends being amazed at seeing the stars, having never even been off planet before this.",
+            "locations": [
+                "Deep Space"
+            ],
+            "locationAreas": [],
+            "startingPartyNPCs": [],
+            "startingItems": [
+                {
+                    "item": "blaster pistol",
+                    "quantity": 1
+                },
+                {
+                    "item": "tactical datapad",
+                    "quantity": 1
+                }
+            ],
+            "isDefault": false
+        },
+        "Dopo me goola...": {
+            "name": "Dopo me goola...",
+            "description": "Your cargo run for Jabba the Hutt just went sideways—an Imperial blockade has appeared between you and your delivery point, and Star Destroyers are scanning every ship in the sector. Dumping that cargo could be 1,000 years being digested, but the Empire isn't much kinder.",
+            "storyStart": "Open in the cockpit of your light freighter as proximity alarms scream and Imperial Star Destroyers materialize from hyperspace, blocking your route to Tatooine. You're hauling a hold full of Jabba's spice—valuable, illegal, and absolutely fatal to be caught with. Imperial TIE fighters are launching patrol sweeps, and your ship is being hailed for inspection. Jabba doesn't forgive lost cargo, and the Empire doesn't forgive smugglers. Present immediate tactical choices: attempt to bluff your way through inspection with forged credentials, plot a dangerous micro-jump through the blockade's blind spots, jettison the cargo and claim engine trouble, or try to bribe or distract Imperial officers long enough to slip away.",
+            "locations": [
+                "Deep Space"
+            ],
+            "locationAreas": [],
+            "startingPartyNPCs": [],
+            "startingItems": [
+                {
+                    "item": "modified light freighter",
+                    "quantity": 1
+                },
+                {
+                    "item": "smuggler's blaster pistol",
+                    "quantity": 1
+                },
+                {
+                    "item": "forged credentials",
+                    "quantity": 1
+                },
+                {
+                    "item": "comlink scrambler",
+                    "quantity": 1
+                }
+            ],
+            "isDefault": false
+        },
+        "Ferrix - Just Walking Here": {
+            "name": "Ferrix - Just Walking Here",
+            "description": "You're nobody special on Ferrix—just another man trying to get through the day.",
+            "storyStart": "Open on Rix Road during morning rush hour. The player is a Ferrix local walking through the crowded street. Focus on the feeling of just being one man in a sea of people. Someone bumping past you, people loudly having conversations about things no one cares about, etc. Do not introduce or force in any tension or threats.",
+            "locations": [
+                "Ferrix"
+            ],
+            "locationAreas": [
+                "Rix Road District"
+            ],
+            "startingPartyNPCs": [],
+            "startingItems": [],
+            "isDefault": false
+        }
+    }
+}

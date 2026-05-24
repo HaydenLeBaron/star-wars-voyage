@@ -1,0 +1,117 @@
+{
+    "traitCategories": {
+        "Race": {
+            "name": "Race",
+            "maxSelections": 1,
+            "traits": [
+                "Human",
+                "Dwarf",
+                "Halfling",
+                "Orc",
+                "Moon elf",
+                "Wood elf",
+                "Dark Elf",
+                "Half-elf",
+                "Dragonkin",
+                "Demonborn",
+                "Giantborn",
+                "Construct",
+                "Catkin",
+                "Ratkin",
+                "Serpentkin",
+                "Lizardfolk"
+            ]
+        },
+        "Class": {
+            "name": "Class",
+            "maxSelections": 1,
+            "traits": [
+                "Fighter",
+                "Ranger",
+                "Rogue",
+                "Paladin",
+                "Berserker",
+                "Monk",
+                "Blood Dancer",
+                "Bard",
+                "Wizard",
+                "Sorcerer",
+                "Warlock",
+                "Cleric",
+                "Druid",
+                "Tinker"
+            ]
+        },
+        "Natural Talents": {
+            "name": "Natural Talents",
+            "maxSelections": 2,
+            "traits": [
+                "Determined",
+                "Graceful",
+                "Strong",
+                "Charming",
+                "Intelligent",
+                "Wise"
+            ]
+        },
+        "Background": {
+            "name": "Background",
+            "maxSelections": 1,
+            "traits": [
+                "Noble Heritage",
+                "Craftsman",
+                "Trade Contacts",
+                "Athlete",
+                "Friendly Face",
+                "Criminal",
+                "Soldier",
+                "Outlaw",
+                "Herbalist",
+                "Hunter",
+                "Acolyte",
+                "Entertainer"
+            ]
+        },
+        "Training": {
+            "name": "Training",
+            "maxSelections": 1,
+            "traits": [
+                "Fire Magic",
+                "Air Magic",
+                "Water Magic",
+                "Earth Magic",
+                "Divine Magic",
+                "Dark Magic",
+                "Illusion Magic",
+                "Necromancy",
+                "Conjuration",
+                "Divination",
+                "Nature Magic",
+                "Blood Magic",
+                "Healing Magic",
+                "Enchanting",
+                "Tactics",
+                "Medicine",
+                "Investigation",
+                "Animal Handling",
+                "Riding",
+                "Shield"
+            ]
+        },
+        "Starting Weapon": {
+            "name": "Starting Weapon",
+            "maxSelections": 1,
+            "traits": [
+                "Sword",
+                "Staff",
+                "Archery",
+                "Axe",
+                "Spear",
+                "Blunt Weapons",
+                "Dagger",
+                "Unarmed Combat",
+                "Warhammer"
+            ]
+        }
+    }
+}

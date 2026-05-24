@@ -1,0 +1,1 @@
+Copy @s1-resources/example-schema.json and keep it the same except rename `mana` to `midichlorians`.

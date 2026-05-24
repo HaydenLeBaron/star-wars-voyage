@@ -1,0 +1,58 @@
+{
+    "attributeSettings": {
+        "attributeNames": [
+            "constitution",
+            "strength",
+            "dexterity",
+            "intelligence",
+            "wisdom",
+            "charisma"
+        ],
+        "lowAttributeTraits": {
+            "constitution": "Tires quickly and needs frequent rest. Strenuous activities leave them winded and shaky.",
+            "strength": "Struggles with heavy objects and physical tasks that others find routine. Has a weak grip and movements lack force.",
+            "dexterity": "Is prone to fumbling with delicate tasks and has trouble with precise movements. Fine motor control doesn't come naturally.",
+            "intelligence": "Takes longer to grasp complex ideas and often needs concepts explained multiple times before they click.",
+            "wisdom": "Tends to act impulsively and has trouble reading between the lines in social situations or spotting obvious dangers.",
+            "charisma": "Finds it difficult to connect with others and often says the wrong thing at the wrong time, leaving conversations feeling strained."
+        },
+        "maxStartingAttribute": 18,
+        "lowAttributeThreshold": 5,
+        "attributeBonusModifier": 1,
+        "attributeStatModifiers": {
+            "wisdom": {
+                "type": "characterResources",
+                "amount": 1,
+                "variable": "mana"
+            },
+            "charisma": {
+                "type": "characterResources",
+                "amount": 1,
+                "variable": "stamina"
+            },
+            "strength": {
+                "type": "characterResources",
+                "amount": 1,
+                "variable": "health"
+            },
+            "dexterity": {
+                "type": "characterResources",
+                "amount": 1,
+                "variable": "stamina"
+            },
+            "constitution": {
+                "type": "characterResources",
+                "amount": 1,
+                "variable": "health"
+            },
+            "intelligence": {
+                "type": "characterResources",
+                "amount": 1,
+                "variable": "mana"
+            }
+        },
+        "startingAttributeValue": 10,
+        "startingAttributePoints": 16,
+        "attributeDoubleCostAt": 14
+    }
+}
