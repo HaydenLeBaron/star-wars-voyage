@@ -1,0 +1,9 @@
+{
+    "otherSettings": {
+        "startingCharacterLevelUpRequirement": 600,
+        "extraRequiredXPPerCharacterLevel": 30,
+        "maxCharacterLevel": 100,
+        "npcHealthPerLevel": 12,
+        "npcMinHealth": 66
+    }
+}

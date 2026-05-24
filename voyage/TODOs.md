@@ -19,6 +19,7 @@
   - [x] realms
 - [x] t3-mechanics
   - [ ] Abilities -- TODO: get from Star Wars FF system and gate behind the traits: career, specialization, force sensitivity
+    -  Actually, it may be challenging to adapt them. May be worth letting AI generate some, gated behind careers/specializations
   - [ ] Triggers -- TODO: figure out later
 - [ ] t4-ai
   - [ ] Adapt Larion and existing Star Wars world
