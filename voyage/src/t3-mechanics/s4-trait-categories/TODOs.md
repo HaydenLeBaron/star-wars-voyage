@@ -1,0 +1,1 @@
+- [ ] Actually create gameplay effects of traits
