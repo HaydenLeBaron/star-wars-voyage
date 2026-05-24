@@ -51,24 +51,6 @@
                 ]
             ]
         },
-        "Obligation": {
-            "name": "Obligation",
-            "maxSelections": 5,
-            "traits": [
-                "Obligation - Addiction",
-                "Obligation - Betrayal",
-                "Obligation - Blackmail",
-                "Obligation - Bounty",
-                "Obligation - Criminal Record",
-                "Obligation - Debt",
-                "Obligation - Dutybound",
-                "Obligation - Family",
-                "Obligation - Favor",
-                "Obligation - Oath",
-                "Obligation - Obsession",
-                "Obligation - Responsibility"
-            ]
-        },
         "Formative Career/Experience": {
             "name": "Formative Career",
             "maxSelections": 1,
@@ -202,6 +184,20 @@
                 ]
             ]
         },
+        "Natural Talents": {
+            "name": "Natural Talents",
+            "maxSelections": 2,
+            "traits": [
+                [
+                    "Attribute - Tough (Brawn)",
+                    "Attribute - Coordinated (Agility)",
+                    "Attribute - Intelligent (Intellect)",
+                    "Attribute - Crafty (Cunning)",
+                    "Attribute - Strong-willed (Willpower)",
+                    "Attribute - Charismatic (Presence)"
+                ]
+            ]
+        },
         "Force Sensitivity": {
             "name": "Force Sensitivity",
             "maxSelections": 1,
@@ -211,6 +207,24 @@
                 "Force Sensitivity - Medium",
                 "Force Sensitivity - High",
                 "Force Sensitivity - Abnormally High"
+            ]
+        },
+        "Obligation": {
+            "name": "Obligation",
+            "maxSelections": 5,
+            "traits": [
+                "Obligation - Addiction",
+                "Obligation - Betrayal",
+                "Obligation - Blackmail",
+                "Obligation - Bounty",
+                "Obligation - Criminal Record",
+                "Obligation - Debt",
+                "Obligation - Dutybound",
+                "Obligation - Family",
+                "Obligation - Favor",
+                "Obligation - Oath",
+                "Obligation - Obsession",
+                "Obligation - Responsibility"
             ]
         }
     }

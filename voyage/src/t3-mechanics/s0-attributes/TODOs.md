@@ -1,0 +1,1 @@
+- [ ] Tune numbers in @attributes through playtesting (right now they are probably whacked)

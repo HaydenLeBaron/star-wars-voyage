@@ -1,0 +1,50 @@
+{
+    "attributeSettings": {
+        "attributeNames": [
+            "brawn",
+            "agility",
+            "intellect",
+            "cunning",
+            "willpower",
+            "presence",
+            "force-sensitivity"
+        ],
+        "lowAttributeTraits": {
+            "brawn": "Is easily encumbered; gets injured and winded easily.",
+            "agility": "Poor manual dexterity, hand-eye coordination, balance, flexibility, and body control. Struggles with ranged combat.",
+            "intellect": "Poor intelligence, education, mental acuity, and reasoning ability. Struggles with extrapolation, analysis, deduction, and long-term strategizing--as well as skills like Astrogation, Computers, and knowledge-related skills.",
+            "cunning": "Poor creativity, cleverness, savviness, and social/environmental perceptiveness. Struggles with deception, perception, survival, and short-term planning.",
+            "willpower": "Lacks discipline, self-control, mental fortitude, and faith. Struggles to withstand stress and fatigue, remain composed during chaotic situations, and exert influence over the weaker-willed.",
+            "presence": "Lacks charisma, confidence, moxie, and force of personality. Struggles with leadership, charm, social adaptability, and conversing with strangers.",
+            "force-sensitivity": "Lacks a perceptible connection to the Force. Struggles with faith. Cannot safely wield a lightsaber and effectively."
+        },
+        "maxStartingAttribute": 18,
+        "lowAttributeThreshold": 5,
+        "attributeBonusModifier": 1,
+        "attributeStatModifiers": {
+            "force-sensitivity": {
+                "type": "characterResources",
+                "amount": 1,
+                "variable": "midichlorians"
+            },
+            "agility": {
+                "type": "characterResources",
+                "amount": 1,
+                "variable": "stamina"
+            },
+            "willpower": {
+                "type": "characterResources",
+                "amount": 1,
+                "variable": "strain"
+            },
+            "brawn": {
+                "type": "characterResources",
+                "amount": 1,
+                "variable": "health"
+            }
+        },
+        "startingAttributeValue": 10,
+        "startingAttributePoints": 16,
+        "attributeDoubleCostAt": 14
+    }
+}
