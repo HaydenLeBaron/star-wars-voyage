@@ -1,0 +1,20 @@
+{
+    "combatSettings": {
+        "minCombatXP": 1,
+        "baseCombatXP": 100,
+        "abilityCooldown": 20,
+        "abilityBonus": 10,
+        "npcDailyHealingAmount": 100,
+        "damageTypes": [
+            "energy",
+            "ion",
+            "lightsaber",
+            "fire",
+            "slash/pierce",
+            "blunt",
+            "force light-side",
+            "force dark-side",
+            "strain (stun)"
+        ]
+    }
+}
