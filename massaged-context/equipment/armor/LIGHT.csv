@@ -1,0 +1,37 @@
+Type,Defense,Soak,HP,Encum,(R),Price,Rarity
+"""Storm"" Charge Suit (GaG)",0,2,0,3,,"2,000",2
+"""Storm"" Charge Suit (DC)",0,2,0,3,,"2,000",6
+Alliance Engineer's Helmet and Vest,0,1,0,1,,75,1
+Alliance Light Stealth Armor,0,2,2,3,(R),"2,200",7
+Armored Clothing,1,1,1,3,,"1,000",6
+Armored Drop Suit,1,1,2,6,,"7,500",7
+Armored Half-vest,1,1,0,3,,500,5
+Beast-hide Armor (GaG),0,1,0,2,,300,3
+"Beast-hide Armor (SS, DC)",0,1,0,3,,300,2
+Blast Vest,0,1,1,3,,200,3
+Catch Vest,0,2,0,1,,300,3
+Clone Dive Armor,0,2,2,3,(R),"4,500",7
+Clone Reconnaissance Armor,0,2,2,3,(R),"4,000",6
+Custom Tailored Armored Jacket,0,2,0,1,,"6,200",7
+Flare Jacket,0,1,0,3,,"1,500",8
+Formal Council Armor,0,2,2,5,(R),"8,000",10
+Hunter's Trophy Armor (completed),0,2,1,4,(R),"2,000",9
+Hunter's Trophy Armor (custom-made),0,2,1,4,(R),"1,000",6
+Imperial Storm Commando Armor,0,2,4,4,(R),"5,000",9
+Jedi Commander Armor,1,2,3,5,(R),"5,000",8
+Jedi Reconnaissance Armor,1,1,2,2,,"4,000",8
+Jedi Temple Guard Armor,2,1,3,4,(R),"12,000",10
+Mk I NightStalker Infiltrator Suit,0,2,1,2,(R),"4,800",9
+Mk III Flak Vest,0,1,1,3,,300,2
+"Mk IX Personal Mimetic Concealment Suit (GaG, CaM)",1,1,1,2,(R),"8,000",8
+Mk IX Personal Mimetic Concealment Suit (FC),1,1,2,2,(R),"8,000",8
+Mountaineer Armor,1,1,2,3,,"1,800",6
+Padded Armor,0,2,0,2,,500,1
+Pioneer Armor (GaG),0,1,2,1,,200,4
+Pioneer Armor (FO),0,1,1,1,,200,4
+Riot Armor,0,2,2,3,,950,4
+Second Skin Armor,1,1,0,2,,"2,000",7
+Survivalist Armor,0,1,2,3,,350,6
+Timber Cuirass,1,2,1,4,,"4,000",5
+"Type III ""Berethron"" Personal Modular Armor",1,1,3,3,(R),"1,250",6
+Verpine Fiber Ultramesh Armor,0,1,2,3,,"3,000",5

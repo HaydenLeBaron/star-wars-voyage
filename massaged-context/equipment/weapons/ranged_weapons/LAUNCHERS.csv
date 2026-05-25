@@ -1,0 +1,11 @@
+Name,Skill,Dam,Crit,Range,Encum,HP,(R),Price,Rarity,Special
+CSPL-12 Projectile Launcher (frag grenades),Ranged (Light),8,4,Medium,2,2,(R),"1,200",6,"Blast 6, Limited Ammo 3"
+Gungan Atlatl (plasma ball),Ranged (Light),5,3,Medium,2,0,,100,7,"Accurate 1, Burn 1, Ion, Limited Ammo 1"
+"M9 ""Boomer"" Heavy Pistol",Ranged (Light),5,3,Medium,3,2,,"1,000",6,"Blast 5, Cumbersome 2, Inaccurate 1"
+Micro-Rocket Launcher Pistol,Ranged (Light),0,-,Medium,3,0,,500,7,
+Missile Tube (standard),Gunnery,20,2,Extreme,7,4,(R),"7,500",8,"Blast 10, Breach 1, Cumbersome 3, Guided 3, Limited Ammo 6, Prepare 1"
+Mini-Torpedo Launcher (default),Ranged (Heavy),8,2,Long,4,4,,"2,000",6,"Blast 6, Cumbersome 2, Limited Ammo 2"
+RGL-318 Rotary Grenade Launcher (frag grenades),Gunnery,8,4,Medium,5,3,(R),"1,000",3,"Blast 6, Cumbersome 3, Limited Ammo 5"
+"RLR-331 ""Bulldog"" Rocket Rifle",Ranged (Heavy),10,4,Long,6,3,(R),"2,200",7,"Blast 8, Cumbersome 3, Guided 3, Limited Ammo 6"
+RPS-6 Rocket Launcher,Gunnery,22,2,Extreme,8,4,(R),"8,200",8,"Blast 14, Breach 1, Cumbersome 4, Guided 2, Limited Ammo 7"
+Z50 Grenade Launcher (frag grenades),Gunnery,8,4,Medium,5,3,(R),"1,250",4,"Blast 6, Cumbersome 3, Limited Ammo 6"

@@ -1,0 +1,8 @@
+Model,NPC,Br/Ag/Int/Cun/Wil/Pr,Soak,WT,ST,M/R Def.,Skills,(R),Price,Rarity
+Butterbug Remote,Minion,1/1/1/1/1/1,2,3,,0/0,"Mechanics, Melee",,700,4
+EOD-Mk IV Explosives Disposal Remote,Minion,1/1/1/1/1/1,2,2,,0/0,"Mechanics, Perception, Vigilance",(R),500,6
+Generic Remote,Minion,1/1/1/1/1/1,2,5,,0/0,Perception,,400,2
+Marksman-H Combat Remote,Minion,1/3/1/1/1/1,1,3,,1/1,"Perception, Ranged (Light)",,350,5
+P2F Hostile Environment Remote,Minion,1/2/1/3/1/1,2,4,,0/0,"Athletics, Cool, Perception, Resilience",,"3,500",4
+Shield Remote,Minion,1/1/1/1/1/1,3,6,,1/1,Vigilance,,"1,100",5
+"WSW Mk III ""Harrier"" Combat Remote",Minion,1/3/1/1/1/1,3,8,,0/0,"Perception, Ranged (Heavy), Ranged (Light), Vigilance",(R),"6,000",6

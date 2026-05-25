@@ -1,0 +1,32 @@
+Gear,Price,Enc.,Rare.,Features
+"""Knack"" Restraining Bolt",750 (R),0,8,"Acts as a restraining bolt, but containing secret programming for the droid"
+Advanced Flesh Camouflage Kit,"2,500 (R)",2,7,Disguises user all the way to the genetic level
+AL-DR8 Grav Binders,300,1,7,Especially difficult binders to get out of
+Binders,25,0,0,Restrains an individual
+"Biotech ""Bag & Tag"" Forensics Investigation Kit",450,4,4,Increases crime investigation ability
+BlackOps Data Breaker,"1,000 (R)",1,6,Brute-force hacking implement
+Com Jammer,400,4,3,Prevents comlinks from working nearby
+Com Scrambler,"1,000",0,5,Encrypts transmissions from comlink
+Data Dead Drop,150 (R),0,7,A common item containing a concealed datachip
+Dataspike,100 (R),1,3,Single-use brute force hacking tool
+Disguise Kit,100,0,5,Allows to appear as another person
+Ealewon A-212 Tracing Console,"3,000",12,6,Monitors electronic system for intrusion
+Electronic Lock Breaker,"1,000 (R)",1,5,Enables hacking through locks
+Explosive Shackles,500 (R),2,6,Failing to escape the binds detonates them
+Gravity Locks,"7,400",14,6,Impedes take-off by a vessel it is placed on
+Lockpick Set,50 (R),1,6,Helps getting through locks
+Magna-Lock Safe,"1,000",12,5,Almost impossible safe to break into
+MCI-100 Magnacuffs,100,1,4,Especially difficult binders to get out of
+Palm Stunner,500 (R),1,5,Stealth stun targets
+Personal Stealth Field,"20,000 (R)",1,9,User is almost invisible
+Personal Transponder,100,0,4,Allows one to be tracked
+Restraining Bolt,35,0,0,Makes droid compliant or disables them
+Scramble Key,750 (R),1,4,Bypasses most locks over time
+Security Sweeper,400,1,6,Reveals recording and espionage devices
+Shadowcloak,"2,500 (R)",2,6,Makes one harder to discern
+Shift Coffer,"2,500",5,7,Safe which is self-hiding
+Signature Modulation Pad,250 (R),2,7,Harder to identify while hacking
+Slicer Gear,500,2,4,Allows slicing/hacking into systems
+Stun Cuffs,100,0,5,Failing escape stuns the bound individual
+Thalassian Security Collar,300 (R),1,5,Slave collar which harms bound individual during escape attempts
+Vid-Vox Scrambler,"2,400",2,8,Jams recording devices within the field and disrupts audio waves from reaching outside

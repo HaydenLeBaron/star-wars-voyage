@@ -1,0 +1,17 @@
+Type,Defense,Soak,HP,Encum,(R),Price,Rarity
+Banal Apparel,0,0,0,-,,25,0
+Cargo Clothes,0,0,0,1,,30,0
+Concealing Robes,0,1,0,1,,150,2
+Diplomat's Robes,0,0,0,2,,400,6
+Heavy Clothing,0,1,0,1,,50,0
+Heavy Robes,1,0,0,1,,150,2
+Holographic Costume,1,0,0,2,,750,8
+Lector's Outfit,0,1,1,2,,525,6
+Noble Regalia,0,0,3,1,,750,7
+Nomad Greatcoat,0,1,0,1,,100,4
+Performer's Attire,0,0,0,0,,50,4
+Pit Crew Coveralls,0,1,1,1,,150,2
+Polis Massan Bodysuit,0,1,1,1,,300,6
+Resplendent Robes,0,1,0,2,,500,5
+Smuggler's Trenchcoat,1,1,0,3,,"1,650",7
+Tracker Utility Vest,0,0,1,-,,100,2

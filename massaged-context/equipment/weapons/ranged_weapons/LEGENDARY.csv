@@ -1,0 +1,7 @@
+Name,Skill,Dam,Crit,Range,Encum,HP,(R),Price,Rarity,Special
+Boba Fett's Armor (integrated flamethrower),Ranged (Light),5,2,Short,6,0,,Not for Sale,10,"Blast 2, Burn 2, Pierce 2, Vicious 3"
+Boba Fett's Armor (integrated jetpack missile tube),Gunnery,20,2,Extreme,6,0,,Not for Sale,10,"Blast 10, Breach 1, Cumbersome 3, Guided 3, Limited Ammo 1, Prepare 1"
+Boba Fett's Armor (integrated whipcord),Ranged (Light),1,-,Short,6,0,,Not for Sale,10,"Ensnare 3, Knockdown, Limited Ammo 1"
+Chewbacca's Bowcaster,Ranged (Heavy),10,4,Medium,5,-,,Not for Sale,10,"Cumbersome 3, Knockdown, Quarrel Bandolier"
+Han Solo's Customized DL-44 Heavy Blaster Pistol,Ranged (Light),7,3,Medium,2,-,,Not for Sale,10,"Stun setting, Overcharged"
+Qi'ra's Monlitzer S-195 Blaster Pistol,Ranged (Light),5,3,Medium,1,-,,Not for Sale,10,"Implied Violence, Linked 1, Stun setting, Superior"
