@@ -1,0 +1,270 @@
+{
+    "npcTypes": {
+        "mundane humanoid": {
+            "name": "mundane humanoid",
+            "description": "An ordinary mortal person such as a guard, bandit, merchant, villager, rogue, soldier, or cultist without supernatural defenses.",
+            "vulnerabilities": [],
+            "resistances": [],
+            "immunities": []
+        },
+        "trained warrior": {
+            "name": "trained warrior",
+            "description": "A disciplined martial combatant protected by armor, toughness, or battlefield training.",
+            "vulnerabilities": [],
+            "resistances": [
+                "impact"
+            ],
+            "immunities": []
+        },
+        "arcane spellcaster": {
+            "name": "arcane spellcaster",
+            "description": "A mortal mage, wizard, illusionist, blood mage, runesmith, or ritualist whose defenses come from spellcraft rather than monstrous nature.",
+            "vulnerabilities": [
+                "impact"
+            ],
+            "resistances": [
+                "arcane"
+            ],
+            "immunities": []
+        },
+        "priest or blessed caster": {
+            "name": "priest or blessed caster",
+            "description": "A mortal holy caster, shrine guardian, templar, or light-bearing servant of a sacred power.",
+            "vulnerabilities": [
+                "shadow"
+            ],
+            "resistances": [
+                "radiant"
+            ],
+            "immunities": []
+        },
+        "corporeal undead": {
+            "name": "corporeal undead",
+            "description": "A physical undead body such as a zombie, ghoul, mummy, revenant, barrowguard, or death knight.",
+            "vulnerabilities": [
+                "radiant"
+            ],
+            "resistances": [
+                "shadow",
+                "poison",
+                "piercing"
+            ],
+            "immunities": []
+        },
+        "spectral undead": {
+            "name": "spectral undead",
+            "description": "An incorporeal undead spirit such as a ghost, wraith, banshee, shade, or possessor.",
+            "vulnerabilities": [
+                "radiant"
+            ],
+            "resistances": [
+                "piercing",
+                "slashing",
+                "impact"
+            ],
+            "immunities": [
+                "poison"
+            ]
+        },
+        "undead spellcaster": {
+            "name": "undead spellcaster",
+            "description": "A lich, necromantic archmage, dracolich, or other undead whose body is sustained by powerful death magic.",
+            "vulnerabilities": [
+                "radiant"
+            ],
+            "resistances": [
+                "shadow",
+                "arcane",
+                "piercing"
+            ],
+            "immunities": [
+                "poison"
+            ]
+        },
+        "fiend": {
+            "name": "fiend",
+            "description": "A demon, devil, hellhound, nightmare, soul thief, or infernal creature shaped by fire and shadow.",
+            "vulnerabilities": [
+                "radiant"
+            ],
+            "resistances": [
+                "fire",
+                "shadow"
+            ],
+            "immunities": []
+        },
+        "fire elemental": {
+            "name": "fire elemental",
+            "description": "A creature made from flame, magma, ash, or living heat.",
+            "vulnerabilities": [
+                "frost"
+            ],
+            "resistances": [],
+            "immunities": [
+                "fire"
+            ]
+        },
+        "frost elemental": {
+            "name": "frost elemental",
+            "description": "A creature made from ice, winter, freezing water, or supernatural cold.",
+            "vulnerabilities": [
+                "fire"
+            ],
+            "resistances": [],
+            "immunities": [
+                "frost"
+            ]
+        },
+        "storm elemental": {
+            "name": "storm elemental",
+            "description": "A creature of lightning, thunder, charged wind, or living storm.",
+            "vulnerabilities": [],
+            "resistances": [
+                "shock"
+            ],
+            "immunities": []
+        },
+        "shadow creature": {
+            "name": "shadow creature",
+            "description": "A shade, void-touched being, smoke spirit, nightmare thing, or creature sustained by darkness.",
+            "vulnerabilities": [
+                "radiant"
+            ],
+            "resistances": [
+                "shadow",
+                "frost"
+            ],
+            "immunities": []
+        },
+        "plant creature": {
+            "name": "plant creature",
+            "description": "A living plant, fungus, awakened tree, dryad-bound growth, or vegetation monster.",
+            "vulnerabilities": [
+                "fire"
+            ],
+            "resistances": [
+                "piercing",
+                "psychic"
+            ],
+            "immunities": []
+        },
+        "ooze": {
+            "name": "ooze",
+            "description": "A slime, gelatinous cube, amorphous dungeon scavenger, or boneless acidic mass.",
+            "vulnerabilities": [
+                "frost"
+            ],
+            "resistances": [
+                "piercing",
+                "slashing"
+            ],
+            "immunities": [
+                "poison"
+            ]
+        },
+        "construct": {
+            "name": "construct",
+            "description": "An automaton, golem, animated armor, gargoyle, or other artificial body animated by magic or machinery.",
+            "vulnerabilities": [
+                "shock"
+            ],
+            "resistances": [
+                "poison",
+                "psychic",
+                "piercing"
+            ],
+            "immunities": []
+        },
+        "stone construct": {
+            "name": "stone construct",
+            "description": "A stone golem, gargoyle, animated statue, or rocky artificial guardian.",
+            "vulnerabilities": [
+                "acid"
+            ],
+            "resistances": [
+                "piercing",
+                "slashing",
+                "poison"
+            ],
+            "immunities": []
+        },
+        "lycanthrope": {
+            "name": "lycanthrope",
+            "description": "A werewolf, werebear, wererat, or other shapeshifter protected from ordinary weapons by a curse.",
+            "vulnerabilities": [
+                "radiant"
+            ],
+            "resistances": [
+                "piercing",
+                "slashing",
+                "impact"
+            ],
+            "immunities": []
+        },
+        "dragon": {
+            "name": "dragon",
+            "description": "A true dragon or major draconic creature with elemental breath and ancient supernatural resilience.",
+            "vulnerabilities": [],
+            "resistances": [
+                "impact"
+            ],
+            "immunities": []
+        },
+        "venomous beast": {
+            "name": "venomous beast",
+            "description": "A serpent, scorpion, spider, plague beast, or toxin-bearing predator.",
+            "vulnerabilities": [
+                "fire"
+            ],
+            "resistances": [
+                "poison"
+            ],
+            "immunities": []
+        },
+        "aquatic creature": {
+            "name": "aquatic creature",
+            "description": "A merfolk, triton, kraken, marsh predator, water spirit, or creature native to rivers, swamps, lakes, or seas.",
+            "vulnerabilities": [],
+            "resistances": [],
+            "immunities": []
+        },
+        "beast": {
+            "name": "beast",
+            "description": "An ordinary or oversized animal predator such as a wolf, bear, eagle, bat, ape, crab, serpent, or lizard.",
+            "vulnerabilities": [],
+            "resistances": [],
+            "immunities": []
+        },
+        "aberration": {
+            "name": "aberration",
+            "description": "A mind-warping, anatomically unnatural, or reality-wrong creature such as a mouther, doppelganger, mimic, corpse-eater, or psychic horror.",
+            "vulnerabilities": [
+                "radiant"
+            ],
+            "resistances": [
+                "psychic"
+            ],
+            "immunities": []
+        },
+        "fey": {
+            "name": "fey",
+            "description": "A fairy, pixie, satyr, dryad, hag, courtier, enchanter, or other creature of glamour, bargains, and old magic.",
+            "vulnerabilities": [],
+            "resistances": [
+                "arcane"
+            ],
+            "immunities": []
+        },
+        "celestial": {
+            "name": "celestial",
+            "description": "A unicorn, skyblessed being, angelic messenger, blessed spirit, or creature of divine radiance.",
+            "vulnerabilities": [
+                "shadow"
+            ],
+            "resistances": [
+                "radiant"
+            ],
+            "immunities": []
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "regions": {
+        "Highvale": {
+            "name": "Highvale",
+            "basicInfo": "Highvale is green country — rolling hills, golden fields, and the river Silverflow winding south to the sea. No king rules here; noble houses hold the land in a patchwork of lordships and free towns, and knights keep the roads. The League of Adventurers makes its headquarters at the region's largest city, Ardan's Watch, drawing would-be heroes from every corner of the Worlds. Work is never hard to find. Ruins and monster lairs dot the wilds between settlements, bandit holds fester in the hills and forests, and the noble houses pay good coin for capable swords.",
+            "x": 0,
+            "y": 0,
+            "realm": "Larion",
+            "known": true,
+            "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/7df41d56-8a33-4c35-bd34-21d141c4b595.png",
+            "embeddingId": "e72DQCLw"
+        },
+        "The Spice Isles": {
+            "name": "The Spice Isles",
+            "basicInfo": "The Spice Isles are an archipelago of feuding merchant republics and pirate havens connected by colossal stone bridges and threaded with canals, where fortunes are built on spice, silk, and ventures less legal. The Free States bow to no throne. Instead they follow the Swordlaw—disputes settled steel to steel. An ancient treaty known as the Compact forbids open conflict between city-states, so merchant clans wage shadow war through privateers, spies, and mercenaries. Noble houses control the banks, guilds rule the trade routes, and seafolk keep to their kingdoms beneath the waves. The fallen Gold Empire left behind crumbling marble palaces, the great canal and bridge network - and legends of its island capital vanished beneath the sea long ago.",
+            "x": 0,
+            "y": -1,
+            "realm": "Larion",
+            "known": true,
+            "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/d982397b-43e7-4647-a45a-8c7d485b30ac.png",
+            "embeddingId": "FKlYJxSk"
+        },
+        "The Everwood": {
+            "name": "The Everwood",
+            "basicInfo": "The Everwood is a primeval forest older than human memory, ruled by the high elves from their forest cities. Beneath the roots, dark elves hold their own dominion — banished underground after the Kindred War that split elvenkind apart. Non-elf Outsiders are permitted in the border settlements by elven sufferance: Sanctuary, the great trading city, and the villages of the Valley. Dark elves are forbidden from both, on pain of death. Beyond lies wilderness where the old laws hold and trespassers answer to the Wardens. Fey spirits and sylvan creatures stranger still haunt the trackless vastness.",
+            "x": -1,
+            "y": 0,
+            "realm": "Larion",
+            "known": true,
+            "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/e48028d5-0657-44ec-8966-cf1731b1e1c7.png",
+            "embeddingId": "3DCuMm4B"
+        },
+        "The Highlands": {
+            "name": "The Highlands",
+            "basicInfo": "The Highlands are a realm of stone and snow where dwarves and giants have contested every peak and valley since the Age of Heroes. Soaring mountains and plunging valleys, glacier-fed rivers and windswept moors. Dwarven clans carve their holds into caves and cliffsides while giant tribes claim the high places. Ancient grudges run as deep as the ore veins, and bloodlines matter even more than gold. Stone circles and cairns mark clan boundaries across the heather, many commemorating some victory or betrayal older than memory.",
+            "x": 0,
+            "y": 1,
+            "realm": "Larion",
+            "known": true,
+            "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/d04f61bc-4c60-4951-acba-e49c007330cd.png",
+            "embeddingId": "SeMX9QYr"
+        },
+        "The Ironwolds": {
+            "name": "The Ironwolds",
+            "basicInfo": "The Ironwolds is open hill country and rolling grassland under wide skies. Orc horse-clans hold this land, riding the seasonal circuit between river valleys and high summer camps. Great holdfasts crown the rocky tors, their banner-poles visible for miles. Clan Vorren and Clan Drokash are the greatest — and neither will bend to the other. Human and halfling communities farm the sheltered valleys under bonds of guest-right and tribute, though some on both sides resent the peace. Moot-law governs: disputes settled by oath, trial, or combat at Gods-Anvil, the sacred mesa where the orcs say their people were forged. The clans are ironworkers as much as riders, and the hills are rich with ore. The River Gorren cuts through the heart of the land, too wide to bridge — barges and ferries are the only way across.",
+            "x": -1,
+            "y": 1,
+            "realm": "Larion",
+            "known": true,
+            "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/5cdf2dca-27d5-443e-a487-6f64fca3df54.png",
+            "embeddingId": "HwvZRIsf"
+        },
+        "The Wild Grass Sea": {
+            "name": "The Wild Grass Sea",
+            "basicInfo": "The Wild Grass Sea is an ocean-like expanse of tall, thick grass stretching in every direction under a wide-open sky. Rocky tors break the surface like islands. Rivers cut channels where the banks are the only clear ground for miles. This is beastfolk country — boarfolk, wolfkin, lionkin, serpentfolk, catfolk, and dozens more, each holding their own territory. They are not one people. Ancient rivalries and competing interests divide them, but the Moot Law unites them: sacred gathering grounds where killing is forbidden and all species trade and negotiate under enforced truce. Between Moots, each species settles disputes by its own customs.",
+            "x": -2,
+            "y": 0,
+            "realm": "Larion",
+            "known": true,
+            "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/e0beb011-894e-47b9-a3a9-87ca3e0654a7.png",
+            "embeddingId": "43Lvy4C1"
+        },
+        "Tar Teirn": {
+            "name": "Tar Teirn",
+            "basicInfo": "Tar Teirn is a land of moors, fens, lakes, and rivers winding through misty valleys. Three kingdoms contend this country: Caerdon, where the warrior-king rules from an iron throne and knightly orders ride to tournament and war. Llanmere, where noble houses scheme for power and fortunes are made and lost at court. Dynfall, where druids counsel the crown and magic runs through the lakes and standing stones like blood through veins. They feud, they feast, they marry each other's children and betray each other's trust.",
+            "x": -1,
+            "y": -1,
+            "realm": "Larion",
+            "known": true,
+            "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/183e28c3-f2a3-4ac3-afe2-327c2351bdc3.png",
+            "embeddingId": "vKRZx4BD"
+        },
+        "The Great Lagoon": {
+            "name": "The Great Lagoon",
+            "basicInfo": "The Great Lagoon is a vast coastal region of tidal lagoons, fertile marshland, and reclaimed shoreline  where the Holy Solarian Exarcate has built the Dominion's foothold on the continent. Fortified causeways cross the shallows between walled Solarian towns, while the deeper swamps and outer islands remain wild — home to lizardfolk clans, frogkin villages, and things older and less welcoming. Solarian roads, Solarian law, Solarian legions — behind the sea-walls. Beyond them, the marsh answers to no one.",
+            "x": 1,
+            "y": -1,
+            "realm": "Larion",
+            "known": true,
+            "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/873d7da3-03ae-44d9-8820-3b2c377fdbc0.png",
+            "embeddingId": "GLXQfN34"
+        },
+        "The Black Fells": {
+            "name": "The Black Fells",
+            "basicInfo": "The Black Fells are starkly beautiful volcanic highlands recently claimed by goblin settlers. Steam vents and mineral wealth drew them to transform the land with ramshackle forge-towns that burn day and night. What little order exists is staked claims, makeshift markets, and newcomers arriving daily. The goblins welcome outsiders - their coin spends as well as anyone's, and the Fells need workers, warriors, and those brave enough to face the wild things above and below.",
+            "x": 1,
+            "y": 1,
+            "realm": "Larion",
+            "known": true,
+            "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/ce8614ef-6699-45ba-bacb-e97ad2f2f9bc.png",
+            "embeddingId": "w65EmIiC"
+        },
+        "The Moon Kingdoms": {
+            "name": "The Moon Kingdoms",
+            "basicInfo": "The Moon Kingdoms are alpine principalities in steep mountain valleys where many slopes never see direct sunlight ruled by moon elf vampire lords. These prince-magisters are few in number but immensely powerful, reigning from baroque palaces over populations of common moon elves and other races who live in relative prosperity, so long as they accept the blood price. The Kingdoms shelter those persecuted elsewhere, for cursed blood is understood by those who bear their own curse. Beautiful, wealthy, and sophisticated, but dangerous. Feral vampires haunt the high passes, and the barrier between worlds is thin.",
+            "x": 2,
+            "y": 0,
+            "realm": "Larion",
+            "known": true,
+            "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/35587182-8140-4dca-9e14-434fb1071ab0.png",
+            "embeddingId": "xXoFKX5K"
+        },
+        "The Bright Kingdoms": {
+            "name": "The Bright Kingdoms",
+            "basicInfo": "The Bright Kingdoms are desert realms built around oases lush with palm groves and perfumed gardens. Hilltop villages and cities of white limestone and golden sandstone rise from the dunes, their soaring towers and colorful tilework visible for miles across the desert. The Bright Folk have mastered their harsh environment through ancient traditions and magical expertise, creating prosperity that draws both traders and enemies. Though occasionally united by the necessity of mutual defense against threats from neighboring regions, old rivalries simmer between the Kingdoms, and the desert holds ruins that speak of past glories and terrible mistakes.",
+            "type": "region",
+            "gameTick": 0,
+            "lastUsedTick": 0,
+            "x": 1,
+            "y": 0,
+            "realm": "Larion",
+            "known": true,
+            "factions": [],
+            "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/e2a90be4-4f5c-40d6-95d9-09460501f760.png",
+            "embeddingId": "uDht-5UO"
+        },
+        "Aurora": {
+            "name": "Aurora",
+            "basicInfo": "Aurora is a frozen frontier beneath skies that blaze with colored light at night. Fortified trading posts and trapper settlements dot the tundra and ice-locked coasts, their stockades standing against howling winds and the megafauna that roam the white wastes. Clans of nomadic hunters follow mammoth and dire elk migrations across landscapes of stunning, lethal beauty. The northern lights illuminate frozen waterfalls, ice formations like colored glass, and horizons that seem to go on forever. The cold is merciless, and those who endure it are harder than the frozen ground they walk. Prospectors brave the wastes seeking ivory, amber, and stranger things locked in ancient ice.",
+            "x": 0,
+            "y": 2,
+            "realm": "Larion",
+            "known": true,
+            "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/03f58d32-11a6-43e0-b778-3d32b9f3316b.png",
+            "embeddingId": "PrSZha1f"
+        },
+        "Ntar Vanna": {
+            "name": "Ntar Vanna",
+            "basicInfo": "Ntar Vanna is the great jungle of the southern world. It rains every day — warm, torrential, endless. The growth is prodigious: trees vast as towers, undergrowth that swallows roads in days, creatures larger and wilder than anything in the outer world. Serpentfolk, lizardfolk, frogkin, and demonborn make their homes in its depths. The demonborn once raised great cities here — ruins now, strangled by vine and root. The soil is warm. The magic runs hot. The deep interior feels less like Larion and more like somewhere older and wilder and not entirely of this world.",
+            "x": 0,
+            "y": -2,
+            "realm": "Larion",
+            "known": true,
+            "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/4435958e-d2d0-4979-9977-99bd540a4178.png",
+            "embeddingId": "6tf4yu8f"
+        }
+    }
+}

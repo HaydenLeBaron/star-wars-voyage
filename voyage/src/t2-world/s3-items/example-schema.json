@@ -1,0 +1,421 @@
+{
+    "items": {
+        "Iron Shortsword": {
+            "name": "Iron Shortsword",
+            "category": "Weapon",
+            "description": "A well-balanced iron blade for quick cuts in close quarters.",
+            "bonuses": [],
+            "slot": "Weapon"
+        },
+        "Wooden Arrows": {
+            "name": "Wooden Arrows",
+            "category": "Consumable",
+            "description": "Straight-shafted arrows fletched with feathers and tipped with iron points.",
+            "bonuses": [],
+            "slot": "Consumable"
+        },
+        "Battle Axe": {
+            "name": "Battle Axe",
+            "category": "Weapon",
+            "description": "A heavy iron war axe built for brutal two-handed cuts through armor gaps and bone.",
+            "bonuses": [],
+            "slot": "Weapon"
+        },
+        "Light Crossbow": {
+            "name": "Light Crossbow",
+            "category": "Weapon",
+            "description": "A compact crossbow with an iron prod and simple trigger mechanism.",
+            "bonuses": [],
+            "slot": "Weapon"
+        },
+        "Crossbow Bolts": {
+            "name": "Crossbow Bolts",
+            "category": "Consumable",
+            "description": "Short, thick bolts with iron points designed to punch into armor and hide.",
+            "bonuses": [],
+            "slot": "Consumable"
+        },
+        "Iron Dagger": {
+            "name": "Iron Dagger",
+            "category": "Weapon",
+            "description": "A simple double-edged iron knife for close combat, utility work, and desperate moments.",
+            "bonuses": [],
+            "slot": "Weapon"
+        },
+        "Short Spear": {
+            "name": "Short Spear",
+            "category": "Weapon",
+            "description": "A short wooden shaft tipped with leaf-shaped iron, useful one-handed or from behind a shield.",
+            "bonuses": [],
+            "slot": "Weapon"
+        },
+        "Wooden Staff": {
+            "name": "Wooden Staff",
+            "category": "Weapon",
+            "description": "A length of seasoned hardwood reinforced with iron bands at each end.",
+            "bonuses": [],
+            "slot": "Weapon"
+        },
+        "Throwing Knife": {
+            "name": "Throwing Knife",
+            "category": "Weapon",
+            "description": "A balanced iron blade made for accurate throws at exposed flesh and weak points.",
+            "bonuses": [],
+            "slot": "Weapon"
+        },
+        "Lockpick Set": {
+            "name": "Lockpick Set",
+            "category": "Tool",
+            "description": "A worn leather roll containing tension wrenches, rake picks, and hook picks.",
+            "bonuses": [],
+            "slot": ""
+        },
+        "Leather Cuirass": {
+            "name": "Leather Cuirass",
+            "category": "Armor",
+            "description": "A hardened leather chest piece scarred by old blows but still reliable.",
+            "bonuses": [
+                {
+                    "type": "stat",
+                    "variable": "armor",
+                    "value": 120
+                }
+            ],
+            "slot": "body"
+        },
+        "Iron Warhammer": {
+            "name": "Iron Warhammer",
+            "category": "Weapon",
+            "description": "A flanged iron hammer built to crush armor, bone, and brittle bodies.",
+            "bonuses": [],
+            "slot": "Weapon"
+        },
+        "Short Bow": {
+            "name": "Short Bow",
+            "category": "Weapon",
+            "description": "A compact bow suited to quick draws and close-range archery.",
+            "bonuses": [],
+            "slot": "Weapon"
+        },
+        "Trick Blade": {
+            "name": "Trick Blade",
+            "category": "Weapon",
+            "description": "A concealed spring blade disguised as an innocuous object.",
+            "bonuses": [],
+            "slot": "Weapon"
+        },
+        "Loaded Dice": {
+            "name": "Loaded Dice",
+            "category": "Tool",
+            "description": "A pair of bone dice weighted to favor certain outcomes.",
+            "bonuses": [],
+            "slot": ""
+        },
+        "Silver Binding Chain": {
+            "name": "Silver Binding Chain",
+            "category": "Tool",
+            "description": "Enchanted silver links that resist breaking and gleam brighter near supernatural creatures.",
+            "bonuses": [],
+            "slot": ""
+        },
+        "Linen Tunic": {
+            "name": "Linen Tunic",
+            "category": "Armor",
+            "description": "A plain tunic of undyed linen, comfortable but not protective.",
+            "bonuses": [],
+            "slot": "body"
+        },
+        "Cloth Trousers": {
+            "name": "Cloth Trousers",
+            "category": "Armor",
+            "description": "Rough-spun wool breeches patched at the knees from long wear.",
+            "bonuses": [],
+            "slot": "legs"
+        },
+        "Worn Breeches": {
+            "name": "Worn Breeches",
+            "category": "Armor",
+            "description": "Once-luxurious velvet breeches, aged but still elegantly cut.",
+            "bonuses": [],
+            "slot": "legs"
+        },
+        "Faded Doublet": {
+            "name": "Faded Doublet",
+            "category": "Armor",
+            "description": "A well-tailored but aging silk doublet whose rich colors have softened with time.",
+            "bonuses": [],
+            "slot": "body"
+        },
+        "Woven Robe": {
+            "name": "Woven Robe",
+            "category": "Armor",
+            "description": "A robe of overlapping leaves and bark that shifts color to match nearby foliage.",
+            "bonuses": [
+                {
+                    "type": "skill",
+                    "variable": "stealth",
+                    "value": 1
+                }
+            ],
+            "slot": "body"
+        },
+        "War Bow": {
+            "name": "War Bow",
+            "category": "Weapon",
+            "description": "A tall laminated bow that requires strength to draw and drives arrows with force.",
+            "bonuses": [],
+            "slot": "Weapon"
+        },
+        "Long Bow": {
+            "name": "Long Bow",
+            "category": "Weapon",
+            "description": "A tall laminated bow with superior range and penetrating power.",
+            "bonuses": [],
+            "slot": "Weapon"
+        },
+        "Mongo's Medium Health Potion": {
+            "name": "Mongo's Medium Health Potion",
+            "category": "Consumable",
+            "description": "A vial of crimson liquid that restores vitality when consumed.",
+            "bonuses": [],
+            "slot": "Consumable"
+        },
+        "Maple Lute": {
+            "name": "Maple Lute",
+            "category": "Tool",
+            "description": "A well-used pear-shaped lute with delicate fretwork and the marks of countless performances.",
+            "bonuses": [],
+            "slot": ""
+        },
+        "Smith's Hammer": {
+            "name": "Smith's Hammer",
+            "category": "Tool",
+            "description": "A well-balanced steel hammer used for shaping hot metal on an anvil.",
+            "bonuses": [
+                {
+                    "type": "skill",
+                    "variable": "smithing",
+                    "value": 1
+                }
+            ],
+            "slot": ""
+        },
+        "Woodworking Tools": {
+            "name": "Woodworking Tools",
+            "category": "Tool",
+            "description": "A collection of saws, chisels, planes, and measuring tools for working wood.",
+            "bonuses": [
+                {
+                    "type": "skill",
+                    "variable": "carpentry",
+                    "value": 1
+                }
+            ],
+            "slot": ""
+        },
+        "Leatherworking Tools": {
+            "name": "Leatherworking Tools",
+            "category": "Tool",
+            "description": "A set of knives, awls, needles, and edge tools for cutting and stitching leather.",
+            "bonuses": [
+                {
+                    "type": "skill",
+                    "variable": "leatherworking",
+                    "value": 1
+                }
+            ],
+            "slot": ""
+        },
+        "Sewing Kit": {
+            "name": "Sewing Kit",
+            "category": "Tool",
+            "description": "A compact pouch containing needles, thread, scissors, and pins for textile work.",
+            "bonuses": [
+                {
+                    "type": "skill",
+                    "variable": "tailoring",
+                    "value": 1
+                }
+            ],
+            "slot": ""
+        },
+        "Battle Mace": {
+            "name": "Battle Mace",
+            "category": "Weapon",
+            "description": "A heavy flanged mace with a reinforced steel head for crushing armor and bone.",
+            "bonuses": [],
+            "slot": "Weapon"
+        },
+        "Artificer's Toolkit": {
+            "name": "Artificer's Toolkit",
+            "category": "Tool",
+            "description": "A leather satchel of fine screwdrivers, jeweler's loupes, wire, calipers, hammers, and arcane scribing tools.",
+            "bonuses": [
+                {
+                    "type": "skill",
+                    "variable": "enchanting magic",
+                    "value": 1
+                }
+            ],
+            "slot": ""
+        },
+        "Leather Jerkin": {
+            "name": "Leather Jerkin",
+            "category": "Armor",
+            "description": "A vest of hardened leather that protects the torso without restricting the arms.",
+            "bonuses": [
+                {
+                    "type": "stat",
+                    "variable": "armor",
+                    "value": 80
+                }
+            ],
+            "slot": "body"
+        },
+        "Linen Robe": {
+            "name": "Linen Robe",
+            "category": "Armor",
+            "description": "A simple ankle-length robe suitable for scholars, clergy, or common folk.",
+            "bonuses": [],
+            "slot": "body"
+        },
+        "Iron Breastplate": {
+            "name": "Iron Breastplate",
+            "category": "Armor",
+            "description": "Hammered iron plates riveted over leather backing, heavy enough to turn serious blows.",
+            "bonuses": [
+                {
+                    "type": "stat",
+                    "variable": "armor",
+                    "value": 100
+                }
+            ],
+            "slot": "body"
+        },
+        "Leather Leggings": {
+            "name": "Leather Leggings",
+            "category": "Armor",
+            "description": "Treated leather leggings that resist tearing on thorns and rough ground.",
+            "bonuses": [
+                {
+                    "type": "stat",
+                    "variable": "armor",
+                    "value": 25
+                }
+            ],
+            "slot": "legs"
+        },
+        "Wooden Round Shield": {
+            "name": "Wooden Round Shield",
+            "category": "Armor",
+            "description": "A round shield of layered wood bound with iron at the rim.",
+            "bonuses": [
+                {
+                    "type": "stat",
+                    "variable": "armor",
+                    "value": 80
+                }
+            ],
+            "slot": "shield"
+        },
+        "Leather Boots": {
+            "name": "Leather Boots",
+            "category": "Armor",
+            "description": "Sturdy tanned leather boots for long journeys and rough roads.",
+            "bonuses": [
+                {
+                    "type": "stat",
+                    "variable": "armor",
+                    "value": 15
+                }
+            ],
+            "slot": "feet"
+        },
+        "Craftsman's Toolkit": {
+            "name": "Craftsman's Toolkit",
+            "category": "Tool",
+            "description": "A broad set of hammers, saws, chisels, needles, and punches for everyday craftwork.",
+            "bonuses": [],
+            "slot": ""
+        },
+        "Wool Cloak": {
+            "name": "Wool Cloak",
+            "category": "Armor",
+            "description": "A simple undyed wool cloak that keeps off cold wind and light rain.",
+            "bonuses": [],
+            "slot": "outerwear"
+        },
+        "Leather Gloves": {
+            "name": "Leather Gloves",
+            "category": "Armor",
+            "description": "Supple leather gloves that protect the hands while preserving fine control.",
+            "bonuses": [
+                {
+                    "type": "stat",
+                    "variable": "armor",
+                    "value": 10
+                }
+            ],
+            "slot": "hands"
+        },
+        "Iron Helm": {
+            "name": "Iron Helm",
+            "category": "Armor",
+            "description": "A hammered iron helmet with cheek guards and a nasal bar.",
+            "bonuses": [
+                {
+                    "type": "stat",
+                    "variable": "armor",
+                    "value": 60
+                }
+            ],
+            "slot": "head"
+        },
+        "Cloth Hood": {
+            "name": "Cloth Hood",
+            "category": "Armor",
+            "description": "A rough-spun cloth hood that protects against wind and weather, not weapons.",
+            "bonuses": [],
+            "slot": "head"
+        },
+        "Iron Greaves": {
+            "name": "Iron Greaves",
+            "category": "Armor",
+            "description": "Iron plates strapped over leather to guard the shins and knees.",
+            "bonuses": [
+                {
+                    "type": "stat",
+                    "variable": "armor",
+                    "value": 70
+                }
+            ],
+            "slot": "legs"
+        },
+        "Vampire Hunter's Crossbow": {
+            "name": "Vampire Hunter's Crossbow",
+            "category": "Weapon",
+            "description": "A compact crossbow of dark wood and steel, ward-etched for quiet work against undead prey.",
+            "bonuses": [
+                {
+                    "type": "stat",
+                    "variable": "damage",
+                    "value": 1
+                }
+            ],
+            "slot": "Weapon"
+        },
+        "Silver-Tipped Bolts of Radiance": {
+            "name": "Silver-Tipped Bolts of Radiance",
+            "category": "Consumable",
+            "description": "Blessed crossbow bolts with silver heads that burn undead, fiends, and shadow-bound creatures.",
+            "bonuses": [],
+            "slot": "Consumable"
+        },
+        "florins": {
+            "name": "florins",
+            "category": "Currency",
+            "description": "The standard trade coin throughout Larion.",
+            "bonuses": []
+        }
+    }
+}

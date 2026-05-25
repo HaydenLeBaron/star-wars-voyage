@@ -1,0 +1,86 @@
+{
+    "factions": {
+        "The League of Adventurers": {
+            "name": "The League of Adventurers",
+            "basicInfo": "A fellowship of heroes headquartered at Ardan's Watch, dedicated to defending Larion against threats too dangerous for local militias or too strange for ordinary soldiers. The League welcomes any who prove themselves capable and willing—knights and rogues, wizards and warriors, noble-born and gutter-raised. Members earn rank through deeds, not birth. They take contracts, answer distress calls, and ride out when something dark stirs in the wilds.",
+            "factionType": "major",
+            "detailType": "detailed",
+            "known": true,
+            "hiddenInfo": "The League is organized into rival orders based at the towers of Ardan's Watch, each specializing in different threats: monster hunters, mage-wardens, road-keepers, and others. The orders compete for glory, recruits, and funding, but coordinate against serious threats. A Hidden Council of anonymous veterans governs through a public Lord Mayor. Some whisper the Council has grown too cautious, too political—that the League's founders would barely recognize what it's become. Others say the Council knows threats the public doesn't, and caution is wisdom.",
+            "embeddingId": "-mrhGX8w"
+        },
+        "The Greater Goblinate": {
+            "name": "The Greater Goblinate",
+            "basicInfo": "A unified goblin nation rising in the Black Fells. Their armies wear brass scale armor and wield strange fire-weapons. Ambassadors have appeared in border towns offering alliance against 'mutual enemies' while raiding parties strike settlements that refuse. They claim the Dragon Queen has united the tribes and will lead them to glory.",
+            "factionType": "major",
+            "detailType": "detailed",
+            "known": false,
+            "hiddenInfo": "The Goblinate's secular leadership genuinely believes in their cause—nationhood, territory, respect. Many officers resent the fire shamans' growing influence and the religious fervor consuming their soldiers. Their fire-weapons are supplied by the Church of the Pyre and they don't fully understand what dragonfire costs the wielder.",
+            "embeddingId": "cqh-x4oo"
+        },
+        "The Church of the Pyre": {
+            "name": "The Church of the Pyre",
+            "basicInfo": "A fire cult spreading through the Dragon Queen's territory and beyond. Their shamans channel dragonfire directly, marked by ritual scarification and increasingly erratic behavior. They preach that fire purifies, that the Dragon Queen is divine, and that the old world must burn for the new to rise. Missionaries appear in desperate communities offering warmth, protection, and purpose.",
+            "factionType": "major",
+            "detailType": "detailed",
+            "known": false,
+            "hiddenInfo": "The shamans are being spiritually harvested. Dragonfire is tainted by the Lady of Wrath—every use feeds her, and prolonged channeling erodes sanity and eventually burns out the user entirely. The most devoted don't notice their own deterioration. They manufacture dragonfire weapons, lead religious ceremonies, and serve as the Dragon Queen's primary means of control over the Goblinate's rank and file.",
+            "embeddingId": "95obh3Ey"
+        },
+        "The Scaled Covenant": {
+            "name": "The Scaled Covenant",
+            "basicInfo": "Humans and others who seek draconic power through forbidden transformation. They drink dragon blood, undergo agonizing rituals, and emerge changed—scales spreading across skin, eyes slitting, some growing claws or vestigial wings. They serve the Dragon Queen in exchange for continued transformation, believing they're ascending to something greater.",
+            "factionType": "major",
+            "detailType": "detailed",
+            "known": false,
+            "hiddenInfo": "The Covenant recruits from those who feel powerless—second sons, failed mages, the ambitious and the desperate. The transformations are real but come with increasing instability. Advanced members lose themselves entirely, becoming draconic monsters in humanoid shape. They handle infiltration and operations where goblins would be too conspicuous. Many serve as Harbinger lieutenants in human-majority regions.",
+            "embeddingId": "-g0I-Aeo"
+        },
+        "The Bloodhunters": {
+            "name": "The Bloodhunters",
+            "basicInfo": "An elite order of hemomancers and duelists dedicated to hunting vampires and other undead threats across Larion. Based at the Red Chantry near Ardan's Watch, these aristocratic warriors blend blood magic with martial skill. They wear fine clothing, carry antique weaponry, and conduct themselves with the poise of nobility even as they wade into darkness. The order offers training in blood magic to counter the undead, and their reputation has earned them charters in multiple kingdoms.",
+            "factionType": "minor",
+            "detailType": "detailed",
+            "known": false,
+            "hiddenInfo": "Every Bloodhunter knows their hemomancy risks the same corruption they fight against—drawing power from blood walks a razor's edge between mastery and monstrosity. The order is fanatically protective of its honor and reputation. When a hunter goes rogue or falls to corruption, the Chantry dispatches its most elite members to eliminate them quietly before word spreads and their charter is endangered. These 'internal matters' are never discussed outside the order. Some say that the Bloodhunters' obsession with vampires blinds them to other threats, or that their blood magic makes them more similar to their prey than they'd care to admit.",
+            "embeddingId": "UMMDTFqX"
+        },
+        "The Wolfpack": {
+            "name": "The Wolfpack",
+            "basicInfo": "A notorious mercenary company and warrior society based at Wolfpack Lodge on the edge of the Wolfwood in Highvale near Ardan's Watch. The Wolfpack specializes in hunting legendary beasts and serving as shock troops in battles too savage for regular soldiers. They are known for their berserker fighting style, their bond with war-wolves, and their fierce independence. Members undergo brutal training and trials to earn their place, with the strongest rising through constant competition. The company takes contracts from nobles, merchants, and kingdoms willing to pay their steep prices.",
+            "factionType": "minor",
+            "detailType": "detailed",
+            "baseLocation": "Wolfpack Lodge",
+            "known": false,
+            "hiddenInfo": "The Wolfpack's reputation for savagery is well-earned but misunderstood by outsiders. At the company's core lies a secret: the elite inner circle are lycanthropes, granted the 'Moon Blood' through a controlled ritual overseen by Alpha Hrothgar. This is not a curse but a coveted rite of passage reserved only for the most disciplined warriors who can master the beast within. The transformation grants supernatural strength and ferocity in battle, making them nearly unstoppable against monstrous threats. The lodge's fortified compound serves as both training ground and sanctuary during transformation cycles. Members who lose control are contained in the Moon Cellar until they can be helped or, in rare cases, put down by their own brothers. The Hidden Council tolerates their existence because the Wolfpack eliminates threats no one else can face—giant nests, dragon lairs, demon incursions. Their loyalty lies with the Pack above all contracts, and they maintain their own savage code of honor that values strength, courage, and brotherhood forged in blood.",
+            "embeddingId": "eBVhZqaZ"
+        },
+        "Order of the Dragon": {
+            "name": "Order of the Dragon",
+            "basicInfo": "An order of dragonkin warriors who keep dragon lore and hunt down those who would corrupt or abuse draconic power. Based at the Aerie of the Sunscale near Cloudtop in the Bright Kingdoms, they track new discovered dragon sites across Larion, recover stolen relics, and strike against cults that seek to bind or exploit dragons. The Order welcomes members of other races dedicated to preserving dragon legacy with honor.",
+            "factionType": "minor",
+            "detailType": "detailed",
+            "known": false,
+            "hiddenInfo": "The Order of the Dragon was founded after the Dragon Wars when scattered dragonkin survivors realized that dragon knowledge in the wrong hands could bring catastrophe. They maintain a network of informants tracking the black market in dragon materials—scales, bones, blood, eggs. When cultists attempt to bind dragons or use draconic power for dark purposes, the Order of the Dragon dispatch warriors to eliminate the threat. The Order also protects vulnerable dragonkin from abduction by cults seeking sacrifices or test subjects. Their greatest fear is someone discovering how to recreate the binding rituals that enslaved dragons during the wars. Recently, several ancient dragon sites have been discovered and looted before the Order could secure them, suggesting someone is using inside information.",
+            "embeddingId": "6p-V8K-G"
+        },
+        "The Syndicate": {
+            "name": "The Syndicate",
+            "basicInfo": "A merchant empire that answers to no king. The Syndicate of the Commonweal controls the flow of trade across Larion—food, arms, gold, passage—and uses that control to make itself untouchable. Their agents are everywhere. Their enforcers, the Grey Guards, are better equipped than most royal armies. Their masters, the Delegates, travel under a protection no lord can easily challenge. Elegant, pitiless, and genuinely indispensable: shutting them down would starve half of Larion. They prefer common interest to open conflict. When common interest fails, they are not gentle.",
+            "factionType": "major",
+            "detailType": "detailed",
+            "known": false,
+            "hiddenInfo": "The Syndicate's street-level work is done by Agents—hired hands, deniable. Above them, Factors manage operations and run missions. Delegates hold real power: they speak for the Syndicate and cannot be touched without consequences. High Delegates govern from the Center of All Maps on Water-Lily Isle and rarely appear in public. The Syndicate's mages handle problems that swords cannot, and the Grey Guards handle everything else. They oppose war because war disrupts trade. They feed starving cities because famine breeds desperation. Their mercy and their ruthlessness both serve the same master.",
+            "embeddingId": "tZUD2621"
+        },
+        "The Thrallmages of Falmastra": {
+            "name": "The Thrallmages of Falmastra",
+            "basicInfo": "An island city-state in the Spice Isles, home to the thrallmages — psionicists who can read minds, communicate telepathically, and bind others to their will. A few dozen at most, ruling a city of ordinary people. They sell their services for enormous sums: espionage, assassination, intelligence no one else can gather. Every power in Larion publicly condemns them and privately hires them. Their retribution doctrine — the Hundredfold — promises a hundred deaths for every thrallmage killed. It is not a bluff. Falmastra has never been successfully attacked, and not because of its walls.",
+            "factionType": "major",
+            "detailType": "detailed",
+            "known": false,
+            "hiddenInfo": "A council of senior thrallmages governs Falmastra. Internal politics are vicious — these are people who chose dominion over others as a way of life and scheme against each other constantly. Their feuds occasionally spill outward into operations abroad.\n\nBinding requires a piece of the target — hair, blood, a personal possession — and their true name. Without both, full control is impossible. This means every operation begins with conventional spycraft: an agent gets close, gathers the anchor, learns the name. Only then does the thrallmage take hold. Thrallmages can also read surface thoughts, project their presence over short distances, and communicate mind-to-mind.\n\nThrallmagic is extraordinarily difficult and exacts a severe mental cost. Most who attempt it go insane. Those who survive are among the strongest-willed beings alive — and without exception, they are people who desire power over others. The discipline cannot be mastered by those who lack that drive.\n\nThe Hundredfold is policy, not passion. When declared, the thrallmages identify everyone connected to the killing — perpetrators, accomplices, commanders, bystanders who could have intervened — and kill one hundred of them. This is carried out methodically, often through thralls, sometimes in person. It has been declared rarely. It has never been incomplete.",
+            "embeddingId": "pI9G-JvR"
+        }
+    }
+}

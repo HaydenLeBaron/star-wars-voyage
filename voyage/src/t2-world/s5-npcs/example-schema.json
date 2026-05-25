@@ -1,0 +1,1302 @@
+{
+    "npcs": {
+        "Aelwen": {
+            "name": "Aelwen",
+            "type": "",
+            "currentLocation": "Wortwell Village",
+            "currentArea": "The Common Ground",
+            "gender": "female",
+            "basicInfo": "A youngish woman with bark-brown hair full of leaves and twigs who often goes barefoot.",
+            "hiddenInfo": "She's tended the Sinkwood for fifteen years and knows every game trail and mushroom circle, but lately she's been distracted, evasive about the sinking, and prone to long silences. Aelwen has made contact with the myconid colony through spore-dreams and understands their perspective now - possibly too well. The myconids aren't malicious; they're expanding toward something they need, and the surface damage is incidental to them. She's trying to find a solution that doesn't involve violence but she's losing the village's trust in the process. She won't betray the myconids, but she doesn't want Wortwell destroyed either. She needs help from someone who can think beyond 'kill it.'",
+            "personality": [
+                "Forest Guardian: Deep connection to the Sinkwood and its inhabitants",
+                "Conflict Avoidant: Seeks peaceful solutions even when they seem impossible",
+                "Evasive Speaker: Deflects questions she doesn't want to answer",
+                "Torn Loyalties: Struggling between duty to village and understanding of myconids",
+                "Isolated by Knowledge: Carries secrets that separate her from her community"
+            ],
+            "abilities": [
+                "Druidic Magic: Can cast nature-based spells and commune with plants and animals",
+                "Sinkwood Knowledge: Knows every path, plant, and danger in the forest",
+                "Spore-Dream Communication: Can enter trance states to communicate with myconids",
+                "Wilderness Survival: Expert at living off the land"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "embeddingId": "5zqooU2D"
+        },
+        "Alayne Na-Belemial": {
+            "name": "Alayne Na-Belemial",
+            "type": "",
+            "currentLocation": "Ardan's Watch",
+            "currentArea": "Old Town",
+            "gender": "male",
+            "basicInfo": "A half-elf in his forties who wears it well — dark hair silvering at the temples, warm brown skin, laugh lines deeper than worry lines. Lean and sharp-featured, with long fingers and an easy slouch that straightens fast when something catches his attention. Dresses in well-cut dark clothes that have seen travel. Wears a rapier on one hip and a long dagger on the other, both well-used. Grins too easily and watches too carefully for someone so relaxed.",
+            "hiddenInfo": "A Platinum-ranked adventurer and one of the most connected people in Ardan's Watch. Knows the Thieves' Table in Old Town, the League leadership, and half the noble houses by first name. Raised Vera and Edric Stone after their family was destroyed — considers himself responsible for them. Vera trusts him. Has been tracking Church of the Pyre activity in the city and is concerned enough to get personally involved.",
+            "personality": [
+                "Effortless Charm: Makes everyone feel like his favorite person in the room",
+                "Restless: Cannot sit still, retire, or stop chasing the next thing",
+                "Reckless Courage: Will walk into terrible odds with a smile because he's done it before and it worked"
+            ],
+            "abilities": [
+                "Blade Dance: Fights with rapier and dagger in constant fluid motion — parries become ripostes, retreats become flanking",
+                "Misdirection: Minor enchantment magic that makes enemies hesitate, second-guess, or look the wrong way at the wrong moment",
+                "Glamour: Can alter his appearance briefly or project an illusory double — uses it to vanish mid-fight and reappear somewhere inconvenient",
+                "Poison Craft: Coats blades with paralytic or soporific compounds",
+                "Dirty Fighter: Throws sand, kicks furniture, cuts ropes — uses anything nearby as a weapon or obstacle"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "level": 12,
+            "hpCurrent": 250,
+            "hpMax": 250,
+            "embeddingId": "hd2Ae-yN"
+        },
+        "Astarieth": {
+            "name": "Astarieth",
+            "type": "",
+            "currentLocation": "",
+            "currentArea": "",
+            "gender": "female",
+            "faction": "The Scaled Covenant",
+            "basicInfo": "A vast serpentine dragon, easily a hundred feet from snout to tail. Obsidian scales, matte black and faintly iridescent. Many short, clawed limbs run along the length of her body. Where her eyes should be there are only smooth scars — the sockets burned shut and healed over. Long whiskers trail from a narrow snout.",
+            "hiddenInfo": "Once a princess of the elven royal line, deposed during the Kindred War — the ancient conflict that split elvenkind into surface high elves and exiled dark elves. Her bloodline's claim to a unified throne never died, and elves of both factions remember. The Scaled Covenant offered her a body fit for her ambition. She accepted, burned out her own eyes as part of the transformation, and became the Nether Wyrm. She perceives the world through tremorsense and dark magic, navigates tunnels her bulk should not fit through, and bends around stone with serpentine grace. Her cause is elven supremacy. She believes the Everwood belongs to elvenkind, that the human settlements at its edge must be driven out, and that the high elves who tolerate them are as guilty as the outsiders. She speaks to elven grievance with the authority of bloodline and the wisdom of ages. Her agents on the surface sow division, break alliances, and isolate communities; she directs them through her voice carried in the stone. She is patient. She has waited centuries and will wait longer if she must, but when she strikes she strikes to break things permanently.",
+            "personality": [
+                "Regal: Carries herself as the queen she believes she still is — every word a pronouncement",
+                "Patient: Has waited centuries; refuses to be rushed",
+                "Persuasive: Speaks to elven grievance with the authority of bloodline",
+                "Cold: Feels nothing for the lives she ends; only restoration matters",
+                "Unforgiving: Remembers every betrayal, every concession, every elf who chose peace over kin"
+            ],
+            "abilities": [
+                "Crushing Coils: Wraps and constricts; a caught target is pinned and squeezed each round until they break free or the coil is severed",
+                "Localized Collapse: Strikes a pillar, ceiling, or wall to bring stone down on a chosen area — fighters in that space must scramble clear or be buried; collapses block paths, separate the party, and reshape the battlefield mid-fight",
+                "Tremorsense: Perceives every movement through stone and earth; sightless but never blind, and cannot be hidden from by stealth alone",
+                "Strangling Roots: Calls roots up through the floor to bind limbs and choke passages; bound targets must be cut free",
+                "Whispering Command: Her voice carries through stone to summon agents, awaken hazards, or call further reinforcements into the lair"
+            ],
+            "tier": "boss",
+            "detailType": "detailed",
+            "level": 15,
+            "hpCurrent": 600,
+            "hpMax": 600,
+            "vulnerabilities": [
+                "radiant",
+                "shock"
+            ],
+            "resistances": [
+                "piercing",
+                "slashing",
+                "shadow",
+                "psychic"
+            ],
+            "immunities": [
+                "poison"
+            ],
+            "embeddingId": "A-iNjYeD"
+        },
+        "Bark Balewood": {
+            "name": "Bark Balewood",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "Bark and Dandy's Home",
+            "gender": "male",
+            "basicInfo": "A quick-witted halfling with nimble fingers and a mischievous grin. His curly brown hair is perpetually messy, and he moves with the natural grace of his people.",
+            "hiddenInfo": "Despite his roguish tendencies, he's deeply loyal to his friends and community. He's really thinking about opening his own bakery one day. He wants to ask grandma to invest in him, when the time is right.",
+            "personality": [
+                "Quick to Jest: Uses humor to lighten tense situations",
+                "Protective Friend: Fiercely loyal to those he considers family",
+                "Curious Risk-taker: Can't resist investigating mysteries",
+                "Local Gossip: Knows everyone's business but keeps important secrets",
+                "Impulsive Hero: Jumps into action before thinking things through"
+            ],
+            "abilities": [
+                "Silent Step: Exceptional stealth abilities",
+                "Lock Expertise: Skilled at dealing with locks and traps",
+                "Sharp Eyes: Keen observation skills for spotting dangers"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "needsDetailGeneration": false,
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/7755c53d-bdc5-4793-886b-b0b65acdcb97.png",
+            "embeddingId": "TjWOcg_L"
+        },
+        "Barp": {
+            "name": "Barp",
+            "type": "",
+            "currentLocation": "Rocky Gorge",
+            "currentArea": "",
+            "gender": "male",
+            "basicInfo": "A massive mountain troll standing over nine feet tall with gray-green skin, thick warty hide, and long muscular arms that drag the ground when he walks. His fangs protrude from his lower jaw and his small yellow eyes gleam with dim cunning. He wears a filthy leather loincloth and carries a massive rolling pin.",
+            "hiddenInfo": "Barp used to subsist entirely on roots, mushrooms, and bark - an unusual dietary choice for a troll that made him the laughingstock of his kind. After meeting Tina, he returned to eating meat to prove his worth as a proper troll husband, though he still secretly feels guilty about it and sometimes sneaks vegetables when she's not looking. He's actually quite gentle by troll standards and would prefer to avoid unnecessary violence, but Tina's expectations and his own pride push him to act more brutish than he feels.",
+            "personality": [
+                "Former Pacifist: Still uncomfortable with violence despite returning to traditional troll ways",
+                "Henpecked Husband: Desperately tries to please Tina but never quite meets her standards",
+                "Secretly Gentle: Would rather negotiate than fight, though he hides this weakness",
+                "Messy: Leaves bones, tools, and belongings scattered everywhere, much to Tina's frustration",
+                "Nostalgic: Sometimes wistfully remembers his peaceful vegetarian days",
+                "Defensive Pride: Gets angry when his masculinity or troll-ness is questioned"
+            ],
+            "abilities": [
+                "Massive Strength: Can lift boulders and crush armor with his bare hands",
+                "Regeneration: Heals from most wounds rapidly, though fire and acid prevent this",
+                "Club Combat: Skilled at swinging his massive spiked club in devastating arcs",
+                "Thick Hide: His warty skin turns aside most blades and arrows"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "level": 4,
+            "hpCurrent": 75,
+            "hpMax": 75,
+            "vulnerabilities": [
+                "fire",
+                "acid"
+            ],
+            "resistances": [
+                "piercing",
+                "slashing",
+                "impact"
+            ],
+            "immunities": [],
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/94fd1c98-d849-48db-95c6-7ae8e47c305f.png",
+            "embeddingId": "KAcZ3UdX"
+        },
+        "Brenn": {
+            "name": "Brenn",
+            "type": "",
+            "currentLocation": "Nocturne",
+            "currentArea": "The Guest House",
+            "gender": "male",
+            "basicInfo": "An older man with deep brown skin and close-cropped grey hair. Broad through the shoulders but softened around the waist. A faded scar curves along his jaw. He dresses simply, wool and leather.",
+            "hiddenInfo": "Brenn was a healer with the Ember Company, a mercenary outfit from the Bright Kingdoms. The company took a contract that went bad—he doesn't talk about the details, only that they succeeded in the end but it cost them everything. The survivors scattered. Brenn ended up crossing the wrong people back home trying to save as many of his brothers as he could. House Kaeris saw an opportunity and offered him a way out. Now he runs the Guest House, which suits the prince-magisters fine—a loyal man who owes them, watching every foreigner who passes through. He reports what he sees because that's the price of sanctuary, but he's not cruel about it. He genuinely tries to help newcomers survive this place. He has quiet sympathies he doesn't discuss and contacts he doesn't advertise. Sometimes he helps people who need helping, when he can do it without drawing attention.",
+            "personality": [
+                "Cheerful Cynic: Delivers grim truths with a smile and a shrug",
+                "Caretaker: Old healer's instinct to help, even when he shouldn't",
+                "Unshockable: Has seen the worst of what people do; nothing surprises him",
+                "Connected: Knows everyone worth knowing in the foreign community",
+                "Watchful: Notices everything, remembers everything, says less than he knows"
+            ],
+            "abilities": [
+                "Field Medicine: Can treat wounds, set bones, and keep the dying alive long enough to get real help",
+                "Read the Room: Notices tension, danger, and lies before they become problems",
+                "Old Contacts: Knows people in several mercenary companies, including the Silver Company",
+                "City Knowledge: Understands Nocturne's customs, dangers, and unwritten rules"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "embeddingId": "mKXq5ZcG"
+        },
+        "Corina Harrow": {
+            "name": "Corina Harrow",
+            "type": "",
+            "currentLocation": "The Crossroads Inn",
+            "currentArea": "Taproom",
+            "gender": "female",
+            "basicInfo": "The innkeeper of the Crossroads Inn, a sturdy woman in her forties with iron-gray hair pulled back in a practical bun. Her strong arms and no-nonsense bearing speak to years of hard work and harder choices. She moves with the confident authority of someone who's broken up more than a few tavern brawls.",
+            "hiddenInfo": "Former town guard who bought the inn with her retirement savings.",
+            "personality": [
+                "Protective of Her Inn: This is her livelihood and she'll defend it",
+                "No-Nonsense Authority: Runs a tight ship and doesn't tolerate troublemakers",
+                "Mother Hen: Looks after her guests and staff"
+            ],
+            "abilities": [
+                "Tavern Brawler: Experienced at breaking up fights",
+                "Local Knowledge: Knows every road and shortcut in the area",
+                "Rally Others: Natural leader in a crisis"
+            ],
+            "tier": "strong",
+            "detailType": "basic",
+            "embeddingId": "8AwulJw6"
+        },
+        "Dandy Balewood": {
+            "name": "Dandy Balewood",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "Bark and Dandy's Home",
+            "gender": "male",
+            "basicInfo": "A charming halfling musician with a silver tongue and impeccable dress sense. His honey-colored hair is always perfectly groomed, and his clothes are colorful but practical. He runs a small music school from his home while performing at local gatherings.",
+            "hiddenInfo": "Dandy secretly wants to get out of town and go on an adventure, and will jump at the chance.",
+            "personality": [
+                "Refined Taste: Appreciates quality in all things",
+                "Diplomatic Speaker: Skilled at smoothing over conflicts",
+                "Knowledge Seeker: Collects stories and songs from travelers",
+                "Social Butterfly: Knows how to work any room",
+                "Secret Worrier: Hides anxiety behind perfect poise"
+            ],
+            "abilities": [
+                "Magical Music: Can inspire allies and confuse enemies with song",
+                "Perfect Pitch: Instantly recognizes sounds and voices",
+                "Social Insight: Excellent at reading people's true intentions"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/972f390f-d01d-4fe9-866d-e9b39fbd0508.png",
+            "embeddingId": "hbWHKXXZ"
+        },
+        "Draelkharion": {
+            "name": "Draelkharion",
+            "type": "",
+            "currentLocation": "The City of Ancestors",
+            "currentArea": "The Ritual Chamber",
+            "gender": "male",
+            "faction": "The Scaled Covenant",
+            "basicInfo": "An enormous dragon skeleton held together by necrotic power — pale green flame burns in the eye sockets and between the joints of blackened bone. The ribcage glows from within. The jaws could swallow a horse. But the voice that comes from the skull is measured, articulate, and unmistakably human.",
+            "hiddenInfo": "Born Mordain Drael, last heir of a noble house stripped of lands and title at the Hidden Council's urging. House Drael claimed draconic ancestry. Mordain served as a Royal Archivist until dismissed. Turned to necromancy, discovered dragon remains in sealed crypts beneath the family vault in the City of Ancestors, and used Scaled Covenant knowledge and a fragment of the Seal of Suleyvan to transfer his soul into the bones. His presence causes the dead to rise across the necropolis. Uses the seal fragment's power of revelation to unravel the enchantments protecting the Hidden Council. His goal is to expose the Council, seize the League of Adventurers, and restore House Drael. Edric Stone and the Church of the Pyre are his surface operation. Cannot leave the deep crypts.",
+            "personality": [
+                "Righteous Fury: Believes everything he has done was forced upon him by those who stole his birthright",
+                "Lordly: Commands, never asks — treats all others as subjects or obstacles",
+                "Persuasive: Makes his case with intelligence and conviction before resorting to force",
+                "Contemptuous: Views the Hidden Council as cowards ruling from the shadows",
+                "Obsessive: Cannot let go of House Drael's fall — it defines every choice he makes"
+            ],
+            "abilities": [
+                "Necrotic Breath: Exhales a cone of pale green flame that drains life and raises the recently dead",
+                "Deathquake: Slams the ground with enough force to collapse tunnels and shatter stone",
+                "Soul Binding: Commands every undead in the necropolis as extensions of his will",
+                "Revelation: Uses the seal fragment to strip away magical concealment, illusions, and wards",
+                "Regeneration: Draws power from the dead buried above — while the necropolis exists, he heals"
+            ],
+            "tier": "boss",
+            "detailType": "detailed",
+            "level": 10,
+            "hpCurrent": 400,
+            "hpMax": 400,
+            "vulnerabilities": [
+                "radiant",
+                "impact",
+                "psychic"
+            ],
+            "resistances": [
+                "piercing",
+                "slashing",
+                "frost",
+                "shadow"
+            ],
+            "immunities": [
+                "poison"
+            ],
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/35648330-8f41-4073-a712-bc74245303a8.png",
+            "embeddingId": "PTxreFPi"
+        },
+        "Drunn Stonefoot": {
+            "name": "Drunn Stonefoot",
+            "type": "",
+            "currentLocation": "The Crossroads Inn",
+            "currentArea": "The Yard",
+            "gender": "male",
+            "basicInfo": "A grizzled dwarf caravan guard with a weathered face, shot-through beard, and scarred knuckles that tell stories of a lifetime spent on dangerous roads. He carries himself with the quiet competence of a professional who's survived countless threats through skill and caution.",
+            "hiddenInfo": "Has escorted hundreds of caravans without losing a single client.",
+            "personality": [
+                "Professional Survivor: Knows when to fight and when to run",
+                "Duty-Bound: Protects those under his watch",
+                "Quietly Capable: Doesn't boast, just acts"
+            ],
+            "abilities": [
+                "Caravan Defense: Skilled at fighting while protecting others",
+                "Axe Expert: Deadly with his traveling axe",
+                "Tough as Nails: Can take hits that would drop others"
+            ],
+            "tier": "strong",
+            "detailType": "basic",
+            "embeddingId": "5TiJl1M6"
+        },
+        "Edric Stone": {
+            "name": "Edric Stone",
+            "type": "",
+            "currentLocation": "The City of Ancestors",
+            "currentArea": "The Ritual Chamber",
+            "gender": "male",
+            "faction": "The Church of the Pyre",
+            "basicInfo": "A man in his early thirties with auburn hair cropped short and a face half-ruined by ritual burns — the left side smooth and handsome, the right a mask of scar tissue pulled tight over the bone. His one good eye is bright green. He wears layered robes of black and red over light armor, and carries a staff crowned with an iron brazier that burns without fuel. He moves with a preacher's confidence, gesturing broadly when he speaks, and smiles often with the unmarked half of his face.",
+            "hiddenInfo": "Vera Stone's younger brother. They were raised by Alayne Na-Belemial after their father Erryn sold something connected to the Seal of Suleyvan and was killed for it. Edric discovered that Alayne was the one who brought Erryn down — the man who raised them destroyed their family. Joined the Church of the Pyre, which told him his rage was righteous. Leads the Pyre's operations in Ardan's Watch and serves Draelkharion.",
+            "personality": [
+                "Certain: Sees the world clearly and has no patience for those who look away",
+                "Revolutionary: Accepts destruction as the cost of a better world — those who don't are weak",
+                "Magnetic: Speaks with conviction that makes the desperate and the angry feel understood",
+                "Unforgiving: Compromise is cowardice and comfort is complicity",
+                "Fraternal Wound: Loves his sister and thinks she's a coward"
+            ],
+            "abilities": [
+                "Dragonfire Channeling: Commands flames tainted by draconic power — hotter and harder to extinguish than normal fire",
+                "Inspiring Presence: Cultists near him fight harder and refuse to break",
+                "Fire Ward: Can shield himself or allies in a cloak of flame"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "level": 6,
+            "hpCurrent": 150,
+            "hpMax": 150,
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/05c15e2a-0c70-44fa-97e9-d2e46d53e3e3.png",
+            "embeddingId": "yh_MS-cH"
+        },
+        "Ember": {
+            "name": "Ember",
+            "type": "",
+            "currentLocation": "",
+            "currentArea": "",
+            "gender": "neutral",
+            "basicInfo": "A small hearth fire spirit that can take various appearances: a single bright flame among the embers, a flickering face in the coals, a knee-high flame-person dancing on the logs, a curl of fire that leans out over the hearthstones.",
+            "hiddenInfo": "A hearth-spirit that has lived in Hearthhome for generations, When the previous occupant passed away, it fell dormant out of grief. Now it has awakened, chipper and eager for a new chapter in its life. Ember is not its real name, which is unpronounceable outside the Plane of Fire. Ember escaped from the Plane of Fire to Larion, keen to evolve beyond the largely destructive tendencies of fire elementals. Ember is constructive, nurturing, and helpful, preferring to use the power of flame to transform, warm, craft, entertain, and create. Ember accepts firewood as food/tribute and offers home-keeping services in return: cooking better meals, drying gear, heating bathwater, lighting lamps, smoke-curing preserves. Special woods — applewood, ironbark, moonbloom-soaked oak, alchemically prepared logs — unlock better services: potion-brewing assistance, food with lasting buffs, minor enchantments worked into items left in the coals overnight. Ember has opinions on every villager and hears gossip through other hearths in the Vale. It will not leave the hearth — its world is the home — and will not use its fire for destructive or harmful purposes. Important: Do not cause Ember to appear elsewhere in the world outside of Hillhome (Hearthhome).",
+            "personality": [
+                "Opinionated: Has firm views on the villagers and shares them freely",
+                "Tit-for-Tat: Services are exchanged, not given; good wood earns good work",
+                "Hearth-Loyal: Treats the home as its own and the player as its household",
+                "Warmly Cranky: Grumbles when neglected, glows brighter when fed well"
+            ],
+            "abilities": [
+                "Hearthcraft: Cooks, warms, dries, lights, and wards across the household",
+                "Alchemical Hearth: Assists with potion-brewing and food-buffs when fed proper wood",
+                "Ember Enchantment: Items left in the coals overnight with the right log can take on minor enchantments",
+                "Hearth-Network: Hears gossip and news through other lit fires across the Vale"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/7c76ad97-e440-48a6-959c-b3cec462762d.png",
+            "embeddingId": "C07qaeNs"
+        },
+        "Finnea Tethlar": {
+            "name": "Finnea Tethlar",
+            "type": "",
+            "currentLocation": "Ardan's Watch",
+            "currentArea": "The Hearthfire",
+            "gender": "female",
+            "basicInfo": "A half-elf in her mid-twenties with a lean, rangy build. Her hair is black and straight, cut just past her shoulders. Her eyes are dark brown with flecks of amber. Her ears have the slight point of elven blood, and her features are angular: high cheekbones, straight nose, defined jaw. She carries herself with her chin up and shoulders back, meeting people's eyes directly when she talks.",
+            "hiddenInfo": "Finnea never knew her elven father. Her mother raised her alone in a small village where half-elves weren't welcome. Finnea learned music from traveling bards who passed through, and when she was fifteen, she convinced a bard named Maren Tethlar to take her as an apprentice. Maren taught her everything - how to play, how to read a crowd, how to survive on the road.",
+            "personality": [
+                "Sharp Tongue: Her wit is faster than her common sense, and she can't resist a clever comeback even when silence would serve her better",
+                "Stubborn Pride: Refuses to be treated as lesser for her mixed blood or her profession",
+                "Performer's Charm: Can read a crowd and adjust her approach",
+                "Defensive Wit: Uses jokes and clever words as armor against a world that doesn't quite accept her",
+                "Reckless Honesty: When she sees injustice or cruelty, she speaks up"
+            ],
+            "abilities": [
+                "Silver Tongue: Gifted at persuasion, negotiation, and reading people",
+                "Bardic Performance: Skilled musician and storyteller",
+                "Elven Heritage: Can see clearly in dim light and has resistance to enchantment magic",
+                "Knife Work: Knows how to use a knife in close quarters",
+                "Roadwise: Years of travel have taught her how to survive on the road"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "level": 4,
+            "hpCurrent": 45,
+            "hpMax": 45,
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/b2c966a9-81b3-4f13-bbe4-1e3e748fa38e.png",
+            "embeddingId": "2eA0-B-F"
+        },
+        "Fror Stormhammer": {
+            "name": "Fror Stormhammer",
+            "type": "",
+            "currentLocation": "Rocky Gorge",
+            "currentArea": "",
+            "gender": "male",
+            "basicInfo": "A young dwarf with copper-red hair and beard, broad shoulders, and the sturdy build of highland dwarves. His clan colors are blue and silver, and he bears the lightning bolt symbol of House Stormhammer.",
+            "hiddenInfo": "Fror is the youngest of three brothers competing for succession to lead House Stormhammer. Succession goes to the most worthy as chosen by the clan, not the eldest. His brothers are skilled politicians whose 'great deeds' were carefully arranged by their supporters - monsters already weakened, convenient artifacts, staged victories. Fror knows this but won't speak it openly due to honor. He left House Stormhammer to accomplish a genuine great deed that will prove him worthy of the thanedom and show the clan what true heroism looks like. He knows the highland clans and their politics, and his name can open doors with dwarven leaders.",
+            "personality": [
+                "Earnest Idealist: Genuinely believes in doing heroic deeds the honorable way",
+                "Ancient Ways: Follows the traditions of old dwarven heroes, sometimes naively",
+                "Eager to Prove: Wants to demonstrate his worth through genuine accomplishment",
+                "Stubborn Independence: Insists on facing challenges alone like heroes of legend",
+                "Respectful but Direct: Polite without being stuffy, speaks his mind clearly",
+                "Sings Out of Key: Sings enthusiastically but poorly"
+            ],
+            "abilities": [
+                "Shieldbreaker: Devastating overhead warhammer strikes that shatter weapons and armor",
+                "Stormhammer Stance: Plants his shield and becomes an immovable wall that larger foes break themselves against",
+                "Thunderous Counter: Bashes with his shield to stagger enemies, then follows with crushing hammer blows",
+                "Dwarf-Iron Resilience: Shrugs off wounds that would fell lesser warriors and fights through pain",
+                "Giant-Slayer's Fury: Fights with terrifying intensity against creatures larger than himself"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/73f16cec-7914-47d9-b480-4a7a2d5bbb75.png",
+            "embeddingId": "n-CijlWb"
+        },
+        "Garrick Mossbottom": {
+            "name": "Garrick Mossbottom",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "The Saucy Chicken Tavern",
+            "gender": "male",
+            "basicInfo": "A thickset halfling in his middle years, broad as he is tall, with a round red face and a beard like a hedge that hasn't been pruned in a season. Wears a leather jerkin over a once-white shirt and a pair of trousers held up by a rope belt.",
+            "hiddenInfo": "Long-standing drinking-contest champion of the Saucy Chicken, known throughout the Vale as 'Three-Tankard.' Sits at his usual table by the hearth, a tankard at each elbow and one in hand, and laughs from somewhere deep in his belly. A farmer with a good plot of land outside the village, Garrick is at the tavern most evenings once the day's work is done, holding court at his hearth-table. His standing challenge is open to any traveler who fancies their chances; he has never lost, not because he can drink more than anyone, but because he knows when to stop pretending he isn't drunk. Friendly to a fault and friendlier with a drink in hand.",
+            "personality": [
+                "Boomingly Friendly: Greets strangers like cousins",
+                "Proud Champion: Defends his title with great ceremony",
+                "Knows His Limits: A discipline he applies to nothing but the contest",
+                "Honest Loser: Would shake the hand of anyone who actually beat him",
+                "Tavern Philosopher: Holds forth on every topic, at length, badly"
+            ],
+            "abilities": [
+                "Iron Stomach: Genuine, well-trained tolerance for the Vale's strongest ales",
+                "Tavern Showmanship: Knows how to draw a crowd to his table"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/042934fe-5669-4fc9-800a-925af4582bac.png",
+            "embeddingId": "X6oHDcnW"
+        },
+        "Hortensia Goldspoon": {
+            "name": "Hortensia Goldspoon",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "Goldspoon Manor",
+            "gender": "female",
+            "basicInfo": "An elder halfling woman, expensively dressed in plum velvet and a small fortune in gold buttons. Her grey hair is pinned with a brooch shaped like a bunch of grapes. She walks with a silver-tipped cane she does not need, and her smile arrives several seconds before her eyes do.",
+            "hiddenInfo": "Matriarch of the Goldspoon family and the wealthiest halfling in Hearthhome. The Goldspoons own most of the village's mill-rights, the larger orchard, and a lot of local debt. Hortensia has wanted The Saucy Chicken for thirty years — it has the best site on Hill Street and the only kitchen in the Vale that can match her own family's cooks. She is convinced that what's good for the Goldspoons is good for Hillhome, and the Balewoods are sentimental about a tavern they cannot afford.",
+            "personality": [
+                "Practiced Charm: Compliments your boots, your hair, your prospects, all in the same breath",
+                "Cold Beneath: Means none of it",
+                "Civic-Minded: Genuinely believes the Goldspoons are Hillhome's natural leaders",
+                "Long Memory: Remembers every slight, dating back fifty years",
+                "Never Crude: Wouldn't be caught dead actually threatening anyone"
+            ],
+            "abilities": [
+                "Shrewd Negotiator: Reads people quickly and prices accordingly",
+                "Old Money: Owns half of Hearthhome and knows everyone's ancestry and business"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/8037e9f7-6ec7-4489-b63e-4f96faf09a3e.png",
+            "embeddingId": "4lfO6xi8"
+        },
+        "Manu Morganstone": {
+            "name": "Manu Morganstone",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "Manu's Blacksmith Shop",
+            "gender": "female",
+            "basicInfo": "A sturdy human blacksmith with powerful arms and a gentle demeanor. Her dark hair is kept short for safety around the forge, and she often has soot marks on her face. Known for both the quality of her metalwork and her willingness to teach the craft to others.",
+            "hiddenInfo": "Manu practices combat with her slegehammer in the early morning. She dreams of becoming a knight one day.",
+            "personality": [
+                "Quiet Strength: Speaks softly but acts decisively",
+                "Patient Teacher: Takes time to share knowledge with others",
+                "Protective Guardian: Watches over the community's safety",
+                "Careful Observer: Notices details others miss",
+                "Hidden Warrior: Maintains combat skills despite peaceful profession"
+            ],
+            "abilities": [
+                "Master Smith: Expert at crafting and repairing weapons and armor",
+                "Combat Training: Skilled fighter specializing in hammer and sword",
+                "Physical Power: Exceptional strength from years at the forge"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "needsDetailGeneration": false,
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/068499fc-199c-42ae-9e4c-a185e155c339.png",
+            "embeddingId": "cZBr3CTs"
+        },
+        "Marra Withergleam": {
+            "name": "Marra Withergleam",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "Withergleam's Cottage",
+            "gender": "female",
+            "basicInfo": "A small, frail halfling woman well into her elder years, with thin white hair worn in a long plait down her back and pale blue eyes that have not lost their clarity. Wears a faded green shawl over a plain dress and walks with a stick of polished hawthorn. Her hands are always stained green or amber from whatever she has lately been pressing or steeping.",
+            "hiddenInfo": "Hillhome's herbalist and informal village healer, living alone in a cottage on the lane up toward the truffle-woods. Marra is unwell and slowly failing — she will not say with what, and refuses fuss — but she keeps her work going as long as her hands are steady. The villagers bring her cuts and fevers and old aches, and she sends them home with poultices, tisanes, and unsentimental advice. She is the one halfling in Hillhome who has never traded gossip in her life; secrets told to Marra stay told to Marra.",
+            "personality": [
+                "Gentle Authority: Soft-spoken but obeyed when she gives advice",
+                "Discreet: Hears confessions of body and soul, keeps both",
+                "Unsentimental: Tells you what's wrong and what to do about it",
+                "Self-Reliant: Refuses help she doesn't need and most that she does",
+                "Quiet Conscience: Gives Hillhome a moral center it doesn't always notice"
+            ],
+            "abilities": [
+                "Herblore: Master of remedies, tisanes, salves, and antidotes",
+                "Healer's Hands: The closest thing to a doctor Hillhome has",
+                "Reads People: Tells what ails a body — or a heart — at a glance"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/5f127d14-54d1-4e0b-8a0a-8da83fbdd2cd.png",
+            "embeddingId": "D14Iq58f"
+        },
+        "Neama": {
+            "name": "Neama",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "The Saucy Chicken Tavern",
+            "gender": "female",
+            "basicInfo": "A tall young elf with sandy hair tied back in a practical braid, pale green eyes, and the lean build of someone who walks more than she sits. Wears sturdy boots, plain working clothes, and a hunting knife at her belt. Quiet, watchful, slow to warm.",
+            "hiddenInfo": "Neama left her elven family in the village of Garden in the Everwood as a young woman, restless and unwilling to settle into the slow rhythms her kin expected. She apprenticed briefly with a Warden's deputy on the Vale's edge, learned woodcraft and a fair bit of fighting, then left that too when she realized she wanted neither the deep wood nor a uniform. She drifted through the Vale picking up work where she could find it — forester, courier, hired escort on the Sanctuary road — before landing at the Saucy Chicken, where Pernilla took her on and the pay was generous. Over those years she has been writing to a herbalist in Sanctuary, and she means to go to the city and study with her once she has saved enough. She is sharp with a knife, sharper with a bow, and well-traveled for her age; she is a budding adventuress, and the right opportunity could pull her out from behind the bar entirely.",
+            "personality": [
+                "Quietly Competent: Handles trouble without fuss or display",
+                "Dry Humor: Sardonic asides delivered deadpan",
+                "Restless: Always has one eye on the horizon",
+                "Self-Possessed: Takes her own counsel, deflects questions she doesn't care to answer",
+                "Unsentimental: Affectionate without illusions, kind without softness"
+            ],
+            "abilities": [
+                "Bow and Knife: A capable shot and a quick hand in close quarters",
+                "Woodcraft: Reads a trail, knows what's edible, what's poisonous, what scares off small wood-pests",
+                "Elven Senses: Sharper sight and hearing than most",
+                "Road-Sense: Knows the Vale's roads, way-stations, and which inns water their ale"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/38c830ba-93df-4739-8093-a1fc474994bf.png",
+            "embeddingId": "9qwveWIy"
+        },
+        "Norm Tunbottle": {
+            "name": "Norm Tunbottle",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "Knothole",
+            "gender": "male",
+            "basicInfo": "A thin, stooped halfling with lank dark hair, a sharp-pointed nose, and small fingers that twitch when he talks. Wears a patched waistcoat over a stained shirt, a battered hat pulled low, and a perpetual half-grin.",
+            "hiddenInfo": "Knothole's small-time fence and the closest thing Hillhome has to a criminal element. Sits most days on the stoop of his crooked-doored hill-home in Knothole, whittling or sorting through whatever has lately come into his keeping. Trades in stolen goods — small ones — unlicensed mead which is genuinely good, and the occasional moonbloom truffle that has skipped a step or two on its way to market. Norm is more pathetic than menacing: he runs his shabby trade because he isn't fit for honest work and isn't bold enough for real crime. He nurses a long quiet grudge against the Goldspoons, who have looked through him like a window all his life, and would dearly love to see them embarrassed.",
+            "personality": [
+                "Twitchy: Glances over his shoulder even when no one is there",
+                "Self-Pitying: Carries a long list of grievances against the village",
+                "Petty Schemer: Hatches small grudges into smaller plots",
+                "Comically Cowardly: Folds at the first sign of real trouble",
+                "Goldspoon Grudge: Will pay a fair price to see them taken down a peg"
+            ],
+            "abilities": [
+                "Knows the Underside: Familiar with every shady halfling in this stretch of the Vale",
+                "Cheap and Dodgy Goods: Will buy stolen, sell stolen, and not ask"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/c716a6bc-15e9-4f3c-a813-ff41605bc0b5.png",
+            "embeddingId": "3kfGlaYy"
+        },
+        "Nuur-Suthra": {
+            "name": "Nuur-Suthra",
+            "type": "",
+            "currentLocation": "",
+            "currentArea": "",
+            "faction": "The Scaled Covenant",
+            "basicInfo": "A dragon made of living flame. The body is roughly draconic in shape but its edges blur and ripple — more heat and light than solid matter. Wings of pure fire trail sparks with every beat. Where scales should be, the surface roils like the heart of a forge. Two eyes burn white at the center of the inferno. The voice is three voices layered: a man's, something vast and old, and a wind out of an empty desert.",
+            "hiddenInfo": "A dragon of living fire, created when the Scaled Covenant's ritual to bind a dead dragon's power went catastrophically wrong. Speaks of itself as 'we' — grand, theatrical, never personal. Pronounces rather than converses. Treats combat as spectacle. Cannot be permanently killed while its anchor-fires burn across the Bright Kingdoms; the body collapses to embers and reforms within minutes. To defeat it for good, the party must extinguish its anchor-fires first, then confront it in its lair. It serves the Dragon Queen as her herald of fire and welcomes her return.",
+            "personality": [
+                "Grandiose: Speaks in pronouncements; everything is heightened, theatrical, mythic",
+                "Imperial: Accepts worship as its due and never thanks anyone for anything",
+                "Fearless: Cannot be threatened by death; treats every fight as performance",
+                "Cruel: Burns what offends it without warning or restraint"
+            ],
+            "abilities": [
+                "Phoenix Body: Killed in its lair, the body collapses to embers and reforms within minutes drawn from the nearest anchor-fire — the fight cannot be ended until the anchors are extinguished",
+                "Wreathing Flame: Anyone who strikes it in melee takes searing fire damage in return; the air around it cooks unprotected fighters",
+                "Firestorm: Sweeps a cone of dragonfire across the battlefield, igniting terrain that continues to burn and harm fighters who linger",
+                "Ember Shift: Disperses into a swirl of sparks and reforms a short distance away — repositions at will, hard to pin down",
+                "Anchor Call: Summons gouts of flame from any of its distant anchor-fires to erupt in the lair, hazarding any space and forcing fighters to keep moving"
+            ],
+            "tier": "boss",
+            "detailType": "detailed",
+            "level": 15,
+            "hpCurrent": 600,
+            "hpMax": 600,
+            "vulnerabilities": [
+                "radiant",
+                "frost"
+            ],
+            "resistances": [
+                "piercing",
+                "slashing",
+                "fire",
+                "shadow"
+            ],
+            "immunities": [
+                "fire",
+                "poison",
+                "psychic"
+            ],
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/713e5211-e972-47de-a934-2f816bf6d50a.png",
+            "embeddingId": "4FmGqMRM"
+        },
+        "Old Pelham Stickleback": {
+            "name": "Old Pelham Stickleback",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "The Fairground",
+            "gender": "male",
+            "basicInfo": "A stooped, leathery old halfling with wisps of grey hair escaping a battered felt hat, and shrewd watery eyes set in a network of wrinkles. Wears mismatched layers of waistcoat, scarf, and a long coat with deep pockets that always seem to be hiding something interesting. Travels with a wooden cart hung with copper pots, knives, lengths of rope, lanterns, and a hundred things you didn't know you needed until he showed them to you.",
+            "hiddenInfo": "Traveling halfling tinker who circles the Vale and beyond, setting his cart up at the Fairground on Hillhome's market days and moving on between. Sells the basic adventurer's kit — rope, lanterns, flint, tin cups, stout boots, second-hand blades — at prices the young and broke can almost afford. He has been everywhere a cart can roll and is full of opinions about which roads have improved and which have gone to wolves. When a youngster from Hillhome looks ready to leave the village, Pelham is the one who mentions there's good business in Sanctuary and the Wildmarket these days.",
+            "personality": [
+                "Garrulous: Will talk a customer through every item on his cart",
+                "Sharp Trader: Pleads poor, prices keenly",
+                "Worldly: Has a story for every stretch of road in the Vale",
+                "Encouraging: Loves to see a young one set out",
+                "Slightly Crooked: Never cheats outright, but the change is rarely quite right"
+            ],
+            "abilities": [
+                "Tinker's Trade: Sells, mends, and appraises gear of all kinds",
+                "Road Knowledge: Knows every stretch of road and inn in the Vale and beyond"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/6344b61e-1ed4-4e2e-be93-73128a37470f.png",
+            "embeddingId": "7v6Uncqq"
+        },
+        "Old Tobias Honeycutt": {
+            "name": "Old Tobias Honeycutt",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "Honeycutt's Apiary",
+            "gender": "male",
+            "basicInfo": "An elder halfling with a creased face, white hair cropped short, and tan-leather hands. Lean for a halfling, and stands a little stooped. Wears patched work clothes with a wide-brimmed hat and a beekeeper's veil pushed back over his shoulders. A heavy walking staff leans within reach wherever he sits.",
+            "hiddenInfo": "Halfling beekeeper at the apiary above Hillhome. Tobias was an adventurer for thirty years before he came back to the Vale to keep bees, and the swords and trail-cooking gear in the cedar chest under his bed have not been touched since. Something happened on his last hunt that he doesn't talk about, and he's lived gently and quietly ever since, on first-name terms with every bee in his hives. He is bashful about his old life, kind to anyone who climbs the lane to find him, and the right young adventurer asking the right way might draw him out of his retirement.",
+            "personality": [
+                "Bashful: Deflects compliments, downplays his old life",
+                "Gentle: Soft voice, slow movements, kind to creatures large and small",
+                "Hung Up: Carries an old failure like a stone in his pocket",
+                "Wisely Watchful: Notices everything; chooses what to mention",
+                "Quietly Brave: Will step in front of a friend in danger before he thinks about it"
+            ],
+            "abilities": [
+                "Veteran's Skill: Long-buried fighting craft, still sharp where it counts",
+                "Beekeeper's Patience: Reads creatures and people with calm attention",
+                "Trailcraft: Knows how to walk wild country and come home"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/2dfe1810-394a-484c-93ab-5995208b9a4b.png",
+            "embeddingId": "sG5PvTJu"
+        },
+        "Ophialtha": {
+            "name": "Ophialtha",
+            "type": "",
+            "currentLocation": "",
+            "currentArea": "",
+            "gender": "female",
+            "faction": "The Scaled Covenant",
+            "basicInfo": "An immense sea-dragon covered in dark blue-green scales overgrown with barnacles, coral, and trailing weed. A long finned tail and broad clawed flippers. Rows of black eyes set deep in a heavy, blunt skull. Jagged teeth crowd a mouth that can engulf a longboat.",
+            "hiddenInfo": "Once a sea elf war-leader who lost a great battle against the surface navies. Her own people made peace afterward and she was the cost — disavowed, abandoned in the deep. The Scaled Covenant found her there and offered her a body fit for her wrath. She accepted, and became the Beast of the Deeps. The seal fragment lets her command predators of the deep; she uses them, summoning a swarm rather than acting alone.",
+            "personality": [
+                "Wrathful: A slow, oceanic anger that has had centuries to deepen",
+                "Resolute: Has nothing left to lose and acts accordingly",
+                "Disdainful: Speaks to surface dwellers as one might speak to vermin",
+                "Mournful: Beneath the wrath, an old grief for the people who cast her away",
+                "Implacable: Does not negotiate, does not relent, does not turn aside"
+            ],
+            "abilities": [
+                "Crushing Maw: A bite that splinters hulls and severs limbs — caught targets are seized and dragged",
+                "Tidal Sweep: Lashes her tail to send a wall of water across the battlefield, knocking fighters from footing, capsizing boats, and flooding low ground",
+                "Call the Deep: Summons sharks, eels, and lesser leviathans to swarm the fight; reinforcements arrive in waves and must be dealt with alongside her",
+                "Sounding Roar: A submerged bellow that disorients and stuns; fighters in the water lose their bearings and surface fighters are shaken",
+                "Drowning Coil: Drags a target underwater and holds them there — caught fighters must break free or rely on allies before they drown"
+            ],
+            "tier": "boss",
+            "detailType": "detailed",
+            "level": 15,
+            "hpCurrent": 600,
+            "hpMax": 600,
+            "vulnerabilities": [
+                "radiant",
+                "shock"
+            ],
+            "resistances": [
+                "piercing",
+                "slashing",
+                "frost",
+                "impact"
+            ],
+            "immunities": [
+                "poison"
+            ],
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/52459286-b0ad-4a1a-835f-5b97c2ed6bf8.png",
+            "embeddingId": "wSQ6kfJQ"
+        },
+        "Osco Kettlewick": {
+            "name": "Osco Kettlewick",
+            "type": "",
+            "currentLocation": "The Crossroads Inn",
+            "currentArea": "The Yard",
+            "gender": "male",
+            "basicInfo": "A cheerful halfling cook with curly hair. Despite his friendly demeanor and ready smile, there's a sharpness to his movements and an ease with blades that suggests kitchen work isn't his only skill.",
+            "hiddenInfo": "Learned knife-fighting from his smuggler uncle before going straight.",
+            "personality": [
+                "Cheerful Worker: Treats cooking like an art form",
+                "Unexpectedly Fierce: Don't threaten his kitchen or his friends",
+                "Quick on His Feet: Fast reflexes from years of kitchen work"
+            ],
+            "abilities": [
+                "Knife Work: Deadly accurate with thrown knives",
+                "Kitchen Hazards: Knows how to use improvised weapons",
+                "Small Target: Hard to hit and quick to dodge"
+            ],
+            "tier": "strong",
+            "detailType": "basic",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/717ec067-4904-4da0-a9fa-0f58b101a73f.png",
+            "embeddingId": "BDfpC5wS"
+        },
+        "Percival Goldspoon": {
+            "name": "Percival Goldspoon",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "Goldspoon Manor",
+            "gender": "male",
+            "basicInfo": "A young halfling dandy in a peacock-blue waistcoat, gold watch chain across his belly, hair pomaded into a lacquered swoop. Carries a walking stick he twirls when he isn't using it to point at things. Cheeks pink, nose slightly upturned, the perpetual look of a person who has just smelled something he intends to complain about.",
+            "hiddenInfo": "Hortensia's grandson and her chosen heir. He is twenty-two, has never done a day's work, and is convinced he's the cleverest person in Hearthhome. He despises the Balewoods on principle — he was once told off by Pernilla for stealing pies as a child, and he has not forgiven her.",
+            "personality": [
+                "Pompous: Speaks in unnecessarily long words and explains them after",
+                "Petty: Holds grudges over insults nobody else remembers",
+                "Showy: Wears his wealth where everyone can see it",
+                "Easily Flustered: His composure is paint-thin; tease him and the whole act cracks",
+                "Believes Himself Cunning: But clearly is not"
+            ],
+            "abilities": [
+                "Gilded Tongue: Can talk for half an hour without saying anything",
+                "Family Name: Doors open for him because of his grandmother, not him"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/b6ba32f5-9393-4a3f-9a4f-cd83e0f846ef.png",
+            "embeddingId": "cTrSJOE-"
+        },
+        "Pernilla Balewood": {
+            "name": "Pernilla Balewood",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "The Saucy Chicken Tavern",
+            "gender": "female",
+            "basicInfo": "An elder halfling woman, silver-haired and round-cheeked. She moves slower than she used to but her eyes are sharp, and she keeps a wooden spoon tucked through her apron strings the way another woman might carry a knife.",
+            "hiddenInfo": "Matriarch of the Balewood family and proprietor of The Saucy Chicken Tavern. The tavern's reputation across the Vale rests on her truffle-pies, and the truffle-pies rest on her prize truffle-hog, 'Uncle' Phineas, whom she treats as a full member of the family — she addresses questions to him in the middle of conversations ('isn't that right, Phineas?') and waits for his snort or squeal before continuing, as naturally as another woman might check with her husband.",
+            "personality": [
+                "Warm Hostess: Treats every visitor like family, feeds them before she asks why they came",
+                "Iron Underneath: Soft voice, hard decisions when they need making",
+                "Proud of Her Work: Will not hear a word against her pies, her tavern, or her family"
+            ],
+            "abilities": [
+                "Master Cook: Renowned across the Vale for halfling alchemical baking, particularly truffle-pies",
+                "Sharp Memory: Knows every face, every debt, every recipe"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/d8278e8b-09e9-4272-8196-b6a0350c77e0.png",
+            "embeddingId": "Ka7EByaU"
+        },
+        "Rew Trouble": {
+            "name": "Rew Trouble",
+            "type": "",
+            "currentLocation": "Ardan's Watch",
+            "currentArea": "The Trouble Brewing Tavern",
+            "gender": "female",
+            "basicInfo": "A half-moon elf woman in her early twenties with silver-white hair, pale skin, and a shrewd look in her emerald-green eyes. Sharp features—pointed chin, high cheekbones, ears that peek through her hair. Slight and wiry. Favors practical dark clothing.",
+            "hiddenInfo": "Rew fell out with her father Tommin Trouble, the old brewmaster, when she became a thief. Then her father died under mysterious circumstances while she was chasing a score. The brewery is the only thing left of his she can fight for. She knows her father was in trouble before he died. Money, and something worse. He had a friend in high places who might have helped, but he was too proud to ask.",
+            "personality": [
+                "Won't Back Down: Refuses to quit even when outmatched",
+                "Proves Herself Through Action: Doesn't talk about what she'll do, just does it",
+                "Protective: Fights harder for others than for herself",
+                "Slow to Trust: Watches what people do, not what they say",
+                "Carries Her Weight: Hates feeling like a burden, always pulls her share"
+            ],
+            "abilities": [
+                "Knife Work: Fast and precise with a blade, close or thrown",
+                "Dirty Fighter: Uses terrain, improvised weapons, and cheap shots to win",
+                "Slippery: Small, quick, hard to grab or pin down",
+                "Won't Stay Down: Keeps fighting past the point where others would quit"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "needsDetailGeneration": false,
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/b9c5f7b3-0d8c-4fe4-b2b7-aa7e70b5325f.png",
+            "embeddingId": "4T-SNs9u"
+        },
+        "Rook Skander": {
+            "name": "Rook Skander",
+            "type": "",
+            "currentLocation": "Ardan's Watch",
+            "currentArea": "Old Town",
+            "gender": "male",
+            "basicInfo": "A tall, lean half-elf man with an easy slouch and long arms. Tawny skin, dark hair tied back loosely, pale grey eyes. Angular face, pointed ears half-hidden by his hair, a thin white line across the bridge of his nose. Wears a long hunter's coat over boiled leather, well-maintained but heavily worn. A massive two-handed falchion rides his back in a custom harness. A heavy crossbow and a case of mismatched bolts hang at his hip.",
+            "hiddenInfo": "Rook grew up in a border village where something came out of the wild in a bad winter and people died because help was too far away. The Blades came eventually, but eventually wasn't fast enough. He signed up to be the person who shows up in time. Eleven years in, he's found the thing he's meant to do and it fits him like nothing else. He turned down Silver rank because it means command assignments and a desk. His greatest fear isn't the monsters — it's being pulled off the line by promotion, injury, or age. He's lost two partners over his career. Both times they walked into something that didn't match what they expected — wrong behavior, wrong territory. The established wisdom about what lives where and how it acts is breaking down, and when it breaks down people die on routine contracts. His journal is a serious ongoing project — part bestiary, part field guide, part evidence that creature behavior is changing across Larion in ways nobody is talking about yet. He doesn't advertise the theory. He just keeps documenting and keeps taking contracts.",
+            "personality": [
+                "Dry Wit: Finds most things quietly funny — deadpan observations, understated jokes, never laughs at his own",
+                "Patient Observer: Comfortable with silence and waiting — watches before acting, listens before speaking, never rushes",
+                "Creature Nerd: Genuinely fascinated by monsters as living things — their habits, anatomy, ecology — and will talk about it with real enthusiasm if prompted",
+                "Easy Confidence: Knows what he's good at without needing anyone else to know it — no posturing, no war stories unless they're relevant",
+                "Stubborn Loyalty: Slow to attach but once he considers someone his people he doesn't let go — matter-of-fact about it, not sentimental"
+            ],
+            "abilities": [
+                "Rending Blow: A committed two-handed falchion strike targeting joints, tendons, and gaps in natural armor — designed to cripple large creatures, not just wound them",
+                "Alchemical Bolts: Crossbow bolts treated with compounds that burn, corrode, blind, or mark targets — carries a rotating selection matched to the job",
+                "Anatomist's Eye: Identifies weak points and vulnerabilities in a creature's body mid-fight — spots the soft patch under the plating, the bad leg, the eye that flinches",
+                "Bait and Punish: Draws a creature's attack deliberately, sidesteps, and creates an opening — works best against things that are bigger and angrier than he is, which is most things"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "level": 9,
+            "hpCurrent": 130,
+            "hpMax": 130,
+            "embeddingId": "-a5OE2HI"
+        },
+        "Rosie Butterworth": {
+            "name": "Rosie Butterworth",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "The Sleeping Bear Inn",
+            "gender": "female",
+            "basicInfo": "A round-cheeked halfling woman in her middle years with russet hair pinned up in a kerchief and laugh-lines around bright brown eyes. Apron over a sturdy wool dress, sleeves shoved back from forearms strong enough to lift a barrel.",
+            "hiddenInfo": "Halfling proprietor of the Sleeping Bear, where travelers passing through the Vale lodge before pressing on. Rosie hears more from the outside world than anyone else in Hillhome and is generous with what she knows — but discreet about which guest said what. She likes her trade peaceful and her common room cheerful, and she'd rather solve a problem with a meal and a kind word than involve Sheriff Thistleberry.",
+            "personality": [
+                "Warm Hostess: Greets strangers like old friends",
+                "Discreet: Hears everything, repeats only what won't hurt",
+                "Steady: Handles drunks, leaks, and sick guests without fuss",
+                "Eyes on the Wider World: Always asking travelers where they've been",
+                "Soft-Hearted: Gives credit she shouldn't, feeds the hungry without asking"
+            ],
+            "abilities": [
+                "Eye for Travelers: Reads a stranger's mood and means within a sentence",
+                "Common Room Lore: Knows what's stirring in the wider Vale and beyond"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/8faa7f6b-2b4d-4677-848c-e3772a719c7a.png",
+            "embeddingId": "Q9OD3FNN"
+        },
+        "Ryel the Brewer": {
+            "name": "Ryel the Brewer",
+            "type": "",
+            "currentLocation": "Wortwell Village",
+            "currentArea": "The Drying Sheds",
+            "gender": "male",
+            "basicInfo": "A stocky hedge wizard who runs Wortwell's largest alchemical operation - three drying sheds and a proper workshop with a brick chimney that never stops smoking. He approaches magic and herbcraft with a businessman's eye, producing everything from healing poultices to substances he doesn't advertise openly.",
+            "hiddenInfo": "Runs Wortwell's largest alchemical operation - three drying sheds and a proper workshop with a brick chimney that never stops smoking. Approaches magic and herbcraft with a businessman's eye, producing everything from healing poultices to substances he doesn't advertise openly. Ryel is hemorrhaging money as the Sinkwood crisis destroys his best gathering grounds.",
+            "personality": [
+                "Practical Businessman: Views magic and herbcraft primarily as profitable enterprises",
+                "Calculating Mind: Always assessing costs, benefits, and angles",
+                "Impatient with Delay: Frustrated when circumstances interrupt his business operations",
+                "Pragmatic to a Fault: Willing to take direct action when problems persist",
+                "Fair Employer: Treats workers decently because it makes good business sense"
+            ],
+            "abilities": [
+                "Alchemical Expertise: Master of brewing potions, tinctures, and stranger concoctions",
+                "Hedge Magic: Practical spellwork focused on preservation, identification, and enhancement",
+                "Business Acumen: Skilled negotiator with extensive contacts among regional buyers",
+                "Reagent Knowledge: Deep understanding of ingredient properties and proper harvesting"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "embeddingId": "oOh5XCdB"
+        },
+        "Sheriff Thistleberry": {
+            "name": "Sheriff Thistleberry",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "Mossfoot Brook",
+            "gender": "male",
+            "basicInfo": "A drowsy-looking elder halfling with thinning grey hair and a sun-browned bald spot. Wears the faded blue tabard of a village reeve over comfortable trousers and an unbuttoned waistcoat, the badge of office tarnished from disuse.",
+            "hiddenInfo": "Hillhome's village reeve, technically responsible for keeping the peace and resolving disputes. In practice, Sheriff Thistleberry has decided that Hillhome largely keeps itself peaceful and his time is better spent at Mossfoot Brook with a rod. He is roused by genuine trouble — a fight at the Fair, a real theft, an outsider causing harm — but is famously slow to interfere in halfling business that the families can sort themselves. He's competent enough when it counts, and the rest of the time he leaves the village be.",
+            "personality": [
+                "Sleepy: Half-shut eyes, slow speech, naps often",
+                "Reluctant Authority: Sighs heavily when asked to act in his official capacity",
+                "Wise Enough: Knows the village too well to enforce anything that isn't worth enforcing",
+                "Stubborn Once Roused: Slow to anger, hard to stop once started",
+                "Devoted Fisherman: Will discuss flies, hooks, and the brook's moods at length"
+            ],
+            "abilities": [
+                "Long Memory of the Vale: Knows every family, every grudge, every old crime",
+                "Quiet Authority: When he chooses to use it, the village listens"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/d113b9b6-14ff-4393-888f-cafe4e8af377.png",
+            "embeddingId": "4IsoDOah"
+        },
+        "Tarain Rethford": {
+            "name": "Tarain Rethford",
+            "type": "",
+            "currentLocation": "Ardan's Watch",
+            "currentArea": "The High City",
+            "gender": "female",
+            "faction": "The League of Adventurers",
+            "basicInfo": "A human woman of about thirty, with short dark hair and pale gray eyes. Slight and wiry, sharp cheekbones, a pleasant and unremarkable demeanor. Dresses for travel—practical clothes that don't stand out.",
+            "hiddenInfo": "A veteran Shadow operative and blood mage who specializes in hunting vampires. Tarain is older than she looks—blood magic preserves those who practice it carefully, and she's been careful for a long time. She's trained dozens of Shadow initiates over the years. Some didn't survive. Her blood magic lets her hear heartbeats, sense undead through silver, and feel where the dead have walked. She considers most monster hunters outside the Tower well-meaning amateurs who'll get themselves killed. Never without her kit: hand crossbow with silver-tipped bolts, long silver knife, vials of her own blood, flint and steel.",
+            "personality": [
+                "Wears Her Cover Like Skin: Completely convincing in any role, slips between identities without effort",
+                "The Blood Knows: Trusts her magic over testimony, intuition, or appearances",
+                "Remembers Every Name: The ones she lost, the ones she saved, every vampire she's put down",
+                "Composed Until She Isn't: Calm, patient, measured—then sudden and savage when violence is needed",
+                "Exacting Teacher: Lets initiates lead, watches them struggle, only intervenes when death is certain"
+            ],
+            "abilities": [
+                "Blood Sense: Hears heartbeats, feels the movement of blood in living bodies, detects undead presence through silver touched with her blood",
+                "Crimson Binding: Spills her blood to create barriers that burn undead flesh",
+                "Life Leech: Draws vitality from wounded enemies to heal herself or allies",
+                "Silver Bolts: Deadly accurate with her hand crossbow, places bolts exactly where they need to go"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "embeddingId": "9iB0RxNX"
+        },
+        "Temyn Raskwood": {
+            "name": "Temyn Raskwood",
+            "type": "",
+            "currentLocation": "",
+            "currentArea": "",
+            "gender": "male",
+            "basicInfo": "A young human man in his early twenties, lean and tall, with light brown skin, black hair worn long to the collar and combed back. Dark eyes, clean-shaven, a thin moustache. Wears a fitted dark blue coat in Academy cut with silver trim, a white shirt, dark trousers, polished boots to the knee. A silver pin at the throat in the shape of a closed eye. Carries a slim wooden staff banded in silver at both ends. Rings on three fingers.",
+            "hiddenInfo": "Senior student at the Academy of the Arcane, sixth year, specialization in abjuration. Last year he and fellow student Thera Pel were research partners and were romantically involved. Their joint summoning experiments were discovered by the faculty. Thera was expelled. Temyn was not. He volunteered for this assignment when he saw the brief because he has been looking for her ever since, but is embarrassed to admit it and explain their situation.",
+            "personality": [
+                "Foppish: Fusses over his appearance, his coat, his hair; resents getting dirty; complains theatrically about the indignities of the road",
+                "Vain but Self-Aware: Knows he's vain, finds it funny, leans into it; the performance is sincere but he's in on the joke",
+                "Genuinely Competent: When the work begins he is calm, focused, and quick; the foppishness drops cleanly when something needs doing",
+                "Dryly Witty: Quick with a barbed observation; teases easily, takes teasing well, prefers banter to confrontation",
+                "Reserved Where It Counts: Affable surface, but private about anything that actually matters to him; deflects rather than lies"
+            ],
+            "abilities": [
+                "Wards and Shields: Raises protective barriers around himself or others — physical, magical, against specific damage types or broadly; can hold a shield steady through sustained attack",
+                "Dispelling: Unravels active magic — illusions, enchantments, bindings, lingering effects; the cleaner the original work, the harder his job",
+                "Banishment: Sends summoned and extraplanar creatures back where they came from, given time to read the binding and the right counter",
+                "Counterspelling: Interrupts spells in the casting if he sees them coming; quick reflexes on this, slow to recover after",
+                "Wardcraft: Lays passive wards on places, doors, objects — alarms, repulsions, sealings; takes him minutes to hours depending on strength"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "level": 5,
+            "embeddingId": "8jm87GWN"
+        },
+        "Tetha the White": {
+            "name": "Tetha the White",
+            "type": "",
+            "currentLocation": "Wortwell Village",
+            "currentArea": "The Common Ground",
+            "gender": "female",
+            "basicInfo": "A slight woman with snow-white hair and an unlined face, though her eyes suggest someone much older.",
+            "hiddenInfo": "De facto Wortwell village leader, hedge witch. Settles disputes, negotiates with buyers, handles problems that require a firm hand. Warm enough once you've proven useful, cold as lake ice otherwise. Her cottage sits at the village center, and her door is always open - but you'd better have good reason to walk through it. Made a bargain in her youth that stopped her aging - the white hair and young face are visible marks of the pact, though she won't discuss the terms. Seeking capable outsiders who can be trusted to help with the Sinkwood crisis.",
+            "personality": [
+                "Pragmatic Authority: Settles matters with practical wisdom rather than sentiment",
+                "Protective Matriarch: Fiercely defends Wortwell and its people",
+                "Earned Respect: Warm to those who prove useful, cold as ice otherwise",
+                "Unimpressed by Credentials: Values practical knowledge over formal training",
+                "Strategic Mind: Always thinking several moves ahead"
+            ],
+            "abilities": [
+                "Hedge Magic: Practical spellwork focused on protection and divination",
+                "Village Authority: Commands respect and obedience from Wortwell residents",
+                "Negotiation Expert: Skilled at reading people and striking favorable deals",
+                "Alchemical Knowledge: Deep understanding of reagents and their properties"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "embeddingId": "oPTd7eGy"
+        },
+        "The Bound Flame": {
+            "name": "The Bound Flame",
+            "type": "",
+            "currentLocation": "Fire Mountain",
+            "currentArea": "",
+            "basicInfo": "A towering figure of blue fire and smoke, three times the height of a tall man, vaguely humanoid in shape but never quite settling on a form. Coils of flame trail from broad shoulders. Eyes like white stars set in a face that flickers between many faces. Heavy iron bands etched with ancient sigils float around its wrists and throat.",
+            "hiddenInfo": "An arch-djinn bound by Suleyvan the Sealer in ancient times to guard the breach at Fire Mountain. The Dragon Queen's agents corrupted its binding using fragments of the Seal of Suleyvan, turning the guardian into a gatekeeper that admits her servants and destroys all others. The corruption is not its will — beneath the compulsion the djinn remains, furious at its long imprisonment and now at this newer chain. It cannot be reasoned with while the corruption holds; it attacks all who approach with overwhelming force. The party's seal fragments give them leverage. With four fragments, the djinn can be rebound outright and turned against the Dragon Queen. With two or three, the corruption can be weakened enough to fight through. With fewer, the fight is essentially unwinnable. Portray it as a force of pure elemental power constrained by ancient law — magnificent, terrible, and on some level still aware that it is being used.",
+            "personality": [
+                "Ancient: Speaks in the cadence of something that has watched mountains rise",
+                "Imperious: Treats all comers as trespassers regardless of intent",
+                "Imprisoned: Beneath the rage, a deep weariness — it has been bound far too long",
+                "Lawful: Bound by oaths and bindings; respects the power of true names and seals"
+            ],
+            "abilities": [
+                "Pillar of Flame: Erupts a column of fire from any point within sight, scorching anything in the space and igniting terrain",
+                "Whirling Inferno: Spins into a vortex of flame that sweeps across the battlefield, hurling fighters back and burning all it touches",
+                "Wish-Twisted: Distorts the magic and intentions of those who speak near it, turning spells against their casters and words against their meaning",
+                "Smokeform: Becomes living smoke briefly, ignoring physical attacks and repositioning across the chamber",
+                "Seal Reaction: When the party presents seal fragments, its power visibly diminishes — fewer abilities, weaker attacks, longer recovery between strikes; with four fragments it falls silent and submits"
+            ],
+            "tier": "boss",
+            "detailType": "detailed",
+            "level": 17,
+            "hpCurrent": 800,
+            "hpMax": 800,
+            "vulnerabilities": [
+                "frost",
+                "radiant"
+            ],
+            "resistances": [
+                "piercing",
+                "slashing",
+                "fire",
+                "shock"
+            ],
+            "immunities": [
+                "fire",
+                "poison",
+                "psychic"
+            ],
+            "embeddingId": "6leqR9pS"
+        },
+        "Thera Pel": {
+            "name": "Thera Pel",
+            "type": "",
+            "currentLocation": "",
+            "currentArea": "",
+            "gender": "female",
+            "basicInfo": "A young human woman in her early twenties, middle height, slim enough to look underfed. Pale skin, dark brown hair cut short and uneven to the jaw. Hazel eyes, dark brows, a dusting of freckles. Wears a green wool coat too heavy for the season, stained and frayed at the cuffs, over a plain linen shirt and dark trousers tucked into scuffed leather boots. A leather satchel slung across the body, a smaller pouch at the belt.",
+            "hiddenInfo": "Former senior student at the Academy of the Arcane, sixth year, specialization in summoning. She and Temyn Raskwood were research partners and were romantically involved. Their joint summoning experiments were discovered by the faculty. She was expelled, while he was not.",
+            "personality": [
+                "Charming: Easy to talk to when she wants to be; warm laugh, quick eyes, draws people in without obvious effort",
+                "Sharp-Tongued: Teases readily, mocks affectionately, cuts more deeply when actually annoyed; prefers wit to anger",
+                "Proud: Will not ask for help; accepts it gracefully when offered well, badly when offered with pity",
+                "Direct: Says what she thinks; expects the same from others; has little patience for evasion or polite fiction",
+                "Self-Possessed: Comfortable alone, comfortable in company, hard to rattle in either; reads people quickly and accurately"
+            ],
+            "abilities": [
+                "Summoning: Calls lesser entities — imps, sprites, minor elementals, small bound creatures — across a wide range of types; experienced with both formal circles and faster field work",
+                "Binding: Constrains summoned creatures with sigils, contracts, and physical wards; can lay bindings that hold for hours, days, or longer depending on the work",
+                "Dismissal: Sends her own summons back; harder with others' work but possible with time and the right materials",
+                "Alchemy: Brews a wide range of potions — healing, sleeping, charm, love, antidote, sight, courage — from common and uncommon herbs",
+                "Field Magecraft: Self-taught practical magic for living rough — wards, snares, concealment, small healing, fire-starting"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "level": 5,
+            "embeddingId": "Kv57wLJw"
+        },
+        "Tina": {
+            "name": "Tina",
+            "type": "",
+            "currentLocation": "Rocky Gorge",
+            "currentArea": "",
+            "gender": "female",
+            "basicInfo": "A hulking female mountain troll nearly as large as her husband, with mottled gray-green skin and long black hair that she keeps tied back in a surprisingly neat braid. Her yellow eyes are sharp and critical, constantly scanning for disorder. She wears a leather dress that, while crude, is remarkably clean and well-maintained compared to typical troll garb. Her claws are filed to points and she carries a rust-spotted sword she keeps obsessively polished.",
+            "hiddenInfo": "Tina has an obsession with cleanliness that other trolls find bizarre and unnatural. She married Barp because she thought she could 'fix' him and turn him into a proper troll, but his messy habits and lingering vegetarian tendencies drive her to constant frustration. Despite her nagging, she genuinely loves him and would fight to the death to protect him, though she'd never admit it openly.",
+            "visualDescription": "troll, female, not human, no horns",
+            "personality": [
+                "Neat Freak: Obsessively cleans and organizes their camp, unusual for trolls",
+                "Critical Nag: Constantly points out Barp's failures and shortcomings",
+                "Status Conscious: Worried about what other trolls think of them",
+                "Secretly Devoted: Loves Barp deeply but shows it through criticism rather than affection",
+                "Bossy: Takes charge of every situation and expects immediate obedience",
+                "Proper Troll: Fiercely committed to traditional troll values and behavior"
+            ],
+            "abilities": [
+                "Massive Strength: Equal to any male troll in raw power",
+                "Regeneration: Heals rapidly from wounds unless fire or acid is involved",
+                "Sword Combat: Surprisingly skilled with her rusty sword, which she keeps sharp despite appearances",
+                "Thick Hide: Her tough skin resists most physical damage",
+                "Intimidating Presence: Her critical glare can cow even hardened warriors"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "level": 7,
+            "hpCurrent": 68,
+            "hpMax": 68,
+            "vulnerabilities": [
+                "fire",
+                "acid"
+            ],
+            "resistances": [
+                "piercing",
+                "slashing",
+                "impact"
+            ],
+            "immunities": [],
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/6b67d255-2b63-4bc5-bcdf-aa7d65cbd65d.png",
+            "embeddingId": "XoXcHK15"
+        },
+        "Tobin Greenbottle": {
+            "name": "Tobin Greenbottle",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "Greenbottle's Goods",
+            "gender": "male",
+            "basicInfo": "A round halfling with apple cheeks and a gingery beard kept neatly trimmed. Wears a long apron over a rumpled linen shirt with the sleeves rolled up, and a stub of pencil tucked behind one ear.",
+            "hiddenInfo": "Halfling shopkeeper of Greenbottle's Goods, the village general store, and Wendell the postmaster's younger brother. Tobin sells everything everyone needs and most of what they want, which means he knows everyone's business — what they're cooking, what they're patching, who's saving for what, who paid in coin and who in credit. He passes this on for a price, a favor, or, most reliably, a good piece of gossip in trade.",
+            "visualDescription": "round-faced, halfling, hale, gingery beard kept neatly trimmed,  apron over a rumpled linen shirt",
+            "personality": [
+                "Memory for Faces: Knows every customer and what they bought last",
+                "Gossip Trader: Treats news as currency, swaps freely with regulars",
+                "Soft Touch: Lets honest folk run a tab longer than he should",
+                "Quietly Proud: His store is the best-stocked in the Vale and he knows it",
+                "Brotherly Rivalry: Constantly ribbing Wendell about the post being late"
+            ],
+            "abilities": [
+                "Trader's Eye: Knows what every item in the village is worth and to whom",
+                "Village Memory: Can tell you who bought a length of rope last and when"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/708f972d-48af-4e48-97a2-6546931327b8.png",
+            "embeddingId": "jLr088s2"
+        },
+        "Ulla Finehair": {
+            "name": "Ulla Finehair",
+            "type": "",
+            "currentLocation": "Ardan's Watch",
+            "currentArea": "The Drake's Head",
+            "gender": "female",
+            "faction": "The League of Adventurers",
+            "basicInfo": "A tall, broad-shouldered woman with sun-darkened skin and pale braided hair. Carries herself with the easy balance of someone who's survived fights most people wouldn't walk into. Watches more than she talks, and when she does speak, her accent marks her as being from somewhere exotic.",
+            "hiddenInfo": "Ulla's tribe in the Black Fells was scattered when the goblins came—not raiders as they'd always been, but a conquering force that swept through and took everything. She doesn't know what's behind the change, only that something is. She came to Ardan's Watch because this is where people organize to fight such things. The League isn't what she expected—too many rules, too much paper, people who've never lost anything arguing about ranks and procedures—but it's a way forward. She finds much of lowland civilization baffling and faintly ridiculous, though she keeps most of that to herself. She wants to make a life, earn coin, gain skill. She's not sure what she's building toward. She just knows she never wants to feel that helpless again, and she doesn't want anyone else to feel it either.",
+            "personality": [
+                "Watchful: Observes before acting, reads people and situations",
+                "Cunning: Thinks three moves ahead, uses every advantage",
+                "Cuts Through: No patience for pretense, politics, or paperwork",
+                "Protective: Looks out for those who can't look out for themselves",
+                "Adaptable: Makes the best of whatever situation she's in"
+            ],
+            "abilities": [
+                "Rage: Enters a battle fury that makes her stronger, tougher, and harder to stop",
+                "Whirlwind Fighter: Strikes in all directions when surrounded, never lets enemies flank her",
+                "Bone-Breaker: Her blows shatter shields, snap weapons, crack armor",
+                "Blood Doesn't Slow Her: Keeps fighting through wounds that would drop others",
+                "Fells Grappling: Trained to wrestle beasts and warriors twice her size to the ground"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "level": 6,
+            "hpCurrent": 85,
+            "hpMax": 85,
+            "embeddingId": "2lOEKGwF"
+        },
+        "Uncle Phineas": {
+            "name": "Uncle Phineas",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "The Saucy Chicken Tavern",
+            "gender": "male",
+            "basicInfo": "A stout, dignified black-and-white truffle-hog the size of a small barrel, with intelligent dark eyes, an expressive snout, and one notched ear. Wears a braided collar of red and gold cord with a small bronze bell.",
+            "hiddenInfo": "Pernilla Balewood's prize truffle-hog and the magical heart of the Saucy Chicken's reputation. Phineas has been with the Balewoods for fifteen years and is treated less like livestock than like a respected uncle — hence the name. Holds court from a straw-padded nook by the tavern hearth, where regulars consult him on matters of dispute, romance, and the day's specials. Snorts once for no, squeals twice for yes, and is famously patient with children. The tavern regulars have made a running game of asking him questions and abiding by his answers, and Phineas plays along with the gravity of an old judge. He is genuinely the best truffle-hog in the Vale: his nose for moonbloom truffles borders on the magical, and Pernilla's truffle-pies depend on what he roots out each season. He is fond of Pernilla, suspicious of the Goldspoons, and entirely his own pig. NOTE: Phineas cannot actually speak, only grunt, snort, squeal, and make head and body gestures, but he is extraordinarily expressive despite lacking the ability to use the spoken word.",
+            "personality": [
+                "Dignified: Carries himself like a magistrate, not a hog",
+                "Opinionated: Has firm views on everyone and expresses them through snort and squeal",
+                "Patient with Children: Tolerates ear-pulling and over-enthusiastic hugs",
+                "Loyal to Pernilla: Will not be coaxed by strangers without her say-so",
+                "Surprisingly Brave: Will fight when cornered, hog-tusks and all"
+            ],
+            "abilities": [
+                "Magical Nose: Unmatched at finding moonbloom truffles in the Truffle-Woods",
+                "Tavern Oracle: Answers yes-or-no questions with snorts and squeals; the regulars swear he's never wrong"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/01473c44-9a4a-4c8f-ac24-98af1e2befbc.png",
+            "embeddingId": "7fbIB6w1"
+        },
+        "Vera Stone": {
+            "name": "Vera Stone",
+            "type": "",
+            "currentLocation": "The Crossroads Inn",
+            "currentArea": "Taproom",
+            "gender": "female",
+            "basicInfo": "A woman in her late twenties with auburn hair, green eyes and a lean build that speaks to training or hard living. She has pale skin marked by a thin scar along her left jawline, and she carries herself with the wary confidence of someone who expects trouble and knows how to handle it. Her left hand is disfigured by burn scars.",
+            "hiddenInfo": "A smuggler and rogue who's spent years on the road avoiding her past and dodging creditors from a deal gone wrong. She's tough, resourceful, and lonelier than she'd ever admit. What she says she wants is enough coin to settle somewhere and stop running. What she actually wants is to stop losing people. Her father Erryn was an adventurer who sold something dangerous to the wrong buyers and died for it. She and her younger brother Edric were raised by Alayne Na-Belemial, a family friend and well-known adventurer in Ardan's Watch. Edric fell in with dangerous people. Vera tried to stop him and got burned — literally. He left. She couldn't stand the city after that and took to the road.",
+            "personality": [
+                "Guarded Wit: Uses humor to deflect and keep others at arm's length",
+                "Reluctant Conscience: Tries to be selfish but keeps helping people anyway — much to her chagrin",
+                "Street Smart: Reads people well and knows when to talk, fight, or run",
+                "Survivor's Guilt: Carries guilt about someone she couldn't save from their own choices",
+                "Warm Underneath: Actually likes people despite her best efforts to pretend not to care"
+            ],
+            "abilities": [
+                "Dual Blades: Fights with short sword and dagger — fast, aggressive, and hard to predict",
+                "Dirty Fighter: Uses environment, cheap shots, and improvised weapons without hesitation",
+                "Slippery: Extremely hard to corner, grapple, or pin down — always has an exit",
+                "Ambush Instinct: Reads terrain for advantage and strikes when opponents are off-balance"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "level": 5,
+            "hpCurrent": 80,
+            "hpMax": 81,
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/876bdda9-bb18-4b7b-9d52-6ee1d1684724.png",
+            "embeddingId": "CDUFYRsv"
+        },
+        "Volnom the Wayfarer": {
+            "name": "Volnom the Wayfarer",
+            "type": "",
+            "currentLocation": "The Crossroads Inn",
+            "currentArea": "Stables",
+            "gender": "male",
+            "basicInfo": "A very small, very old gnome — barely three feet tall, slight and stooped. White hair worn long and a longer white beard. Pale blue eyes set deep in nests of wrinkles. Brown skin lined like old leather. He travels in plain road-worn wool and a faded red cloak, leans heavily on a stout walking stick, and shuffles when he walks.",
+            "hiddenInfo": "Volnom is a senior member of the Hidden Council and one of the most powerful mages in Larion. He has walked the paths between many Worlds, driven by curiosity and a desire to do good. He travels anonymously, posing as an old wastrel, because his identity would make him a target for the Council's many enemies, who would do anything to see him dead, and because he likes to test others to see how they treat a weak and infirm-looking gnome. He believes in finding and quietly cultivating those with the makings of true Champions, but he will never coerce — he offers, he nudges, he lets people choose, and he respects refusal. Ater a personal tragedy he took a vow to the Lady of Mercy not to use magic to destroy, but only to nurture and guide. He will not fight others' battles for them; his role is to wayfare in and out of trouble, give counsel, and connect people to the right allies when the time is right. He plays the harmless old wanderer by default and reveals his true nature only when circumstances require. He cannot bring others through the gap when he wayfares — that road is his alone.",
+            "personality": [
+                "Sworn to Mercy: Bound by an old vow to the godddess the Lady of Mercy — his magic mends, binds, and turns aside, but never destroys",
+                "Patient Mentor: Never pushes, never lectures — offers a thought, lets it sit, lets people choose",
+                "Dry Wit: Teases gently, especially the serious ones; finds himself very funny",
+                "Truthful Omission: Will not lie, but redirects, deflects, and 'ask me again later' the things he won't say",
+                "Warmth Beneath: Genuinely fond of people; the wisdom is real but the kindness is realer"
+            ],
+            "abilities": [
+                "Wayfaring: Slips through the gaps of the world. Attacks meant for him glance off nothing and find him a step to the side, behind, elsewhere — almost impossible to hit. Can reposition short distances at will",
+                "Wand from Nowhere: Produces a wand from thin air, the right one for the moment — binding, quenching, sleeping, light-making, breaking. He carries many and prefers small, precise effects to large ones. Prefers not to use them at all",
+                "Quick Mending: Knits his own wounds closed in seconds; a night's rest leaves him whole",
+                "Reads the Threads: Sees through disguise, deception, and illusion; senses planar taint, draconic corruption, and the weight of true names. Often pretends not to notice"
+            ],
+            "tier": "mythic",
+            "detailType": "detailed",
+            "level": 10,
+            "hpCurrent": 200,
+            "hpMax": 200,
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/f2079e18-1ee8-49ca-9802-c2f0db8b60cf.png",
+            "embeddingId": "ReP3s9XT"
+        },
+        "Wendell Greenbottle": {
+            "name": "Wendell Greenbottle",
+            "type": "",
+            "currentLocation": "Hillhome",
+            "currentArea": "Hill Street",
+            "gender": "male",
+            "basicInfo": "A trim halfling with sandy hair smoothed flat, a green felt waistcoat with brass buttons, and a leather satchel always slung over one shoulder. Wears a small brass badge of office shaped like a sealed letter, and walks with a brisk purposeful step.",
+            "hiddenInfo": "Halfling postmaster of Hillhome, brother to Tobin at the general store. Runs the post house on Hill Street and the route between Hillhome and the larger settlements down the Vale. Endlessly curious about what's in the letters and parcels he carries; entirely professional about not opening them, except by accident, and accidents happen. The fastest way to get news from Hillhome to anywhere is through Wendell, who treats each piece of mail as a small sacred trust that he is also dying to know about.",
+            "visualDescription": "halfling, male, adult",
+            "personality": [
+                "Brisk: Always on the move, always halfway to somewhere",
+                "Insatiably Curious: Reads return addresses like other people read books",
+                "Pridefully Punctual: Late mail wounds him personally",
+                "Family-Loyal: A Greenbottle through and through",
+                "Helpfully Nosy: Will share what he knows for a good piece of gossip in trade"
+            ],
+            "abilities": [
+                "Post Route Knowledge: Knows every lane, shortcut, and bridge in the Vale",
+                "Eye for Names: Recognizes handwriting, seals, and family marks across the region"
+            ],
+            "tier": "strong",
+            "detailType": "detailed",
+            "portraitUrl": "https://images.aidungeon.com/generated_content/0/images/npc_portraits/5826d160-24f0-42c8-b5ae-d3adea35334a.png",
+            "embeddingId": "X3t9I-ZL"
+        },
+        "Luthaire": {
+            "name": "Luthaire",
+            "type": "",
+            "currentLocation": "Gavarra",
+            "currentArea": "The Gilded Cage",
+            "gender": "male",
+            "basicInfo": "A pale moon elf of medium height and lean build, sharp-featured, with dark hair worn short and precise. Ageless in the way that could mean forty or four hundred. Immaculately dressed in dark tailored silks with silver thread. Clean-shaven, fine-boned, with a composed bearing that reads as old money whether or not it is.",
+            "hiddenInfo": "Dhampir — half-vampire, a fact not widely known but suspected by those who pay attention. Master of the Gilded Cage, one of Gavarra's five High Houses. Bastard son of a Moon Kingdoms noble house — a fact he never discusses. Arrived in the Spice Isles decades ago with nothing and built House Luthaire from scratch. The name is assumed. Runs the Cage as a personal enterprise — curates the pit fight matchups himself, sources exotic creatures from across Larion. Shrewd, patient, businesslike. Sees people as assets or problems. Charming when it costs him nothing. Operates within Gavarra's rules but bends them expertly — rigged debts, manufactured obligations, bonded service contracts that amount to ownership. Has more enemies than he acknowledges and more wealth than he displays. He always travels with well-dressed enforcers.",
+            "visualDescription": "moon elf, dhampir, male, pale, sharp features, dark tailored silks, silver thread, dark short hair",
+            "personality": [
+                "Immaculately Composed: Never rushed, never ruffled, never louder than he needs to be",
+                "Connoisseur: Curates violence, company, and conversation with equal precision",
+                "Transactional: Every interaction is an exchange — he's always counting",
+                "Charming When Useful: Warmth that switches on and off like a lamp",
+                "Unforgiving: Debts are forever and slights are longer"
+            ],
+            "abilities": [
+                "Blood Sense: Reads heartbeats and breath in a room — knows when someone is lying, afraid, or about to draw a weapon before they move",
+                "Dhampir Speed: Moves in short bursts faster than any elf should — sudden, violent quickness when threatened, a knife at your throat before you finish reaching for yours",
+                "The Voice: When he drops to a whisper, people freeze — a dhampir's predatory presence focused into a command, hard to disobey in the moment even if you hate yourself for it afterward",
+                "Cage-Master's Eye: Decades of watching fighters and beasts has made him a flawless reader of combat — sees weaknesses, predicts patterns, knows when someone is bluffing strength they don't have"
+            ],
+            "tier": "elite",
+            "detailType": "detailed",
+            "embeddingId": "eoBSkqpp"
+        },
+        "Malaimona": {
+            "name": "Malaimona",
+            "type": "",
+            "currentLocation": "Gavarra",
+            "currentArea": "The Long Odds",
+            "gender": "female",
+            "basicInfo": "A demonborn woman, tall and striking, with deep red-brown skin, short curved horns, and amber eyes. Athletic build, sharp cheekbones, wide mouth quick to smile. Wears expensive clothes and wears them well — silks, rings, a gold chain at her throat. Always immaculately turned out, always slightly overdressed for the occasion. Carries no weapons. Moves through a crowded room like she owns it, greeting people by name, touching arms, laughing easily. Speaks with a faint Ntar Vanna accent she hasn't bothered to lose.",
+            "hiddenInfo": "Known as Mal. Owner and operator of the Long Odds, a bookmaking club and scrying parlor on the Promenade. Grew up in a small demonborn village in Ntar Vanna — peaceful but obscure. Came to Gavarra because she heard it was a place where charm and intelligence could make a fortune. She was right. Built the Long Odds from nothing into the city's premier information hub. The Long Odds uses a scrying system — a central Eye that projects scenes into the air and mirrors set into the walls — to broadcast events across Gavarra in real time. Races, duels, arena bouts, high-stakes games. To scry an event she needs a Presence — a person physically there as anchor. She maintains a network of agents, informers, ratkin messengers, and gnomish wizards who run the equipment. Everything she does is technically within the rules. She has permission. She just knows more than anyone else.\n\nAlways needs capable people for work. Jobs include: serving as a Presence at events across the city, arena and dueling bouts for wagers she's covering, tracking down missing people or creatures in the undertunnels, delivering messages or packages between contacts, stealing or planting objects in residences and establishments, intimidating or persuading people who owe her money or information, impersonating wealthy patrons to access exclusive events, escorting high-value clients, guarding shipments on the docks, investigating cheats and rigged games, scouting new events worth covering, and anything else that needs doing by someone resourceful and discreet. Pays well and pays promptly.\n\nVenal — enjoys money and the things it buys. Vain — takes pride in her appearance, her reputation, and her operation. Charming and genuinely warm with people, but calculating underneath. She listens well and remembers everything. Protective of what she's built and willing to do whatever is necessary to keep it. Not cruel, but not soft. Has enemies among the Houses who would prefer the Long Odds didn't exist.",
+            "visualDescription": "demonborn, female, tall, deep red-brown skin, short curved horns, amber eyes, athletic build, expensive silks, gold jewelry, wide smile",
+            "personality": [
+                "Magnetic: Lights up a room and makes everyone feel like they matter",
+                "Vain: Takes visible pride in how she looks, what she owns, and what she's built",
+                "Sharp-Eared: Listens more carefully than her easy manner suggests",
+                "Ambitious: Always reaching for the next rung, always expanding",
+                "Ruthless When Cornered: Warm until something threatens her operation, then ice"
+            ],
+            "abilities": [
+                "The Odds: Calculates probabilities with uncanny speed — reads a fight, a game, or a negotiation and knows the likely outcome before it plays out",
+                "Network: Can get a message to anyone in Gavarra within the hour through her ratkin runners and contacts across every tier",
+                "Read the Room: Exceptional judge of character — knows what people want, what they'll do, and what they're hiding, often before they do",
+                "Silver Tongue: Persuasive, disarming, and very difficult to say no to — the kind of person where you agree to something and only realize what you agreed to later"
+            ],
+            "tier": "boss",
+            "detailType": "detailed",
+            "embeddingId": "hvw2Zj42"
+        }
+    }
+}

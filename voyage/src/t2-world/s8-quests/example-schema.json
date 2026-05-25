@@ -1,0 +1,86 @@
+{
+    "quests": {
+        "Earn Bronze Standing": {
+            "name": "Earn Bronze Standing",
+            "questSource": "League of Adventurers",
+            "questStatement": "Complete two Copper contracts through the League and apply to a registrar for advancement to Bronze.",
+            "mainObjective": "Close two Copper contracts and apply to a League registrar for Bronze rank",
+            "completionCondition": "After having completed two Copper contracts, the party has been promoted to Bronze rank in the League of Adventurers by a registrar.",
+            "detailType": "detailed",
+            "questLocation": "Ardan's Watch"
+        },
+        "Earn Silver Standing": {
+            "name": "Earn Silver Standing",
+            "questSource": "League of Adventurers",
+            "questStatement": "Complete two Bronze contracts through the League and apply to a registrar for advancement to Silver.",
+            "mainObjective": "Close two Bronze contracts and apply to a League registrar for Silver rank",
+            "completionCondition": "After having completed two Bronze contracts, the party has been promoted to Silver rank in the League of Adventurers by a registrar.",
+            "detailType": "detailed",
+            "questLocation": "Ardan's Watch"
+        },
+        "Earn Gold Standing": {
+            "name": "Earn Gold Standing",
+            "questSource": "League of Adventurers",
+            "questStatement": "Complete two Silver contracts through the League and apply to a registrar for advancement to Gold.",
+            "mainObjective": "Close two Silver contracts and apply to a League registrar for Gold rank",
+            "completionCondition": "After having completed two Silver contracts, the party has been promoted to Gold rank in the League of Adventurers by a registrar.",
+            "detailType": "detailed",
+            "questLocation": "Ardan's Watch"
+        },
+        "Earn Platinum Standing": {
+            "name": "Earn Platinum Standing",
+            "questSource": "League of Adventurers",
+            "questStatement": "Complete five Gold-rank League contracts, then request formal promotion from an authorized senior League officer, chaptermaster, or Council-backed representative.",
+            "mainObjective": "Earn enough recognized Gold-rank contract credits to be considered for Platinum rank.",
+            "completionCondition": "An authorized senior League officer, Council-backed representative, chaptermaster, or comparable League authority formally promotes the party from Gold rank to Platinum rank.",
+            "detailType": "basic",
+            "spatialRelationship": "existingLocalArea",
+            "conclusive": false
+        },
+        "Defeat Atravoraxis, the Dragon Queen": {
+            "name": "Defeat Atravoraxis, the Dragon Queen",
+            "questSource": "League of Adventurers",
+            "questStatement": "Atravoraxis, the Dragon Queen, is trying to return to Larion through Fire Mountain. Defeat her Harbingers, recover fragments of the Seal of Suleyvan, and use them to overcome the guardian of Fire Mountain before stopping her return.",
+            "mainObjective": "Recover seal fragments from the Harbingers, breach Fire Mountain, and stop the Dragon Queen's return",
+            "completionCondition": "At Fire Mountain, the party has stopped Atravoraxis's return, sealed the breach, defeated her manifestation, or otherwise prevented the Dragon Queen from entering Larion.",
+            "detailType": "detailed",
+            "questLocation": "Fire Mountain"
+        },
+        "Defeat Draelkharion, Prince of the Dead": {
+            "name": "Defeat Draelkharion, Prince of the Dead",
+            "questSource": "League of Adventurers",
+            "questStatement": "Draelkharion is the Harbinger in Highvale. Investigate his undead operation, disrupt his agents, descend into the City of Ancestors, neutralize him in his lair, and recover his fragment of the Seal of Suleyvan.",
+            "mainObjective": "Neutralize Draelkharion in the City of Ancestors and recover his seal fragment",
+            "completionCondition": "The party has neutralized Draelkharion, Prince of the Dead, in his lair beneath the City of Ancestors and recovered his fragment of the Seal of Suleyvan.",
+            "detailType": "detailed",
+            "questLocation": "The City of Ancestors"
+        },
+        "Defeat Astarieth the Nether Wyrm": {
+            "name": "Defeat Astarieth the Nether Wyrm",
+            "questSource": "League of Adventurers",
+            "questStatement": "Astarieth is the Harbinger beneath the Everwood. Investigate the unrest and subterranean threat, disrupt her agents, descend into her hidden lair, neutralize her, and recover her fragment of the Seal of Suleyvan.",
+            "mainObjective": "Neutralize Astarieth beneath the Everwood and recover her seal fragment",
+            "completionCondition": "The party has neutralized Astarieth the Nether Wyrm in her subterranean lair beneath the Everwood and recovered her fragment of the Seal of Suleyvan.",
+            "detailType": "detailed",
+            "questLocation": ""
+        },
+        "Defeat Ophialtha, Beast of the Deeps": {
+            "name": "Defeat Ophialtha, Beast of the Deeps",
+            "questSource": "League of Adventurers",
+            "questStatement": "Ophialtha is the Harbinger in the Spice Isles. Investigate the attacks on ships and coastal settlements, disrupt the forces turning sea and surface against each other, reach her deep-ocean lair, neutralize her, and recover her fragment of the Seal of Suleyvan.",
+            "mainObjective": "Neutralize Ophialtha in the deep ocean and recover her seal fragment",
+            "completionCondition": "The party has neutralized Ophialtha, Beast of the Deeps, in her deep-ocean lair and recovered her fragment of the Seal of Suleyvan.",
+            "detailType": "detailed",
+            "questLocation": ""
+        },
+        "Defeat Nuur-Suthra, the Flame Undying": {
+            "name": "Defeat Nuur-Suthra, the Flame Undying",
+            "questSource": "League of Adventurers",
+            "questStatement": "Nuur-Suthra is the Harbinger in the Bright Kingdoms. Investigate the impossible fires and Scaled Covenant dig sites, disrupt the anchor-fires that sustain its rebirth, confront it in its lair, neutralize it, and recover its fragment of the Seal of Suleyvan.",
+            "mainObjective": "Neutralize Nuur-Suthra in the Bright Kingdoms and recover its seal fragment",
+            "completionCondition": "The party has neutralized Nuur-Suthra, the Flame Undying, in its lair in the Bright Kingdoms and recovered its fragment of the Seal of Suleyvan.",
+            "detailType": "detailed",
+            "questLocation": ""
+        }
+    }
+}
