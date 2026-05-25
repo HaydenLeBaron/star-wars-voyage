@@ -1,30 +1,30 @@
-Model,Silhouette,Speed,HP,Price,Rarity,Weapons?
-AO-2 Cometstrike-class Orbital Assault Pod,4,2,1,"30,000",5,Yes
-Coneship,3,5,0,"5,000",8,No
-Delta-12 Skysprite,3,4,3,"85,000",8,No
-Delta-class T-3c Shuttle,4,3,2,"(Restricted) 160,000",6,Yes
-Droch-class Boarding Ship,3,3,2,"43,000",7,Yes
-Escape Pod,2,3,1,"5,000",7,No
-Eta-Class Shuttle,4,3,2,"100,000",6,Yes
-Far*Reach Reconnaissance Ship,4,3,3,"60,000",7,Yes
-Incom A-24 Sleuth-class Scout Ship,3,4,3,"45,000",6,Yes
-ISP-6 Shuttle Pod,2,4,1,"(Restricted) 15,000",6,Yes
-Jadthu-Class Landing Ship,5,3,2,"200,000",5,Yes
-JM-5000 JumpMaster Long Range Scout,4,4,2,"55,000",5,Yes
-KST-100 Kestrel Light Executive Transport,3,4,4,"120,000",7,Yes
-Lambda-Class T4-A Long Range Shuttle,4,3,2,"(Restricted) 140,000",6,Yes
-Legate-Class Courier,4,4,3,"65,000",6,Yes
-Life Boat,3,3,2,"15,000",7,Yes
-Loronar E-9 Explorer-class Armed Long-Range Scout Vessel,4,3,4,"120,000",6,Yes
-Nu-class Transport,4,3,2,"85,000",5,Yes
-Pathfinder Scout Ship,4,4,2,"45,000",6,Yes
-Punworcca 116-class Interstellar Sloop,3,3,2,"240,000",9,No
-Rho-1 Limulus-Class Courier,3,4,2,"55,000",8,Yes
-Sentinel-Class Landing Craft,4,3,0,"(Restricted) 240,000",7,Yes
-Sheathipede-class Transport Shuttle,4,3,2,"120,000",6,No
-Skywatcher-class Deep Space Scout Ship,4,3,3,"(Restricted) 120,000",5,Yes
-T-6 Shuttle,4,3,2,"100,000",7,No
-Trident-class Assault Ship,4,4,2,"120,000",8,No
-UT-60D U-Wing Troop Transport,4,4,3,"65,000",6,Yes
-V-19b Dart Personal Flyer,3,4,1,"60,000",7,No
-Zeta-class Heavy Cargo Shuttle,4,2,1,"(Restricted) 95,000",7,Yes
+Model,Silhouette,Speed,HP,Price,Rarity,Weapons?,Hyperdrive?
+AO-2 Cometstrike-class Orbital Assault Pod,4,2,1,"30,000",5,Yes,No
+Coneship,3,5,0,"5,000",8,No,No
+Delta-12 Skysprite,3,4,3,"85,000",8,No,No
+Delta-class T-3c Shuttle,4,3,2,"(Restricted) 160,000",6,Yes,Yes
+Droch-class Boarding Ship,3,3,2,"43,000",7,Yes,No
+Escape Pod,2,3,1,"5,000",7,No,No
+Eta-Class Shuttle,4,3,2,"100,000",6,Yes,Yes
+Far*Reach Reconnaissance Ship,4,3,3,"60,000",7,Yes,Yes
+Incom A-24 Sleuth-class Scout Ship,3,4,3,"45,000",6,Yes,Yes
+ISP-6 Shuttle Pod,2,4,1,"(Restricted) 15,000",6,Yes,No
+Jadthu-Class Landing Ship,5,3,2,"200,000",5,Yes,No
+JM-5000 JumpMaster Long Range Scout,4,4,2,"55,000",5,Yes,Yes
+KST-100 Kestrel Light Executive Transport,3,4,4,"120,000",7,Yes,Yes
+Lambda-Class T4-A Long Range Shuttle,4,3,2,"(Restricted) 140,000",6,Yes,Yes
+Legate-Class Courier,4,4,3,"65,000",6,Yes,Yes
+Life Boat,3,3,2,"15,000",7,Yes,No
+Loronar E-9 Explorer-class Armed Long-Range Scout Vessel,4,3,4,"120,000",6,Yes,Yes
+Nu-class Transport,4,3,2,"85,000",5,Yes,Yes
+Pathfinder Scout Ship,4,4,2,"45,000",6,Yes,yes
+Punworcca 116-class Interstellar Sloop,3,3,2,"240,000",9,No,No
+Rho-1 Limulus-Class Courier,3,4,2,"55,000",8,Yes,Yes
+Sentinel-Class Landing Craft,4,3,0,"(Restricted) 240,000",7,Yes,Yes
+Sheathipede-class Transport Shuttle,4,3,2,"120,000",6,No,No
+Skywatcher-class Deep Space Scout Ship,4,3,3,"(Restricted) 120,000",5,Yes,Yes
+T-6 Shuttle,4,3,2,"100,000",7,No,No
+Trident-class Assault Ship,4,4,2,"120,000",8,No,No
+UT-60D U-Wing Troop Transport,4,4,3,"65,000",6,Yes,Yes
+V-19b Dart Personal Flyer,3,4,1,"60,000",7,No,No
+Zeta-class Heavy Cargo Shuttle,4,2,1,"(Restricted) 95,000",7,Yes,Yes
