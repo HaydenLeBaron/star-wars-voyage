@@ -1,0 +1,576 @@
+[
+  {
+    "_id": "640b44d4a1996bc1b0f1c2d5",
+    "name": "Abednedo",
+    "description": "A gregarious and clever species, Abednedos are common sights in the galaxy, pursuing a range of professions on many planets. They hail from a planet of the same name, which is noted for its sprawling, colorful and chaotic cities. After the Battle of Endor, the Empire attacked Abednedo with a climate-disruption array; as a result, many Abednedos support the New Republic or the Resistance. Their native language is Abednedish, though many speak Basic.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/tlj-abednedo-databank-main-image_bd8babfb.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2dc",
+    "name": "Angel",
+    "description": "Perhaps the most beautiful creatures in the universe, Angels are a species of winged humanoid that inhabit the moons of Iego. They were legendary throughout the galaxy and stories of their beauty were traded by deep space pilots from the core to the Outer Rim. They’re tall and beautiful, with glowing white skin and six-wings.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/angel_c7933b5e.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2df",
+    "name": "Besalisk",
+    "description": "Besalisks are a species of humanoid being with four arms and inflatable wattle. Dexter Jettster, a Besalisk, owned the popular eatery Dex's Diner on Coruscant.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_besalisk_01_169_875a3eee.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2e3",
+    "name": "Chadra-Fan",
+    "description": "Chadra-Fan are meter-high, rodent-like sentients with big ears and dark eyes. They hail from the planet Chad in the galaxy’s Outer Rim. One Chadra-Fan was a frequent patron at the Mos Eisley Cantina, where her high-pitched squeaks proved an annoying but effective way to get the attention of Wuher, the gruff bartender.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/chadra-fan_6bd45a26.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2e4",
+    "name": "Chagrian",
+    "description": "These amphibious bipeds had long, black forked tongues, blue skin, and two pairs of horns. The top pair of horns protruded from their skulls and the other pair came from fleshy head tails that grow over their shoulders. A Chagrian, Mas Amedda, rose to the rank of Vice Chair of the Galactic Senate during the waning days of the Republic and became Grand Vizier to Emperor Palpatine at the formation of the Empire.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_chagrain_01_169_e8ce3def.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2e5",
+    "name": "Cosian",
+    "description": "Cosians were a species of bipeds with four-fingered hands and four-toed feet. They had mottled green skin that appeared scaly, but they bore hair on their head and at the end of their muscular tails. Their faces were elongated into beaked mouths. A prominent Cosian in the Jedi Order was the extremely long-lived master Tera Sinube.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_cosian_01_169_0623e9ff.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2e6",
+    "name": "Dactillion",
+    "description": "Dactillion are large winged creatures found on Utapau often used for transportation.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_b445c1f9.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2ec",
+    "name": "Ewok",
+    "description": "The Ewoks are sentient furred bipeds native to the moon of Endor. They are curious individuals that stand about one meter tall. They are  extremely skilled in forest survival and the construction of primitive technology like gliders and catapults. They are quick learners when exposed to advanced technology, however.    The Ewoks accepted members of the Rebel Alliance into their tribe, and allied themselves to their cause. The Ewoks helped in the ground battle to destroy the Imperial shield generator built in their forests, and their primitive weapons felled the stormtroopers and the scout walkers of the Empire. Their help paved the way to victory at the Battle of Endor.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_ewok_01_169_747db03a.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2f1",
+    "name": "Givin",
+    "description": "A sentient species from the Inner Rim world of Yag’Dhul, Givins’ white, skeletal-looking faces and seemingly anguished expressions are unsettling to humans. Givins have an innate mathematical ability which makes them experts in a number of scientific fields. A Givin was in the crowd of barflies at the Mos Eisley cantina when Luke Skywalker and Obi-Wan Kenobi met Han Solo and Chewbacca; later, Skywalker pursued a dangerous mission to free the Givin cryptographer Drusil Bephorin so she could lend her skills to the Alliance.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/givin_7840f3ff.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2f4",
+    "name": "Gungan",
+    "description": "The Gungans are the native inhabitants of the planet Naboo, an amphibious species with hardy lungs capable of holding breath for extended periods. Their skeletal structure is extremely flexible, as it is made of cartilaginous material rather than hard bone. The long Gungan face has a tough yet flexible bill for burrowing and rooting out food. They have long muscular tongues with which they scoop mollusks and lesser amphibians from the Naboo swamps. While most spacefarers would dismiss Gungans as primitives, they have developed an advanced technology.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ep1_ia_70138_bd7b9296.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2f6",
+    "name": "Ithorians",
+    "description": "Known as “Hammerheads” for their distinctive appearance, Ithorians are native to the planet Ithor but found throughout the galaxy. They have two mouths -- one on either side of their necks – and rumbling voices.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ithorian-main_0cc7f24e.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2f8",
+    "name": "Jawa",
+    "description": "Jawas are meter-tall humanoids completely hidden behind rough, hand-woven robes. Their faces are concealed within the dark folds of a cowl, from which peer their sickly glowing yellow eyes. They comb the deserts of Tatooine in search of discarded scrap and wayward mechanicals. Using their cobbled-together weaponry, they can incapacitate droids and drag them to their treaded fortress-homes, immense sand-scarred vehicles known as sandcrawlers. They sell their hastily refurbished junk to moisture farmers who are hard-pressed to find a better selection elsewhere.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/jawas-main_a668013b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2f9",
+    "name": "Junker",
+    "description": "No one is quite sure of the origins of the mysterious natives of Lotho Minor, the Junkers. The planet's role as a galactic dumping ground has not encouraged any deep exploration of Junker culture or biology, nor has their violent territoriality. They appear to be a strange hybrid of organic life and mechanical debris. The Junkers live off the scrap found on the planet's surface, augmenting their strange and twisted bodies with cybernetic enhancements. They have lived on Lotho Minor for so long that it is impossible to tell where their bodies end and where the refuse begins.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_junker_01_169_4853dc52.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2fb",
+    "name": "Kaminoan",
+    "description": "Kaminoans are very tall, with long, slender bodies giving them a graceful, gliding walk, and have large black eyes with white pupils. They are known to be expert cloners, and developed the Grand Army of the Republic.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/kaminoan-main-image_8f582a48.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c302",
+    "name": "Mikkian",
+    "description": "Mikkians were brightly colored sentient humanoids with elaborate manes of head-tendrils. They could be found in colors ranging from bright yellows and greens to reds with blue highlights. Some members of the species were force-sensitive, like the sister Jedi Knights, Tiplar and Tiplee, both of which were killed during the Clone Wars.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/mikkian_8a340cde.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c304",
+    "name": "Mirialan",
+    "description": "Mirialans are human-like, sentient beings with yellow-green skin, and patterned black markings on their face.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_mirialan_01_169_958106f8.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c305",
+    "name": "Mon Calamari",
+    "description": "The Mon Calamari people are a humanoid, aquatic species with high-domed heads, webbed hands and large, goggle-like eyes. They hail from the oceans of Mon Cala, a planet they share with the Quarren. During the Clone Wars, differences between the two cultures were fanned by Separatist troublemakers to erupt in civil war.    During the Galactic Civil War, the Mon Calamari were said to be the soul of the Rebel Alliance. The Empire pressed these gentle, amphibious people into war by subjugating their watery world. In retaliation, the Mon Calamari became one of the key species of the Rebellion, supplying badly needed warships to the outnumbered Alliance fleet.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_moncalamari_01_169_135967d9.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c30b",
+    "name": "Noghri",
+    "description": "An alien species, Noghri are hairless, feature a row of horns atop their heads, and walk with a simian gait. They stand upright but run on all fours, able to leap great heights and jump long distances. In addition, Noghri are also gifted with a strong sense of smell, making them excellent trackers -- much like Grand Admiral Thrawn's personal assassin, Rukh.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/noghri_40ef98cc.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c30e",
+    "name": "Pantoran",
+    "description": "Pantorans are a humanoid species with blue skin and faces adorned with yellow markings. During the Clone Wars, Riyo Chuchi represented Pantora in the Senate while Baron Papanoida serveed as the Chairman of Pantora after succeeding Chi Cho.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_pantoran_01_169_59541909.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c311",
+    "name": "Pau'an",
+    "description": "Pau'ans are tall humanoids from Utapau with an intimidating appearance, including jagged teeth, nails, and lined skin. The Pau’ans shared Utapau with their smaller neighbors, the Utai, as well as with bands of Amani and Sugi. The Pau’ans ran Utapau’s government and dealt with outsiders visiting the planet. The Inquisitor, the Empire's Jedi hunter, was a Pau'an.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_pauan_01_169_7fbc02c1.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c316",
+    "name": "Saurin",
+    "description": "A reptilian species from the Mid Rim planet Durkteel, Saurin had knobby skin, ridges along the length of their heads, and formidable-looking jagged teeth. Two Saurin were among the patrons of the Mos Eisley cantina when Luke Skywalker and Obi-Wan Kenobi arrived in search of a pilot for hire; another was among the sleazy thugs resident in Jabba the Hutt’s palace.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/saurin-main-image_5244342b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c31a",
+    "name": "Summa-Verminoth",
+    "description": "Often misunderstood, the summa-verminoth are massive tentacled creatures found dwelling among the stars in the treacherous maelstrom surrounding the planet Kessel. Due to their monstrous size and voracious appetite, the beasts are a staple of legends passed between ship captains and crew.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-summa-verminoth-main-image_fd4f110a.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c320",
+    "name": "Twi'lek",
+    "description": "Twi'leks are tall, thin humanoids with skin pigment that spans a rainbow of colors. Their most distinctive feature is a pair of shapely prehensile tentacles that grow from the base of their skulls. Few things are as graceful as a female Twi'lek in motion. This beautiful image has forever doomed generations of young Twi'leks into servitude, as the wealthy and corrupt have taken to brandishing Twi'leks as badges of prestige. In the waning years of the Republic, the Twi'lek homeworld of Ryloth was represented in the Galactic Senate by the corpulent blue-skinned politician Orn Free Taa. Even a politician of high office was not above flaunting a pair of lovely Twi'lek aides as a sign of influence and wealth.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/twi-lek-main_93917d40.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c322",
+    "name": "Umbaran",
+    "description": "The pale and ghostly Umbarans are an extremely high tech species who have decided that the Separatists are a more worthy group to follow than the Republic. At one time represented in the Galactic Republic by the devious Mee Deechi, Umbara seceded from the Republic and joined the Separatist cause. Their advanced weaponry proved a great challenge to the clone troopers tasked with conquering Umbara.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/umbaran_b03d331e.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c325",
+    "name": "Wookiee",
+    "description": "Shaggy giants from an arboreal world, the tall and commanding Wookiee species is an impressive sight to even the most jaded spacer. Despite their fearsome and savage countenance, Wookiees are intelligent, sophisticated, loyal and trusting. Loyalty and bravery are near-sacred tenets in Wookiee society. When peaceful, Wookiees are tender and gentle. Their tempers, however, are short; when angered, Wookiees can fly into a berserker rage and will not stop until the object of their distemper is sufficiently destroyed.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/wookiees-main-b_fc850c5b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2d7",
+    "name": "Aki-Aki",
+    "description": "The native Aki-Aki of Pasaana revere the duality of life, both tenacious and fragile, welcoming offworlders with open arms during their biennial festival season, when food and water are plentiful. But between these colorful and joyous celebrations, the Aki-Aki live an austere life, gathering food and water for the next grand event.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/aki-aki-main_09f2d83b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2d8",
+    "name": "Alazmec",
+    "description": "The Alazmec of Winsit are adherents of the dark side, and particularly devoted pilgrims journey to Darth Vader’s wrecked castle on Mustafar to venerate his memory. These Sith devotees are the guardians of Mustafar’s Corvax Fen, where they have planted irontrees in its scanty soil. They defend its secrets against seekers they consider unworthy – including First Order Supreme Leader Kylo Ren.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/alazmec-main_f74a4955.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2e7",
+    "name": "Dalgo",
+    "description": "Dalgos are sure-footed, reptilian quadrupeds capable of long-distance running, swift sprints, and the pulling and carrying of cargo. The long-snouted creature has a heat-radiating crest that runs its length, terminating in a wide, blade-like tail. Three large nostrils top the forward crest, blasting air from the creature's powerful lungs. A dalgo has sharp teeth, including two lower tusks that jut from its jaw. Inside its mouth is a forked tongue that helps in sniffing out signs of dangers wafting in the thick jungle air.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_dalgo_01_169_6be7cd49.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2e8",
+    "name": "Dathomirian",
+    "description": "Inhabitants of the planet Dathomir. The Dathomirian Zabrak males, known as the Nightbrothers, are easily identifiable by the intimidating crown of horns around their head, as well as the distinct markings on their skin. The females, known as Nightsisters, have pale skin and are known to be powerful witches.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_dathomirian_01_169_7cb460fd.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2e9",
+    "name": "Devaronian",
+    "description": "This sentient humanoid species had skin colors ranging from red-brown all the way to green. Males are characterized by long pointy ears and two horns that grow from the tops of their heads. Females of the species are hornless. They’re well-suited to lives of crime and they all originate from the jungle planet of Devaron.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/devaronian_51b6f148.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2ea",
+    "name": "Dug",
+    "description": "Dugs are a sentient species with elongated faces, walking with their upper limbs.  The podracer Sebulba is a Dug.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_dug_01_169_a36b6959.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2ee",
+    "name": "Falumpaset",
+    "description": "Falumpasets were strong but stubborn quadrupeds used as beasts of burden on a number of planets, including Naboo and Onderon. Falumpasets pulled Gungan battle wagons during the Battle of Naboo, and Onderon’s anti-Separatist rebels also made use of them.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_falumpaset_01_169_b6d46698.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2ef",
+    "name": "Gamorreans",
+    "description": "Burly, pig-like brutes who favored axes and other primitive weapons, Gamorreans were often used as muscle by Hutts and other underworld kingpins. Jabba the Hutt employed a gang of intimidating Gamorreans to guard his palace on Tatooine.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/gamorrean-main_5141bc61.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2f0",
+    "name": "Geonosian",
+    "description": "Geonosians are insect-like beings, complete with wings, nesting in colonies, who conspired with the Separatists to develop plans for the first Death Star.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_geonosian_01_169_c6020111.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2f5",
+    "name": "Hutt",
+    "description": "Hutts are large, slug-like creatures known to be gangsters. They control Tatooine and are involved in organized crime throughout the galaxy.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_hutt_01_169_5d0535d2.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2fa",
+    "name": "Kallidahin",
+    "description": "Though they lacked facial mouths and noses, the Kallidahin could still speak and breath. Small and wiry statures and four-fingered hands are characteristic of the Kallidahin. Though they’re mistakenly referred to as Polis Massans, Kallidahins actually hail from the Kallidah system. The confusion stems from the fact that they’ve spent generations on Polis Massa working on an archeological mining project to uncover the mysteries of the cataclysm that turned the planet known as Polis Massa into the shattered asteroid field it became.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/kallidahin_ee08d268.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2ff",
+    "name": "Kubaz",
+    "description": "Kubaz are sentient humanoids, dark in skin color, and with long snouts. Unable to pronounce words in basic, their speech is a unique series of whirring syllables. Originating on planet Kubindi, they were rare sights across the galaxy. During the Galactic Civil War, one Kubaz named Garindan found work as an Imperial informant in Mos Eisley.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/kubaz_adc8f95d.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c306",
+    "name": "Nautolan",
+    "description": "Nautolans are amphibious beings with tentacles draping over their shoulders and large black eyes from the planet Glee Anselm. Jedi Kit Fisto was a notable Nautolan.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_nautolan_01_169_9be3d603.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c30d",
+    "name": "Palliduvan",
+    "description": "Although little is known about this pale alien race, recognizable by their chalky skin and long, bony fingers protruding from lanky frames, members including bounty hunter Aurra Sing and the pirate Valik are notorious throughout the galaxy for being ruthless and cunning.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/tcw-db-palliduvan-aurra-sing-main-image_39912d41.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c317",
+    "name": "snarlfish",
+    "description": "Native to the planet of Castilon, evolution has left the snarlfish with moveable eye stalks to help detect movements in the murky waters of the ocean planet, flexible wings for gliding in the air above water, and an insatiable appetite for puffer pig bacon, a weakness exposed by hungry anglers.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/snarlfish_main_a47a7938.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c31b",
+    "name": "Talz",
+    "description": "Orto Plutonia had long been a protectorate of the Pantoran moon, after Pantoran scouts searched the world and found no denizens amid its frozen features. They had missed the Talz population, which lived hidden in the ice canyons in villages carved out of the ice walls, filled with huts made from animal skins pulled over bone-frames. The Talz lived a simple existence, somehow subsisting off the harsh environment, and using the native narglatch cats as mounts and protection. The Talz attacked the newcomers to their world, wiping out both Republic and Separatist outposts during the Clone Wars.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/talz_596c05e8.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c321",
+    "name": "Ugnaught",
+    "description": "Ugnaughts are a species of diminutive humanoids who divided themselves into a tribal heirarchy. They have pink skin, white hair, upturned noses, and thick layers of jowls. They found work across the galaxy everywhere from the Jedi Temple and Coruscant to Cloud City and Lothal. One notable Ugnaught scholar and antiquities expert was Korin Pers, a sava at the University of Bar’leth.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ugnaught_999d7ac4.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c324",
+    "name": "Weequay",
+    "description": "Weequays have rough, wrinkled skin, often in a brown hue who wear their hair in a topknot; Hondo Ohnaka led a band of Weequay pirates during the time of the Clone Wars.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/weequay-main-bobf-b_be593098.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2d9",
+    "name": "Aleena",
+    "description": "Aleena are a short, blue- and scaly-skinned people, featuring large mouths filled with tiny teeth. They are a friendly people, welcoming the clone army and seeking peace with fellow co-habitors of Aleen. The podracer Ratts Tyerell is an Aleena.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_aleena_01_169_04301079.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2db",
+    "name": "Anacondan",
+    "description": "Anacondans are snakelike beings with two expressive eyes and a large mouth, completely sentient.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_anacondan_01_169_33536699.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2de",
+    "name": "Belugan",
+    "description": "The Belugans were an aquatic species found in the crystal-filled caverns beneath the surface of the planet Quarzite.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_belugan_01_169_158d21dc.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2e1",
+    "name": "Bivall",
+    "description": "These tall, bipedal sentients were an incredibly intelligent species who had large eyes, crested heads, long fingers, and slender bodies. They had scaly skin that ranged in color from white and red all the way to green. They were well suited for the work of doctors, scientists, researchers, and even political advisors.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_7ba8a31d_e9825c26.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2e2",
+    "name": "Cerean",
+    "description": "Cereans were mammalian humanoids with massive coned craniums that contained complex binary brains. During the last days of the Galactic Republic, a Cerean named Ki-Adi-Mundi was a prominent member of the Jedi Council. They hail from planet Cerea.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_cerean_01_169_61617903.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2f2",
+    "name": "Gotal",
+    "description": "Horned sentients with furred faces, Gotals were native to Antar IV but lived on many planets in the galaxy, from Coruscant to Tatooine and Lothal. Their conical horns were sensitive to electromagnetic fields, and the presence of droids could give them fierce headaches. Members of this species included Salikk, Spots Podal and Yoffar.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/screen_shot_2015-08-05_at_3_2e9013ef.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2f3",
+    "name": "Gran",
+    "description": "Gran are tan colored humanoids with pronounced snouts and a trio of eye-stalks. They also have small antennae-like nubs on the tops of their head and thick, bulky hands. Hailing from Malastare, Gran found life easy in all classes of citizenship, with some flourishing in the criminal classes on Tatooine (like Ree Yees), others found fame as middle-class podracer pilots (like Mawhonic), and others found prestige in the upper-classes in the Galactic Senate (like Ask Aak.)",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/gran_857179a3.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2f7",
+    "name": "Jablogian",
+    "description": "Jablogians had deep red skin, green eyes, and upturned noses. They boasted four-fingered hands and long pointed ears. They had an almost out of proportion build, with thin legs and arms and massive, overweight torsos. Jablogians were also prone to salivating everywhere. One notable Jablogian was the slaver and trader Azmorigan.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/jablogian_6606af55.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2fd",
+    "name": "Klatooinian",
+    "description": "Klatooinians were sentient humanoids with skin that ranged in color from green to brown. They had imposing brows and toothy overbites that gave them menacing appearances. Their strong builds and resilient features made it easy for them to find work across the galaxy as bounty hunters and hired muscle, though more than one had found themselves sold into slavery for a variety of reasons.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/klatoonian-main_c9f50db8.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c301",
+    "name": "Lurmen",
+    "description": "Tee Watt Kaa's tribe of Lurmen landed on Maridun -- an uncharted world -- to escape the bloodshed and violence of the Clone Wars. Tee Watt Kaa believed in non-violence and non-aggressive solutions. Originally from the Outer Rim world of Mygeeto, the Lurmen colonists carved out a peaceful existence on the plains of Maridun, harvesting enormous seedpods to use as shelter, extracting vital oils within for nourishment and medicine.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/screen_shot_2015-05-26_at_6_df8983c8.png",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c303",
+    "name": "Mimbanese",
+    "description": "Red-skinned subterranean dwellers, the Mimbanese once fought alongside Republic clone troopers against the Separatists. Now, they are battling for their planet’s future against the Empire. Imperial mining operations have devastated Mimban’s climate and cleared vast stretches of rain forest, leaving muddy plains behind. The Mimbanese use the mud as camouflage, ambushing Imperial soldiers with improvised and scavenged weapons.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-mimbanese-main-image-2_698376a2.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c307",
+    "name": "Neimoidian",
+    "description": "Neimoidians are a humanoid species with green skin, large single-colored eyes, and no nose. They are notorious for running the Trade Federation, who joined the Separatist movement and started the Clone Wars.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_neimoidian_01_169_f4d61512.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c308",
+    "name": "Nightsister Zombies",
+    "description": "The world Dathomir holds many dark secrets -- such as ancient incantations that could raise the dead. When the planet was attacked by the Separatists during the Clone Wars, the most ancient and knowledgeable of the Nightsister clan used her power to stir the bodies of the Nightsisters graveyard. From preserved cocoons built to resemble the trees of Dathomir emerged mummified warriors. The shrieking zombies mindlessly attacked their enemies, swarming over battle droids in droves.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/nightsister_zombie_8f0ac50b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c30a",
+    "name": "Nikto (Red)",
+    "description": "The red Nikto (a.k.a. Kajain’sa’Nikto) were a humanoid alien species hailing from the planet Kintan, featuring coarse, scaly skin that was marked horns and spikes. Like the Kadas’sa’Nikto, or green-skinned Nikto, they were found from world to world; several were in the employ of Jabba the Hutt on Tatooine, and Ima-Gun Di was a notable Jedi Master during the final days of the Republic.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/nikto-red-main-bobf_fd756afb.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c310",
+    "name": "Patrolian",
+    "description": "Originating from planet Patrolia, Patrolians are a highly intelligent fish-like species. Colored in purples and blues, they sported gills and fins on their head as well as webs on their hands and arms. They could also breath in the air. When not in the water, their clothes required alteration to accommodate the protruding dorsal fins on their backs. A resourceful species, many found work throughout the galaxy as technicians, bounty hunters, and hired brains.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/patrolian_ad2ba71d.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c315",
+    "name": "rokkna",
+    "description": "Birds flee and creatures in the water below disappear when the massive tentacled rokkna breaks through the surface of the ocean surrounding the Colossus. The adults of the species share some similarities with their young, including a pungent odor and probing yellow eyes. But as they mature, the adults grow in size to a staggering degree.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/resistance-db-rokkna-main-image_0b8f6a27.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c318",
+    "name": "Sugi (Species)",
+    "description": "While the Sugi may be small in stature they have a big reputation as the premier arms dealers in the galaxy. Many Sugi wear “power suits” with four giant insectoid legs that more than double their height and make them physically imposing. On Utapau, a group of Sugi, led by Endente, attempt to get back a giant kyber crystal in the possession of the separatists.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_50c03922.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c31d",
+    "name": "Togruta",
+    "description": "Native to the planet Shili, the Togruta are notable for their striped, horn-like montrals and head-tails. The species has spread beyond their homeworld to colonies such as Kiros, which was despoiled by Zygerrian slavers during the Clone Wars. Notable Togruta include Governor Roshti of Kiros and three members of the Jedi Order: Ashla, a youngling; the Jedi Master Shaak Ti; and Anakin Skywalker’s Padawan, Ahsoka Tano.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_togruta_01_169_4618d329.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c323",
+    "name": "Utai",
+    "description": "The Utai are short, pink-skinned humanoids with black eyes that share the planet Utapau with their larger neighbors, the Pau’ans, as well as with bands of Amani and Sugi. The Utai gladly left the business of running the planet and dealing with outsiders to the larger Pau’ans, apparently content with menial tasks ranging from animal husbandry to starship maintenance.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/utai-main-image_cd7b2ab6.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2d6",
+    "name": "Aiwha",
+    "description": "These massive cetaceans were native to the oceans of Kamino, swimming beneath the waves and sometimes leaping out of the water to soar through the skies. During the Battle of Kamino, Obi-Wan hitched a ride on an aiwha while investigating the planet’s Separatist attackers.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/aiwha_287a799a.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2da",
+    "name": "Amani",
+    "description": "Amani were a species with yellow-and-green colored skin, short legs and large hands connected to arms long enough to reach the ground. Amani often carry with them a staff on which is strung a number of skulls, presumably obtained first-hand. Found on Utapau, they are usually found on the plains or underground, but rarely venture into the cities.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_796e6968.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2dd",
+    "name": "Balosar",
+    "description": "Like most humanoids, Balosars come in a variety of shapes and sizes, but what sets them apart from humans are the antennapalps on top of their heads. These were sensory appendages that granted them sensory information than would be available to your average human. They were susceptible to Jedi mind tricks, as Obi-Wan Kenobi found out when he helped death stick-dealer Elan Sleazbaggano straighten his life out.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/balosar_f17b9807.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2e0",
+    "name": "Bith",
+    "description": "Large headed aliens with a knack for science and music, the Bith were a peaceful, intelligent race. Hailing from Bith, they participated in Galactic politics and remained loyal to the Republic in the Clone Wars conflict. Perhaps the most famous Biths in the galaxy are Figrin Da’n and the Modal Nodes.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/bith_998c8489.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2eb",
+    "name": "Duros",
+    "description": "A green-skinned humanoid species with long, noseless faces and red eyes, Duros were a common sight in the galaxy, found everywhere from the corridors of power on Coruscant to dingy cantinas on Tatooine.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_duros_01_169_9a7854b9.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2ed",
+    "name": "Falleen",
+    "description": "The Falleen are humanoid but with a distinct alien look, featuring green skin, ridged skulls, and long pony tails. Black Sun is a vast criminal empire controlled by the Falleen.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_falleen_01_169_50d36351.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2fc",
+    "name": "Kindalo",
+    "description": "The creaky-limbed Kindalo are a species that dwell in the underground caverns deep beneath the surface of Aleen. Knowing that the surface world is toxic to those who live below, the tree-like Kindalo carefully guard passage to the underworld. They dwell in a cavern grove illuminated by their own bio-luminescence and the glows of similarly phosphorescent plants that surround them.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/kindalo_82e6cad4.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c2fe",
+    "name": "Krayt Dragon",
+    "description": "An enormous serpentine-like reptile, the mighty krayt dragon lurks in the loose sands of the Tatooine wastelands. A peril to colonists and natives alike, the krayt dragon is fearsome enough that even Tusken Raiders keep their distance.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/krayt-dragon-main_80edeb91.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c300",
+    "name": "Lasat",
+    "description": "The Lasat are a humanoid alien species, notable for their impressive height, strength, and agility, that tragically fell victim to the tyranny of the Empire. Imperials devastated the planet of Lasan and nearly destroyed all its people, using deadly T-7 ion disruptors on the Lasat. Zeb Orrelios, one of the massacre's few survivors, was a member of the Honor Guard of Lasan: highly trained, highly intelligent warriors and masters of the bo-rifle.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_6378e65d.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c309",
+    "name": "Nikto (Green)",
+    "description": "Green-skinned Nikto (a.k.a. Kadas’sa’Nikto), a subspecies from Kintan, shared many traits with the Kajain’sa’Nikto (red Nikto): scaly skin, black eyes, and symmetrical horns, the latter of which would often decorate their faces. Green Nikto were also seen across the galaxy, and much like the red Nikto, were well acclimated to desert climates, as evidenced by their presence on Tatooine. One notable green Nikto was Klaatu, an inveterate gambler and henchman of Jabba the Hutt.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/nikto-green_922a0511.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c30c",
+    "name": "Offworld Jawas",
+    "description": "The Offworld Jawas found on Nevarro and Arvala-7 may look different than their Tatooine counterparts, having adapted to their new surroundings, but their obsessive need for technology still drives them.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/offworld-jawas-main_a4db15f6.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c30f",
+    "name": "Patitite",
+    "description": "The Patitites are tiny sentient beings native to the swamps of Patitite Pattuna. Despite their diminutive stature, they pack enough punch to take down a pair of wandering droids. Though technologically primitive, they are bright-minded and do have a grasp on machinery. For example, the Patitites carry powered polearms and were able to assist in repairing a downed Y-wing bomber during the Clone Wars. They are socially primitive, however, living in a tyrannical dictatorship where all Patitites are subservient to their ruler, Hay-Zu. All this changed when R2-D2 and C-3PO inadvertently stumbled upon Patitite society in general, and stumbled upon Hay-Zu quite literally.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_patitite_01_169_84ee6dc0.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c312",
+    "name": "Poletec",
+    "description": "Native to the planet Skako Minor, the Poletecs are a primitive species that use massive reptilian beasts for transport and are uniquely equipped to thrive in the unforgiving environment of the gas planet. The arrival of Separatist droids and later clone troopers puts the simple clan on edge — they do not wish for the war to come to their peaceful planet.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/poletecs-main_a7bed925.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c313",
+    "name": "Quarren",
+    "description": "Quarren, or \"Squid Heads\" as they are sometimes rudely called, are an alien species characterized by the four tentacles that protrude from their jaws. They have deep turquoise eyes, and each hand is capped with finned or suction-cup tipped fingers. They are capable swimmers, and like the squids they resemble, they are able to spit out clouds of ink as a defensive measure. Quarren hail from the planet Mon Cala, a world they share with the Mon Calamari. During the Clone Wars, the Separatists backed a Quarren insurrection that plunged the planet into civil war.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_quarren_01_169_5fb52f4f.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c314",
+    "name": "Rodian",
+    "description": "Rodians are a reptilian species with antennae, green and scaled skin, large round pupil-less eyes, and snouts from the planet Rodia.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/rodian-main_de29c78f.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c319",
+    "name": "Sullustan",
+    "description": "Sullustans are humanoid beings from the planet Sullust with two flaps of jowls aound their cheeks; Nien Nunb, co-pilot to Lando Calrissian in the Battle of Endor, was a notable Sullustan.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_sullustan_01_169_01e4c3e0.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c31c",
+    "name": "Tee-muss",
+    "description": "These tan and brown colored quadruped animals were domesticated on their homeworld of Onderon and made their way to many other planets across the galaxy because of their durability. They were useful mounts and cool-headed in battles they were forced to participate in, whether that was attacks against the Separatists or defending against attacks from pirates like Hondo Ohnaka.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_teemuss_01_169_f35773bb.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c31e",
+    "name": "Toydarian",
+    "description": "Toydarian are fly-like humanoids, with wings, a snout, and webbed feed. They are known to be strong-willed and resistant to manipulation through the Force.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_toydarian_01_169_748d4d11.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c31f",
+    "name": "Trandoshan",
+    "description": "Trandoshans are reptilian humanoids, with slimy, scaled-skin. They have long arms and legs, and are known to be excellent hunters. In Mos Espa, a rowdy group of the species has been known to try their luck at the gambling tables in Garsa's Sanctuary.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/trandoshian-main_19804be7.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b44d4a1996bc1b0f1c326",
+    "name": "Zygerrian",
+    "description": "The Zygerrians were a powerful people in the days of the Old Republic, before the Jedi Knights tore down their empire of slavery. When slavery was outlawed in Republic space, the Jedi Knights liberated countless beings from bondage, and the despicable trade the Zygerrians excelled in was pushed into the shadows of the underworld and beyond, with some operating in the ruins of places like Old Ord Mantell City. After the end of the Clone Wars, some Zygerrians are actively plotting a return to the old ways.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/the-bad-batch-rampage-story-gallery-11_1ebdce3d.jpeg",
+    "__v": 0
+  }
+]

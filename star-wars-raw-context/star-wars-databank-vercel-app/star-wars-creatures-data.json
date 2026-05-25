@@ -1,0 +1,527 @@
+[
+  {
+    "_id": "640b2f06b6a2a8104f0a0d6e",
+    "name": "Anooba",
+    "description": "These vicious creatures lived throughout the Outer Rim. They had pronounced lower jaws and sharp teeth, fearsome growls and thick patches of fur across their spines. They were trainable animals and during the Clone Wars, the bounty hunter Embo took one named Marrok as a working pet. A stylized Anooba also appears on the armor of Sabine Wren.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/anooba_deaed00b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d6f",
+    "name": "Bantha",
+    "description": "Banthas are large, furry mammals that travel in herds through Tatooine's desert wastes. They serve as mounts for Tusken Raiders, and the two share a close, almost mystical bond.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/bantha-main_a52af05f.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d77",
+    "name": "B’omarr monk spider",
+    "description": "The palace of Jabba the Hutt was once a monastery that served the B’omarr monks. Even after Jabba's death and the fall of the Empire, a few monks remain in the shadows, having achieved enlightenment by separating their brains from their bodies. Now they amble about within mechanical spider walkers.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/b-omarr-monk-spider-main_cbaab5b5.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d7a",
+    "name": "Corellian hounds",
+    "description": "Also known as Sibian hounds, these fleet-footed canids have keen senses enhanced through generations of breeding for hunting and attack. Moloch uses a pack of Corellian hounds to hunt down fugitive scrumrats and other enemies of the White Worms, loading his beasts into a cage aboard his armored truckspeeder.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-corellian-hounds-main-image_00ea8d28.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d82",
+    "name": "Happabore",
+    "description": "Strong, patient quadrupeds with oversized snouts and tiny eyes, happabores are found on several worlds in the galaxy. Their thick skins allow them to resist heat, and their bodies reportedly contain reservoirs where they store water. Happabores are slow but hardy, and will trudge along obediently all day carrying cargo and riders. Finn happens upon a Happabore while desperately searching for water in Niima Outpost on Jakku.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/happabore_ea2f08f6.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d84",
+    "name": "irlings",
+    "description": "Dwelling in the old mining tunnels beneath the surface of Ord Mantell, a species of native winged creatures create a terrifying cacophony for those who dare to travel in the dark. Sudden noises and blaster fire bring the nocturnal irlings swarming in defense, fearful of the light that spells their demise due to a visual sensitivity to thermal registers.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/irling-main-1_be18683e.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d88",
+    "name": "keeradak",
+    "description": "With a massive wingspan and piercing red eyes, the keeradaks of Skako Minor have been trained by the Poletecs to be used as soaring transportation high above the barren landscape. The creatures will also respond to the shrill screech of one of their own calling out in distress.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/keeradak-main_9fbf149b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d8e",
+    "name": "Loth-bat",
+    "description": "Giant winged creatures native to Lothal, Loth-bats routinely travel in packs and can glide over long distances. They emit strained, high-pitched squeals, which are known to unnerve the stormtroopers who patrol Lothal at night.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/rebels-databank-410-loth-bat-main-image_94ae4994.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d96",
+    "name": "Nexu",
+    "description": "A fierce and agile predator, the nexu was one of a trio of deadly beasts unleashed by the Geonosians upon Anakin Skywalker, Padmé Amidala and Obi-Wan Kenobi in the execution arena. The nexu's broad face was split by a terrifying tooth-filled maw, and four eyes glinted from atop its spade-shaped head. Its wiry, supple muscles were visible beneath its fine coat, and sharp curving quills lined its spine. A naked, forked prehensile tail trailed it, aiding in balance, and its arms and legs terminated in large curved claws",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/nexu-main_f7b861f1.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d98",
+    "name": "Nuna",
+    "description": "Native to the swamps of Naboo, these flightless birds are famously stupid, but also adaptable and easy to care for. Nunas have spread across the galaxy, prized for their meat and eggs.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_nuna_01_169_fa323d27.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d99",
+    "name": "Opee Sea Killer",
+    "description": "A creature lurking in the abyss of Naboo, the opee sea killer is an amalgam of evolutionary traits found in other animals. It has armor and limbs like a crustacean, but has the massive hinged jaws of other fishes. The opee is a silent hunter, typically lying in wait, clinging motionless to rocky crags. When it spots a tasty morsel, the creature captures its quarry with a long sticky tongue that drags struggling prey into a mouth filled with double rows of teeth.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_opeeseakiller_01_169_7a1bc9fb.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d9a",
+    "name": "Ordo Moon Dragon",
+    "description": "Native to the Ordo Moon, these sharp-clawed nocturnal creatures feed on raw energy making a feast from wayward ships and their electrified parts and modules. With a maw full of menacing, jagged teeth, Ordo Moon dragons can expertly scavenge parts, like picking flesh from a carcass, and menace any lifeforms in their path.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ordo-moon-dragon-main_0f521ab0.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0da3",
+    "name": "Ronto",
+    "description": "Gentle and strong, rontos are favored pack animals for Tatooine's Jawas. Travelers to the desert planet's settlements routinely see rontos swaying under the weight of their cargoes and Jawa passengers.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_ronto_01_169_be90c9c8.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0daa",
+    "name": "speagull",
+    "description": "With four yellow eyes and a protruding, curved beak, the native bird-like speagulls are natural predators of many smaller creatures living in the waters of the planet Castilon.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/speagull-main_0dd30e58.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0db3",
+    "name": "vexis",
+    "description": "Armored with thick scales, these great serpents dwell beneath the sands of Pasaana in networks of tunnels whose walls are hardened by oil excreted from their skins. After Rey and her friends tumble into the burrow of an injured vexis, she instinctively uses the Force to heal the creature, avoiding a dangerous confrontation.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/vexis-main_e7645452.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0db4",
+    "name": "Vixus",
+    "description": "The dense shadows that cling like a fog to Umbara's surface can cause a traveler to absentmindedly step into a tangle of vines, and it is then too late to escape the clutches of a vixus creature. The vines are the tentacles of the beast. Seven ropy limbs stretch out from a dome-shaped mouth, and smaller, secondary tentacles fill the gaps between these larger arms. The beast's mouth is the only visible portion of the creature's underground body. As the sharp teeth part, rays of light shine from within, briefly illuminating the poor victim's final moments.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Vixus_6317b52b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d70",
+    "name": "Blixus",
+    "description": "A horrific half-shelled monstrosity, the blixus is a rare beast that is regarded a prize to most collectors, as long as they are able to void the reach of its deadly tentacles.The blixus is coated with an articulated carapace, and hard chitin covers its six pick-like legs. Its well-muscled underbelly conceals a ghastly gash of a mouth filled with sharp teeth, and a pair of pincer-tipped graspers. Its most terrifying feature, though, are the five sinewy tentacles that terminate in sucker-lined grasping pads.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/acw_ia_90457_ee872770.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d72",
+    "name": "Boga",
+    "description": "When hunting for General Grievous on Utapau, Obi-Wan Kenobi went to the pens where Utapaun wranglers corralled native winged and wingless lizards for use as transports. He selected an obliging and brave lizard named Boga, with a leather saddle strapped to her swaying back. She stood four meters tall at the shoulder, and had a pebbled skin with an iridescent green and blue sheen. A crown of richly colored feathers fringed her head and neck, trailing away from her beaked face and keen eyes. Her powerful limbs ended in five-toed feet, tipped with curved claws providing excellent purchase on the sandstone surfaces. A long tail aided in balance and agility.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_boga_01_169_5cafbc01.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d73",
+    "name": "Bonbraks",
+    "description": "Bonbraks are furry, skillful little aliens small enough to fit into your pocket! Though they can be somewhat fussy, they are reliably helpful mechanics who speak their own language: Bonbreez.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/bonbraks-main_32dfac65.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d7b",
+    "name": "Dewback",
+    "description": "Rugged reptiles with thick hides, dewbacks are plodding but reliable mounts. When prodded by their riders, they are capable of brief bursts of surprising speed.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_dewback_01_169_bc886996.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d7c",
+    "name": "Dianoga",
+    "description": "After Luke Skywalker, Han Solo and Chewbacca rescued Princess Leia from her cell on the Death Star, they sought safety in one of the battle station’s trash compactors. It was a perilous refuge: the garbage masher was home to a tentacled carnivore known as a dianoga. The slimy monster poked an eyestalk above the surface of the garbage to see what had invaded its abode and then attacked, dragging Luke under the surface to drown him so he could become a meal later. Fortunately for Luke, the dianoga let go of him and disappeared. Unfortunately for all of the rebel heroes, the creature fled because it sensed the walls were about to move, crushing anything in their path.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/the-bad-batch-battle-scars-story-gallery-12_47336b3b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d7f",
+    "name": "Fathier",
+    "description": "Powerful yet graceful quadrupeds standing three meters high at the shoulder, fathiers can achieve speeds of 75 kilometers per hour for short distances. Fathier races are glitzy affairs in Canto Bight, but few spectators understand the toll the sport takes on these noble animals. Many fathiers live miserable lives, abused by jockeys and trapped in cramped stables.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ep8-243867_935ff5d6.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d80",
+    "name": "Fyrnock",
+    "description": "Fyrnocks are ferocious quadruped creatures featuring yellow eyes, sharp teeth, and long tails, that reproduce in great numbers. The animals are unable, whether for fear or sensitivity, to walk in sunlight. In the cover of darkness, however, fyrnocks are fierce, relentless predators, attacking in throngs. Hera and Sabine of the Ghost crew encountered a colony of fyrnocks on the Fort Anaxes asteroid, barely escaping with their lives.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_ff3f48ca.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d92",
+    "name": "mudhorn",
+    "description": "The beefy mudhorn makes its home in the cool, dark caves of Arvala-7. The beast uses its towering horn for defense and its matted hide, caked in mud, and wooly withers can even dissipate the concentrated fire power of a blaster bolt at close range.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/mudhorn-main_de3d4551.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d95",
+    "name": "Nevarro reptavian",
+    "description": "With razor-sharp talons, gaping mouths of gnashing teeth, and expansive wings, the reptavians on the planet Nevarro hunt their prey using a snatch-and-grab method, cloaking their impending attacks under the cover of night. Even a full-grown blurrg isn't safe.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/nevarro-reptavian-main_03d5fbf4.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d9c",
+    "name": "Parvinoth",
+    "description": "The delicate wings of the parvinoth, a species found on Ashas Ree and elsewhere in the Outer Rim, seem to glow in the sunlight. Floating almost effortlessly on the breeze, the silvery insects are harmless and alluring.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/zro-ff-003394_ce92f9b9.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d9e",
+    "name": "Puffer Pig",
+    "description": "The puffer pig is a rare creature whose comical appearance and odd traits mask a hidden value. With a small, plump body, two large eyes set far apart, horn rows on their back, and a prominent snout, puffer pigs are not physically impressive animals; in addition to their strange look, the creatures balloon to more than triple their size when frightened. Puffer pigs' real gift is their sense of smell, particularly for precious minerals. In the age of the Empire, when mining was restricted, this ability led to the trade of puffer pigs on the black market.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_f3df42bc.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d9f",
+    "name": "Purrgil",
+    "description": "Massive, whale-like creatures, purrgil lived not on land or sea, but in space, and were the stuff of legend for the galaxy’s smugglers and pilots. They were often a bluish purple color and moved gracefully thanks to four large hind tentacles, along with two side fins and a dorsal fin. Purrgil required a specific green gas in order to breathe, which allowed them to travel great distances through the space. While very few have seen it, purrgil had the ability to travel through hyperspace.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/purrgil_8a48dffc.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0da0",
+    "name": "Rathtar",
+    "description": "Rathtars are dangerous tentacled predators known for their sophisticated techniques as pack hunters. These slimy horrors were responsible for the infamous Trillia Massacre – which has made them irresistible to decadent collectors seeking exotic pets for their menageries. Han Solo agreed to collect rathtars for King Prana, a credit-making scheme that was reckless even by Han’s unique Corellian standards.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/rathtar_2d828790.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0da4",
+    "name": "Ruping",
+    "description": "Rupings are graceful, powerfully built reptavians native to the jungles of Onderon. These lean, well-muscled creatures have immense leathery wings that span the length of their rangy arms. Quadrocular vision and sensitive ears make a ruping keenly aware of its surroundings. Jungle-dwelling Onderonians have domesticated the rupings as beasts of transport. Historically, these people have been outcasts from the walled civilization centers of Onderon, and rupings are essential for transport and escape from the dangers of the dense jungle underbrush. Rupings nest in flocks atop the highlands of the Onderon wilderness.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/acw_ia_100008_d141c3fd.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0db0",
+    "name": "Tibidee",
+    "description": "Tibidees are large flying creatures found in the mountains of Stygeon Prime, featuring two enormous wings, green eyes, and a long tail. They are attuned to frequencies and vibrations, and can often interpret the signals of nearby starships as mating calls. While mostly gentle, tibidees will attack when threatened or provoked.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_3873ee06.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0db1",
+    "name": "Tooka",
+    "description": "A small, feline creature found throughout the galaxy, tookas are simultaneously adored as fuzzy pets and reviled as feral nuisances on many planets. Properly trained, they can be affectionate as well as effective pest-hunters, which has led to their proliferation across worlds as freighter captains and other spacers use tookas to rid their starship holds of vermin. Tookas are so commonplace that they are often represented as stuffed toys -- like tooka dolls -- or cartoon illustrations that play up their playful and/or predatory nature.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/tooka-main_bd70844c.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d6d",
+    "name": "Acklay",
+    "description": "A surprisingly agile fury of sharp claws and pointed fangs, the vicious acklay was one of the three arena creatures unleashed in the Geonosian execution arena, dispatched to kill Anakin Skywalker, Padme Amidala, and Obi-Wan Kenobi. The Geonosian picadors steered the acklay toward Obi-Wan, who was able to outmaneuver the beast. A clumsy yet powerful strike from one of its claws sheered the chains that bound Kenobi. The beast continued to pursue the Jedi Knight, rending large holes in the hard-packed sand with its vicious stabs. It even shrugged off a pike attack, chomping through the offending polearm with bestial rage.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_acklay_01_169_e544124f.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d71",
+    "name": "Blurrg",
+    "description": "Blurrgs are two-legged beasts of burden found on a number of worlds in the galaxy. Stoic and strong, they are used for everything from agricultural labor to war, foraging lazily in paddocks or carrying Twi'lek guerrillas and clone troopers into battle. Although they appear harmless and docile, their toothy mouths can betray a fierce demeanor; females are known to devour the males of the species during mating season.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/blurrg-main_be0c18ef.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d76",
+    "name": "Brezak",
+    "description": "The light-bodied brezak is a species of large lizard with skin flaps that, when extended, allow the beast to glide on the air currents surrounding the mesas of Zygerria. Domesticated brezaks are used by the royal Zygerrian guards to patrol the ground for escaped slaves. The beast's skin flaps are anchored to a flexible rib cage that allow the brezak to spread them wide. Its flat tail serves as a rudder, giving the animal -- and a capable rider -- a remarkable degree of control in the air.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/brezak-main_b1987f09.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d79",
+    "name": "Convor",
+    "description": "Convorees (plural for convor) were small, flying creatures found from world to world. They had two eyes, two feathered wings, and a beak, feeding mostly on insects and small rodents.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/convoree_5e3bd2fc.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d83",
+    "name": "Ice Spiders",
+    "description": "Found skittering in frozen caverns are knobby white ice spiders that can swarm their prey and feast with their razor-sharp proboscices. These creatures can spin webs of ice strands to trap their quarries.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ice-spiders-main_30d22a18.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d86",
+    "name": "Kaadu",
+    "description": "Two-legged wingless avians native to Naboo, kaadu are swift and agile, with sharp hearing and a keen sense of smell. Gungans domesticated kaadu long ago, and had a special bond with their loyal mounts. During the Battle of Naboo, Gungan commanders such as Jar Jar Binks and Tarpals commanded the Gungan cavalry from atop kaadu.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ep1_ia_72886_13afb761.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d87",
+    "name": "Kamoradon",
+    "description": "With six long flippers, an elegant tail, smooth dorsal shell, and a maw full of pointy teeth, the kamoradon glides through the waters of Tipoca City looking for its next meal. After the Empire's aerial bombardment, the ensuing power outages make those left behind in the city's underwater tube systems largely defenseless to the hungry sea creatures.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/kamino-sea-creature-main_b98fb6a2.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d8c",
+    "name": "Krykna",
+    "description": "Larger than fully-grown humans, krykna were giant, spider-like creatures native to the remote world of Atollon. Predominantly white, they had six powerful legs, eyes around their head, and a blaster-resistant hide, making them fierce hunters. They often take their prey into an underground hive, where they cocoon their victims. Krykna attacked the rebels looking to establish a base on Atollon but the creatures were repelled by sensor markers.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/atollon-spiders_8df4342a.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d8f",
+    "name": "Loth-cat",
+    "description": "Loth-cats are members of the tooka family, and native to Lothal, often found in the grassy plains of the Outer Rim planet. They're small, temperamental creatures, and while at times friendly, are still able hunters with sharp teeth and claws.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_baddce4e.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d90",
+    "name": "Loth-wolf",
+    "description": "Ancient beasts depicted in Lothal cave paintings, little is known about the giant Loth-wolf. Ezra Bridger, a Force-sensitive rebel, believes he encountered a loth-wolf, though none of his crewmates saw the creature.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/loth-wolf_d797d8f9.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d97",
+    "name": "Nightwatcher Worm",
+    "description": "Nightwatcher worms are one of Jakku’s more mysterious life forms. These creatures, also known as sandborers and Arconan night terrors, are rarely seen – only a blinking pair of red eyes betrays their location beneath the sands. Nightwatchers top 20 meters in length when mature, and some specimens are reputed to be much larger. Scavenger lore has it that nightwatchers hunt by sensing vibrations above them, erupting from beneath the sand with their jaws wide to engulf prey.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/nightwatcher-worm_9af56939.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d9b",
+    "name": "Orray",
+    "description": "Orrays, native to Geonosis, are sturdy quadrupeds used for a variety of purposes by the Geonosians. They serve as mounts for the picadors in the execution arena as well pull the carts that carry condemned prisoners to their deaths. The orrays in the Geonosis arena all have metal caps that cover the stumps of their removed tails.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/orray_05827d60.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0da5",
+    "name": "Sando Aqua Monster",
+    "description": "A fearsome leviathan lurking the waters of Naboo, the sando aqua monster is aptly named for its prodigious size and monstrous appetite. Its huge mouth can swallow most other sea creatures -- or even a Gungan sub -- in a single gulp. Its heavily muscled body is almost feline in appearance, with sinewy limbs terminating in massively finned claws that propel the creature through the depths.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_sandoaquamonster_01_156_f74ea1d7.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0da8",
+    "name": "Shaak",
+    "description": "These bulbous herd animals, tan in color and rotund in shape, roamed the grassy fields of Naboo and raised for their meat. Both the Gungans and the Naboo shepherded herds for their use. The battle of Naboo that transpired between Trade Federation droids and the Gungan army took place on a typical shaak feeding ground. Once, in a hamfisted bid to impress Padme Amidala, Anakin Skywalker tried riding a shaak by balancing on top of it with mixed results.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/shaak_35e722c3.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0dab",
+    "name": "Steelpecker",
+    "description": "These tough, ornery Jakku avians are drawn to metal, which they break apart with their iron beaks and then devour. Steelpeckers collect vanadium, osmiridium and corundum in their gizzards, with the resulting chemical stew helping break down their metallic meals. Jakku’s scavengers steer clear of steelpecker colonies, which can overwhelm intruders with razor-sharp talons and beaks.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/steelpecker_6ee57604.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0dac",
+    "name": "Tatooine sand beast",
+    "description": "Feral beasts that lurk beneath the sands of Tatooine, sand beasts spring up seemingly out of nowhere to startle, stun, and maim their prey. The creatures are one of innumerable hazards for anyone trekking across the endless desert. For the Tusken Raiders, tangling with a sand beast can win praise and respect.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/the-book-of-boba-fett-chapter-1-story-gallery-08_ecd3384b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0dae",
+    "name": "Thala-siren",
+    "description": "Ahch-To’s thala-sirens are docile marine mammals that like to sun themselves on rocks fringing the coasts of the planet’s islands. Sea sows produce a nutritious green milk, which is harvested by the native Lanai and adventurous visitors.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ep8-239951_r_fa59ae72.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d74",
+    "name": "Bonzami",
+    "description": "Massive creatures that thrive in frigid temperatures, bonzami had plated spines, sharp teeth, and armored heads, including a horned mouth. Bonzami walked on four legs and hunted both alone and in packs, as the ISB Agent Kallus, and the rebel, Zeb Orrelios, found out when stranded on a Geonosis moon. They were predominantly white furred, allowing them to blend in easily with their icy surroundings, despite their enormous size.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/bonzami_fefa1c8a.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d75",
+    "name": "Brain worm",
+    "description": "These wormlike parasites were one of the Geonosians’ greatest secrets, able to control the brains of living hosts and even animate dead Geonosians. Karina the Great, the planet’s secret queen, attempted to take control of Jedi Master Luminara Unduli after the Second Battle of Geonosis. That effort failed, but brain worms took over the clones of Tango Company while traveling aboard a medical frigate. Hunted by the possessed clones, Ahsoka Tano desperately searched for a way to reverse the infestation.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/brain-worm_b3368a19.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d78",
+    "name": "Colo Claw Fish",
+    "description": "A powerful, aquatic carnivore lurking near Naboo's core. The monstrous animal has long jaws filled with pointed teeth. Its forelegs end in wicked claws, and sharp protrusions jut from its luminescent tail. The colo claw fish hides in underwater tunnels, where it sits motionless for hours until suitable prey passes by. When it spots a victim, the beast erupts from its lair and grabs the meal in its claws. Although quite fearsome, the colo claw fish is no match for the enormous sando aqua monster.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_coloclawfish_01_169_d3741c5f.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d7d",
+    "name": "eopie",
+    "description": "Easily domesticated, eopies serve Tatooine's settlers as transports and beasts of burden. These tough, desert-adapted quadrupeds can carry heavy loads, but are grumpy and stubborn.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/obi-wan-kenobi-story-gallery-part-1-06_bccb47ec.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d7e",
+    "name": "Fambaa",
+    "description": "A lumbering beast of burden favored by the Gungans of Naboo, fambaas are immense quadrupeds capable of hauling enormous cargoes. The Gungan Grand Army uses fambaas as transports for their impressive shield generators. A pair of fambaas travelling in single file each carries a necessary component for the generator to function.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/fambaa_38dac367.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d81",
+    "name": "Gundark",
+    "description": "Even the most backwater and uneducated pilots in the galaxy have heard of the legendary Gundarks, massive predatory creatures from the Vanqor system. Jedi Knights Anakin Skywalker and Obi-Wan Kenobi had multiple run ins with the aggressive creatures during their time as partners, both prior to the Clone War and during.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/gundark_aa2e583c.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d85",
+    "name": "Joopa",
+    "description": "A worm-like beast with a crown of bright red eyes, the joopa makes its home deep below the crust of the planet Seelos. The creature's absence of teeth allows it to swallow its prey whole, most notably Lasats, a particular favorite meal of the joopa. The clones Rex, Wolffe and Gregor, however, attempted to catch joopas for their own nourishment, using Zeb as their bait. A single joopa could feed the crew for an entire year.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/joopa_baaa7303.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d89",
+    "name": "Kod'yok",
+    "description": "These shaggy, horned quadrupeds roam Vandor’s plains in herds that can stretch to the horizon. Their meat, fur, skins and dung are all essential to life on the frontier world, supplying settlers with clothing, food and fuel. Vandor’s old-timers warn that the herds’ numbers are beginning to dwindle.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-kodyoks-main-image_0b94518d.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d8a",
+    "name": "Kouhun",
+    "description": "While they originally hail from the jungle planet of Indoumodo, Kouhun’s are adaptable enough to call just about anywhere in the galaxy home. They’re mult-legged arthropods that slink and crawl on just about any surface. Their venom is particularly deadly to humanoid species, which is why Jango Fett gave a pair of them to Zam Wessel in their attempt to assassinate Senator Padme Amidala.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/kouhun_c92c33c5.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d8b",
+    "name": "Kowakian Monkey-Lizard",
+    "description": "These impish creatures hailing from planet Kowak are known for their shrill laughter and sophisticated senses of humor. Kowakian monkey-lizards come in a variety of colors ranging from browns and yellows to reds and blues. They seem to be a favored pet among denizens of the underworld and retain hilarious names like Salacious B. Crumb and Pikk Mukmuk and his funnier brother Pilf.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/kowakian-monkey-lizard_7768e56f.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d8d",
+    "name": "lava meerkat",
+    "description": "The fire rats of Nevarro dwell in the lava tubes and sewers of the ashen world.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/lava-meerkat-main_cbc52920.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d91",
+    "name": "Luggabeast",
+    "description": "Cybernetic beasts of burden found on frontier worlds, luggabeasts are a fusion of organic being and mechanical creation, with their heads hidden away behind heavy armor plating and optical instruments. Jakku’s Teedos use luggabeasts as pack animals, calibrating the cyborg creatures’ instruments to find droids and other valuable salvage.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/luggabeast_3439af0a.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d93",
+    "name": "Mynock",
+    "description": "Despised by starship captains, mynocks are leathery-winged parasites found winging through deep space, roosting in asteroid fields and sometimes lurking in damp locations, including the innards of space slugs. Mynocks chew power cables and devour energy conductors, and can drain a starship’s energy reserves. Wise captains check for power fluctuations and other signs of infestations, cleaning off mynocks in port before raising ship.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/mynock_ebaea509.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d94",
+    "name": "Narglatch",
+    "description": "Narglatches were the vicious and predatory mounts favored by the Talz on Orto Plutonia. They’re stealthy predators that can be suited to many climates, including the icy tundra of their homeworld. Their hides are collected as trophies by Trandoshans as well as other cultures. Narglatches cut an imposing figure and are typically colored blue to blend into their snowy environs.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_narglatch_01_169_3e7f890a.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0d9d",
+    "name": "Porg",
+    "description": "Small, flat-muzzled avians that flock about the rocks and roost in the cliffs of Luke Skywalker's secluded island, porgs are inquisitive creatures.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/porg-main_16933d3b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0da1",
+    "name": "ravinak",
+    "description": "On a frigid planet somewhere in the Outer Rim, traversing the icy plains is made even more treacherous thanks to the wild ravinaks. The menacing fanged beasts often erupt from the ice below.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/huc-ff-000274_4b264004.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0da2",
+    "name": "Reek",
+    "description": "A stout brute with tough leathery skin, the reek was one of three deadly creatures unleashed in the Geonosian execution arena, dispatched to kill Anakin Skywalker, Padmé Amidala and Obi-Wan Kenobi. The surprisingly fast animal was directed by picadors to attack Anakin Skywalker. As Jedi reinforcements and battle droids waged war within the arena, the reek went berserk, charging battle droids and Jedi alike. The creature's trampling rampage was cut short by the marksmanship of bounty hunter Jango Fett.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_reek_01_169_4cd1b702.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0da6",
+    "name": "Sarlacc",
+    "description": "The Sarlacc rests in the sandy well known as the Great Pit of Carkoon, buried except for its massive mouth and beaked tongue. The strange beast's lair was the site of many spectacles for Jabba the Hutt, who entertained himself by forcing prisoners into the creature's gaping tentacled maw.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/the-book-of-boba-fett-chapter-1-story-gallery-02_a6166942.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0da7",
+    "name": "scurrier",
+    "description": "A skittish rodent that nests in the wilds and cities of Tatooine, small hopping scurriers are named for their swift and nervous movements.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/scurrier-main_c799b15f.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0da9",
+    "name": "Space Slug",
+    "description": "Space slugs are a staple of cantina tales told by pilots, but these monstrous creatures are more than legends, as Han Solo and the crew of the Millennium Falcon discovered while seeking refuge from the Empire in Hoth’s asteroid belt. Han hid his ship in a cave, but became suspicious of his surroundings after the cave turned out to be infested with mynocks, curiously damp, and oddly spongy underfoot. The Corellian had unwittingly flown down the gullet of a massive space slug, which tried to devour the Falcon as the ship fled.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/space-slug-main-image_258e5c1b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0dad",
+    "name": "Tauntaun",
+    "description": "Tauntauns are a species of snow lizard found roaming the windswept snow plains of Hoth. The Rebel Alliance domesticated the swift creature during their stay on the ice planet, and used the animals for patrol duties outside Echo Base. The animals came in useful as the rebel technicians had difficulty adapting their repulsorlift speeders to the subzero temperatures. Though tauntauns are sure-footed and well equipped to handle Hoth's daytime temperature, the chilling extremes of a Hoth night will prove deadly.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_tauntaun_01_169_b7307446.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0daf",
+    "name": "The Drengir",
+    "description": "Chock full of tentacles, teeth, and thorns, the Drengir are horrific, sentient plant-like creatures that have once again been released upon the galaxy. Carnivorous, amorphous, and unsettling, the Drengir aim to reap a terrible harvest across the galactic frontier.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/the-drengir-main_797e6cbe.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0db2",
+    "name": "Varactyl",
+    "description": "Varactyls are majestic reptavian herbivores native to the Utapau system. They typically have blue and green feather manes and feather ridges along their back. Used as incredibly loyal and obedient mounts, they have strides large and strong enough to navigate the uneven and often vertical landscapes of Utapau. On the last day of the Clone Wars, Obi-Wan Kenobi used a varactyl named Boga to hunt down General Grievous and battle him in his wheel bike. Boga was a sad casualty of Order 66 when Commander Cody opened fire on General Kenobi and his varactyl mount.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_varactyl_01_169_1af5a65d.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0db5",
+    "name": "Vulptex",
+    "description": "Vulptices are foxlike creatures with coats made up of crystalline bristles. They are gregarious and curious, with keen eyesight and the ability to squeeze their bodies through narrow gaps. A skulk of vulptices has taken up residence in the abandoned rebel base on Crait.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/vulptex-db-tlj_128dfbaf.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0db6",
+    "name": "Wampa",
+    "description": "Wampas are powerful furred bipeds that dwell in the snowy wastes of the ice world Hoth. These hulking predators have razor-sharp fangs and claws, yet move with surprising stealth, relying on their white fur for camouflage while hunting prey such as tauntauns. A wampa attacked Luke Skywalker outside Echo Base, killing Luke’s tauntaun and dragging the rebel commander away. An injured Luke awoke to find himself upside-down in the wampa’s lair, his feet frozen into the cavern ceiling. Luke used the Force to call his lightsaber to his hand, cut himself free, and severed the wampa’s arm with a quick stroke.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_c3ce73b0.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "640b2f06b6a2a8104f0a0db7",
+    "name": "Worrt",
+    "description": "A small, burrowing creature native to Tatooine known to snatch small prey with its long sticky tongue, the worrt is a delicacy to the Tusken Raiders.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/worrt-main_19e66222.jpeg",
+    "__v": 0
+  }
+]

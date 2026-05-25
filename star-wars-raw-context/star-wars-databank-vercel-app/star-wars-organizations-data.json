@@ -1,0 +1,947 @@
+[
+  {
+    "_id": "6429291d021f17e13fbc1cb4",
+    "name": "Artillery Stormtrooper",
+    "description": "Specialized soliders in the Imperial forces, artillery stormtroopers carry specialized indirect fire weapons like mortars onto the battlefield. From cover, they can lob explosives of difference types at a high angle to fall at precisely calculated coordinates.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/artillery-stormtrooper-main_b55b4bb9.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cbb",
+    "name": "Caretakers",
+    "description": "An enclave of females from the Lanai species, the Caretakers dwell on Ahch-To’s sacred island, and consider it their religious duty to maintain its ancient structures and care for any seekers of truth drawn to their lonely planet. Male Lanais spend most of their time at sea, returning for monthly celebrations.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/caretakers-db-tlj_74da3214.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cc0",
+    "name": "Clone Troopers",
+    "description": "At the time of their introduction, the Republic clone troopers represented the future of galactic warfare. Far superior to battle droids, the clone troopers formed the backbone of the Republic's new military that waged war against the forces of the Confederacy of Independent Systems. So symbolic were they of the times, the galaxy-wide conflict that saw their debut took its name from their ranks: the Clone Wars.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Clone-Troopers_76eb5caf.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cb7",
+    "name": "Black Sun",
+    "description": "During the Clone Wars, the focus of the Jedi Knights on defeating the Separatists meant a decline of law enforcement, particularly in the sparsely patrolled Outer Rim Territories. This allowed criminal elements, like the notorious Black Sun syndicate, to flourish. The Black Sun's tentacles reach across many worlds. Many of the organization's operatives had no idea that they were benefiting Black Sun, so layered and intricate were the fronts that the syndicate hid behind. During the time of the Clone Wars, Black Sun was led by a cabal of Falleen nobles, who operated out of a well-defended fortress on Mustafar. The group’s Mustafar operations weren’t impregnable, however – Asajj Ventress and Quinlan Vos penetrated them to retrieve a family of captives taken in an underworld dispute between Black Sun and the Pyke Syndicate.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_blacksun_01_169_f68eee69.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cb8",
+    "name": "Blue Squadron",
+    "description": "Blue Squadron was the primary line of defense for the Resistance’s base on D’Qar. Led by Poe Dameron and supported by such noted pilots as Snap Wexley and Jess Pava, the squadron repelled the First Order’s invasion of Takodana and later participated in the attack on Starkiller Base.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/blue_squadron_abb9b7e1.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cc2",
+    "name": "Cobalt Squadron",
+    "description": "Six Resistance bombers, including Paige Tico’s Cobalt Hammer, made up Cobalt Squadron. The squadron was unavailable for the attack on Starkiller Base because it was bringing supplies to insurgents opposing the First Order in the Atterra system. The bombers rushed back to D’Qar aboard the Ninka and were sent into combat to buy time for the Resistance evacuation. They destroyed a First Order Dreadnought, but were lost along with all of their crews.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/tlj-db-cobolt-squadron-main-image_3cff3b44.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cc3",
+    "name": "Company 77",
+    "description": "To ensure perfect obedience, the First Order trains stormtroopers from birth – but even with such brutal conditioning, some soldiers retain a sense of morality. At the Battle of Ansett Island, an entire company mutinied rather than fire on civilians. Led by Jannah, the remnants of Company 77 now live in exile on Kef Bir. When Finn meets Jannah, he is astonished and heartened to learn he wasn’t the only stormtrooper to reject his programming.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/compay-77-main_06bddfe2.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cc9",
+    "name": "Crimson Squadron",
+    "description": "Crimson Squadron’s bombers hurry back to D’Qar alongside Cobalt Squadron to support the evacuation of the Resistance base. But Crimson’s ranks have been much reduced by losses against the First Order in the Atterra system, and just two bombers are available to join the defense of D’Qar.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/tlj-db-crimson-squadron-main-image_cb81419b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ccc",
+    "name": "Death Star Gunners",
+    "description": "Crews of Death Star gunners served aboard both Imperial battle stations, manning their heavy turbolasers. Elite gunners operated the Death Star superlaser, aware that the power at their fingertips could destroy a planet.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_cc08cdb7.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cd8",
+    "name": "First Order jet troopers",
+    "description": "Specialized stormtroopers of the First Order, jet troopers soar into battle equipped with agile rocket packs.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/first-order-jet-troopers-main_0ebaacb5.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ce5",
+    "name": "Guavian Death Gang",
+    "description": "Known for its distinctive red-armored foot soldiers, the Guavian Death Gang is a criminal organization driven out of the Core Worlds by unrest in the galactic underworld. Guavian Death Gang soldiers undergo cybernetic augmentation, with a mechanical reservoir and pump injecting chemicals into their bloodstreams to enhance speed and aggression. They are silent in battle, communicating via high-frequency datastreams. Han Solo ran afoul of the Guavians for failing to repay their 50,000-credit loan.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/guavian-death-gang_64c0c060.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ce8",
+    "name": "Imperial Clone Shock Troopers",
+    "description": "Originally founded during the Clone Wars as security police for Coruscant governmental facilities and bodyguards for Republic representatives, the group of clones known as shock troopers now operate as elite forces of the Empire.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/imperial-clone-shock-troopers-main_74fe5dac.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cff",
+    "name": "Kintan Striders Gang",
+    "description": "The Kintan Strider speed bikers are named after a deadly beast from the Nikto home world. These burly, obnoxious gangsters are known for their brusque nature, and they are not above shaking down residents in small towns for credits.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/kintan-striders-gang-main_0af45087.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d09",
+    "name": "Nightbrothers",
+    "description": "For centuries, a simple society of male Zabrak warriors known as the Nightbrothers lived on Dathomir where they were governed by their counterparts the Nightsisters, witches that ruled the planet before they were decimated during the Clone Wars. Territorial and extremely hostile to outsiders, the finest fighters among the Nightbrothers -- including Darth Maul and Savage Opress -- were known for highly acrobatic maneuvers, optimal agility, and a proficient use of mixed combat styles to help them surprise and best equally skilled opponents.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_nightbrothers_01_169_3b5e4cb6.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d0c",
+    "name": "Order of the Night Wind",
+    "description": "The Order of the Night Wind are acrobatic warriors that can leap from rooftops and attack swiftly, using close quarter weapons and projected energy shields to box in their targets. Reputed to be the best assassins-for-hire in the galaxy, when captured they are unlikely to divulge information about their clients.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/order-of-the-night-wind-main_d1b30393.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d14",
+    "name": "Rebel Alliance",
+    "description": "The Rebel Alliance stood bravely against the evil of the Galactic Empire, never backing down despite overwhelming odds. Formed from resistance movements that arose during the Clone Wars, the Rebellion worked in secret for decades to overthrow the Emperor and restore democracy to the galaxy. Eventually, armed with the firepower of ships like the X-wing and A-wing, and the leadership of figures including Princess Leia and Admiral Ackbar, the Rebel Alliance triumphed over the Empire at the Battle of Endor.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Rebel-Alliance_96d56058.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d19",
+    "name": "Resistance Troopers",
+    "description": "The Resistance is too small to support dedicated infantry units, so technicians, pilots and others are regularly trained to take up arms and serve as ground troops if necessary. While hard-pressed against the overwhelming might of the First Order, these improvised soldiers are dedicated and capable. They fight with distinction on Takodana and serve as the Resistance’s final defense in the trenches of Crait.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/last-jedi-databank-resistance-troopers-main-image_9b470468.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cbe",
+    "name": "Clan Wren",
+    "description": "Clan Wren is among the most storied of Mandalorian warrior families. Part of House Vizsla, Clan Wren aligned with the Empire and Gar Saxon under duress. The clan broke ties with the Empire, however, following a reconciliation between leader Ursa Wren and her daughter Sabine. Now, Clan Wren stands with Bo-Katan, leader of Mandalore.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/clan-wren_43e21304.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cc5",
+    "name": "Corporate Alliance",
+    "description": "The Corporate Alliance was one of the galaxy’s powerful trade guilds, led in the final years of the Republic by the Koorivar Passel Argente. The group pledged its forces – including warships and deadly tank droids – to Count Dooku’s Separatist Alliance. Argente died at the conclusion of the Clone Wars.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/corporate-alliance_16d23e95.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cdb",
+    "name": "First Order Snowtroopers",
+    "description": "First Order stormtroopers assigned to frigid planets such as Starkiller Base wear specialized armor and gear that let them operate effectively in icy conditions. Snowtroopers carry a backpack-style personal environment unit and wear insulated helmets with glare-reducing slit lenses, gloves, a kama, and a heat-resistant body glove beneath an oversuit of wind-resistant fabric. Snowtrooper teams scouted the planet that now houses Starkiller Base, eliminating native life forms that posed a potential threat.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ep8-303923_r_a8b9aa5c.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cdd",
+    "name": "First Order Supreme Council",
+    "description": "Now that he is Supreme Leader, Kylo Ren has created a cabinet of top First Order military leaders to carry out his orders. This is a change from Snoke’s regime, in which most high-ranking officers knew little of the First Order’s capabilities and goals. Cooperation is new to these proud men and women, and many of High Command’s meetings aboard the Steadfast are marred by sniping and turf wars.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/first-order-supreme-council-main_0c45610a.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ce4",
+    "name": "Galactic Senate",
+    "description": "At the height of its rule, the Galactic Republic was governed by a body of Senators representing the many worlds of the galaxy. Within the cavernous Senate rotunda, hundreds of politicians would fill the viewing platforms that lined the curved walls. The Senate’s power gradually eroded after it voted emergency powers to Supreme Chancellor Palpatine during the Clone Wars, and the body was sharply divided between supporters of the war and those seeking peace. After Palpatine declared himself Emperor, power was increasingly wielded by regional governors. Shortly before the Battle of Yavin, Palpatine disbanded the Senate.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_galacticsenate_01_169_bf6ad9e8.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ceb",
+    "name": "Imperial Death Troopers",
+    "description": "Elite Imperial soldiers, death troopers are encased in specialized stormtrooper armor with a dark, ominous gleam. These troops serve as bodyguards and enforcers for figureheads including Director Krennic, a highly placed officer within the Advanced Weapons Research division of the Empire, and later Moff Gideon and others.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/death-troopers-main_dd93335e.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cee",
+    "name": "Imperial Mobile Surgical Unit",
+    "description": "Imperial Mobile Surgical Units, or IMSUs, are the latest incarnation of prefabricated medcenters used during the Clone Wars. These collapsible shelters serve as a combination of doctor’s office and operating room for Imperial medics and droids. On Mimban, maladies include dehydration, microbial infections and “trench foot,” as well as the usual perils of battle.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-imperial-mobile-surgical-unit-main-image_443bcd25.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cf4",
+    "name": "incinerator troopers",
+    "description": "One of the most devastating of the Empire's specialized stormtrooper units, the incinerator trooper wields powerful flamethrower weaponry to set enemies and their fortifications ablaze.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/incinerator-trooper-main_498da9c7.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cf9",
+    "name": "Jedi Temple Guard",
+    "description": "An ancient, honored heritage within the hallowed halls of the Jedi Temple was the role of the Jedi Temple Guard. Reporting to Cin Drallig, head of security, the Temple Guards were anonymous sentinels plucked from the ranks of the Jedi as part of a Knight's ongoing commitment to the Order. A Jedi Temple Guard would disappear inside the formal robes and identity-concealing masks, the ultimate expression of emotional detachment required in service to a higher calling. Temple Guards carried imposing lightsaber pikes -- thick, double-bladed weapons that produced a rare and distinctive yellow blade.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_jeditempleguard_01_169_3416bea1.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cfa",
+    "name": "Jedi Youngling",
+    "description": "Prior to being chosen as Padawan Learners, children being trained in the force spent time as Jedi Younglings. They were divided into ten clans of up to twenty younglings and trained in the Jedi arts. One of their rites of passage was “The Gathering,”which was the harvesting of kyber crystals for their lightsabers on the remote world of Ilum. The Jedi Younglings in the Jedi Temple during Order 66 were brutally slain by Darth Vader.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/jedi-youngling_0ee1eee6.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d0f",
+    "name": "Purge Troopers",
+    "description": "Handpicked from the stormtrooper legions for their aptitude and loyalty, purge troopers serve the Inquisitorius. A specialized class of Imperial soldier trained and equipped to assist the Inquisitors in hunting down scattered Jedi and other Force-sensitive beings who threaten the Empire, the troopers wear special black armor and receive additional training to make them a cohesive unit. Borrowing tactics and methods first used by the Republic soldiers that accompanied Jedi generals during the Clone Wars, this elite group is few in number and keeps out of the public eye. Most citizens of the Empire are unaware they even exist.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/purge-trooper-main_ff6e52d7.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d11",
+    "name": "Pyke Sentinels",
+    "description": "Pykes sentinels supervise prisoners working in the mines of Kessel, prevent smugglers from absconding with spice, and guard against incursions by rival gangs. Kessel’s corrosive conditions require sentinels to wear radiation-resistant lead smocks and use blasters that are cheap to replace.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-pyke-sentinels-main-image_c68e764a.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d15",
+    "name": "Rebel Pathfinders (SpecForces)",
+    "description": "Rebel Special Forces units are handpicked from the top ranks of the Alliance’s ground troops, and tackle missions vital to High Command. The Pathfinders are elite SpecForces commandos trained in recon, infiltration, sabotage and tactics for hit-and-run raids. Their distinguished service record includes pivotal battles on planets such as Scarif and Endor.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/rebel-pathfinders-specforces-main_6af7e728.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d17",
+    "name": "Rebel Troopers",
+    "description": "Drawn from many homeworlds and species, Rebel troopers were the Alliance's front-line soldiers in the war against the Empire. They defended the Alliance's leaders on countless worlds and during many operations, changing uniforms and tactics to meet each challenge.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_rebeltroopers_01_169_3c33dfa2.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d1f",
+    "name": "Shadow Collective",
+    "description": "The Shadow Collective was an alliance of underworld organizations assembled by Darth Maul using a mix of persuasion and brute force. Maul struck a deal with Death Watch leader Pre Vizsla and won the support of the Pyke Syndicate, then subjugated Black Sun and the Hutt Clan by force of arms. The Collective took over Mandalore, but its heyday was short-lived, and it fragmented after Maul’s defeat by Darth Sidious.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_shadowcollective_01_169_fdb9b32b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d21",
+    "name": "Sienar Fleet Systems",
+    "description": "One of the Empire’s foremost military manufacturers, Sienar Fleet Systems developed and built the TIE fighter and its variants, as well as technologies such as the XX-23 S-thread tracker. With the Empire expanding rapidly and seeking to tighten its grip on the galaxy’s planets, Sienar aggressively sought new sites for its factories, building several on the Outer Rim world of Lothal.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/sienar-fleet-systems_f98d5845.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d22",
+    "name": "Sith",
+    "description": "An ancient order of Force-wielders devoted to the dark side, the Sith practice hate, deception, and greed. Notable for their red-bladed lightsabers, black dress, and use of their aggressive feelings, the Sith look to amass power at all costs. The evil Darth Sidious, along with his apprentice Darth Vader, achieved the Sith goal of galactic conquest after a millennia of plotting.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Sith_7abb7b3c.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d27",
+    "name": "Stormtroopers",
+    "description": "Stormtroopers are elite shock troops fanatically loyal to the Empire and impossible to sway from the Imperial cause. They wear imposing white armor, which offers a wide range of survival equipment and temperature controls to allow the soldiers to survive in almost any environment. Stormtroopers wield blaster rifles and pistols with great skill, and attack in hordes to overwhelm their enemies. Along with standard stormtroopers, the Empire has organized several specialized units, including snowtroopers and scout troopers.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/stormtrooper-main_011e064e.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d2a",
+    "name": "The First Order",
+    "description": "The New Republic’s rise reduced the once-mighty Empire to a rump state hemmed in by strict disarmament treaties and punishing reparations. But in the galaxy’s Unknown Regions, former Imperial officers, nobles and technologists plotted a return to power, building fleets and armies in secret. This movement became the First Order, ruled by Supreme Leader Snoke, and is now ready to reclaim the Imperial legacy.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/the-first-order-tros-main-a_9e90c9fe.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d2b",
+    "name": "the Hidden Path",
+    "description": "After Order 66, Jedi survivors are on the run, hiding their Force sensitivity and evading the Inquisitorius. Among those sympathetic to their cause is a group called the Hidden Path. With a web of safehouses crisscrossing the galaxy, these rebels risk their own lives to direct former Jedi and other targets to freedom, arranging safe passage and new identities along the way.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/the-hidden-path-main_68f470f9.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d2e",
+    "name": "The Protectors",
+    "description": "An ancient group of Mandalorian warriors, the Protectors served the ruler of Mandalore. After the Imperial occupation of their homeworld, however, the Protectors established a base on the third moon of the Concord Dawn system. Led by Fenn Rau, they formed an alignment with the Empire; after Rau was captured by the rebels Kanan Jarrus and Sabine Wren, who fought with honor, the Protectors’ sympathies changed.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/the-protectors_8187fc7c.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d38",
+    "name": "White Worms",
+    "description": "One of Corellia’s many criminal gangs, the White Worms form the backbone of the black market in the coastal city of Coronet. Their lair is an abandoned water-processing plant, guarded by an army of urchins and scavengers known as the scrumrats. The scrumrats are ruled by a small number of Grindalids, led by the White Worm matriarch, Lady Proxima.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-white-worms-main-image_88843640.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ccb",
+    "name": "Daughters of Ferrix",
+    "description": "A social club of friends and neighbors, the Daughters of Ferrix proudly represent a subsection of the community on their salvage-driven world. Counting Maarva Andor among their past presidents, the Daughters of Ferrix look after their own in life -- and in death.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/daughters-of-ferrix-main_c04e17a8.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ccd",
+    "name": "Death Star Scientists",
+    "description": "The Death Star began as a Geonosian design, but became operational after nearly two decades of work by a team of brilliant scientists sequestered on the rainswept world of Eadu. Led by a reluctant Galen Erso, the Death Star scientists seek to fuse kyber-crystal shards into larger structures and use those crystals to amplify energy into a stable beam powerful enough to destroy an entire planet.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/death-star-scientists-main_8ae8cd13.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cd2",
+    "name": "Elite Squad",
+    "description": "After the formation of the Galactic Empire, a select group of top soldiers from across the galaxy are conscripted to serve in the Elite Squad. First introduced by Vice Admiral Rampart, the troopers are envisioned as a way to generate loyal soldiers for the Empire without relying solely on clone soldiers, a small sampling of highly skilled, enlisted recruits tasked with neutralizing anti-Imperial insurgents throughout the galaxy. Trading in their names for numbers, ES-01, ES-02, ES-03, and ES-04 herald a new stormtrooper program and pose a threat to the old guard, now seen as a cost-prohibitive relic of a bygone era.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/elite-squad-main_78d36edd.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cd7",
+    "name": "First Order Flametroopers",
+    "description": "These specialist stormtrooper units advance in conjunction with standard First Order infantry, using D-93 incinerators to flush out entrenched enemies with roaring sheets of flame. Flametroopers wear backpack-style propellant tanks, special helmets with slit-like lenses that reduce glare, and temperature-control body gloves beneath their armor.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/first-order-flametroopers_6dc13538.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ce1",
+    "name": "Free Ryloth Movement",
+    "description": "The Twi’lek freedom fighter Cham Syndulla founded this underground resistance group on his homeworld of Ryloth to disrupt Imperial operations through carefully planned raids. Many of the Free Ryloth members were veterans of Syndulla’s campaign against the earlier Separatist occupation. When Syndulla learned that Emperor Palpatine and Darth Vader planned to visit Ryloth, he saw a chance to strike a blow for freedom not just on his own planet, but everywhere in the galaxy.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/free-ryloth-movement_b2d6cc80.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ce2",
+    "name": "Galactic Empire",
+    "description": "The Galactic Empire ruled for years through fear, intimidation, and tyranny. With a mighty military force including stormtroopers, spy technology like probe droids, and the planet-destroying Death Star, Emperor Palpatine’s regime seemed unstoppable and permanent. But some dared to strike back…",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Galactic-Empire_ee15e2e7.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ce7",
+    "name": "Hutt Clan",
+    "description": "The Hutt Clan was one of the most powerful crime families in the galaxy, making riches through smuggling and myriad illegal businesses across worlds. They were governed by the Hutt Grand Council, a committee of elder Hutts that would advise on strategy and make decisions on inter-family disputes. Among the most notorious -- and feared -- Hutts was Jabba, a ruthless gangster whose influence reached much further than his home base of Tatooine.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_659e2fa6.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ce9",
+    "name": "Imperial combat assault tank commanders",
+    "description": "Perched in the command seat of the thickly armored Imperial combat assault tank with a view of the surrounding area, the tank commander barks out orders to the combat drivers within to steer the vehicle into battle. The commander stays in contact with his crew and with headquarters to keep updated on changing combat conditions.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/combat-assault-tank-commander-main_5470a25f.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cf2",
+    "name": "Imperial Security Trooper",
+    "description": "Marching in formation along Rix Road, elite Imperial security troopers bolster the standard\nstormtrooper forces in maintaining order on Ferrix.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/imperial-security-trooper-main_1aa57c94.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cfd",
+    "name": "Kanjiklub",
+    "description": "An Outer Rim criminal organization, Kanjiklub is a rival of the Guavian Death Gang. But while the Guavians are cold and technologically adept, the Kanjiklubbers are street fighters, brawling with improvised tactics and wielding a hodgepodge of blasters, knives and clubs. The group’s wild style reflects their origins as renegade slaves of the Hutts. Kanjiklub has momentarily put aside its dispute with the Guavians to settle scores with a mutual enemy – the Corellian smuggler Han Solo.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/kanjiklub_b2344601.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d03",
+    "name": "Mandalorian Guard",
+    "description": "Elite guards dedicated to protecting Satine Kryze, these royal protectors were the only ones the Duchess could truly trust in the uncertain era of the Clone Wars. Though Mandalore has largely turned its back on its more war-like past, the Mandalorian royal guards are one of the few traditions to continue.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/mandalorian_guard_efc4925d.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d05",
+    "name": "Mining Guild",
+    "description": "The Mining Guild, operating in concert with the Empire, was a network that harvested natural resources throughout the galaxy. One outpost on a small planetoid, which collected a mysterious green gas, drew the attention of giant purrgil creatures…and the Ghost crew of rebels. After a dramatic confrontation, the facility was destroyed, though the Mining Guild remains powerful.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/mining-guild_125d566f.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d18",
+    "name": "Resistance Pilots",
+    "description": "Heirs to the legacy of the Rebel Alliance, the Resistance's starfighter corps gathered freedom fighters determined to counter the growing threat of the First Order. The Resistance’s pilot ranks were filled by Alliance veterans, disillusioned former New Republic officers, and adventure seekers from every corner of the galaxy.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ep8-135701_r_668eff3c.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d32",
+    "name": "Tusken Raiders",
+    "description": "Tusken Raiders, or Sand People as they are sometimes known, wear abundant clothing to protect themselves from Tatooine’s twin suns. The strong beings pursue a nomadic existence in some of Tatooine’s most desolate regions. They fear little, and make sudden raids on local settlers.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/tusken-raiders-main-bobf-2_135f8e1e.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cb6",
+    "name": "Bear Clan",
+    "description": "The Bear Clan was a class of Jedi Younglings all aged between four and eight that trained together in the years before and into the start of the Clone Wars. At one point, Obi-Wan Kenobi interrupted one of their lightsaber training sessions with Master Yoda and asked for their help in finding Obi-Wan’s missing planet of Kamino. Members of the Mighty Bear Clan included Chian, Jempa, Mari Amithest, Liam, and Ahsla.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/bear-clan_5be8c505.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cb9",
+    "name": "Boonta Eve Classic Podracer Pilots",
+    "description": "The Boonta Eve Classic was the largest annual Podrace held on Tatooine, hosted by the Hutts to commemorate the Boonta Eve holiday. Held just outside Mos Espa, the Boonta race course started in the Mos Espa Grand Arena. The formal race ceremony started with a parade of flag-bearers.  Once the bearers cleared the grid, the Podracers' massive engines would roar to life, seemingly anxious at the chance to soar at speeds exceeding 700 kilometers-per-hour. Eighteen Podracers competed to win the trophy that day. Anakin Skywalker survived to cross the finish line first, earning not only accolades, but his freedom from slavery.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_boontaeveclassicpodracerpilots_01_169_e6dc291f.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cce",
+    "name": "Death Star Troopers",
+    "description": "Death Star Troopers were the elite of the Imperial Navy who were stationed aboard the first and second Death Star. They were responsible for piloting the super-structure to its destinations and firing the superlaser on the orders of those in command of the station. They wore black uniforms and flared, reflective helmets.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/death-star-troopers_250f8c36.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cd1",
+    "name": "Elite Praetorian Guard",
+    "description": "Clad in ornate crimson armor, these warriors guarded Supreme Leader Snoke, ready to meet any threat with a savage response. The Guard consisted of eight sentinels divided into four pairs, with each pair brandishing unique weapons. Their red armor was a deliberate echo of that worn by Emperor Palpatine’s royal protectors. The Guard attacked Kylo Ren and Rey after the death of Snoke, with all eight falling in battle.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/tlj-elite-praetorian-guards-main_4ac8e51d.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cde",
+    "name": "First Order TIE Fighter Pilots",
+    "description": "Imperial pilots were treated as expendable, sent into combat in unshielded TIEs, but the First Order treats its fighter pilots as important parts of its war machine. Potential First Order pilots are identified as children and given rigorous training, often within the corridors of warships, then tested ruthlessly throughout their careers to ensure their reflexes, visual acuity and coordination measure up. Elite Special Forces fighter pilots bear red flashes on their helmets, and report to the upper ranks of the First Order hierarchy.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/first-order-tie-fighter-pilots_a040dfc7.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cf3",
+    "name": "Imperial Super Commandos",
+    "description": "Mandalorian warriors loyal to the Empire, Imperial Super Commandos were deadly and efficient enforcers. Led by Gar Saxon, the Imperial Super Commandos’ armor was a distinctive and streamlined white, and their masterful combat abilities were eclipsed only by their ruthlessness. Under orders of the Empire, they destroyed the Protectors of Concord Dawn with no mercy, and sought to do the same to their missing leader Fenn Rau and any rebel opposition.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/imperial-supercommandos_cb33993a.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d0b",
+    "name": "Onderon Rebels",
+    "description": "During the Clone Wars, the Galactic Republic had little recourse with worlds that willingly sided with the Separatist Alliance -- the rules of engagement enforced by the Senate and the Jedi Order contained the battlefield to contested worlds. But what of planets where the Separatist banner did not garner unanimous support among its populace? When an insurgency on Onderon refused to recognize the legitimacy of its monarch and began a rebellion to oust both the king and the Separatist influence on the planet, Anakin Skywalker saw an opportunity: If the Jedi could train and equip the rebels on Onderon, these freedom-fighters would keep the Separatists occupied during the Clone Wars.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/acw_ia_98143_9d146f2c.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d1a",
+    "name": "Sandtroopers",
+    "description": "Stormtroopers dispatched to desert worlds wear specialized gear and are nicknamed sandtroopers. Sandtroopers wear standard stormtrooper armor augmented with cooling units, a helmet sand filter, and a survival backpack with extra rations and water. While hunting for the Death Star plans on Tatooine, sandtroopers used native dewbacks as mounts.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_3f4de5de.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d1d",
+    "name": "Senate Guard",
+    "description": "For centuries, the Senate Guards have kept the galaxy's legislators from harm while they go about the Republic's business on the capital world of Coruscant. The best and bravest members of the guard are invited to become members of the Senate Commandos, who carry out secret government missions. With the decline of the Republic, the blue guards would eventually be phased out by Imperial stormtrooper patrols and the red guard in the Emperor's service.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_senateguard_01_169_a1b3755e.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d26",
+    "name": "Snowtroopers",
+    "description": "Snowtroopers are stormtroopers trained for operations in arctic conditions and equipped with specialized gear to protect them against cold. When deployed, snowtroopers wear breath heaters and protective hoods, insulated suits and belt capes, rugged boots, heating units and survival backpacks. During the Battle of Hoth, snowtroopers under General Veers’ command were deployed from AT-AT Walkers and quickly and ruthlessly took control of Echo Base.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/EP5_IA_1062_9594267a.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d36",
+    "name": "Vanguard Squadron",
+    "description": "Vanguard Squadron operates largely in the Bormea Sector, handling pockets of Imperial resistance and defending key New Republic planets like Chandrila and Brentaal IV. They specialize in rapid response attacks, high-risk rescue missions, and ambushing Imperial capital ships, going by their squadron motto: \"Fearless to the Finish\". Recently, Vanguard has been picked to tackle a special covert assignment.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/vanguard-squadron-main-4l49ej9w3_134db3f0.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cb5",
+    "name": "AT-AT Pilots",
+    "description": "The Empire’s combat drivers are trained to handle everything in the Imperial ground arsenal, but AT-AT pilots see themselves as elite, controlling their massive four-footed assault vehicles in combat against Rebel targets. While driving early models of their massive walking tanks, AT-AT pilots nearly annihilated the Ghost crew and three surviving clones on Seelos, and later obeyed General Veers’ orders during the Empire’s advance on Hoth’s Echo Base, destroying numerous snowspeeders and blasting apart the Rebels’ ground defenses.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ep5_ia_1656_4a604095.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cc4",
+    "name": "Confederacy of Independent Systems",
+    "description": "The Confederacy of Independent Systems, also known as the Separatist Alliance, was a collection of star systems and corporate titans that left the Republic and fought for independence against the Republic’s clone armies and Jedi Knights. The charismatic former Jedi Count Dooku was the Alliance’s political leader, while its military power came from credits and assets donated by powerful galactic trade groups. No one suspected that the Alliance was actually a tool of Darth Sidious, who had engineered the Clone Wars as part of a Sith plot to rule the galaxy.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/confederacy-of-independent-systems_27125097.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cc6",
+    "name": "Coruscant Guard",
+    "description": "This elite group of clones guards was led by Clone Commander Fox. It was their task to keep the peace on Coruscant, to protect important buildings, and to supplement the job of the Senate Guard. They escorted Jedi and other senatorial dignitaries to protect them on official missions. They were also the group in charge of hunting down Ahsoka Tano when she was accused of murder in the wake of the Jedi Temple bombing. At the direction of the newly minted Emperor Palpatine, they even sought out Master Yoda in the moments before his exile, but he slipped through their fingers, and they instead shifted their efforts to help find an injured Darth Vader.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/coruscant-guard_de54f43f.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cc8",
+    "name": "Crimson Dawn",
+    "description": "One of the galaxy’s emerging crime syndicates, Crimson Dawn has quickly established a reputation for both ruthlessness and efficiency. The cultured gangster Dryden Vos is the organization’s most visible representative, but underworld figures have begun to take notice of Vos’s capable lieutenant and protégé, Qi’ra.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/crimson-dawn-main-b_edc99197.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ccf",
+    "name": "Death Watch",
+    "description": "The warrior clans of Mandalore were believed to have been wiped out ages ago, their tattered remnants exiled to the Concordia moon. But as the Clone Wars swept the galaxy, the treacherous governor Pre Vizsla resurrected the Mandalorians, and with them, their legendary combat armor that was feared across the galaxy. Backed by Count Dooku and the Separatists, Vizsla began building an army to retake Mandalore from the control of pacifists who were trying to bury violent Mandalore's past. As the coup became inopportune, Dooku abandoned the Death Watch. The warriors wandered the galaxy for a time, then helped conquer Mandalore as part of Darth Maul’s Shadow Collective. Maul then became Death Watch’s leader when he killed Pre Vizsla.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Death-Watch_624f6efa.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cd0",
+    "name": "Dhani",
+    "description": "The native denizens of Aldhani, known as Dhani, live in harmony with their world as farmers and shepherds who pay tribute to natural wonders far beyond their understanding. Every three years, Dhani pilgrims trek from their distant lowlands to the Nasma Brani, a sacred temple, to worship during the Eye, a sacred celestial event. Unfortunately, the Nasma Brani is located in a valley close to an Imperial outpost, and the Empire has already begun calculated means of deterring this journey.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/dhani-main_3eb07b5b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cd3",
+    "name": "emigration officers",
+    "description": "Coronet Spaceport’s emigration officers process civilian, commercial and military travelers heading offworld. They are part of the Corellian Security Forces, but CorSec is now an asset of the Imperial Security Bureau, and the officers’ civilian uniforms bear the Imperial symbol. Emigration officers question travelers from behind blast-proof partitions, with stormtroopers ready to intervene in case of trouble.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-emigration-officers-main-image-2_108499c4.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cd9",
+    "name": "First Order Riot Control Stormtroopers",
+    "description": "Stormtrooper units assigned to keep order on worlds within First Order territory are trained in riot-control tactics and given non-lethal equipment – though all carry standard weapons in case situations spiral out of control. Riot control stormtroopers use betaplast shields and Z6 batons to keep crowds at bay or to shock or pummel an opponent.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/first-order-riot-control-stormtroopers_4a11e9db.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ce0",
+    "name": "Force Priestesses",
+    "description": "Dwelling on an unnamed planet in the heart of the galaxy, these five mysterious beings embodied the connection between the living Force present in lifeforms big and small, and the larger, timeless cosmic Force. Mutable in form, the Priestesses manifested as Serenity, Joy, Anger, Confusion, and Sadness. They tested Master Yoda on their homeworld, helping him attain a larger understanding of the Force and learn to preserve his identity after death.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_942382fc.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cea",
+    "name": "Imperial combat assault tank pilots",
+    "description": "Imperial combat drivers operate the Empire’s arsenal of armored repulsor vehicles, from troop transports to heavily armored hovertanks. Combat drivers are lightly armored, relying instead on the thick skin of their vehicles to protect them in battle.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/combat-assault-tank-pilot-main_1be9650e.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ced",
+    "name": "Imperial medics",
+    "description": "Imperial medics tend to soldiers on the battlefield and behind the front lines, with their duties encompassing everything from triage to preventive medicine. Medics benefit from the assistance of droids as well as the latest Imperial technology, utilizing equipment such as pain-relieving gas and antiseptic field projectors. The Empire interprets the galaxy’s ancient medical oaths as only applying to one’s own species, and allows its medics to bear arms in combat.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-imperial-medics-main-image_d607b959.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cf7",
+    "name": "Jade Squadron",
+    "description": "Jade Squadron is among the most versatile Resistance cells. Led by Venisa Doza, the esteemed pilots once sought help among the Aces, including Venisa's daughter Torra Doza, Kazuda Xiono, and Hype Fazon, to protect shuttles of Resistance recruits.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/jade-squadron-main_75d47766.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cf8",
+    "name": "Jedi Order",
+    "description": "A noble order of protectors unified by their ability to tap into the power of the Force, the Jedi Order were the guardians of peace and justice in the Galactic Republic. The age of the Jedi would end, however, due to a nefarious plot by the Sith Lord Darth Sidious.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Jedi-Order_c0dfa281.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d0e",
+    "name": "Phoenix Squadron",
+    "description": "Phoenix Squadron was an elite group of A-wings in one of the first larger rebel collectives. They served under Commander Jun Sato and often assisted the Ghost team on missions -- until one deadly encounter with Darth Vader. The Sith Lord, piloting an TIE Advanced prototype, wiped out Phoenix Squadron in a vicious attack. Only a few ships survived the battle.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/phoenix-squadron-main-image_9699bf36.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d13",
+    "name": "range troopers",
+    "description": "It takes an exceptional soldier to become a range trooper. These proud troops are assigned to Imperial frontier worlds, where they rely on their training, toughness and specialized equipment to expand Imperial rule. Their gear includes heavy-duty magnetic boots and fur-lined kamas. Range troopers guard the Empire’s conveyex train on Vandor.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-range-troopers-main_d1206a97.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d25",
+    "name": "Sith Troopers",
+    "description": "In its ultimate push towards galactic conquest, the First Order readies an army of elite soldiers that draw inspiration and power from a dark and ancient legacy.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/sith-trooper-main_3fd7e082.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d28",
+    "name": "Tech stormtrooper",
+    "description": "Tech stormtroopers are specialized soldiers of the First Order, trained to extract, decrypt, and analyze even the most heavily protected data from droid memory cores and other resources.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/tech-stormtrooper-main_4ed90fe2.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d29",
+    "name": "Techno Union",
+    "description": "A powerful galactic guild comprised of technology firms, the Techno Union was led by its lead engineer, Wat Tambor, during the final years of the Republic. The group helped create the battle-droid armies used by the Separatists, and Tambor pledged its loyalty to Count Dooku during the Separatist Crisis. Despite its Separatist ties, the Techno Union was represented in the Republic Senate, with Gume Saam speaking on its behalf. Tambor died on Mustafar at the end of the Clone Wars.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_technounion_01_169_5f8a9a80.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d2c",
+    "name": "The Max Rebo Band",
+    "description": "The Max Rebo Band was a jazzy ensemble that played gigs from one side of the galaxy to the other. The band was normally a trio, but leader Max Rebo often added vocalists, additional musicians and dancers for clients who wanted a fuller sound and a bigger spectacle. Jabba the Hutt was a big fan, and hired Max's group to play in his palace overlooking Tatooine's Dune Sea.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/max-rebo-band_c071684c.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d30",
+    "name": "Titan Squadron",
+    "description": "Titan Squadron has a reputation throughout the Empire to match their unofficial motto: \"Unrelenting Might.\" Titan's pilots are trained to lead heavy strikes against enemy stations and planets, and scatter hostile armadas ahead of Imperial capital ships. Though their numbers have diminished since Endor, that has only made Titan's remaining pilots more determined to crush the New Republic.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/titan-squadron-main-58q6e0q2a_91ff2bef.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d34",
+    "name": "Unkar's Thugs",
+    "description": "The junkboss Unkar Plutt enforces his control of Jakku’s salvage economy by paying dim-witted henchmen to watch for scavengers conducting unauthorized barter or otherwise challenging the Blobfish’s authority. Unkar’s thugs keep their faces hidden to conceal their identities, but Niima Outpost is a small place whose residents know the bullies by their voices, carriage and body language. The scavengers find the attempts at secrecy amusing -- unless they’re on the receiving end of one of Unkar’s punishments.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/unkars-thugs_0ce4cde0.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cb2",
+    "name": "501st Legion",
+    "description": "Led by Captain Rex, the 501st Legion is a tight-knit squadron of clone troopers known for strength of character and unwavering loyalty. Upon being reunited with Ahsoka Tano, the men of the 501st show their allegiance to their former commander by altering their clone armor in an homage for her Togruta markings.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/501st-stormtroopers-main_525e6786.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cb3",
+    "name": "Alliance High Command",
+    "description": "The uppermost ranks of the Rebel Alliance are known as High Command, and include both military officers and a cabinet of senators who serve as ministers. As Alliance chief of state, Mon Mothma sits at the pinnacle of High Command, but encourages open discussion and even debate among her military and civilian advisors.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/alliance-high-council-main_53391e65.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cbc",
+    "name": "Clan Kryze",
+    "description": "Clan Kryze is a faction of Mandalorian warriors under the leadership of Bo-Katan Kryze. After the Empire's occupation of Mandalore, Bo-Katan led the clan in the hopes of resisting Imperial rule and restoring her homeworld.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/clan-kryze_f3c5869f.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cc7",
+    "name": "Coruscant Underworld Police",
+    "description": "Though the deeper levels of Coruscant may be far from the prying eyes of clone troopers and police droids, some semblance of order was maintained courtesy of the underworld police. Completely swathed in the protection and anonymity of their leather and metal uniforms, with mechanical eyes poking through their fully wrapped heads, it's unclear if they were droids, humanoids, or something in between.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/acw_ia_113874_1ebfd3b0.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cd4",
+    "name": "Executioner Troopers",
+    "description": "In the First Order, execution duty isn’t the domain of a specialized unit, but an assignment that any stormtrooper may draw. Executioner troopers carry powerful laser axes and wear armor with black carbon-finish accents. Their serial numbers are never broadcast to squadmates’ helmet displays, leaving their identities anonymous.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/last-jedi-databank-executioner-troopers-main-image_d847b165.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cfb",
+    "name": "Jumptroopers",
+    "description": "An elite squadron within the Imperial ranks, jumptroopers (also known as rocket troopers) were outfitted with jetpacks and utilized in tight spaces. They were trained to act in unison, often swarming and overwhelming their targets.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/rocket-trooper_92957db3.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cfe",
+    "name": "Kessel miners",
+    "description": "The Empire supplies the Pykes with prisoners to work in Kessel’s infamous mines – a penalty that is usually a death sentence given the planet’s harsh conditions and lax safety standards. Kessel miners include political prisoners, petty criminals and unfortunates sold into servitude. Few survive to return to their homeworlds.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-kessel-miners-main-image_a84c940c.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d00",
+    "name": "Klatooinian raiders",
+    "description": "A ruthless gang that preys on the defenseless krill farmers of Sorgan, the Klatooinian raiders steal the bountiful crops harvested from the water-logged growing pools.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/klatooinian-raiders-main_45ff03d3.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d07",
+    "name": "Naboo Royal Guards",
+    "description": "The Naboo Security Forces are the volunteer organization responsible for policing Naboo and protecting the Queen and her people. Trained in hand-to-hand combat and marksmanship, the members of the **Naboo Royal Security Forces** are well-prepared to defend against acts of terrorism, including assassination attempts on the Queen. However, they are not a standing army and cannot contend with a massive assault, such as the Trade Federation invasion. The Security Forces include the Security Guard, the Palace Guard, and the Space Fighter Corps.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ep1_ia_70756_35c9aef2.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d08",
+    "name": "Naboo Royal Handmaidens",
+    "description": "The Naboo Royal Handmaidens are a group of young women handpicked to aid the Queen of Naboo. On the surface, it appears as if the handmaidens only assist with the Queen's gowns, hairstyles, and makeup. However, they are all trained in self-defense and remain vigilant against any threats to their sovereign. In fact, during times of turmoil, a handmaiden actually poses as the Queen.     The Naboo Royal Handmaidens have been selected for their various talents as well as for their resemblance to the Queen, which is useful if a decoy is required. After being invited to join the Queen's entourage, each handmaiden was trained in self defense and marksmanship. They often carry small, concealable blasters.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/naboo_handmaiden_0350d6ca.png",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d16",
+    "name": "Rebel Pilots",
+    "description": "The Rebel Alliance's starfighter corps was one of its greatest assets. There were nearly as many stories as there were pilots: Rebel starfighters were flown by Imperial defectors, reformed mercenaries, adventure-seeking farmboys, and daredevils who only truly felt alive in a cockpit. Regardless of their backgrounds, Rebel pilots learned to work together, relying on their wingmen as well as their training in countless battles against the Empire.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Rebel-Pilots_57e7b2f8.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d1b",
+    "name": "Scout Troopers",
+    "description": "Scout troopers were lightly armored compared with other stormtroopers, which allowed them to move more quickly and easily in a range of environments. They were also trained for more independence and adaptability than most Imperial troops. The Empire used scout troopers for a range of missions, including reconnaissance and infiltration. On Endor, scout troopers riding speeder bikes patrolled the forests, guarding against threats to the shield generator protecting the second Death Star during its construction in orbit above the moon.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_ff8262cd.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d20",
+    "name": "Shoretroopers",
+    "description": "During the height of the Empire, coastal defense stormtroopers—or shoretroopers—would patrol the beaches and bunkers of the Imperial military headquarters on Scarif. Now, with the Empire in decline, they find themselves assigned to less glorious postings.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/andor-episode-7-story-gallery-09_d0eda05a.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d24",
+    "name": "Sith jet troopers",
+    "description": "In its ultimate push towards galactic conquest, the First Order readies an army of elite soldiers that draw inspiration and power from a dark and ancient legacy.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/sith-jet-troopers-main_bffa6db9.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d2f",
+    "name": "The Resistance",
+    "description": "A small, secretive private military force, the Resistance was founded by rebel hero Leia Organa to monitor the actions of the First Order. Most New Republic power brokers tolerate the Resistance while regarding Organa and her fighters as dead-enders with an unfortunate fixation on the past. Organa’s cash-strapped movement relies on credits, ships and equipment quietly funneled to it from the few senators who share her concerns. Resistance starfighters destroyed Starkiller Base, but the First Order’s retaliatory attack on D’Qar reduced its forces to a handful of brave freedom fighters.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/the-resistance-tros-main-a_db5fe641.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d31",
+    "name": "Trade Federation",
+    "description": "One of the wealthiest corporate organizations in the galaxy, the Trade Federation controlled most of the interstellar shipping passing through the Rim territories. The Trade Federation was headed by Viceroy Nute Gunray, and even had its own representative in the Republic Senate to lobby for even greater power. On the orders of Darth Sidious, the Trade Federation sent its battle droids to invade Naboo to create a government crisis. During the Clone Wars, the Trade Federation secretly signed on as a member of Count Dooku's Separatist organization, though representatives in the Senate tried to deny this.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_tradefederation_01_169_4d5122ac.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d35",
+    "name": "Vanguard Axis",
+    "description": "The Vanguard Axis is a fearsome droid cartel, in the business of smuggling and other underhanded dealings. Beyond selling off forged chain codes to those willing to pay for the fake identities to evade Imperial documentation, the heavily-armed droids are not above moving imprisoned living beings in their crate warehouse if they see a financial benefit to the scheme.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/the-bad-batch-season-2-ep-6-story-gallery-03_ee58fe5b.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d37",
+    "name": "Weequay Pirates",
+    "description": "This band of space pirates haunts the shipping lanes of the lawless Outer Rim Territories, in search of cargos to steal and travelers to hold for ransom. They have prospered just enough to maintain a stronghold on a sulfurous world, where they keep stores of grog, food, and other comforts. During the ongoing Clone Wars, the pirates attempted to remain neutral lest they get too drawn into an unprofitable conflict.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_weequaypirates_01_169_146b6407.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cbd",
+    "name": "Clan Saxon",
+    "description": "Clan Saxon is a Mandalorian faction that has pledged loyalty to the Empire. Under the rule of both Gar Saxon and his successor, Governor Tiber Saxon, they battle rebels and Mandalorians alike in their quest to maintain power on their homeworld.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/clan-saxon_ccab9c13.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cba",
+    "name": "Canto Bight Police",
+    "description": "Canto Bight’s uniformed police keep the peace in the resort city, and are trained to avoid messy public disruptions and unnecessary violence. Visitors who step out of line are incapacitated with stun blasts and hauled off to jail. Those attempting to evade justice are hunted down by lightweight, highly mobile police speeders.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/canto-police-db-main_c4968d22.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cbf",
+    "name": "Clone Force 99 \"The Bad Batch\"",
+    "description": "After the fall of the Republic, Vice Admiral Rampart eagerly took on the role of overseeing the clone troopers on Kamino for the new Galactic Empire. In the early days of the regime, Rampart's loyalty to Governor Tarkin and the rest of the Imperials was unquestioned. But after damaging evidence of his order to destroy Tipoca City came to light on the floor of the Galactic Senate, Rampart was arrested, standing accused as a traitor to the Empire despite his protestations that he was simply following orders.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/clone-force-99-main_37f984e5.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cc1",
+    "name": "Cloud-Riders",
+    "description": "A band of masked marauders led by the notorious Enfys Nest, the Cloud-Riders are known for circling the skies in a swarm of swoop bikes. On Core Worlds, racing the crude, overpowered vehicles has become a spectator sport. But on the frontier planets, the modified and high-speed bikes are the mark of an outlaw and Enfys and her crew are among the most infamous.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-cloud-riders-main-image_4dfa5f8d.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cd5",
+    "name": "Fathier jockeys",
+    "description": "Fathier racing is a dangerous business in which falls are often fatal. This gives Canto Bight’s fathier jockeys a reputation far larger than their size – the resort town’s best riders are celebrities in their own right. The best jockeys know how to persuade their mounts to run without striking them with an electrocrop.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/last-jedi-databank-fathier-jockey-main-image_190db006.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cd6",
+    "name": "Figrin D'an and the Modal Nodes",
+    "description": "This seven-piece ensemble of Bith musicians was a common sight at the Mos Eisley Cantina, playing swinging instrumentals for the watering hole’s staggering patrons. The Modal Nodes’ leader, “Fiery” Figrin D’an, played the Kloo horn, though some patrons preferred his work on the Gasan string drum. Other members of the Modal Nodes were Nalan Cheel (Bandfill), Doikk Na’ts (Dorenian Beshniquel), Tedn Dahai (Fanfar), Tech M’or (Ommni box), Ickabel G’ont (Double Jocimer) and Sun’il Ei’de (drums).",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/figrin-dan-main-image_a17465db.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cdc",
+    "name": "First Order Stormtroopers",
+    "description": "The First Order’s infantry units wear stark white armor derived from that worn by the Republic’s clone troopers and the Empire’s stormtroopers. Members of this new generation of stormtroopers are trained from birth, growing up with unit designations instead of names and fed a steady diet of First Order propaganda to ensure absolute loyalty. Where the Empire opted for numbing routine, the First Order’s training simulations and live-fire drills encourage improvisation on the battlefield, making these stormtroopers more dangerous than their Imperial predecessors.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/first-order-stormtroopers_cad1562c.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cdf",
+    "name": "Flob",
+    "description": "A functionary within the Imperial Bureau of Standards, Flob's world is filled with such concerns as weights, gauges, redundancies, verification, and other matters of bureaucratic recordkeeping.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/flob-main_cc7bf3a2.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ce6",
+    "name": "Gungan Grand Army",
+    "description": "In contrast to the peaceful human colonists of Naboo, the native Gungans are a proud warrior species. The amphibians have long maintained a huge standing army -- the Gungan Grand Army -- as one of their proudest traditions.  The Gungans prefer technology that is harmonious with the ecology of their world. Their weaponry is no different. The Gungan Grand Army uses domesticated animals for transport -- Gungan scouts ride swift-footed kaadu into combat, while hardy falumpasets and fambaas haul heavy weapons and shield generators into place.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_gungangrandarmy_01_169_9a8506f2.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cec",
+    "name": "Imperial ground crew",
+    "description": "Imperial installations, whether space-bound or ground-based, buzz with activity and vehicular traffic. Skilled ground crews sort through this would-be chaos and see to the smooth operation of Imperial craft through regular maintenance.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/imperial-ground-crew-main_ffbbf456.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cfc",
+    "name": "Kage Warriors",
+    "description": "The crystalline caverns of Quarzite were home to an ongoing conflict between the powerful Belugans and the outnumbered Kage. The Belugans had wealth and technology on their side, but the Kage were a spirited and dedicated people. Their most powerful combatants pushed themselves to the utmost physical excellence, and Kage Warriors were tireless, elite fighters, nimble and stealthy, and effective with the electro sword or unarmed. Riding atop multi-legged milodons, they could keep pace with the subtram transports that supplied Blank's strongholds, and launch raids that caught the Belugan security forces off-guard.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/screen_shot_2015-05-26_at_6_4376134a.png",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d01",
+    "name": "Knights of Ren",
+    "description": "An enclave of masked warriors wielding distinct weapons for ranged and close­quarter combat, the Knights of Ren are elite, fearsome enforcers of Kylo Ren's dark will.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/knights-of-ren-main_17fe248a.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d0a",
+    "name": "Nightsisters",
+    "description": "The Nightsisters are a coven of witches that lived on the mysterious world of Dathomir. The sisters ruled unchallenged, gifted with the power to wield dark magicks. The men of Dathomir, the Nightbrothers, lived apart from the witches, but were subservient to their whims. Despite their power, the Nightsisters avoided the conflict of the Republic and Sith, content to pursue their own matters. The Jedi gave them a wide berth, for they remain focused on matters on Dathomir. Count Dooku has had dealings with them in the past, and turned to them when he was in need of a new apprentice. Their betrayal of Dooku earned the Nightsisters a powerful enemy, and he ordered a massive attack by his droid forces in retribution.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/acw_ia_62085_00883f8c.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d33",
+    "name": "Tusken tribe",
+    "description": "Survival in the unforgiving desert of Tatooine requires strict training and discipline for the youngest members of a Tusken tribe. Led by a chieftain, each member of the clan must learn to be useful. Tusken children begin mastery of the traditional gaffi stick at a young age. Some will become guards, watching over prisoners of the tribe and aided by attentive massiffs. Others will grow up to be skilled warriors, powerful in battle.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/tusken-tribe-main_2eeb8d02.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cca",
+    "name": "D-Squad",
+    "description": "A Republic super team of 5 droids (QT-KT, U9-C4, R2-D2, M5-BZ, and Corporal WAC-47) sent on an important mission under the leadership of Colonel Meebur Gascon.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_dsquad_01_169_babdf7cf.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cda",
+    "name": "First Order SCUBA troopers",
+    "description": "Among the specialized forces in the First Order, SCUBA troopers are specially-equipped with underwater blasters, flippers, and breathing apparatus to help them perform patrols on the ocean planet of Castilon.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/first-order-scuba-troopers-main_21f15375.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1ce3",
+    "name": "Galactic Republic",
+    "description": "For over a thousand years, the Galactic Republic stood firm as a democratic union that governed the galaxy. The Republic was governed by the Galactic Senate, consisting of elected officials from each system and world, and Jedi Knights served as peacekeepers. With the rise of Supreme Chancellor Palpatine, however, the Galactic Republic -- and democracy -- would crumble.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Galactic_Republic-1_69f82abe.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cef",
+    "name": "Imperial Pilots",
+    "description": "Imperial pilots relied on lightning-quick reflexes and fearlessness to survive tours of duty against the Empire's enemies, as TIE fighters were lightly armored and lacked shields. Only the very best pilots earned their wings as fighter aces.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/CLA_IA_3533_R_copy_5bf5ddfb.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cf0",
+    "name": "Imperial Royal Guard",
+    "description": "Resplendent in crimson robes and armor, the Imperial Royal Guard protected the Emperor. Secrecy shrouded the Guard, with rumors abounding about the sentinels' backgrounds and combat capabilities.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_emperorsroyalguard_01_169_4a88ce6c.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cf1",
+    "name": "Imperial Security Bureau",
+    "description": "The Imperial Security Bureau operates in the shadows, a secret task force activated to ensure order after the formation of the Empire. Represented by officers like Supervisor Dedra Meero and Agent Alexsandr Kallus, the ISB surreptitiously investigates rebel activities found throughout the galaxy to quash the first hint of insurrection.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/imperial-security-bureau-main_a10e706c.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cf5",
+    "name": "Inferno Squad",
+    "description": "A special forces unit within the Empire, Inferno Squad was formed by Admiral Garrick Versio following the destruction of the Death Star at Yavin 4. Led by Iden Versio, Inferno Squad exists to protect the Empire from similar catastrophes, to protect and bury its secrets, and eliminate threats to the safety of its citizens. Masters of infiltration, extraction, and combat in any environment, Inferno Squad is revered by those in the Empire who know their name, and feared by the few enemies its commandos has allowed to escape.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/inferno-squad2_44bc2423.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1cf6",
+    "name": "InterGalactic Banking Clan",
+    "description": "The InterGalactic Banking Clan was one of the galaxy’s most important commerce guilds. The Banking Clan secretly allied itself with Count Dooku’s Separatist movement, which it bankrolled during the Clone Wars while continuing to do business with the Republic. Revelations of corruption led to the arrest of the Banking Clan’s ruling Core Five and the appointment of Rush Clovis as the Banking Clan’s new leader. But Clovis was ensnared by a Sith plot, which led to the group’s takeover by Supreme Chancellor Palpatine.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_intergalacticbankingclan_01_169_7d04659f.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d02",
+    "name": "Life Day",
+    "description": "A longstanding Wookiee tradition, Life Day celebrates the values and tenets of Wookiee culture, including family, joy, and harmony. While Life Day is a celebration traditionally held at the Tree of Life on Kashyyyk and observed by extended Wookiee families, Wookiees throughout the galaxy still mark the day. When Wookiees were enslaved by the Empire, the holiday took on an even greater significance. Today, people from planets across the galaxy have embraced this tradition and made it their own by celebrating with festive décor, twinkling string lights, unique food and drink items, music, and activities. People share the hopes of celebrating freedom, harmony, and peace, no matter how different people may appear. At the end of the day, everyone gathers to sing songs and be reminded of their dedication, courage, and love for one another. This is the promise of the Tree of Life.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/life-day-main_d688c3af.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d04",
+    "name": "Mandalorian Super Commando",
+    "description": "During the Clone Wars, a coup orchestrated by Death Watch topples the pacifist regime of the New Mandalorians and returns the armored warrior culture to a position of power over the isolated world. What the average Mandalorian citizen does not realize, however, is that the takeover is in truth masterminded by a secret syndicate of criminals -- the Shadow Collective led by Maul. Maul's loyal Mandalorians modify their armor to reflect allegiance to the Dark Lord. These super commandos wear armor of red and black, and some even fashion horns atop their helmets, to better resemble their Nightbrother leader. During the Siege of Mandalore, Gar Saxon leads the elite fighting force.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/mandalorian-super-commando-main_17e3991e.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d06",
+    "name": "Mudtroopers",
+    "description": "Formally known as Imperial swamp troopers, mudtroopers are part of the Imperial Army, whose infantry is gradually being phased out in favor of stormtroopers. Mudtroopers wear partial armor, augmented with respiratory gear and sealed bodysuits for combat in unhealthy environments such as Mimban. Han Solo served as a corporal with the 224th Imperial Armored Division, a new incarnation of the Mud Jumpers of the Clone Wars.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-mudtroopers-main-image_9ebc1c6d.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d0d",
+    "name": "patrol troopers",
+    "description": "These specialist stormtroopers are the urban equivalent of scout troopers, wearing partial armor for greater mobility. Their helmets are enlarged to incorporate enhanced-imaging sensors and communications gear, helping patrol troopers navigate crowded city streets and handle real-time data about suspects.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-patrol-troopers-main-image_2ff22bc4.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d10",
+    "name": "Pyke guards",
+    "description": "In the Pyke stronghold on Oba Diah, dozens of guards ensure prison breaks are quelled quickly and unruly inmates are delivered to torture droids for further questioning.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/pyke-guards-main_3da245b1.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d12",
+    "name": "Pyke Syndicate",
+    "description": "During the Clone Wars, the Pykes became the galaxy’s preeminent spice dealers, gaining control of mining operations on Kessel and funneling illicit substances to Coruscant’s most influential crime families. The Pykes’ stronghold is Oba Diah, but they are a powerful presence on nearby Kessel. Pyke sentinels keep a close watch on miners sentenced to extract spice and coaxium from Kessel, as well as on the smugglers hired to ferry these valuable cargos to offworld purification plants and refineries.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/pyke-syndicate-main_26c5afa9.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d1c",
+    "name": "scrumrats",
+    "description": "The scrumrats are orphans and scavengers plucked off the streets of Coronet City by the White Worms. In exchange for food and shelter, these desperate youths serve the criminal gang, with the most capable rising up the ranks from vermin-catchers and pickpockets to errand runners and operatives. The lead scrumrat, appointed by Lady Proxima, is known as the Head.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-db-scrumrats-main-image_31344a4e.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d1e",
+    "name": "Separatist Council",
+    "description": "The Separatist Council was made up of the leaders of wealthy, influential galactic trade groups that backed Count Dooku’s Separatist Alliance, supporting it with warships, droid armies and a steady stream of credits. Its members included the Trade Federation’s Nute Gunray, the Corporate Alliance’s Passel Argente, the InterGalactic Banking Clan’s San Hill, the Commerce Guild’s Shu Mai, the Techno Union’s Wat Tambor, Poggle the Lesser of Geonosis, and Senators Po Nudo and Tikkes. At the end of the Clone Wars, Darth Vader executed the Council’s members on Mustafar.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ep3_ia_93524_4d9fc739.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d23",
+    "name": "Sith Eternal",
+    "description": "On the lost world of Exegol, Sith cultists gather to venerate the ancient Sith Order and swear fealty to the current Sith Lord. Darth Sidious has built this following into a military weapon during the years of his exile, with a generation of children raised as workers and soldiers in secret shipyards, factories and military camps. By combining these forces with those of the First Order, Sidious will ensure eternal Sith rule.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/sith-eternal-main_b6eb45e8.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "6429291d021f17e13fbc1d2d",
+    "name": "The New Republic",
+    "description": "The Rebel Alliance became the New Republic after its victory over the Empire at the Battle of Endor. Eager to win over the war-weary citizens of the galaxy, the New Republic revived the Senate, signed a peace treaty – the Galactic Concordance – with the Empire’s remnants, and drastically reduced its military capabilities. That policy aroused the ire of rebel hero Leia Organa, who warned that elements of the Empire were still seeking power. Sidelined from the political process, Organa founded the Resistance to oppose the Empire’s successor state, the mysterious First Order.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/new-republic_7742fb97.png",
+    "__v": 0
+  }
+]
