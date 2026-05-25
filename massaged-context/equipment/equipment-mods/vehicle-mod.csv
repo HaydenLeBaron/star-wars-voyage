@@ -1,0 +1,111 @@
+Type,HP Req,(Restricted),Price,Price Modifier,Rarity,Category
+Collision Avoidance System,1,,2200,,6,PODRACER ATTACHMENTS
+Ejection System,1,,400,,4,PODRACER ATTACHMENTS
+Engine Boosting System,1,,1100,,5,PODRACER ATTACHMENTS
+Foreign Debris Ejector,1,,900,,3,PODRACER ATTACHMENTS
+Handling Upgrades,1,,4000,,6,PODRACER ATTACHMENTS
+High-Output Repulsor Coils,2,,4500,,3,PODRACER ATTACHMENTS
+Pair of Podracer Engines,2,,4000,,5,PODRACER ATTACHMENTS
+Podracer Control Cables,1,,1000,,2,PODRACER ATTACHMENTS
+Reinforced Engine Cowlings,1,,2500,,3,PODRACER ATTACHMENTS
+Shield Generator,1,,4200,,4,PODRACER ATTACHMENTS
+Advanced Subspace Encryption Array,1,(Restricted),6000,,7,STARSHIP ATTACHMENTS
+Astrogation Droid Brain,0,,7500,,6,STARSHIP ATTACHMENTS
+Briefing Auditorium,1,,2500,,4,STARSHIP ATTACHMENTS
+Cloaking Device,4,(Restricted),29000,,9,STARSHIP ATTACHMENTS
+Decoy Buoy,0,(Restricted),5000,,5,STARSHIP ATTACHMENTS
+Enhanced Hyperspace Shields,1,,4000,,5,STARSHIP ATTACHMENTS
+HoloNet Pirate Array,2,(Restricted),25000,,8,STARSHIP ATTACHMENTS
+Hyperdrive Generator,1,,6400,,4,STARSHIP ATTACHMENTS
+Overcharged Ion Engines,3,,9500,,4,STARSHIP ATTACHMENTS
+Reinforced Shield Generator,2,,3800,,5,STARSHIP ATTACHMENTS
+Secondary Transponder,1,(Restricted),20000,,7,STARSHIP ATTACHMENTS
+Slicing Computer,1,,5000,,6,STARSHIP ATTACHMENTS
+Advanced Targeting Array,1,,4000,,4,UNIVERSAL ATTACHMENTS
+All-Terrain Legs,2,,3000,x Silhouette,5,UNIVERSAL ATTACHMENTS
+Amphibious Modification,1,,1000,x Silhouette,5,UNIVERSAL ATTACHMENTS
+Armored Computer Core,0,,1100,,4,UNIVERSAL ATTACHMENTS
+Autopilot Droid Brain (FO),1,,6000,,5,UNIVERSAL ATTACHMENTS
+Autopilot Droid Brain (FC),0,,6000,,5,UNIVERSAL ATTACHMENTS
+Cloaked Smuggling Compartments,1,(Restricted),2200,,4,UNIVERSAL ATTACHMENTS
+Containment Field,2,(Restricted),7500,,9,UNIVERSAL ATTACHMENTS
+Electronic Counter-Countermeasures Suite,1,,3500,,6,UNIVERSAL ATTACHMENTS
+Electronic Countermeasures Suite,1,,3000,,6,UNIVERSAL ATTACHMENTS
+Encrypted Computer,0,,1000,,6,UNIVERSAL ATTACHMENTS
+Enhanced Carbon-Durasteel Armor,2,,2000,x Silhouette,3,UNIVERSAL ATTACHMENTS
+Enhanced Prisoner Lockup,3,,3500,,7,UNIVERSAL ATTACHMENTS
+Environmental Simulators,2,,7500,,6,UNIVERSAL ATTACHMENTS
+Gunner Droid Brain,0,,7000,,6,UNIVERSAL ATTACHMENTS
+Hardened Circuits,2,,4500,,5,UNIVERSAL ATTACHMENTS
+High-Output Ion Turbine,1,,5300,,5,UNIVERSAL ATTACHMENTS
+Holo-Tank,1,,5000,,4,UNIVERSAL ATTACHMENTS
+Holographic Shell,2,(Restricted),5500,,7,UNIVERSAL ATTACHMENTS
+Hull/Keel Reinforcement,2,,2500,x Silhouette,4,UNIVERSAL ATTACHMENTS
+Hull/Keel Reinforcement (table entry),2,,2500,,4,UNIVERSAL ATTACHMENTS
+Hush Kit,1,,450,,6,UNIVERSAL ATTACHMENTS
+Hydraulic Control Circuits,2,,1000,,7,UNIVERSAL ATTACHMENTS
+Interior Broadcast Suite,1,,800,,3,UNIVERSAL ATTACHMENTS
+Laser Focusing Array,2,,3000,per laser weapon enhanced,6,UNIVERSAL ATTACHMENTS
+Laser Focusing Array (table entry),2,,5000,,6,UNIVERSAL ATTACHMENTS
+Luxury Passenger Compartments,1,,2000,per passenger,3,UNIVERSAL ATTACHMENTS
+Nightshadow Coating,1,(Restricted),"3,500",,8,UNIVERSAL ATTACHMENTS
+Onboard Amenities Unit,1,,750,,3,UNIVERSAL ATTACHMENTS
+Overcharged Shields,1,,"4,000",,4,UNIVERSAL ATTACHMENTS
+Oversized External Weapons Mount,2,(Restricted),"3,000",x Silhouette,6,UNIVERSAL ATTACHMENTS
+Physical Countermeasures,1,,"2,200",,4,UNIVERSAL ATTACHMENTS
+Pseudo-Cloaking Device,1,(Restricted),"12,000",,8,UNIVERSAL ATTACHMENTS
+Ram Attachment,2,,"6,500",,3,UNIVERSAL ATTACHMENTS
+Rapid Cargo Evacuation Chute,1,(Restricted),500,,3,UNIVERSAL ATTACHMENTS
+Reinforced Armor Plating,2,,"4,000",x Silhouette,2,UNIVERSAL ATTACHMENTS
+Retractable Weapon System,1,,"1,000",,6,UNIVERSAL ATTACHMENTS
+Retrofitted Hangar Bay,2,,"5,000",x Silhouette,3,UNIVERSAL ATTACHMENTS
+Security Measures,0,,500,x Silhouette,4,UNIVERSAL ATTACHMENTS
+Sensor Baffler,1,(Restricted),8000,,6,UNIVERSAL ATTACHMENTS
+Sensor Shunt,1,(Restricted),3100,,8,UNIVERSAL ATTACHMENTS
+Sensor Shunt (table entry),1,(Restricted),3200,,8,UNIVERSAL ATTACHMENTS
+T9 Stinger Assault Boarding Tube,3,(Restricted),1000,x Silhouette,4,UNIVERSAL ATTACHMENTS
+Slave Circuit,1,,10000,,2,UNIVERSAL ATTACHMENTS
+Smuggling Compartments,1,(Restricted),1200,,1,UNIVERSAL ATTACHMENTS
+"Tactical Command, Control, and Communications Suite",1,,4200,,6,UNIVERSAL ATTACHMENTS
+Theater Command and Control System,2,,8500,,6,UNIVERSAL ATTACHMENTS
+Upgraded Comms Array,1,,4800,,6,UNIVERSAL ATTACHMENTS
+WhisperThrust Engine,1,(Restricted),7500,,7,UNIVERSAL ATTACHMENTS
+Augmented Buffer,0,,750,,,VEHICLE ATTACHMENTS
+CZ-88 Heavy Loader Arm,1,,1500,,3,VEHICLE ATTACHMENTS
+Enhanced Repulsorlift,1,,1000,x Silhouette,3,VEHICLE ATTACHMENTS
+Fogger Smoke Generator,1,,2750,,2,VEHICLE ATTACHMENTS
+Gravity Mine Launcher,1,,3500,,6,VEHICLE ATTACHMENTS
+Maneuvering Thrusters,1,,500,x Silhouette,,VEHICLE ATTACHMENTS
+Mobile Listening Post,2,,5500,,5,VEHICLE ATTACHMENTS
+Upgraded Firepower,0,,1000,,,VEHICLE ATTACHMENTS
+Missile Pack,0 or 1,(Restricted),10000,,5,WEAPON MOUNTS
+Mini-Missile Pack,0 or 1,(Restricted),7000,,5,WEAPON MOUNTS
+"Ax-108 ""Ground Buzzer"" Surface-Defense Blaster Cannon",1,,2000,,5,WEAPON MOUNTS
+Electromagnetic Tow Cable Launcher,1,,2000,,2,WEAPON MOUNTS
+Flak Cannons (light),0 or 1,,6000,,5,WEAPON MOUNTS
+Flak Cannons (medium),0 or 1,,8000,,6,WEAPON MOUNTS
+Flak Cannons (heavy),0 or 1,,10000,,7,WEAPON MOUNTS
+Ion Torpedo Launcher,1,,6500,,7,WEAPON MOUNTS
+Minelayer,2,(Restricted),4000,,6,WEAPON MOUNTS
+Plasma Drill,3,,4000,,4,WEAPON MOUNTS
+Plasma Drill (table entry),1,,4000,,4,WEAPON MOUNTS
+Repeating Ion Cannon,1,,6000,,6,WEAPON MOUNTS
+Grappler 213 Tactical Tractor Beam,0 or 1,,6200,,7,WEAPON MOUNTS
+MM-XT Mini-Missile Tube,0 or 1,(Restricted),700,,4,WEAPON MOUNTS
+Termite Torpedo Launcher,1,(Restricted),10000,,8,WEAPON MOUNTS
+Upgraded Weapons (auto-blaster),0 or 1,,3000,,3,WEAPON MOUNTS
+Upgraded Weapons (light blaster),0 or 1,,4000,,2,WEAPON MOUNTS
+Upgraded Weapons (heavy blaster),0 or 1,,5000,,3,WEAPON MOUNTS
+Upgraded Weapons (concussion missile),0 or 1,,7500,,5,WEAPON MOUNTS
+Upgraded Weapons (light ion),0 or 1,,5000,,5,WEAPON MOUNTS
+Upgraded Weapons (medium ion),0 or 1,,6000,,6,WEAPON MOUNTS
+Upgraded Weapons (heavy ion),0 or 1,,7500,,7,WEAPON MOUNTS
+Upgraded Weapons (battleship ion),0 or 1,,10000,,8,WEAPON MOUNTS
+Upgraded Weapons (proton torpedo),0 or 1,(Restricted),9000,,7,WEAPON MOUNTS
+Upgraded Weapons (quad laser),0 or 1,,8000,,6,WEAPON MOUNTS
+Upgraded Weapons (light tractor),0 or 1,,6000,,4,WEAPON MOUNTS
+Upgraded Weapons (medium tractor),0 or 1,,8000,,5,WEAPON MOUNTS
+Upgraded Weapons (heavy tractor),0 or 1,,10000,,6,WEAPON MOUNTS
+Upgraded Weapons (light turbolaser),0 or 1,(Restricted),12000,,7,WEAPON MOUNTS
+Upgraded Weapons (medium turbolaser),0 or 1,(Restricted),15000,,7,WEAPON MOUNTS
+Upgraded Weapons (heavy turbolaser),0 or 1,(Restricted),20000,,8,WEAPON MOUNTS

@@ -1,0 +1,117 @@
+Type,Defense,Soak,HP,Encum,(Restricted),Price,Rarity,Category
+Banal Apparel,0,0,0,-,,25,0,ATTIRE & OTHER CLOTHES
+Cargo Clothes,0,0,0,1,,30,0,ATTIRE & OTHER CLOTHES
+Concealing Robes,0,1,0,1,,150,2,ATTIRE & OTHER CLOTHES
+Diplomat's Robes,0,0,0,2,,400,6,ATTIRE & OTHER CLOTHES
+Heavy Clothing,0,1,0,1,,50,0,ATTIRE & OTHER CLOTHES
+Heavy Robes,1,0,0,1,,150,2,ATTIRE & OTHER CLOTHES
+Holographic Costume,1,0,0,2,,750,8,ATTIRE & OTHER CLOTHES
+Lector's Outfit,0,1,1,2,,525,6,ATTIRE & OTHER CLOTHES
+Noble Regalia,0,0,3,1,,750,7,ATTIRE & OTHER CLOTHES
+Nomad Greatcoat,0,1,0,1,,100,4,ATTIRE & OTHER CLOTHES
+Performer's Attire,0,0,0,0,,50,4,ATTIRE & OTHER CLOTHES
+Pit Crew Coveralls,0,1,1,1,,150,2,ATTIRE & OTHER CLOTHES
+Polis Massan Bodysuit,0,1,1,1,,300,6,ATTIRE & OTHER CLOTHES
+Resplendent Robes,0,1,0,2,,500,5,ATTIRE & OTHER CLOTHES
+Smuggler's Trenchcoat,1,1,0,3,,"1,650",7,ATTIRE & OTHER CLOTHES
+Tracker Utility Vest,0,0,1,-,,100,2,ATTIRE & OTHER CLOTHES
+AniPro Layered Beast Armor,1,1,0,4,,"2,500",5,BEAST ARMOR & EQUIPMENT
+Caballerin-Series Riding Tack,0,0,0,2,,250,4,BEAST ARMOR & EQUIPMENT
+Capari-series Padded Beast Armor,0,2,0,4,,"2,500",5,BEAST ARMOR & EQUIPMENT
+Destri-series Laminate Beast Armor,0,4,1,7,,"8,500",7,BEAST ARMOR & EQUIPMENT
+H-series Megafauna Carriage,1,0,2,5,,"5,500",7,BEAST ARMOR & EQUIPMENT
+Ancient Battle Armor,0,2,1,6,,"3,750",9,HEAVY
+"PX-11 ""Battlement"" Powered Armor",1,3,3,3,(Restricted),"9,000",9,HEAVY
+Armored Robes,1,2,2,5,(Restricted),"4,500",8,HEAVY
+Chitin Armor,0,2,1,4,,600,6,HEAVY
+"""Luck"" Armor",0,2,1,4,,"1,000",5,HEAVY
+Heavy Battle Armor,1,2,4,6,(Restricted),"5,000",7,HEAVY
+HT-77 Cold Assault Armor,0,2,2,6,(Restricted),"4,000",6,HEAVY
+Hutt Shell Armor,2,2,4,6,(Restricted),"25,000",9,HEAVY
+Imperial Hazard Trooper Armor,0,3,3,4,(Restricted),"18,000",8,HEAVY
+Jedi Battle Armor,1,2,5,5,(Restricted),"7,500",9,HEAVY
+Katarn-class Commando Armor (CotR),1,2,3,4,(Restricted),"6,500",7,HEAVY
+Mk I Katarn-class Commando Armor (KoF),1,2,3,4,(Restricted),"6,500",8,HEAVY
+Kav-Dann Power Armor,2,2,6,4,(Restricted),"13,500",7,HEAVY
+Laminate Armor,0,2,3,4,,"2,500",5,HEAVY
+Leviathan Power Armor,2,2,1,8,,"15,000",8,HEAVY
+Mandalorian Armor,1,2,5,6,(Restricted),"6,000",8/Special,HEAVY
+N-57 Armor,0,2,5,5,,"3,000",6,HEAVY
+"Mk II ""Hotspot"" Insulated Armor",0,2,2,6,(Restricted),"5,500",7,HEAVY
+"Mk II ""Steelskin"" Anti-concussive Armor",0,3,1,8,(Restricted),"6,500",7,HEAVY
+Mk IV Riot Armor,1,1,1,3,(Restricted),"1,850",6,HEAVY
+Phase I ARC Trooper Armor (RotS),1,2,4,5,(Restricted),"6,000",7,HEAVY
+Phase I ARC Trooper Armor (KoF),1,2,2,4,(Restricted),"5,000",8,HEAVY
+Phase I Clone Trooper Armor,0,2,3,4,(Restricted),"2,000",6,HEAVY
+Phase II ARC Trooper Armor,1,2,2,4,(Restricted),"5,500",7,HEAVY
+Phase II Clone Trooper Armor,0,2,4,4,(Restricted),"3,000",6,HEAVY
+Powered Capacitive Armor,1,1,2,4,(Restricted),"3,000",8,HEAVY
+Rebel Heavy Battle Armor,1,2,5,5,(Restricted),"6,000",8,HEAVY
+Scavenged Clone Armor,0,2,2,5,(Restricted),"1,000",4,HEAVY
+Protector 1 Combat Armor,1,2,3,4,(Restricted),"5,500",7,HEAVY
+Waterweave,2,1,1,7,,"6,500",5,HEAVY
+Boba Fett's Armor,2,3,0-,6,,Not for Sale,10,LEGENDARY
+Darth Vader's Armor,1,2,-,5,,Not for Sale,10,LEGENDARY
+"""Storm"" Charge Suit (GaG)",0,2,0,3,,"2,000",2,LIGHT
+"""Storm"" Charge Suit (DC)",0,2,0,3,,"2,000",6,LIGHT
+Alliance Engineer's Helmet and Vest,0,1,0,1,,75,1,LIGHT
+Alliance Light Stealth Armor,0,2,2,3,(Restricted),"2,200",7,LIGHT
+Armored Clothing,1,1,1,3,,"1,000",6,LIGHT
+Armored Drop Suit,1,1,2,6,,"7,500",7,LIGHT
+Armored Half-vest,1,1,0,3,,500,5,LIGHT
+Beast-hide Armor (GaG),0,1,0,2,,300,3,LIGHT
+"Beast-hide Armor (SS, DC)",0,1,0,3,,300,2,LIGHT
+Blast Vest,0,1,1,3,,200,3,LIGHT
+Catch Vest,0,2,0,1,,300,3,LIGHT
+Clone Dive Armor,0,2,2,3,(Restricted),"4,500",7,LIGHT
+Clone Reconnaissance Armor,0,2,2,3,(Restricted),"4,000",6,LIGHT
+Custom Tailored Armored Jacket,0,2,0,1,,"6,200",7,LIGHT
+Flare Jacket,0,1,0,3,,"1,500",8,LIGHT
+Formal Council Armor,0,2,2,5,(Restricted),"8,000",10,LIGHT
+Hunter's Trophy Armor (completed),0,2,1,4,(Restricted),"2,000",9,LIGHT
+Hunter's Trophy Armor (custom-made),0,2,1,4,(Restricted),"1,000",6,LIGHT
+Imperial Storm Commando Armor,0,2,4,4,(Restricted),"5,000",9,LIGHT
+Jedi Commander Armor,1,2,3,5,(Restricted),"5,000",8,LIGHT
+Jedi Reconnaissance Armor,1,1,2,2,,"4,000",8,LIGHT
+Jedi Temple Guard Armor,2,1,3,4,(Restricted),"12,000",10,LIGHT
+Mk I NightStalker Infiltrator Suit,0,2,1,2,(Restricted),"4,800",9,LIGHT
+Mk III Flak Vest,0,1,1,3,,300,2,LIGHT
+"Mk IX Personal Mimetic Concealment Suit (GaG, CaM)",1,1,1,2,(Restricted),"8,000",8,LIGHT
+Mk IX Personal Mimetic Concealment Suit (FC),1,1,2,2,(Restricted),"8,000",8,LIGHT
+Mountaineer Armor,1,1,2,3,,"1,800",6,LIGHT
+Padded Armor,0,2,0,2,,500,1,LIGHT
+Pioneer Armor (GaG),0,1,2,1,,200,4,LIGHT
+Pioneer Armor (FO),0,1,1,1,,200,4,LIGHT
+Riot Armor,0,2,2,3,,950,4,LIGHT
+Second Skin Armor,1,1,0,2,,"2,000",7,LIGHT
+Survivalist Armor,0,1,2,3,,350,6,LIGHT
+Timber Cuirass,1,2,1,4,,"4,000",5,LIGHT
+"Type III ""Berethron"" Personal Modular Armor",1,1,3,3,(Restricted),"1,250",6,LIGHT
+Verpine Fiber Ultramesh Armor,0,1,2,3,,"3,000",5,LIGHT
+"""Gundark"" Scav-Suit",1,1,2,2,,"3,000",6,WORN EQUIPMENT
+Shockrider Crash Suit,0,2,1,2,,"3,000",3,WORN EQUIPMENT
+Adverse Environment Gear,0,1,1,2,,500,1,WORN EQUIPMENT
+Biogel Suit,0,2,0,6,,350,1,WORN EQUIPMENT
+CF-9 Republic Naval Flight Suit,1,1,2,3,(Restricted),"1,200",6,WORN EQUIPMENT
+Climbsuit,0,1,2,2,,"1,450",4,WORN EQUIPMENT
+Cloaking Coat,0,1,1,4,(Restricted),550,8,WORN EQUIPMENT
+Crash Gear,0,1,1,1,,550,3,WORN EQUIPMENT
+EOD-Mk II Explosives Disposal Armor,0,4,0,8,,"5,300",6,WORN EQUIPMENT
+Enviro-suit,0,2,1,2,,750,2,WORN EQUIPMENT
+Fabricators' Protective Gear,0,1,0,1,,450,1,WORN EQUIPMENT
+G-suit,0,1,1,2,,"2,000",3,WORN EQUIPMENT
+Hauling Harness,1,1,2,3,,"1,000",6,WORN EQUIPMENT
+Individual Field Disruptor,1,0,0,-,(Restricted),"9,500",7,WORN EQUIPMENT
+Mechanic's Utility Suit,0,2,1,5,,"1,175",3,WORN EQUIPMENT
+P-14 Hazardous Industry Suit,0,2,2,7,,"1,000",4,WORN EQUIPMENT
+Personal Deflector Shield,2,0,0,3,,"10,000",8,WORN EQUIPMENT
+Reflect Body Glove,0,3,0,2,,"2,500",5,WORN EQUIPMENT
+Reinforced Environment Gear,0,1,2,2,,850,4,WORN EQUIPMENT
+Sakiyan Shadowsuit,0,1,1,1,,"2,500",8,WORN EQUIPMENT
+SeaScape Diving Suit,0,2,0,3,,400,2,WORN EQUIPMENT
+Sith Pain Harness,0,2,0,2,(Restricted),"3,500",9,WORN EQUIPMENT
+Thinsuit,0,1,0,-,,"1,200",6,WORN EQUIPMENT
+Training Suit,0,2,0,6,(Restricted),400,9,WORN EQUIPMENT
+TX-3 Combat Flight Suit,1,0,2,4,(Restricted),"3,000",6,WORN EQUIPMENT
+Wing Commander Armored Flight Suit,1,1,1,3,,"1,500",6,WORN EQUIPMENT
+Zephyr Stealth Suit,1,1,1,2,(Restricted),"5,500",8,WORN EQUIPMENT
