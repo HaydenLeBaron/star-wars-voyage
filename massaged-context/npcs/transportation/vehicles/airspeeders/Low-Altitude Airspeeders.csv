@@ -1,4 +1,4 @@
-Model,Silhouette,Speed,HP,(R),Price,Rarity,Weapons?
+Model,Silhouette,Speed,HP,(Restricted),Price,Rarity,Weapons?
 T-47 Sandspeeder,2,4,2,,18000,5,Yes
 Ascendant Personal Stealth Flyer,2,3,2,,35000,9,No
 Civilian Airspeeder,2,3,1,,10000,3,No
@@ -8,5 +8,5 @@ Nebulon-Q Racing Swoop,2,3,3,,5500,5,No
 "S-K2 ""Skywing"" Personal Speeder",2,3,0,,1000,4,No
 SoroSuub Rapid Service Speeder J-15,3,2,5,,25000,5,No
 T-47 Airspeeder,2,4,2,,18000,3,Yes
-Tetan Guard Airspeeder,2,3,1,(R),25000,5,Yes
+Tetan Guard Airspeeder,2,3,1,(Restricted),25000,5,Yes
 Ubrikkian TRL-03 SkyClaw,5,1,5,,60000,6,Yes

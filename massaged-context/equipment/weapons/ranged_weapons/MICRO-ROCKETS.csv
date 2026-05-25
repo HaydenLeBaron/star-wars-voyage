@@ -1,6 +1,0 @@
-Name,Skill,Dam,Crit,Range,Encum,HP,(R),Price,Rarity,Special
-Anti-Armor Micro-Rocket,Ranged (Heavy),8,4,Short,1,1,,300,5,"Breach 1, Limited Ammo 1"
-Explosive Micro-Rocket,Ranged (Heavy),7,2,Short,1,1,,150,4,"Blast 6, Limited Ammo 1"
-Flechette Micro-Rocket,Ranged (Heavy),6,2,Short,1,1,,175,5,"Blast 5, Limited Ammo 1, Vicious 2"
-Incendiary Micro-Rocket,Ranged (Heavy),6,3,Short,1,1,,175,5,"Blast 6, Burn 2, Limited Ammo 1"
-Ion Micro-Rocket,Ranged (Heavy),10,3,Short,1,1,,100,6,"Ion, Limited Ammo 1, Sunder"

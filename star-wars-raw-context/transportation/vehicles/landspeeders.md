@@ -13,16 +13,16 @@ Contents
 Swoops & Bikes
 Many landspeeders are known as swoops, or more colloquially known as bikes due to their resemblance to the ancient wheeled vehicle known as bicycles. These can often come with built-in weapons for self defense, or offense as many are used by criminals and gangs.
 
-Model	Silhouette	Speed	HP	(R)	Price	Rarity	Weapons?
+Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity	Weapons?
 580-AvA "Dash" Speeder Bike	2	2	1		1800	6	No
 610-AvA "Dart" Speeder Bike	2	2	4		2400	6	No
-614-AvA Speeder Bike	2	2	1	(R)	4200	6	Yes
+614-AvA Speeder Bike	2	2	1	(Restricted)	4200	6	Yes
 64-Y Swift 3 Repulsorsled	2	3	4		8000	7	Yes
 74-Z Speeder Bike	2	3	2		3000	4	Yes
 85-XS Odyssey Heavy Speeder Bike	2	2	4		4500	5	No
 88-R "Nightscreamer" Speeder Bike	2	4	2		5500	6	Yes
 Aratech 57-D Speeder Bike	2	3	3		2800	4	No
-BARC Speeder	2	3	1	(R)	9500	7	Yes
+BARC Speeder	2	3	1	(Restricted)	9500	7	Yes
 CEC D-22 "Screamer" Speeder Bike	2	4	2		4500	3	No
 CK-6 Swoop	2	2	1		4500	5	Yes
 Joben T-85 Speeder Bike	2	2	5		1500	4	No
@@ -30,7 +30,7 @@ KV Swoop	2	3	0		4800	5	No
 Mobquet Flare-S Swoop Bike	2	3	2		6000	3	No
 Mobquet Flare-V Swoop Bike	2	4	1		5000	4	No
 Mobquet S-5 "Flashfury" Swoop	2	5	3		5500	3	No
-Panther Police Interceptor	2	4	3	(R)	11000	4	No
+Panther Police Interceptor	2	4	3	(Restricted)	11000	4	No
 STAP Assault Platform	2	3	1		2500	4	Yes
 Starhawk Speeder Bike	2	3	1		2000	3	No
 Starhawk Speeder Bike with sidecar	2	3	2		2500	3	No
@@ -40,7 +40,7 @@ Zephyr-G Swoop	2	2	2		5700	4	No
 Skiffs & Landspeeders
 There is a middle category of landspeeder that includes a variety of utility vehicles and personal transports, as well as some military vehicles.
 
-Model	Silhouette	Speed	HP	(R)	Price	Rarity	Weapons?
+Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity	Weapons?
 8880 Luxury Landspeeder	3	2	2		40000	7	No
 9400 Grand Wanderer	4	2	3		35000	8	No
 A-A3 Dray Light Speeder Truck	3	1	3		7000	2	No
@@ -69,7 +69,7 @@ SoroSuub Seraph "Flash Speeder"	2	3	2		5200	4	Yes
 Sunrunner ZX Landspeeder	2	2	3		8500	5	Yes
 SuperHaul Model II Cargo Skiff	2	2	2		8000	3	No
 Trast A-A5 Heavy Speeder Truck	3	1	3		10000	2	No
-Ubrikkian Industries Bantha-II Cargo Skiff	2	3	2	(R)	8000	4	No
+Ubrikkian Industries Bantha-II Cargo Skiff	2	3	2	(Restricted)	8000	4	No
 Ubrikkian Industries Luxury-class Sail Barge	4	2	2		300000	6	Yes
 Ubrikkian Industries Pongeeta-class Swamp Speeder	2	2	2		6000	3	No
 V-35 Courier (DA)	2	1	2		5500	2	No
@@ -80,18 +80,18 @@ XP-40 Luxury Coach	3	3	2		45000	7	No
 Military Speeders
 Powerful enough repulsorlifts can be fitted into armoured vehicles in order to enable such weapons platforms as hover tanks. These can often be fast and mobile, though may face issues on more uneven terrain.
 
-Model	Silhouette	Speed	HP	(R)	Price	Rarity	Weapons?
-1-L Imperial-Series Repulsor Tank	3	2	1	(R)	50000	5	Yes
-AAT-1 Hover Tank	3	2	2	(R)	75000	6	Yes
+Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity	Weapons?
+1-L Imperial-Series Repulsor Tank	3	2	1	(Restricted)	50000	5	Yes
+AAT-1 Hover Tank	3	2	2	(Restricted)	75000	6	Yes
 D-4 Mobile Defense Platform	4	2	4		20000	6	Yes
-HAVR A9 Floating Fortress	3	1	1	(R)	130000	5	Yes
-Imperial Troop Transport	3	2	0	(R)	70000	4	Yes
-LAVr QU-7 Chariot Command Speeder	3	4	2	(R)	40000	5	Yes
-Multi Troop Transport	3	2	1	(R)	120000	5	Yes
+HAVR A9 Floating Fortress	3	1	1	(Restricted)	130000	5	Yes
+Imperial Troop Transport	3	2	0	(Restricted)	70000	4	Yes
+LAVr QU-7 Chariot Command Speeder	3	4	2	(Restricted)	40000	5	Yes
+Multi Troop Transport	3	2	1	(Restricted)	120000	5	Yes
 RTT-04 Armoured Troop Transport	3	3	2		42000	5	Yes
-RX-200 "Falchion" Ion Tank	3	3	2	(R)	75000	6	Yes
-SC2-M Repulsor Tank	3	2	2	(R)	65000	5	Yes
-T2-E Petard-class Combat Engineering Vehicle	3	2	2	(R)	88000	7	Yes
-TX-130 Saber-class Fighter Tank	3	4	2	(R)	85000	6	Yes
-UEV-M1 Marauder Engineer Squad Carrier	3	2	2	(R)	98000	8	Yes
+RX-200 "Falchion" Ion Tank	3	3	2	(Restricted)	75000	6	Yes
+SC2-M Repulsor Tank	3	2	2	(Restricted)	65000	5	Yes
+T2-E Petard-class Combat Engineering Vehicle	3	2	2	(Restricted)	88000	7	Yes
+TX-130 Saber-class Fighter Tank	3	4	2	(Restricted)	85000	6	Yes
+UEV-M1 Marauder Engineer Squad Carrier	3	2	2	(Restricted)	98000	8	Yes
 WLO-5 Light Speeder Tank	3	3	2		115000	7	Yes

@@ -4,15 +4,15 @@ Model,Silhouette,Speed,HP,Price,Rarity,Hyperdrive?
 """X-Wing"" Multi-Role Starfighter",3,5,1,"120,000",5,Yes
 A-Type Stiletto,3,4,0,"90,000",7,No
 Aggressor Assault Fighter,4,5,3,"160,000",6,Yes
-"Alpha-class Xg-1 ""Star Wing"" Assault Gunboat",3,4,2,"(R) 135,000",7,Yes
-ARC-170 Heavy Starfighter,3,4,2,"(R) 180,000",5,Yes
+"Alpha-class Xg-1 ""Star Wing"" Assault Gunboat",3,4,2,"(Restricted) 135,000",7,Yes
+ARC-170 Heavy Starfighter,3,4,2,"(Restricted) 180,000",5,Yes
 ARC-40B Scout-Reconnaissance Fighter,3,4,2,"85,000",7,Yes
 Belbullab-22 Heavy Starfighter,3,4,3,"168,000",6,Yes
 Blade-32 Superiority Fighter,3,4,1,"60,000",7,Yes
 CloakShape Fighter,3,4,3,"38,000",4,No
 Cutlass-9 Patrol Fighter,3,3,3,"40,000",4,Yes
 Delta-6 System Defense Starfighter,3,4,2,"30,000",4,No *
-Droid Tri-Fighter,3,5,2,"(R) 40,000",8,No
+Droid Tri-Fighter,3,5,2,"(Restricted) 40,000",8,No
 "E-7 ""E-Wing"" Multi-Role Starfighter",3,5,1,"160,000",8,Yes
 G-1A Heavy Starfighter,3,4,4,"130,000",7,Yes
 HH-87 Starhopper Starfighter,3,4,2,"50,000",4,Yes
@@ -30,15 +30,15 @@ R-41 Starchaser,3,4,2,"55,000",7,Yes
 Republic Z-95 Headhunter,3,4,2,"75,000",5,No
 StarViper-class Attack Platform,3,4,0,"160,000",7,Yes
 Starviper M-2,3,4,0,"160,000",7,Yes
-"TIE/ag ""Aggressor"" Starfighter",3,4,0,"(R) 75,000",9,No
-"TIE/d ""Defender"" Multi-Role Starfighter",3,4,0,"(R) 300,000",8,Yes
-"TIE/hu ""Hunter"" Multi-role Starfighter",3,5,0,"(R) 275,000",9,Yes
-TIE/ln Starfighter,3,5,0,"(R) 50,000",4,No
-TIE/mg Mining Guild Starfighter,3,4,0,"(R) 40,000",6,No
-"TIE/ph ""Phantom"" Multi-Role Stealth Starfighter",3,5,0,"(R) 365,000",9,Yes
-"TIE/br ""Brute"" Heavy Starfighter",3,4,0,"(R) 188,000",4,No
-"TIE/rp ""Reaper"" Attack Lander",3,4,0,"(R) 100,000",6,No
-TIE/sk Striker Multi-Role Fighter,3,6,0,"(R) 50,000",6,No
+"TIE/ag ""Aggressor"" Starfighter",3,4,0,"(Restricted) 75,000",9,No
+"TIE/d ""Defender"" Multi-Role Starfighter",3,4,0,"(Restricted) 300,000",8,Yes
+"TIE/hu ""Hunter"" Multi-role Starfighter",3,5,0,"(Restricted) 275,000",9,Yes
+TIE/ln Starfighter,3,5,0,"(Restricted) 50,000",4,No
+TIE/mg Mining Guild Starfighter,3,4,0,"(Restricted) 40,000",6,No
+"TIE/ph ""Phantom"" Multi-Role Stealth Starfighter",3,5,0,"(Restricted) 365,000",9,Yes
+"TIE/br ""Brute"" Heavy Starfighter",3,4,0,"(Restricted) 188,000",4,No
+"TIE/rp ""Reaper"" Attack Lander",3,4,0,"(Restricted) 100,000",6,No
+TIE/sk Striker Multi-Role Fighter,3,6,0,"(Restricted) 50,000",6,No
 V-19 Torrent Starfighter,3,4,1,"75,000",4,Yes
 Vulture-class Droid Starfighter,3,5,0,"40,000",5,No
 Z-95-AF4 Headhunter,3,4,2,"55,000",4,No

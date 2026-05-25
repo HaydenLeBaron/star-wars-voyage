@@ -1,8 +1,8 @@
 Equipment,Price,Encum.,Rare.,Features
 1.4 FD P-Tower Light Anti-Vehicle Battery,"4,000",-,2,Weapon emplacement for attacking vehicles
 AlderaanMotors Heat Sink Power Generator,550,-,2,Powers a single modular base structure
-CryonCorp Mk. I Cat's Eye Multipurpose Sensor Suite,"2,750 (R)",-,5,Planetary scale long range scanner
-DefenStar Ltd. Nyalsan II Planetary Shield Generator,"460,000 (R)",-,4,Provides ranged defense for large ground areas
-Golan Arms DF.11 Anti-Infantry Battery,"7,500 (R)",-,5,Weapon emplacement for attack infantry
+CryonCorp Mk. I Cat's Eye Multipurpose Sensor Suite,"2,750 (Restricted)",-,5,Planetary scale long range scanner
+DefenStar Ltd. Nyalsan II Planetary Shield Generator,"460,000 (Restricted)",-,4,Provides ranged defense for large ground areas
+Golan Arms DF.11 Anti-Infantry Battery,"7,500 (Restricted)",-,5,Weapon emplacement for attack infantry
 PSF Mk III Power Fence,"10,000",10,7,Generator to power 20x 4m tall pylons for an energy shield fence
 TacNet Tactical Data Network,"1,000",-,3,An array of sensors and comms arrays to survey a battlefield

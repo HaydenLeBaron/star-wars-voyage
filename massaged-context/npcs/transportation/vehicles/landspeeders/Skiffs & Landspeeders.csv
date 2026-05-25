@@ -1,4 +1,4 @@
-Model,Silhouette,Speed,HP,(R),Price,Rarity,Weapons?
+Model,Silhouette,Speed,HP,(Restricted),Price,Rarity,Weapons?
 8880 Luxury Landspeeder,3,2,2,,40000,7,No
 9400 Grand Wanderer,4,2,3,,35000,8,No
 A-A3 Dray Light Speeder Truck,3,1,3,,7000,2,No
@@ -27,7 +27,7 @@ SoroSuub Portable Store KRI-80,4,1,5,,60000,6,No
 Sunrunner ZX Landspeeder,2,2,3,,8500,5,Yes
 SuperHaul Model II Cargo Skiff,2,2,2,,8000,3,No
 Trast A-A5 Heavy Speeder Truck,3,1,3,,10000,2,No
-Ubrikkian Industries Bantha-II Cargo Skiff,2,3,2,(R),8000,4,No
+Ubrikkian Industries Bantha-II Cargo Skiff,2,3,2,(Restricted),8000,4,No
 Ubrikkian Industries Luxury-class Sail Barge,4,2,2,,300000,6,Yes
 Ubrikkian Industries Pongeeta-class Swamp Speeder,2,2,2,,6000,3,No
 V-35 Courier (DA),2,1,2,,5500,2,No

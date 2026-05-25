@@ -1,44 +1,44 @@
-Drug,(R),Price,Enc.,Rare.,Effect
-Ashes of Malachor,(R),750,0,8,Empowers force sensitive beings
-Avabush Spice (single),(R),25,0,6,Induces lethargy and relaxation
-Avabush Spice (box of 100),(R),2000,3,7,Induces lethargy and relaxation
-Booster Blue (single),(R),10,0,5,Short-term enhancement
-Booster Blue (box of 100),(R),750,3,6,Short-term enhancement
+Drug,(Restricted),Price,Enc.,Rare.,Effect
+Ashes of Malachor,(Restricted),750,0,8,Empowers force sensitive beings
+Avabush Spice (single),(Restricted),25,0,6,Induces lethargy and relaxation
+Avabush Spice (box of 100),(Restricted),2000,3,7,Induces lethargy and relaxation
+Booster Blue (single),(Restricted),10,0,5,Short-term enhancement
+Booster Blue (box of 100),(Restricted),750,3,6,Short-term enhancement
 Corellian Whiskey (single),,25,1,2,Alcoholic drink
 Corellian Whiskey (box of 25),,500,20,2,Alcoholic drink
-Death Stick (single),(R),5,0,1,Hallucinogentic but debilitating and addictive
-Death Stick (box of 100),(R),250,3,2,Hallucinogentic but debilitating and addictive
-Frangawl Force Powder,(R),2000,0,10,Enhances dark side power in force sensitive beings
-Glitterstim (single),(R),100,0,7,"Enhances attention, causes paranoia"
-Glitterstim (box of 100),(R),5000,5,8,"Enhances attention, causes paranoia"
-Gunjack Spice (single),(R),75,1,5,Enhances strength at the expense of mental abilities
-Gunjack Spice (box of 100),(R),7000,25,6,Enhances strength at the expense of mental abilities
-Impact (single),(R),125,0,6,Short-term agility enhancement
-Impact (box of 100),(R),10000,5,7,Short-term agility enhancement
+Death Stick (single),(Restricted),5,0,1,Hallucinogentic but debilitating and addictive
+Death Stick (box of 100),(Restricted),250,3,2,Hallucinogentic but debilitating and addictive
+Frangawl Force Powder,(Restricted),2000,0,10,Enhances dark side power in force sensitive beings
+Glitterstim (single),(Restricted),100,0,7,"Enhances attention, causes paranoia"
+Glitterstim (box of 100),(Restricted),5000,5,8,"Enhances attention, causes paranoia"
+Gunjack Spice (single),(Restricted),75,1,5,Enhances strength at the expense of mental abilities
+Gunjack Spice (box of 100),(Restricted),7000,25,6,Enhances strength at the expense of mental abilities
+Impact (single),(Restricted),125,0,6,Short-term agility enhancement
+Impact (box of 100),(Restricted),10000,5,7,Short-term agility enhancement
 Ji Rikknit (single),,50,0,6,"Causes euphoria, but highly addictive"
 Ji Rikknit (box of 100),,3000,5,7,"Causes euphoria, but highly addictive"
-Karrak Spice (single),(R),80,0,1,"Powerful painkiller, but causes lethargy"
-Karrak Spice (box of 100),(R),6400,5,3,"Powerful painkiller, but causes lethargy"
-Lesai (single),(R),500,0,9,Removes the effect of being tired
-Lesai (box of 100),(R),7500,2,10,Removes the effect of being tired
-Longsight,(R),650,0,8,Increases willpower while straining the nervous system
+Karrak Spice (single),(Restricted),80,0,1,"Powerful painkiller, but causes lethargy"
+Karrak Spice (box of 100),(Restricted),6400,5,3,"Powerful painkiller, but causes lethargy"
+Lesai (single),(Restricted),500,0,9,Removes the effect of being tired
+Lesai (box of 100),(Restricted),7500,2,10,Removes the effect of being tired
+Longsight,(Restricted),650,0,8,Increases willpower while straining the nervous system
 Marcan Herb (single),,20,1,4,Causes mild euphoria
 Marcan Herb (box of 100),,1750,25,5,Causes mild euphoria
-Muon Gold (single),(R),50,0,6,Short-term enhancement of wits
-Muon Gold (box of 100),(R),4000,3,6,Short-term enhancement of wits
+Muon Gold (single),(Restricted),50,0,6,Short-term enhancement of wits
+Muon Gold (box of 100),(Restricted),4000,3,6,Short-term enhancement of wits
 Nala Tree Frog,,15,1,5,"Not really a spice, just a Hutt delicacy"
 Nannarium Root,,200,0,6,Enhances mental abilities
-Neutron Pixie (single),(R),100 (R),1,6,Short-term enhancement agility and willpower
-Neutron Pixie (box of 100),(R),8500,25,7,Short-term enhancement agility and willpower
-Ryll (single),(R),50,1,4,Painkiller to overcome permanent injury
-Ryll (box of 100),(R),4500,25,5,Painkiller to overcome permanent injury
+Neutron Pixie (single),(Restricted),100 (Restricted),1,6,Short-term enhancement agility and willpower
+Neutron Pixie (box of 100),(Restricted),8500,25,7,Short-term enhancement agility and willpower
+Ryll (single),(Restricted),50,1,4,Painkiller to overcome permanent injury
+Ryll (box of 100),(Restricted),4500,25,5,Painkiller to overcome permanent injury
 Ryshcate,,10,0,2,Alcoholic cake
 Stimcaf Powder,,3,0,4,Powdered caffeine
 Sulfur Inhaler,,120,0,3,Enhances Devaronian's physiology
 Vutalamine,,125,0,5,"Increases level-headeness, can cause memory loss and impaired judgement"
 Whyren's Reserve (single),,100,1,4,Alcoholic drink
 Whyren's Reserve (box of 20),,1500,10,5,Alcoholic drink
-Yaladai Spice (single),(R),1000,0,7,"Increases ability to harness the force for already sensitives, and reduces exhaustion"
-Yaladai Spice (box of 100),(R),80000,5,8,"Increases ability to harness the force for already sensitives, and reduces exhaustion"
-Yarrock (single),(R),350,0,8,Causes fearlessness in short term
-Yarrock (box of 100),(R),20000,3,9,Causes fearlessness in short term
+Yaladai Spice (single),(Restricted),1000,0,7,"Increases ability to harness the force for already sensitives, and reduces exhaustion"
+Yaladai Spice (box of 100),(Restricted),80000,5,8,"Increases ability to harness the force for already sensitives, and reduces exhaustion"
+Yarrock (single),(Restricted),350,0,8,Causes fearlessness in short term
+Yarrock (box of 100),(Restricted),20000,3,9,Causes fearlessness in short term

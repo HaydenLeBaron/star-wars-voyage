@@ -1,4 +1,4 @@
-Type,Defense,Soak,HP,Encum,(R),Price,Rarity
+Type,Defense,Soak,HP,Encum,(Restricted),Price,Rarity
 Banal Apparel,0,0,0,-,,25,0
 Cargo Clothes,0,0,0,1,,30,0
 Concealing Robes,0,1,0,1,,150,2

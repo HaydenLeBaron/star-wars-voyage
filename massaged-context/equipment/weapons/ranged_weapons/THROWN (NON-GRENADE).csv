@@ -1,9 +1,0 @@
-Name,Skill,Dam,Crit,Range,Encum,HP,(R),Price,Rarity,Special
-Ascian Throwing Dagger,Ranged (Light),+1,2,Short,1,0,,65,7,"Pierce 2, Limited Ammo 1"
-Aurateran Boomerang,Ranged (Light),4,5,Medium,1,0,,65,6,"Guided 1, Limited Ammo 1"
-Bola,Ranged (Light),2,-,Short,1,2,,20,2,"Ensnare 3, Knockdown, Limited Ammo 1"
-Kyuzo War Shield (thrown),Ranged (Light),+1,4,Short,3,0,,750,8,"Cumbersome 3, Defensive 1, Deflection 2, Disorient 1, Limited Ammo 1"
-Net,Ranged (Light),2,-,Short,3,2,,20,2,"Ensnare 3, Knockdown, Limited Ammo 1"
-Repulsor Throwing Razor,Ranged (Light),5,2,Medium,2,1,,850,7,"Guided 2, Limited Ammo 1, Pierce 2, Vicious 1"
-Vibrorang,Ranged (Light),4,2,Medium,1,0,,300,4,"Limited Ammo 1, Pierce 2, Vicious 1"
-Voss Warspear (thrown),Ranged (Light),+2,4,Short,4,2,,215,8,"Defensive 2, Limited Ammo 1"

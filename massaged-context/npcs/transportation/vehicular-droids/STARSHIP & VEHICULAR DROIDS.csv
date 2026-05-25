@@ -1,11 +1,11 @@
-Name,Silh.,Speed,Hand.,Def.,Armor,HT,SS,(R),Price,Rarity
-Droid Tri-Fighter,3,5,+2,0/-/-/0,2,12,8,(R),"40,000",8
-HMP Droid Gunship,3,3,+0,2/-/-/1,4,20,16,(R),"60,000",8
-Hyena-class Droid Bomber,3,4,+0,0/-/-/0,3,14,12,(R),"120,000",7
+Name,Silh.,Speed,Hand.,Def.,Armor,HT,SS,(Restricted),Price,Rarity
+Droid Tri-Fighter,3,5,+2,0/-/-/0,2,12,8,(Restricted),"40,000",8
+HMP Droid Gunship,3,3,+0,2/-/-/1,4,20,16,(Restricted),"60,000",8
+Hyena-class Droid Bomber,3,4,+0,0/-/-/0,3,14,12,(Restricted),"120,000",7
 I-C2 Civil-Industrial Droid,4,1,-2,0/-/-/0,3,38,30,,"1,700,000",6
-I-C4a Combat Construction Droid,3,1,-2,0/-/-/0,2,25,15,(R),"750,000",6
-IG-227 Hailfire Tank,3,3,+2,0/-/-/0,1,6,8,(R),"25,000",6
-NR-N99 Persuader Heavy Droid Tank,3,2,-1,0/-/-/0,4,25,18,(R),"120,000",5
+I-C4a Combat Construction Droid,3,1,-2,0/-/-/0,2,25,15,(Restricted),"750,000",6
+IG-227 Hailfire Tank,3,3,+2,0/-/-/0,1,6,8,(Restricted),"25,000",6
+NR-N99 Persuader Heavy Droid Tank,3,2,-1,0/-/-/0,4,25,18,(Restricted),"120,000",5
 Q-Signal Messenger Drone (vessel),2,0,+0,0/-/-/0,2,15,10,,"12,000",5
 Sentry Droid,3,4,0,0/-/-/0,3,10,12,,Unknown,
 Sheathipede-class Shuttle (automated),4,3,+1,1/-/-/1,4,25,15,,"120,000",6

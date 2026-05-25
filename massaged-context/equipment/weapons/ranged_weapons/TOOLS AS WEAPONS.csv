@@ -1,7 +1,0 @@
-Name,Skill,Dam,Crit,Range,Encum,HP,(R),Price,Rarity,Special
-Ion Thruster Gun,Ranged (Heavy),5,4,Short,8,0,,300,2,"Concussive 1, Cumbersome 5, Ion, Prepare 1"
-Luma Flare,Gunnery,6,3,Long,1,-,,50,4,"Blast 4, Burn 4, Disorient 2, Inaccurate 2, Prepare 2, Limited Ammo 1"
-Multi-Goo Gun,Ranged (Light),2,NA,Short,2,1,,250,1,"Disorient 1, Ensnare 4, Knockdown"
-Redirection Crystal,Skulduggery,9,4,Short,-,-,(R),500,9,Limited Ammo 1
-Repulsor Gun,Ranged (Heavy),3,5,Short,5,0,,200,3,Knockdown
-Rivet Gun,Ranged (Light),4,3,Engaged,4,1,,900,1,"Ensnare 1, Inaccurate 1, Limited Ammo 1"

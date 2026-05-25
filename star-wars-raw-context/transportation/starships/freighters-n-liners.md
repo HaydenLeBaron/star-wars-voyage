@@ -18,10 +18,10 @@ These are all some variation on the classical Millennium Falcon, itself the popu
 
 Model	Hyperdrive	Encumbrance / Passengers	HP	Price	Rarity	Weapons?
 Barloz-Class Medium Freighter	Class 2 / 12	170 / 4	4	70,000	5	Yes
-CEC HWK-1000 Light Freighter	Class 1 / 12	100 / 4	5	(R) 120,000	10	No
+CEC HWK-1000 Light Freighter	Class 1 / 12	100 / 4	5	(Restricted) 120,000	10	No
 CorelliSpace Gymsnor-3 Light Freighter	Class 2 / 15	160 / 4	4	80,000	6	Yes
 CorelliSpace Gymsnor-4 Light Freighter	Class 2 / 15	160 / 4	5	95,000	6	Yes
-Darvro-class Light Freighter	Class 1 / 12	120 / 4	4	(R) 250,000	9	Yes
+Darvro-class Light Freighter	Class 1 / 12	120 / 4	4	(Restricted) 250,000	9	Yes
 G9 Rigger Light Freighter	Class 3	80 / 6	4	55,000	5	Yes
 Ghtroc 720 Light Freighter	Class 2 / 15	200 / 10	4	112,000	8	Yes
 GX1 Short Hauler	Class 2 / 12	200 / 6	5	85,000	5	Yes
@@ -53,15 +53,15 @@ The bulk shipping companies typically employ convoys of these freighters escorte
 Model	Hyperdrive	Encumbrance	HP	Price	Rarity	Weapons?
 Action IV Bulk Freighter	Class 3	8,500	4	150,000	4	Yes
 Action VI Bulk Transport	Class 3 / 20	10,000	4	200,000	5	No
-C-9979 Landing Craft	Class 2 / 15	>5,500 (and complement)	2	(R) 12,000,000	6	Yes
-Eta-class Supply Barge	Class 3 / 12	12,000	2	(R) 750,000	7	No
+C-9979 Landing Craft	Class 2 / 15	>5,500 (and complement)	2	(Restricted) 12,000,000	6	Yes
+Eta-class Supply Barge	Class 3 / 12	12,000	2	(Restricted) 750,000	7	No
 GR-75 Medium Transport	Class 4 / 15	1,000	4	180,000	6	No
 HT-2200 Medium Freighter	Class 3 / 15	800	5	140,000	5	Yes
 LH75 Speciality Live-Haul Freighter	Class 3 / 15	1,000	3	126,000	5	Yes
 Mobquet Medium Transport	Class 2 / 15	5,000	5	275,000	5	Yes
 ND-47 Stalwart Bulk Freighter	Class 3 / 12	200	2	70,000	6	No
 Space Master Medium Transport	Class 4 / 15	800	2	150,000	4	Yes
-Star Galleon Armed Transport	Class 2 / 12	10,000	2	(R) 1,500,000	7	Yes
+Star Galleon Armed Transport	Class 2 / 12	10,000	2	(Restricted) 1,500,000	7	Yes
 Suwantek TL-1200 Transport	Class 2 / 13	600	5	170,000	6	Yes
 Temple-class Heavy Freighter	Class 2 / 18	30,000	6	950,000	6	No
 TL-18b Medium Transport	Class 2 / 10	400	5	157,000	7	Yes
@@ -76,12 +76,12 @@ Baudo-class Star Yacht	Class 2 / 12	8	6	250,000	9	Yes
 Caisson-class Engineering Troop Carrier	Class 3 / 12	40	2	190,000	6	Yes
 CEC WUD-500 Star Yacht	Class 1 / 8	6	5	98,500	6	Yes
 CSS-1 Corellian Star Shuttle	Class 1.5 / 12	200	4	325,000	6	No
-Curich-class Shuttle	Class 2 / 12	50	2	(R) 130,000	5	Yes
+Curich-class Shuttle	Class 2 / 12	50	2	(Restricted) 130,000	5	Yes
 H-Type Nubian Yacht	Class 1 / 7	8	0	800,000	7	No
 ILH-KK Citadel-class Light Freighter	Class 2 / 15	14	4	200,000	6	Yes
 J-Type Diplomatic Barge	Class 1 / 7	10	0	1,000,000	7	No
 J-Type Star Skiff	Class 1 / 12	3	0	260,000	7	Yes
-Kappa-class Shuttle	Class 2 / 18	40	2	(R) 110,000	5	Yes
+Kappa-class Shuttle	Class 2 / 18	40	2	(Restricted) 110,000	5	Yes
 Luxurious-class Yacht	Class 2 / 12	12	4	210,000	6	No
 SoroSuub Luxury 3000 Space Yacht	Class 2 / 14	10	4	120,000	6	No
 Starwind Pleasure Yacht	Class 1 / 15	10	2	210,000	6	Yes

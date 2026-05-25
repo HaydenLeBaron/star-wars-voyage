@@ -35,7 +35,7 @@ GX-8 Water Vaporator	2,000	12	2	Produces water from the air
 Imperial Army Canteen	7	1	1	Holds 1.5L of liquid and purifies water
 Imperial Army Field Rations	10	0	2	Provides 1 week of nutrition
 Instamist Generator	150	5	4	Produces a heavy fog
-Jedi Utility Belt	1,000 (R)	0	8	Contains a number of compact tools and items useful to jedi in the field
+Jedi Utility Belt	1,000 (Restricted)	0	8	Contains a number of compact tools and items useful to jedi in the field
 Kamperdine Clothing Specialists Body Glove	700	2	4	Provides cooling or heating for the wearer
 Luma Flare	50	1	4	Flare gun which can be used as a weapon or illuminate an area
 Mk. III Modular Backpack	75	-	1	Increase carrying capacity

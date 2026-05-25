@@ -1,19 +1,19 @@
-Type,HP Req,(R),Price,Price Modifier,Rarity
-Missile Pack,0 or 1,(R),10000,,5
-Mini-Missile Pack,0 or 1,(R),7000,,5
+Type,HP Req,(Restricted),Price,Price Modifier,Rarity
+Missile Pack,0 or 1,(Restricted),10000,,5
+Mini-Missile Pack,0 or 1,(Restricted),7000,,5
 "Ax-108 ""Ground Buzzer"" Surface-Defense Blaster Cannon",1,,2000,,5
 Electromagnetic Tow Cable Launcher,1,,2000,,2
 Flak Cannons (light),0 or 1,,6000,,5
 Flak Cannons (medium),0 or 1,,8000,,6
 Flak Cannons (heavy),0 or 1,,10000,,7
 Ion Torpedo Launcher,1,,6500,,7
-Minelayer,2,(R),4000,,6
+Minelayer,2,(Restricted),4000,,6
 Plasma Drill,3,,4000,,4
 Plasma Drill (table entry),1,,4000,,4
 Repeating Ion Cannon,1,,6000,,6
 Grappler 213 Tactical Tractor Beam,0 or 1,,6200,,7
-MM-XT Mini-Missile Tube,0 or 1,(R),700,,4
-Termite Torpedo Launcher,1,(R),10000,,8
+MM-XT Mini-Missile Tube,0 or 1,(Restricted),700,,4
+Termite Torpedo Launcher,1,(Restricted),10000,,8
 Upgraded Weapons (auto-blaster),0 or 1,,3000,,3
 Upgraded Weapons (light blaster),0 or 1,,4000,,2
 Upgraded Weapons (heavy blaster),0 or 1,,5000,,3
@@ -22,11 +22,11 @@ Upgraded Weapons (light ion),0 or 1,,5000,,5
 Upgraded Weapons (medium ion),0 or 1,,6000,,6
 Upgraded Weapons (heavy ion),0 or 1,,7500,,7
 Upgraded Weapons (battleship ion),0 or 1,,10000,,8
-Upgraded Weapons (proton torpedo),0 or 1,(R),9000,,7
+Upgraded Weapons (proton torpedo),0 or 1,(Restricted),9000,,7
 Upgraded Weapons (quad laser),0 or 1,,8000,,6
 Upgraded Weapons (light tractor),0 or 1,,6000,,4
 Upgraded Weapons (medium tractor),0 or 1,,8000,,5
 Upgraded Weapons (heavy tractor),0 or 1,,10000,,6
-Upgraded Weapons (light turbolaser),0 or 1,(R),12000,,7
-Upgraded Weapons (medium turbolaser),0 or 1,(R),15000,,7
-Upgraded Weapons (heavy turbolaser),0 or 1,(R),20000,,8
+Upgraded Weapons (light turbolaser),0 or 1,(Restricted),12000,,7
+Upgraded Weapons (medium turbolaser),0 or 1,(Restricted),15000,,7
+Upgraded Weapons (heavy turbolaser),0 or 1,(Restricted),20000,,8

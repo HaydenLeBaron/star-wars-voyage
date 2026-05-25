@@ -84,18 +84,18 @@ Communications Media Manipulator	400	6	6	Allows printing of posters and enhancem
 Concealed Escape Kit	450	0	7	Includes a number of small tools for use in escapes
 Consolidated Learning Systems Transliterator	1,200	1	3	Allows for translation of different languages to basic
 CorChemCo "Quickflash" Burning Gel	150	1	5	Burns through virtually any material
-Credit Cleaner	2,500 (R)	12	7	Makes credits untraceable
-Data Breaker	1,000 (R)	1	6	Allows to slice into computer systems
+Credit Cleaner	2,500 (Restricted)	12	7	Makes credits untraceable
+Data Breaker	1,000 (Restricted)	1	6	Allows to slice into computer systems
 Excavator's Precision Tool Kit	500	5	7	Designed for archeological digs
 Explosive Ordnance Disposal (EOD) Kit	400	4	5	Assists in identifying and neutralizing explosives
-Explosives Belt	450 (R)	1	7	Conceals explosives for stealthy charge setting
-Fingerprint Masque	1,000 (R)	0	7	Mimics fingerprints for scanners
-Flesh Camouflage Set	2,500 (R)	2	7	Disguises both physically and biologically
-Forgery Tools	650 (R)	2	8	Enables the creation of a forged document
-Garrote Chrono	100 (R)	0	5	Conceals a garrote in a chrono
-Holographic Disguise Matrix	10,000 (R)	1	9	Projects a holographic disguise based off a prior recorded person
+Explosives Belt	450 (Restricted)	1	7	Conceals explosives for stealthy charge setting
+Fingerprint Masque	1,000 (Restricted)	0	7	Mimics fingerprints for scanners
+Flesh Camouflage Set	2,500 (Restricted)	2	7	Disguises both physically and biologically
+Forgery Tools	650 (Restricted)	2	8	Enables the creation of a forged document
+Garrote Chrono	100 (Restricted)	0	5	Conceals a garrote in a chrono
+Holographic Disguise Matrix	10,000 (Restricted)	1	9	Projects a holographic disguise based off a prior recorded person
 Holographic Image Disguiser	1,100	2	6	Projects a holographic disguise
-Lightsaber Maintenance Kit	700 (R)	2	9	Equivalent to a tool kit, specialised for lightsabers
+Lightsaber Maintenance Kit	700 (Restricted)	2	9	Equivalent to a tool kit, specialised for lightsabers
 MDD-12 "Mercantiler" Datapad	250	1	3	Provides additional info for trades in a specific region
 Microaxial Starmapper Handheld Navicomputer	3,500	1	8	Handheld navigation assist for use in known space
 MicroData P-2 Pocket Attache	800	1	6	Datapad which is harder to slice
@@ -107,11 +107,11 @@ Military Modular Backpack (sensor unit)	3,000	2	3	Passive detection of movement 
 Military Modular Backpack (oxygen unit)	300	3	3	Provides 12 hours of oxygen
 Military Modular Backpack (storage unit)	25	-	2	Increases carrying capacity
 Mon Calamari Organic Gill	200	1	5	Allows breathing underwater
-Nano-Droids	50,000 (R)	-	9	Near invisible, can detonate like a thermal detonator
+Nano-Droids	50,000 (Restricted)	-	9	Near invisible, can detonate like a thermal detonator
 Pioneer Squad Tool Kit	4,000	25	5	Contains 6 individuals worth of building tools
-Poisoner's Ring	500 (R)	0	7	Contains single dose for concealed use
+Poisoner's Ring	500 (Restricted)	0	7	Contains single dose for concealed use
 Saline Pump	2,500	1	7	Improves a clawdite's shapeshifting ability
-Sleight Box	400 (R)	2-20	6	Can hide items within box
+Sleight Box	400 (Restricted)	2-20	6	Can hide items within box
 Specimen Container (tiny)	10	0	1	Sealed & resistant container with life-support
 Specimen Container (small)	25	1	2	Sealed & resistant container with life-support
 Specimen Container (medium)	50	3	2	Sealed & resistant container with life-support
@@ -125,10 +125,10 @@ There's a bunch of other items, such as manuals, documents printed for officials
 
 Gear	Price	Enc.	Rare.	Features
 Adamite Signet Ring	500	0	8	Signifies being part of the Paladins of the Adamite Tower
-Ardos Disk	10,000 (R)	1	5	Token of safe passage with a hutt clan
+Ardos Disk	10,000 (Restricted)	1	5	Token of safe passage with a hutt clan
 Cultural Etiquette Manual	35	0	3	Indicates cultural norms of a specific species
-Diplomatic Authorization	10,000 (R)	0	8	Provides a degree of diplomatic privileges
-Falsified Credentials	800 (R)	0	7	Appear as some official
+Diplomatic Authorization	10,000 (Restricted)	0	8	Provides a degree of diplomatic privileges
+Falsified Credentials	800 (Restricted)	0	7	Appear as some official
 Insider's Guide	25	0	2	Assists in finding services in specific region
 Military Field Manual	25	1	4	Contains knowledge on military procedures
 Musical Instrument (common)	50-100	1-5	2	Instrument for playing music
@@ -137,5 +137,5 @@ Musical Instrument (legendary)	20,000+	1-5	10	Instrument for playing music
 Species Database	150	2	2	Improves xenology ability
 Urban Compass	125	1	1	Provides navigation assistance in cities
 Wizard Pouch	50	-	4	Increases carrying capacity
-WJ-880 Blinding Helmet	10 (R)	3	8	Blinds user
+WJ-880 Blinding Helmet	10 (Restricted)	3	8	Blinds user
 Workshop Manual	100	1	-	Maintenance and repairs of specific vehicle is easier

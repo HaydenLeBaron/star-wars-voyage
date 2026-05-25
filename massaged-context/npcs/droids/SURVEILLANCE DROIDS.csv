@@ -1,10 +1,10 @@
-Model,NPC,Br/Ag/Int/Cun/Wil/Pr,Soak,WT,ST,M/R Def.,Skills,(R),Price,Rarity
+Model,NPC,Br/Ag/Int/Cun/Wil/Pr,Soak,WT,ST,M/R Def.,Skills,(Restricted),Price,Rarity
 AC1-series Surveillance Droid,Minion,1/2/1/1/1/1,2,8,,0/0,"Perception, Ranged (Light), Stealth",,"1,100",4
 Chameleon Droid,Rival,2/3/1/2/1/1,3,8,,0/0,"Perception, Ranged (Heavy), Stealth",,"4,000",6
 All-Terrain Exploration Droid,Rival,1/3/1/3/1/1,4,15,,0/0,"Coordination, Perception, Ranged (Heavy), Vigilance",,"8,900",5
-ID9 Seeker Droid,Minion,1/3/1/2/1/1,3,5,,0/0,"Computers, Coordination, Melee, Stealth",(R),"4,500",7
+ID9 Seeker Droid,Minion,1/3/1/2/1/1,3,5,,0/0,"Computers, Coordination, Melee, Stealth",(Restricted),"4,500",7
 Hologlide J57 Cam Droid,Minion,1/3/1/1/1/1,0,2,,0/0,"Perception, Vigilance",,800,3
 "RMD-20 ""Eye in the Sky""",Minion,1/3/1/1/1/1,1,3,,0/0,"Perception, Vigilance",,500,4
-SR-series Scout/Observation Droid,Rival,2/3/3/3/3/2,4,13,,0/0,"Athletics, Computers, Perception, Ranged (Heavy), Stealth, Vigilance, Warfare",(R),"13,000",6
-TC-SC Infiltration Droid,Nemesis,2/2/3/4/2/3,3,10,10,0/0,"Athletics, Computers, Cool, Deception, Melee, Perception, Ranged (Light), Skulduggery, Stealth, Vigilance",(R),"15,600",8
-Viper Probe Droid,Rival,2/3/2/3/1/1,4,12,,0/1,"Cool, Perception, Ranged (Light), Survival, Vigilance",(R),"13,700",7
+SR-series Scout/Observation Droid,Rival,2/3/3/3/3/2,4,13,,0/0,"Athletics, Computers, Perception, Ranged (Heavy), Stealth, Vigilance, Warfare",(Restricted),"13,000",6
+TC-SC Infiltration Droid,Nemesis,2/2/3/4/2/3,3,10,10,0/0,"Athletics, Computers, Cool, Deception, Melee, Perception, Ranged (Light), Skulduggery, Stealth, Vigilance",(Restricted),"15,600",8
+Viper Probe Droid,Rival,2/3/2/3/1/1,4,12,,0/1,"Cool, Perception, Ranged (Light), Survival, Vigilance",(Restricted),"13,700",7

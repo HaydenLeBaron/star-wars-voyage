@@ -28,7 +28,7 @@ Jump Boots,"1,200",6,1,Encumbrance 4-,Integrates boot jetpacks into armour
 Kiirium Coating,"2,500",7,2,Has solid plating,Increases soak against heat weapons
 Low-Friction Coating,750,5,1,Has solid interlocking plates,Increases slickness of the armour
 Merr-Sonn VX Hands-Free Weapon System,"1,000",6,2,-,Mounts a weapon for hands-free use
-Micro-Rocket Armour Mounting,800 (R),6,2,-,Allows firing micro-rockets without needing to draw
+Micro-Rocket Armour Mounting,800 (Restricted),6,2,-,Allows firing micro-rockets without needing to draw
 Optical Camouflage System,"5,500",6,2,Light armour (not laminate/ battle armour),Masks the wearer optically
 Passive Foliage Suit,75,2,1,-,Net for attaching leaves to armour for concealment
 Personal Vibrosaw,900,1,1,Has bracers,Has a weapon and can cut through large obstacles
@@ -37,16 +37,16 @@ Portable Plasma Shield,"2,500",4,2,Has bracers,Implants shield on forearm
 Quick Shed,650,4,1,Encumbrance 3+,Shed armour instantly
 Radiation Shielding,500,3,1,Sealable full-body armour,Gives resistance to radiation
 Reactive Plating,"2,000",6,2,Soak 2+,Makes wearer impervious to attack once
-Reflec Adaptive Skin,"3,500 (R)",7,2,-,Makes wearer harder to detect
-Reflec Shadowskin,"1,200 (R)",6,1,Soak 2-,Makes wearer harder to detect
+Reflec Adaptive Skin,"3,500 (Restricted)",7,2,-,Makes wearer harder to detect
+Reflec Shadowskin,"1,200 (Restricted)",6,1,Soak 2-,Makes wearer harder to detect
 Reinforced Gauntlets,250,2,2,Soak 2+,May use as improved unarmed attack
 Repulsor Pack,"2,500",4,2,-,Safer form of jetpack
 Repulsor-Assisted Lifting,"1,000",3,2,Full-body hard armour,Increases carrying capacity
 Retractable Wrist Blades,150,1,1,Has bracers,Retractable melee weapon
-Scannerweave,"1,800 (R)",6,2,-,Makes wearer hard to detect by scanners
+Scannerweave,"1,800 (Restricted)",6,2,-,Makes wearer hard to detect by scanners
 Self-Repair Systems,"3,000",6,2,Defense 1+,Armour can repair itself
 Squad Tactical Systems,"2,000",5,1,Has helmet,"Improves coordination with allies, includes comlink"
-Stealth Field Generator,"3,800 (R)",7,2,-,Makes wearer harder to detect
+Stealth Field Generator,"3,800 (Restricted)",7,2,-,Makes wearer harder to detect
 Strength Enhancement System,"5,500",4,2,Full-body hard armour,Increases wearer's strength
 Stun Matrix,"1,750",3,3,-,Discharges into close quarters combatants when hit
 Superior Armour Customisation,"5,000",6,1,-,Makes armour superior

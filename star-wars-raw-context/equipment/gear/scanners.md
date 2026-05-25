@@ -16,7 +16,7 @@ Bioscan (Scanner)	2,000	1	1	Can detect life-forms and potentially identify their
 Bothawui Communications Conglomerate HSI-280 Hyperwave Signal Interceptor	10,500	5	8	Intercepts communications travelling through hyperspace and subspace
 Cargo Scanner	300	1	4	Determines carrying capacity of a vessel
 Chedak Mark 10 Demolitions Scanner	300	1	4	Detects explosive devices
-Com-Scan	5,000 (R)	10	6	Triangulates location of known comlinks/tranceivers at close planetary range
+Com-Scan	5,000 (Restricted)	10	6	Triangulates location of known comlinks/tranceivers at close planetary range
 Concealed Recorder	175	0	5	Records audio from an inconspicuous device
 CryonCorp Armascan Weapon Detection Goggles	750	1	5	Detects weaponry of all kind
 CryonCorp EnhanceScan Long-Range Terrain Scanner	850	6	6	Produces detailed maps of a planetary body
@@ -34,7 +34,7 @@ Infrabinoculars (basic)	350	1	5	Views through thick walls
 Infrabinoculars (long-range)	500	1	6	Views through thick walls at longer range
 Low-Feedback Scanner	700	4	5	Detects radiation and life-forms at range
 Macrobinoculars	75	1	2	Allows long range sight
-Microdroid Listener	1,500 (R)	0	6	Tiny droid that can record audio and move about, must be retrieved to obtain data
+Microdroid Listener	1,500 (Restricted)	0	6	Tiny droid that can record audio and move about, must be retrieved to obtain data
 Mine Detector	350	1	4	Reveals mines within a decent range
 Paradour Enterprises Signature Scent Synthesizer	1,500	1	4	Produces pleasant smells, such as perfume
 PX-7 Heat Sensor	250	3	7	Detects all heat signatures
@@ -45,7 +45,7 @@ Shipboard Systems Scanner	145	1	4	Detects system strain on vehicles and starship
 Sporting Macrobinoculars	250	1	2	Macrobinoculars with recording ability
 SuriTech Foodstuffs Ez1 Analyser	300	1	3	Scans food for safety - per species
 Surveillance Scanner	750	2	5	Scans for surveillance equipment
-Surveillance Tagger	175 (R)	0	4	Tracks and transmits audio back from planted location
+Surveillance Tagger	175 (Restricted)	0	4	Tracks and transmits audio back from planted location
 Surveyor's Equipment	700	6	8	Maps surfaces for ease of construction
 TaggeCo Privacy-7 Audio Curtain	500	4	6	Barrier which disrupts audio waves
 Toxin Detector	125	1	4	Determines if there are toxins or poisons in the environment

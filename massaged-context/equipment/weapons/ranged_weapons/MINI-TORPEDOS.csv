@@ -1,7 +1,0 @@
-Name,Skill,Dam,Crit,Range,Encum,HP,(R),Price,Rarity,Special
-"Mini-Torpedo, Anti-Personnel",Ranged (Heavy),8,2,Long,1,0,,100,5,"Blast 6, Limited Ammo 1"
-"Mini-Torpedo, Armor Piercing",Ranged (Heavy),12,3,Medium,1,0,,150,6,"Blast 2, Limited Ammo 1, Pierce 4"
-"Mini-Torpedo, Ink",Ranged (Heavy),0,n/a,Long,1,0,,50,6,"Blast 0, Disorient 4, Limited Ammo 1"
-"Mini-Torpedo, Ion",Ranged (Heavy),10,2,Long,1,0,,150,6,"Blast 8, Ion, Limited Ammo 1"
-"Mini-Torpedo, Net",Ranged (Heavy),0,n/a,Medium,1,0,,100,5,"Blast 0, Ensnare 6, Limited Ammo 1"
-"Mini-Torpedo, Stun",Ranged (Heavy),8,2,Long,1,0,,300,5,"Blast 4, Concussive 2, Limited Ammo 1, Stun Damage"

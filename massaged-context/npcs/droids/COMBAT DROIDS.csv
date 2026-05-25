@@ -1,17 +1,17 @@
-Model,NPC,Br/Ag/Int/Cun/Wil/Pr,Soak,WT,ST,M/R Def.,Skills,(R),Price,Rarity
-AC Law Enforcement Droid,Rival,3/1/2/2/1/1,5,14,,2/2,"Coercion, Discipline, Melee, Piloting (Planetary), Streetwise, Vigilance",(R),"9,600",5
+Model,NPC,Br/Ag/Int/Cun/Wil/Pr,Soak,WT,ST,M/R Def.,Skills,(Restricted),Price,Rarity
+AC Law Enforcement Droid,Rival,3/1/2/2/1/1,5,14,,2/2,"Coercion, Discipline, Melee, Piloting (Planetary), Streetwise, Vigilance",(Restricted),"9,600",5
 Antiquated Battle Droid,Minion,2/2/1/1/1/1,4,4,,0/0,Ranged (Heavy),,"6,500",5
-ASP-19 Battle Droid,Nemesis,4/4/2/2/3/2,6,16,12,2/0,"Brawl, Coercion, Lightsaber, Melee, Ranged (Heavy), Vigilance",(R),"80,000",9
-Assassin Droid,Nemesis,4/3/3/3/1/1,7,19,10,0/1,"Coercion, Computers, Gunnery, Mechanics, Ranged (Heavy), Ranged (Light), Piloting (Planetary), Piloting (Space), Vigilance",(R),"65,000",8
+ASP-19 Battle Droid,Nemesis,4/4/2/2/3/2,6,16,12,2/0,"Brawl, Coercion, Lightsaber, Melee, Ranged (Heavy), Vigilance",(Restricted),"80,000",9
+Assassin Droid,Nemesis,4/3/3/3/1/1,7,19,10,0/1,"Coercion, Computers, Gunnery, Mechanics, Ranged (Heavy), Ranged (Light), Piloting (Planetary), Piloting (Space), Vigilance",(Restricted),"65,000",8
 BL0-Series Non-lethal Combat Droid,Rival,3/2/1/1/1/2,5,12,,1/1,"Brawl, Cool, Coordination, Ranged (Light), Resilience",,"5,000",6
-E522 Assassin Droid,Nemesis,5/4/3/3/3/2,5,20,12,0/1,"Brawl, Coercion, Computers, Gunnery, Mechanics, Melee, Ranged (Light), Vigilance",(R),"61,000",8
+E522 Assassin Droid,Nemesis,5/4/3/3/3/2,5,20,12,0/1,"Brawl, Coercion, Computers, Gunnery, Mechanics, Melee, Ranged (Light), Vigilance",(Restricted),"61,000",8
 Guardian Police Droid,Rival,3/2/2/2/3/2,4,10,,0/0,"Athletics, Melee, Perception, Piloting (Planetary), Ranged (Light), Streetwise, Vigilance",,"8,100",6
 GV/3-series Guardian Droid,Rival,3/1/1/2/2/1,5,15,,1/0,"Brawl, Perception, Ranged (Light), Vigilance",,"8,000",7
-IG-100 MagnaGuard,Nemesis,4/4/2/3/1/1,8,20,14,1/1,"Athletics, Brawl, Coordination, Melee, Perception, Vigilance",(R),"90,000",10
+IG-100 MagnaGuard,Nemesis,4/4/2/3/1/1,8,20,14,1/1,"Athletics, Brawl, Coordination, Melee, Perception, Vigilance",(Restricted),"90,000",10
 IG-RM-series Enforcer Droid,Rival,3/3/2/2/3/2,5,13,,0/0,"Brawl, Coercion, Cool, Melee, Perception, Ranged (Heavy), Vigilance",,"23,000",6
-KX-series Enforcer Droid,Nemesis,4/3/3/3/2/2,7,15,12,0/0,"Brawl, Coercion, Computers, Cool, Perception, Ranged (Heavy), Ranged (Light), Vigilance",(R),"50,000",8
-MI-Series Security Droid,Nemesis,4/2/2/2/3/1,5,15,10,0/0,"Brawl, Coercion, Perception, Ranged (Heavy), Vigilance",(R),"41,225",7
-RM-series Military Intelligence Droid,Nemesis,4/3/3/4/4/2,8,18,10,0/1,"Computers, Cool, Deception, Mechanics, Perception, Ranged (Heavy), Skulduggery, Stealth, Vigilance, Warfare",(R),"43,000",7
+KX-series Enforcer Droid,Nemesis,4/3/3/3/2/2,7,15,12,0/0,"Brawl, Coercion, Computers, Cool, Perception, Ranged (Heavy), Ranged (Light), Vigilance",(Restricted),"50,000",8
+MI-Series Security Droid,Nemesis,4/2/2/2/3/1,5,15,10,0/0,"Brawl, Coercion, Perception, Ranged (Heavy), Vigilance",(Restricted),"41,225",7
+RM-series Military Intelligence Droid,Nemesis,4/3/3/4/4/2,8,18,10,0/1,"Computers, Cool, Deception, Mechanics, Perception, Ranged (Heavy), Skulduggery, Stealth, Vigilance, Warfare",(Restricted),"43,000",7
 Security Droid,Rival,2/2/1/2/1/1,5,14,,0/0,"Ranged (Light), Vigilance",,"9,600",5
 Stone Guardian,Rival,5/3/1/2/1/1,7,10,,0/0,"Athletics, Brawl, Perception, Vigilance",,"25,000",10
 TRD-2 Sparring Droid,Rival,3/3/2/3/1/1,6,15,,2/0,"Athletics, Brawl, Coordination, Lightsaber, Melee, Ranged (Heavy)",,"7,750",6

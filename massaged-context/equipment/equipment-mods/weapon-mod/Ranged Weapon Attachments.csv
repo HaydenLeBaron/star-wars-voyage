@@ -11,7 +11,7 @@ Droid Targeting System,"3,200",5,3,-,Improves ability of using this weapon
 Electronic Sighting System,500,4,1,-,Assists in aiming at short range
 Environmental Adaptation Kit,100,2,1,-,Weapon resists hostile environments
 Filed Front Sight,25,0,1,Pistol-sized,Easier to draw weapon
-Force-Attuned Resonator,"1,000 (R)",8,1,"Non-Gunnery, has a trigger",Requires force sensitivity to use weapon
+Force-Attuned Resonator,"1,000 (Restricted)",8,1,"Non-Gunnery, has a trigger",Requires force sensitivity to use weapon
 Forearm Grip,250,1,1,Carbine or Rifle-sized (non heavy rifle),Makes weapon easier to fire in close quarters
 Gyrostabilizer,"1,000",6,2,Ranged (Heavy) or Gunnery weapon,Makes weapon less cumbersome
 Hair Trigger,250,2,1,Pistol without Auto-fire,Increases rate of fire
@@ -23,8 +23,8 @@ Motion Tracker,"1,000",6,2,Ranged (Heavy),Reduces opponent's ability to dodge
 Multi-Optic Sight,"2,000",3,1,-,Improves sight in obscure conditions
 Night Vision Scope,500,3,1,-,Allows use of weapon in darkness
 Optimized Energy Cell,100,5,1,Energy weapon,Reduces likelihood of needing a reload
-Overcharge Valve,"1,500 (R)",6,2,Energy weapon,Increases damage significantly once
-Removed Safety Features,250 (R),2,0,Non-Gunnery,Occasionally makes weapon easier to use
+Overcharge Valve,"1,500 (Restricted)",6,2,Energy weapon,Increases damage significantly once
+Removed Safety Features,250 (Restricted),2,0,Non-Gunnery,Occasionally makes weapon easier to use
 Secondary Ion Blaster,400,6,2,Ranged (Heavy),Add an ion blaster underslung
 Set Trigger,450,4,1,Non-Gunnery,Increases reflex speed
 Sonic Scope,"1,500",8,1,Ranged (Heavy),Allows aiming at targets behind cover
@@ -33,11 +33,11 @@ Sonic Scope,"1,500",8,1,Ranged (Heavy),Allows aiming at targets behind cover
 Stripped Down,250,4,3,Non-Gunnery,Reduces weight of the weapon
 Telescopic Optical Sight,250,1,1,-,Improves long range effectiveness
 Tripod Mount,250,3,2,Repeaters and Gunnery Weapons,Reduces awkwardness of firing weapon
-Under-Barrel Flame Projector,"3,000 (R)",5,2,Rifles,Underslung flamethrower
+Under-Barrel Flame Projector,"3,000 (Restricted)",5,2,Rifles,Underslung flamethrower
 Under-Barrel Grapnel Launcher,500,3,2,Non-Gunnery,Underslung grapple
-Under-Barrel Grenade Launcher,"2,000 (R)",5,2,Rifles,Underslung grenade launcher
-Under-Barrel Micro-Rocket Rack,"1,200 (R)",6,3,-,Underslung mini-rocket launcher
-Underslung Scattergun,750 (R),5,3,Pistols & Rifles,Underslung shotgun
+Under-Barrel Grenade Launcher,"2,000 (Restricted)",5,2,Rifles,Underslung grenade launcher
+Under-Barrel Micro-Rocket Rack,"1,200 (Restricted)",6,3,-,Underslung mini-rocket launcher
+Underslung Scattergun,750 (Restricted),5,3,Pistols & Rifles,Underslung shotgun
 Vibro-Bayonet,300,3,1,Ranged (Heavy),Attaches vibro-knife
 Weapon Harness,500,2,2,Ranged (Heavy) or Gunnery,Reduces awkwardness of firing weapon
 Weapon Sling,100,0,1,Ranged (Heavy),Reduces awkwardness of firing weapon
