@@ -10,7 +10,7 @@ Individuals of this galaxy have an array of pharmaceuticals at their disposal. R
 Spice & Drugs
 Most illicit narcotics are known as 'Spice', almost always being addictive, they can often come with short term benefits to their use... which is often what traps otherwise enterprising individuals in the vicious cycle.
 
-Drug	(Restricted)	Price	Enc.	Rare.	Effect
+Drug	(Restricted)	Price	Encumbrance	Rare.	Effect
 Ashes of Malachor	(Restricted)	750	0	8	Empowers force sensitive beings
 Avabush Spice (single)	(Restricted)	25	0	6	Induces lethargy and relaxation
 Avabush Spice (box of 100)	(Restricted)	2000	3	7	Induces lethargy and relaxation
@@ -57,7 +57,7 @@ Yarrock (box of 100)	(Restricted)	20000	3	9	Causes fearlessness in short term
 Poisons & Toxins
 Intelligence services and bounty hunter assassins are all interested in the potential of these compounds. There is a decent range of toxins, depending on how it's best applied and the speed of the effects.
 
-Poison	(Restricted)	Price	Enc.	Rare.	Effect
+Poison	(Restricted)	Price	Encumbrance	Rare.	Effect
 Affide Crystal	(Restricted)	500	0	8	Almost guarantees death on ingestion
 Antidote Set		250	1	5	Helps in resisting poison effects
 Bearsloth Venom		150	0	3 (Arbooine)	Induces additional suffering on injection

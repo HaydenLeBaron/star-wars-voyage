@@ -5,7 +5,7 @@ There are a number of useful pieces of equipment available for either enhancing 
 
 
 
-Gear	Price	Enc.	Rare.	Features
+Gear	Price	Encumbrance	Rare.	Features
 "Knack" Restraining Bolt	750 (Restricted)	0	8	Acts as a restraining bolt, but containing secret programming for the droid
 Advanced Flesh Camouflage Kit	2,500 (Restricted)	2	7	Disguises user all the way to the genetic level
 AL-DR8 Grav Binders	300	1	7	Especially difficult binders to get out of

@@ -1,4 +1,4 @@
-Name,Skill,Dam,Crit,Range,Encum,HP,(Restricted),Price,Rarity,Special
+Name,Skill,Dam,Crit,Range,Encumbrance,HP,(Restricted),Price,Rarity,Special
 """Breaker"" Heavy Hydrospanner",Melee,+2,4,Engaged,3,-,,250,2,"Cumbersome 3, Disorient 1, Inaccurate 1"
 Copora-Tech Thermal Cutter,Melee,4,4,Engaged,2,-,,125,3,"Burn 1, Inaccurate 2"
 Electromag-Pulse Disruptor,Melee,5,4,Engaged,1,0,,180,5,"Disorient 1, Ion"

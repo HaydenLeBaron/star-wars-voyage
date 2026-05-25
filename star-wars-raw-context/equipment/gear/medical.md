@@ -2,7 +2,7 @@
 
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Category:Medical
 
-Gear	Price	Enc.	Rare.	Features
+Gear	Price	Encumbrance	Rare.	Features
 Antishock Blanket	250	2	2	Makes healing critical injuries easier
 Athakam Medtech Military Medpac (Untrained/Emergency)	400	2	3	Enables safe unskilled healing of others
 Bacta (1 litre)	20	1	1	Accelerates healing over rest

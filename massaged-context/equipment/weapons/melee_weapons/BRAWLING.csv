@@ -1,4 +1,4 @@
-Name,Skill,Dam,Crit,Range,Encum,HP,(Restricted),Price,Rarity,Special
+Name,Skill,Dam,Crit,Range,Encumbrance,HP,(Restricted),Price,Rarity,Special
 """Storm"" Charge Suit (GaG | shock gloves)",Brawl,+0,5,Engaged,3,0,,"2,000",2,Stun 3
 """Storm"" Charge Suit (DC | shock gloves)",Brawl,+0,5,Engaged,3,0,,"2,000",6,Stun 3
 Backhand Shock Gloves,Brawl,+1,3,Engaged,0,2,,"2,000",4,"Concussive 1, Slow-Firing 1, Stun Damage"

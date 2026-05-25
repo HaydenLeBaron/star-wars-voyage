@@ -10,7 +10,7 @@ Field equipment is more-so items you would find around a settlement or hastily a
 Support Structures
 These pieces of field equipment all provide additional utility to a modular base, often placed apart from the main structure.
 
-Equipment	Price	Encum.	Rare.	Features
+Equipment	Price	Encumbrance	Rare.	Features
 1.4 FD P-Tower Light Anti-Vehicle Battery	4,000	-	2	Weapon emplacement for attacking vehicles
 AlderaanMotors Heat Sink Power Generator	550	-	2	Powers a single modular base structure
 CryonCorp Mk. I Cat's Eye Multipurpose Sensor Suite	2,750 (Restricted)	-	5	Planetary scale long range scanner

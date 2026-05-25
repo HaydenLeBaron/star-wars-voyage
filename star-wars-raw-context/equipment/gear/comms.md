@@ -9,7 +9,7 @@ Essential to coordinating with others at a distance, communications gear is avai
 
 
 
-Gear	Price	Enc.	Rare.	Features
+Gear	Price	Encumbrance	Rare.	Features
 3-MAL Secure Comlink	250	0	4	Military-grade encrypted comlink
 Atgar Artillery Remote	400	1	7	Links to gunnery weapon to use at medium range
 Bespin Motors Remote DVI Activator	300	0	4	Activate ship from 5km away

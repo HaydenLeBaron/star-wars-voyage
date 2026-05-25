@@ -14,7 +14,7 @@ Contents
 General Equipment
 From the common backpack and duffel bag, all the way to jetpacks and jump boots. There's all sorts of gear that is useful for your common member of the galaxy.
 
-Gear	Price	Enc.	Rare.	Features
+Gear	Price	Encumbrance	Rare.	Features
 Aratech R82 Jump Boots	2,000	2	6	Jetpack on boots
 Backpack	50	-	0	Increases carrying capacity
 BlasTech Model 58 Concealment Holster	40	0	3	Conceals a small weapon
@@ -49,7 +49,7 @@ Z-6 Jetpack	5,250	3	7	Fast jetpack with missile launcher
 Industrial Tools
 Heavy industry and your local mechanic appreciate the variety of equipment in the table below. They are typically large and encumbering tools, often used in a shop rather than carried around.
 
-Gear	Price	Enc.	Rare.	Features
+Gear	Price	Encumbrance	Rare.	Features
 "Breaker" Heavy Hydrospanner	250	3	2	Assists in working with starship plating, and can be used as a weapon
 Corellian Mining Corporation EVA Powersuit	1,500	12	7	Used for in-space repairs of ships hulls
 Custom Tool Kit	700	5	5	Tool kit made for a specific user
@@ -77,7 +77,7 @@ X5R Heavy Demolitions Kit	1,000	4	6	Improves ability to work with explosives
 Specialist Tools
 From spyware gadgets, to specialized equipment built to task, these items are typically on the more expensive side but provide significant benefits.
 
-Gear	Price	Enc.	Rare.	Features
+Gear	Price	Encumbrance	Rare.	Features
 AG/L Mk.III Targeting Goggles	1,000	1	5	Enhances enemy vehicle size for hitting
 Agent's Bag	200	2	7	Securely contains gear and attachments
 Communications Media Manipulator	400	6	6	Allows printing of posters and enhancement of holoprojections
@@ -123,7 +123,7 @@ Verpine Headband	500	1	6	Suffer wounds instead of falling unconscious from exces
 Other Equipment
 There's a bunch of other items, such as manuals, documents printed for officials and special tokens that are given out by the regional authorities.
 
-Gear	Price	Enc.	Rare.	Features
+Gear	Price	Encumbrance	Rare.	Features
 Adamite Signet Ring	500	0	8	Signifies being part of the Paladins of the Adamite Tower
 Ardos Disk	10,000 (Restricted)	1	5	Token of safe passage with a hutt clan
 Cultural Etiquette Manual	35	0	3	Indicates cultural norms of a specific species

@@ -7,7 +7,7 @@ There is an array of gear used for scanning and surveillance. Ranging from the i
 
 
 
-Gear	Price	Enc.	Rare.	Features
+Gear	Price	Encumbrance	Rare.	Features
 Applied Imaging B310 Micro-Imager	5,250	2	2	Magnifies objects up to 100,000 times its original size
 Arakyd Industries Recon Remote	250	1	3	Flying camera which transmits up to 20km away for 24h
 Authentication Tools	100	1	5	Checks for falsified documents

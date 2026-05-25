@@ -5,7 +5,7 @@ Survival gear is often used by explorers and scouts to survive the hostile condi
 
 
 
-Gear	Price	Enc.	Rare.	Features
+Gear	Price	Encumbrance	Rare.	Features
 "Survivalist" Mess Kit	10	0	3	Kitchenware in a compact package
 A99 Aquata Breather	100	0	7	Disposal breather for use underwater for 2 hours
 A99 Custom Biome Generator	9,000	45	4	Can produce any biome in the universe

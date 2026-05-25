@@ -1,4 +1,4 @@
-Name,Skill,Dam,Crit,Range,Encum,HP,(Restricted),Price,Rarity,Special,Category
+Name,Skill,Dam,Crit,Range,Encumbrance,HP,(Restricted),Price,Rarity,Special,Category
 Basic Lightsaber Hilt,Lightsaber,0,-,Engaged,1,5,,300,5,,HILTS
 Broadsaber Hilt,Lightsaber,0,-,Engaged,1,4,,600,6,Unwieldy 3,HILTS
 Crossguard Lightsaber Hilt,Lightsaber,0,-,Engaged,1,4,,900,7,Defensive 1,HILTS
