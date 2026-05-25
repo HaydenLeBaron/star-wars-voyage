@@ -1,0 +1,13 @@
+Model,Silhouette,Speed,HP,Price,Rarity,Weapons?
+All Terrain Armoured Transport,4,1,3,"(R) 150,000",5,Yes
+All Terrain Attack Pod,3,2,2,"(R) 100,000",6,Yes
+All Terrain Personal Transport,2,2,1,"30,000",7,Yes
+All Terrain Reconnaissance Transport,2,3,2,"(R) 8,000",8,Yes
+All Terrain Riot Control Transport,3,2,2,"(R) 35,000",7,Yes
+All Terrain Scout Transport,3,2,1,"(R) 75,000",5,Yes
+All Terrain Tactical Enforcer,4,1,2,"(R) 100,000",4,Yes
+All Terrain Anti Aircraft,4,1,0,"(R) 135,000",7,Yes
+All Terrain Armoured Cargo Transport,4,1,2,"(R) 125,000",7,Yes
+All Terrain Combat Excavator,3,2,3,"95,000",6,Yes
+All Terrain Defense Pod,3,2,2,"50,000",7,Yes
+All Terrain Force ReConnaissance,2,2,1,"75,000",8,Yes

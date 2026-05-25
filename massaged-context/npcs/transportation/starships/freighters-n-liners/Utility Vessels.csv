@@ -1,0 +1,12 @@
+Model,Silhouette,Encumbrance / Passengers,HP,Price,Rarity,Special;
+4R3 Light Assault Transport,4,80 / 16,4,"300,000",7,Stringer Assault Boarding Tube
+Ainik-class Scientific Survey Vessel,4,150 / 6,3,"120,000",7,Research Labs
+Alidale-Class Long-Range Survey Ship,5,250 / 5,3,"150,000",6,Extreme Sensors
+Barrage Gunship,5,90 / 5,3,"145,000",8,Interior Ordnance
+CEC Deep Space Recovery Vessel L-2783,5,5000 / 100,7,"6,500,000",6,Maintenance Complement
+D-Type Stealth Freighter,4,125 / 3,0,"200,000",7,Stealth Systems
+Jadthu-Class Landing Ship,5,800 / 60,2,"200,000",5,"No Hyperdrive, Chaff Defense"
+Lancer-class Pursuit Craft,4,60 / 4,3,"120,000",8,Fire Control System
+Penumbra Stealth Freighter,5,90 / 4,0,"100,000",9,Stealth Systems
+S-Type Racing Sloop,3,20 / 2,0,"160,000",7,High Speeds
+Surronian Conqueror-class Assault Ship,4,80 / 1,4,"100,500",9,Patrol Craft

@@ -1,0 +1,15 @@
+Model,Silhouette,Speed,HP,(R),Price,Rarity,Weapons?
+1-L Imperial-Series Repulsor Tank,3,2,1,(R),50000,5,Yes
+AAT-1 Hover Tank,3,2,2,(R),75000,6,Yes
+D-4 Mobile Defense Platform,4,2,4,,20000,6,Yes
+HAVR A9 Floating Fortress,3,1,1,(R),130000,5,Yes
+Imperial Troop Transport,3,2,0,(R),70000,4,Yes
+LAVr QU-7 Chariot Command Speeder,3,4,2,(R),40000,5,Yes
+Multi Troop Transport,3,2,1,(R),120000,5,Yes
+RTT-04 Armoured Troop Transport,3,3,2,,42000,5,Yes
+"RX-200 ""Falchion"" Ion Tank",3,3,2,(R),75000,6,Yes
+SC2-M Repulsor Tank,3,2,2,(R),65000,5,Yes
+T2-E Petard-class Combat Engineering Vehicle,3,2,2,(R),88000,7,Yes
+TX-130 Saber-class Fighter Tank,3,4,2,(R),85000,6,Yes
+UEV-M1 Marauder Engineer Squad Carrier,3,2,2,(R),98000,8,Yes
+WLO-5 Light Speeder Tank,3,3,2,,115000,7,Yes
