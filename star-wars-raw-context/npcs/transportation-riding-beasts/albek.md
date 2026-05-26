@@ -9,7 +9,7 @@ The spine-backed, reptilian albeks have spread to numerous worlds across the gal
 More information about the beast available on the Wookieepedia article.
 
 ALBEK[1]
-Encumbrance - Price 700 Rarity 6
+Encumbrance - Price 700 Rarity0to10 6
 
 ALBEK [RIVAL][2]
 Brawn 1 Agility 2 Intellect 1 Cunning 2 Willpower 3 Presence 1 Soak Value 3 Wound Threshold 4 Melee Defense 0 Ranged Defense 0

@@ -1,4 +1,4 @@
-Model,Silhouette,Speed,HP,(Restricted),Price,Rarity,Weapons?
+Model,Silhouette,Speed,HP,(Restricted),Price,Rarity0to10,Weapons?
 T-47 Sandspeeder,2,4,2,,18000,5,Yes
 Ascendant Personal Stealth Flyer,2,3,2,,35000,9,No
 Civilian Airspeeder,2,3,1,,10000,3,No

@@ -7,7 +7,7 @@ Edit
 The mountain-dwelling hurghols are surefooted, reptilian climbers whose many-jointed limbs allow them to move across almost any incline or surface.
 
 HURGHOL[1]
-Encumbrance - Price 2,000 Rarity 3
+Encumbrance - Price 2,000 Rarity0to10 3
 
 HURGHOL [RIVAL][2]
 Brawn 4 Agility 2 Intellect 1 Cunning 2 Willpower 3 Presence 1 Soak Value 7 Wound Threshold 15 Melee Defense 1 Ranged Defense 1

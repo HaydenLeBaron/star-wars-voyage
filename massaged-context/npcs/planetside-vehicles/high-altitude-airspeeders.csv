@@ -1,4 +1,4 @@
-Model,Silhouette,Speed,HP,(Restricted),Price,Rarity,Weapons?
+Model,Silhouette,Speed,HP,(Restricted),Price,Rarity0to10,Weapons?
 BR.549 FasTrak High-Altitude Scout Speeder,2,3,1,,25000,6,No
 "CAV-11 ""Condor"" Airspeeder",2,3,2,,30000,4,Yes
 "G35 ""Silver Cloud"" Airspeeder",3,4,2,,45000,4,No

@@ -7,7 +7,7 @@ Edit
 Small, flight-capable mammals that dwell in tight-knit nesting groups of up to a dozen individuals, creereen survive the attention of predators through their mobility and alertness.
 
 CREEREEN[1]
-Encumbrance - Price 400 Rarity 5
+Encumbrance - Price 400 Rarity0to10 5
 
 CREEREEN [MINION][2]
 Brawn 1 Agility 4 Intellect 1 Cunning 3 Willpower 2 Presence 1 Soak Value 1 Wound Threshold 4 Melee Defense 0 Ranged Defense 0

@@ -5,7 +5,7 @@ Lightsabers are often custom-made to the specifications of the user. Even as the
 Kyber Crystals
 In the Imperial era, all kyber crystals are considered illegal contraband (restricted - except training emitter), but they were widely acceptable before and after the time of the Empire. These are widely rare, often difficult to find even on their planets of origin. Often, it is believed that a crystal will call to its future owner when nearby.
 
-Modification	Price	Rarity	HP Req.	Features
+Modification	Price	Rarity0to10	HP Req.	Features
 Athiss Cave Crystal	7,000	8	2	
 Barab Ingot	15,000	8	2	Especially hot lightsaber blade
 Christophsis Crystal	11,000	8	2	Enhances kinetic energy
@@ -35,7 +35,7 @@ Zophis Crystal	11,000	10	2	Particularly capable of cutting through durasteel
 Lightsaber Modifications
 These mods have an effect on the hilt or the power components of the lightsaber to enable a varied number of features which range from ease of use for certain lightsaber forms to tricky power modulations.
 
-Modification	Price	Rarity	HP Req.	Features
+Modification	Price	Rarity0to10	HP Req.	Features
 Blade Drain	4,000 (Restricted)	9	2	Can drain opponent's lightsaber power
 Catastrophic Failure Modification	0	-	0	Turns lightsaber into improvised thermal detonator
 Curved Hilt	1,000	6	1	Improves duelling ability

@@ -1,4 +1,4 @@
-Model,Silhouette,Speed,HP,Price,Rarity,Weapons?,Category
+Model,Silhouette,Speed,HP,Price,Rarity0to10,Weapons?,Category
 All Terrain Armoured Transport (AT-AT),4,1,3,"(Restricted) 150,000",5,Yes,Military Walkers
 All Terrain Attack Pod (AT-AP),3,2,2,"(Restricted) 100,000",6,Yes,Military Walkers
 All Terrain Personal Transport (AT-PT),2,2,1,"30,000",7,Yes,Military Walkers

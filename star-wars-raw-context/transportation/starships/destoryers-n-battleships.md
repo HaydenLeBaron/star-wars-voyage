@@ -7,7 +7,7 @@ SIGN IN TO SAVE
 EDIT
 What is defined as a capital ship is typically a vessel which is large enough not to fit neatly into other categories of smaller vessels, as well as carrying substantial armaments and being relatively tough to destroy. However, there is a wide range of ships that may be classed as a capital ship, ranging from the light cruisers and corvettes, to the star destroyers and dreadnoughts of galactic navies.
 
-It is hard to come up with distinct categories, so the tables below are set by the silhouette of the vessel, and the tables will really only compare the ships based on weaponry, price, rarity and crew complement. Almost all of these are restricted purchases and most players will only encounter them as assignments.
+It is hard to come up with distinct categories, so the tables below are set by the silhouette of the vessel, and the tables will really only compare the ships based on weaponry, price, Rarity0to10 and crew complement. Almost all of these are restricted purchases and most players will only encounter them as assignments.
 
 
 Contents
@@ -20,7 +20,7 @@ Contents
 Corvettes (Silhouette 5)
 In this size category we have a number of ships known as corvettes and light cruisers. They typically serve the role of anti-fighter platforms or as transports for diplomatic groups and small combat units.
 
-Model	Crew Complement	Price	Rarity	No of Weapon Batteries	Special Features
+Model	Crew Complement	Price	Rarity0to10	No of Weapon Batteries	Special Features
 Adz-Class Destroyer	30	4,450,000	7	7x	Starfighters & Extreme Range Sensors
 Braha'Tok-Class Gunship	70	1,400,000	6	16x	Starfighters
 C-ROC Gozanti-class Light Cruiser	12	190,000	8	6x	-
@@ -44,7 +44,7 @@ Vigil-Class Corvette	200	3,500,000	5	6x	-
 Frigates (Silhouette 6)
 The frigate, and a number of light cruisers, are used as naval screens. They perform as support vessels alongside a fleet and can often carry more weaponry than one would expect on this small frame.
 
-Model	Crew Complement	Price	Rarity	No of Weapon Batteries	Special Features
+Model	Crew Complement	Price	Rarity0to10	No of Weapon Batteries	Special Features
 Armos Modular Transport	150	780,000	8	-	Large Cargo & Extreme Sensors
 Arquitens-class Light Cruiser	100 - 750	4,000,000 - 5,000,000	5	4x - 16x	-
 EF76 Nebulon-B Frigate	920	8,500,000	7	24x	Starfighters
@@ -60,7 +60,7 @@ Xanter-class Deep-Space Exploration Frigate	150	3,750,000	7	10x	-
 Heavy Cruisers (Silhouette 7)
 Heavy cruisers are just the smaller cousin to the destroyers, large enough to stand on their own but not so large that they become unwieldy to command with a smaller force.
 
-Model	Crew Complement	Price	Rarity	No of Weapon Batteries	Special Features
+Model	Crew Complement	Price	Rarity0to10	No of Weapon Batteries	Special Features
 Acclamator-class Planetary Assault Ship	700	110,000,000	8	40x	Large Vehicle Complement
 Assault Frigate Mark II	4,820	12,250,000	6	40x	High Defense
 Dreadnought-Class Heavy Cruiser	9,000 - 16,000	7,200,000	6	40x	-
@@ -78,7 +78,7 @@ Vindicator-Class Heavy Cruiser	2,551	10,400,000	8	55x	Starfighters
 Destroyers (Silhouette 8)
 The destroyers are the primary weapons platforms and projectors of force for any naval unit in the galaxy. Heavily shielded, armoured and armed, these vessels are impressive in their own right and make up the bulk of the fleets.
 
-Model	Crew Complement	Price	Rarity	No of Weapon Batteries	Special Features
+Model	Crew Complement	Price	Rarity0to10	No of Weapon Batteries	Special Features
 Golan I Space Defense Platform	5,000	26,000,000	9	33x	Starfighters & No Hyperdrive
 Imperial I-Class Star Destroyer	37,084	150,000,000	7	120x	Starfighters
 Imperial II-Class Star Destroyer	37,085	150,000,000	7	128x	Starfighters
@@ -94,7 +94,7 @@ Victory-Class Star Destroyer	6,017	50,000,000	6	50x	Cheaper Imperial Class
 Dreadnoughts (Silhouette 9)
 Full planetary projects in their own right, these oversized vessels are capable of projecting the force of an entire fleet from a singular platform. They often serve as a veritable city due to their size, and capturing one is nigh impossible.
 
-Model	Crew Complement	Price	Rarity	No of Weapon Batteries	Special Features
+Model	Crew Complement	Price	Rarity0to10	No of Weapon Batteries	Special Features
 Assertor-class Command Dreadnought	125,000	1,100,000,000	10	280x	Inspiring Presence
 Executor-class Star Dreadnought	280,734	1,670,000,000	25	1520x	Inspiring Presence
 Lucrehulk-class Battleship	175	500,000,000	8	588x	Substantial Droid, Vehicle & Starfighter Complement

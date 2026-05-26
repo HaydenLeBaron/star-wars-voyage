@@ -1,4 +1,4 @@
-Poison,(Restricted),Price,Encumbrance,Rarity,Effect
+Poison,(Restricted),Price,Encumbrance,Rarity0to10,Effect
 Affide Crystal,(Restricted),500,0,8,Almost guarantees death on ingestion
 Antidote Set,,250,1,5,Helps in resisting poison effects
 Bearsloth Venom,,150,0,3 (Arbooine),Induces additional suffering on injection

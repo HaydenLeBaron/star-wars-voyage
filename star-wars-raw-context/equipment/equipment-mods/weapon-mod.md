@@ -22,7 +22,7 @@ Contents
 Universal Weapon Attachments
 There's a number of attachments and modifications that are applicable to all weapons, be they a baton or a rocket tube.
 
-Modification	Price	Rarity	HP Req.	Other Req.	Features
+Modification	Price	Rarity0to10	HP Req.	Other Req.	Features
 Componentization	1,150	5	2	Encumbrance 2-	Allows breakdown of weapon for concealement
 Custom Grip	500	6	1	Has a handle	Improves comfort of use
 Lightweight Frame	650	3	1	-	Reduces weight of weapon
@@ -33,7 +33,7 @@ Shadowsheath	1,500 (Restricted)	5	1	Encumbrance 2-	Increases difficulty to find 
 Superior Weapon Customization	5,000	6	1	-	Makes weapon Superior
 Weapon Signature Reduction	1,000	6	1	Encumbrance 3-	Makes weapon harder to detect with scanners
 Explosives Attachments
-Modification	Price	Rarity	HP Req.	Other Req.	Features
+Modification	Price	Rarity0to10	HP Req.	Other Req.	Features
 Droid Brain Detonator	1,000	4	0	-	May detonate under pre-programmed conditions
 Grenade Cling	70	2	0	-	Explosive sticks to target
 Ordnance Impeller	500	4	0	Encumbrance 3-	Can remote control movement of explosives
@@ -41,7 +41,7 @@ Proximity Detonator	120	3	0	-	Detonate in proximity of a creature
 Ranged Weapon Attachments
 Due to the wide variety of guns available, most modifications are applicable to pistols, rifles and other ranged weaponry. All sorts of scope, barrels and grip modifications.
 
-Modification	Price	Rarity	HP Req.	Other Req.	Features
+Modification	Price	Rarity0to10	HP Req.	Other Req.	Features
 Arakyd 900 Gene-Lock	500	7	1	Powered weapon	Weapon can only be used by installer
 Ascension Gun	500	4	1	-	Can fire grappling hook
 Bayonet	50	1	1	Carbine or Rifle-sized	Attaches combat knife
@@ -85,7 +85,7 @@ Vibro-Bayonet	300	3	1	Ranged (Heavy)	Attaches vibro-knife
 Weapon Harness	500	2	2	Ranged (Heavy) or Gunnery	Reduces awkwardness of firing weapon
 Weapon Sling	100	0	1	Ranged (Heavy)	Reduces awkwardness of firing weapon
 Blaster Exclusive Attachments
-Modification	Price	Rarity	HP Req.	Other Req.	Features
+Modification	Price	Rarity0to10	HP Req.	Other Req.	Features
 Amplifying Chamber	350	4	1	-	Makes shot explosive
 Augmented Spin Barrel	1,750	4	2	Rifles & Heavy Rifles	Increases damage
 Beam Splitter	1,250 (Restricted)	5	3	Doesn't have blast	Makes shot scatter
@@ -107,16 +107,16 @@ Spread Barrel	1,725	4	2	Rifles or Carbines	Scatters the weapon shot
 Tibanna-Jacked	150	6	1	-	Improves critical rating
 XCiter Overcharge	1,100 (Restricted)	7	2	-	Significantly increases damage for a single shot
 Slugthrower Exclusive Attachments
-Modification	Price	Rarity	HP Req.	Other Req.	Features
+Modification	Price	Rarity0to10	HP Req.	Other Req.	Features
 Slugthrower Suppressor	100 (Restricted)	4	1	Non-Gunnery	Reduces weapon sound
 Exotic Weapon Attachments
-Modification	Price	Rarity	HP Req.	Other Req.	Features
+Modification	Price	Rarity0to10	HP Req.	Other Req.	Features
 Bowcaster Accelerator Enhancement	250	4	1	Bowcaster	Increases damage
 Bowcaster Automatic Re-Cocker	500	3	1	Bowcaster	Increases fire-rate
 Melee Weapon Attachments
 For close quarters engagements, having the sharpest blade available or are particularly overloaded vibro-motor might be all the difference.
 
-Modification	Price	Rarity	HP Req.	Other Req.	Features
+Modification	Price	Rarity0to10	HP Req.	Other Req.	Features
 Augmented Vibro-motor	500	4	2	Vibro-weapon	Increases damage
 Balanced Hilt	1,500	5	2	-	Increases accuracy
 Cortosis Forging	8,000	8	1	-	Weaves in cortosis

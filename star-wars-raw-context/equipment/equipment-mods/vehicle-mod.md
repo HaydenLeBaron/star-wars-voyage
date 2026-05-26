@@ -15,7 +15,7 @@ Contents
 3	STARSHIP ATTACHMENTS
 4	POPULAR VEHICLE & STARSHIP ATTACHMENTS
 UNIVERSAL ATTACHMENTS
-Type	HP Req	(Restricted)	Price	Price Modifier	Rarity
+Type	HP Req	(Restricted)	Price	Price Modifier	Rarity0to10
 Advanced Targeting Array	1		4000		4
 All-Terrain Legs	2		3000	x Silhouette	5
 Amphibious Modification	1		1000	x Silhouette	5
@@ -66,7 +66,7 @@ Theater Command and Control System	2		8500		6
 Upgraded Comms Array	1		4800		6
 WhisperThrust Engine	1	(Restricted)	7500		7
 WEAPON MOUNTS
-Type	HP Req	(Restricted)	Price	Price Modifier	Rarity
+Type	HP Req	(Restricted)	Price	Price Modifier	Rarity0to10
 Missile Pack	0 or 1	(Restricted)	10000		5
 Mini-Missile Pack	0 or 1	(Restricted)	7000		5
 Ax-108 "Ground Buzzer" Surface-Defense Blaster Cannon	1		2000		5
@@ -99,7 +99,7 @@ Upgraded Weapons (light turbolaser)	0 or 1	(Restricted)	12000		7
 Upgraded Weapons (medium turbolaser)	0 or 1	(Restricted)	15000		7
 Upgraded Weapons (heavy turbolaser)	0 or 1	(Restricted)	20000		8
 VEHICLE ATTACHMENTS
-Type	HP Req	(Restricted)	Price	Price Modifier	Rarity
+Type	HP Req	(Restricted)	Price	Price Modifier	Rarity0to10
 Augmented Buffer	0		750		
 CZ-88 Heavy Loader Arm	1		1500		3
 Enhanced Repulsorlift	1		1000	x Silhouette	3
@@ -109,7 +109,7 @@ Maneuvering Thrusters	1		500	x Silhouette
 Mobile Listening Post	2		5500		5
 Upgraded Firepower	0		1000		
 PODRACER ATTACHMENTS
-Type	HP Req	(Restricted)	Price	Price Modifier	Rarity
+Type	HP Req	(Restricted)	Price	Price Modifier	Rarity0to10
 Collision Avoidance System	1		2200		6
 Ejection System	1		400		4
 Engine Boosting System	1		1100		5
@@ -121,7 +121,7 @@ Podracer Control Cables	1		1000		2
 Reinforced Engine Cowlings	1		2500		3
 Shield Generator	1		4200		4
 STARSHIP ATTACHMENTS
-Type	HP Req	(Restricted)	Price	Price Modifier	Rarity
+Type	HP Req	(Restricted)	Price	Price Modifier	Rarity0to10
 Advanced Subspace Encryption Array	1	(Restricted)	6000		7
 Astrogation Droid Brain	0		7500		6
 Briefing Auditorium	1		2500		4

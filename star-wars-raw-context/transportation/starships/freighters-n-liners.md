@@ -16,7 +16,7 @@ Contents
 Light Transports
 These are all some variation on the classical Millennium Falcon, itself the popular YT-1300 model produced by Corellian shipwrights. In fact, a vast number of the light freighters available are produced by Corellia.
 
-Model	Hyperdrive	Encumbrance / Passengers	HP	Price	Rarity	Weapons?
+Model	Hyperdrive	Encumbrance / Passengers	HP	Price	Rarity0to10	Weapons?
 Barloz-Class Medium Freighter	Class 2 / 12	170 / 4	4	70,000	5	Yes
 CEC HWK-1000 Light Freighter	Class 1 / 12	100 / 4	5	(Restricted) 120,000	10	No
 CorelliSpace Gymsnor-3 Light Freighter	Class 2 / 15	160 / 4	4	80,000	6	Yes
@@ -50,7 +50,7 @@ ZH-25 Questor Light Freighter	Class 2 / 15	100 / 6	4	115,000	6	Yes
 Bulk Freighters
 The bulk shipping companies typically employ convoys of these freighters escorted by mercenary vessels. However, they are often quite armoured and can take a punch. Some groups favour these freighters as mobile bases, as they are easy to modify.
 
-Model	Hyperdrive	Encumbrance	HP	Price	Rarity	Weapons?
+Model	Hyperdrive	Encumbrance	HP	Price	Rarity0to10	Weapons?
 Action IV Bulk Freighter	Class 3	8,500	4	150,000	4	Yes
 Action VI Bulk Transport	Class 3 / 20	10,000	4	200,000	5	No
 C-9979 Landing Craft	Class 2 / 15	>5,500 (and complement)	2	(Restricted) 12,000,000	6	Yes
@@ -71,7 +71,7 @@ YZ-775 Medium Transport	Class 1 / 12	850	2	500,000	3	Yes
 Liners & Yachts
 Varying in comfort, the cheapest bulk liners are filled with bunks only just affording enough room for passengers and refugees to rest on their way across the galaxy. "Space Yachts" refer to luxurious transport vessels which serve as little more than shuttles for dignitaries.
 
-Model	Hyperdrive	Passengers	HP	Price	Rarity	Weapons?
+Model	Hyperdrive	Passengers	HP	Price	Rarity0to10	Weapons?
 Baudo-class Star Yacht	Class 2 / 12	8	6	250,000	9	Yes
 Caisson-class Engineering Troop Carrier	Class 3 / 12	40	2	190,000	6	Yes
 CEC WUD-500 Star Yacht	Class 1 / 8	6	5	98,500	6	Yes
@@ -90,7 +90,7 @@ Y164 Slave Transport	Class 3 / 15	1200	3	245,000	6	Yes
 Utility Vessels
 Some of these medium and large vessels are specifically built for a set purpose, such as a large weapons platform or scientific surveys on the edge of space. These vessels are often older and less versatile models.
 
-Model	Silhouette	Encumbrance / Passengers	HP	Price	Rarity	Special;
+Model	Silhouette	Encumbrance / Passengers	HP	Price	Rarity0to10	Special;
 4R3 Light Assault Transport	4	80 / 16	4	300,000	7	Stringer Assault Boarding Tube
 Ainik-class Scientific Survey Vessel	4	150 / 6	3	120,000	7	Research Labs
 Alidale-Class Long-Range Survey Ship	5	250 / 5	3	150,000	6	Extreme Sensors

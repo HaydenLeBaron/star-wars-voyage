@@ -1,4 +1,4 @@
-Modification,Price,Rarity,HP Req.,Requirements,Features
+Modification,Price,Rarity0to10,HP Req.,Requirements,Features
 Comlink Bug,150,4,0,Implant in communications device,Broadcasts incoming & outgoing signals of comms to nearby listener
 Concealed Climbing Cord,100,2,0,Any piece of gear,Climbing cord & grappling hook implanted
 Dart Gun,200,4,0,Any piece of gear,Fires dart from concealment

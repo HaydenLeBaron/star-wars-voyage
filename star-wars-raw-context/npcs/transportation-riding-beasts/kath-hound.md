@@ -7,7 +7,7 @@ The kath hounds of Dantooine are a species of fierce canine pack hunters, averag
 More information about the beast available on the Wookieepedia article.
 
 KATH HOUND[1]
-Encumbrance - Price 7,500 Rarity 6
+Encumbrance - Price 7,500 Rarity0to10 6
 
 KATH HOUND [RIVAL]
 Brawn 3 Agility 3 Intellect 1 Cunning 2 Willpower 3 Presence 1 Soak Value 4 Wound Threshold 15 Melee Defense 0 Ranged Defense 0

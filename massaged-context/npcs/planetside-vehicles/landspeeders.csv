@@ -1,4 +1,4 @@
-Model,Silhouette,Speed,HP,(Restricted),Price,Rarity,Weapons?,Category
+Model,Silhouette,Speed,HP,(Restricted),Price,Rarity0to10,Weapons?,Category
 8880 Luxury Landspeeder,3,2,2,,40000,7,No,Civillian Landspeeder/Skiff
 9400 Grand Wanderer,4,2,3,,35000,8,No,Civillian Landspeeder/Skiff
 A-A3 Dray Light Speeder Truck,3,1,3,,7000,2,No,Civillian Landspeeder/Skiff

@@ -9,7 +9,7 @@ Usefully, most walkers are self-explanatory in their name, some details are pres
 Military Walkers
 Walkers are armoured weapons platforms which perform on a variety of terrains. This explains why every large army iterates on a new design for use in military operations.
 
-Model	Silhouette	Speed	HP	Price	Rarity	Weapons?
+Model	Silhouette	Speed	HP	Price	Rarity0to10	Weapons?
 All Terrain Armoured Transport	4	1	3	(Restricted) 150,000	5	Yes
 All Terrain Attack Pod	3	2	2	(Restricted) 100,000	6	Yes
 All Terrain Personal Transport	2	2	1	30,000	7	Yes
@@ -27,7 +27,7 @@ All Terrain Force ReConnaissance	2	2	1	75,000	8	Yes
 Utility Walkers
 When on far off worlds, or when you need the power diverted to something other than a repulsorlift, walkers are very useful for any task for which transport is needed.
 
-Model	Silhouette	Speed	HP	Price	Rarity	Weapons?
+Model	Silhouette	Speed	HP	Price	Rarity0to10	Weapons?
 All Terrain Exploration Transport	3	1	6	5,000	4	No
 All Terrain Exploration & Survey Transport	4	1	4	12,000	5	Yes
 All Terrain Heavy Civilian Transport	3	1	2	3,000	3	No

@@ -4,7 +4,7 @@ https://star-wars-rpg-ffg.fandom.com/wiki/Category:Podracer
 
 Podracing is an extreme sport, enjoyed across the galaxy and participated in by only the most daring pilots. One needs exceptional driving skills to simply control one of these, and even greater amounts of reaction speed to survive a race.
 
-Model	Speed	Handling	Hull	System	HP	Price	Rarity
+Model	Speed	Handling	Hull	System	HP	Price	Rarity0to10
 BT310 Quandra	6	-2	4	5	2	14,200	8
 Collor Pondrat Plug-F Mammoth	5	-1	6	9	3	15,600	8
 CR-17 Incendia III	5	-2	3	6	4	11,000	5

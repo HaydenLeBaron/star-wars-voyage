@@ -23,13 +23,13 @@ Contents
 10	STARSHIP & VEHICULAR DROIDS
 11	POPULAR DROID MODELS
 ASTROMECHS & PILOTING DROIDS
-Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity
+Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity0to10
 Astromech Droid	Rival	1/1/2/2/1/1	3	11		0/0	Astrogation, Computers, Cool, Mechanics, Piloting (Space)		8,250	3
 JC Series Pilot Droid	Rival	1/3/2/1/1/1	2	5		0/0	Cool, Piloting (Planetary), Piloting (Space), Ranged (Light)		15,000	7
 Q7-series Astromech Droid	Rival	1/2/2/2/1/1	2	9		0/0	Astrogation, Computers, Cool, Mechanics, Piloting (Space)		6,500	8
 R7-series Astromech Droid	Rival	1/1/2/2/1/1	3	11		0/0	Astrogation, Computers, Cool, Mechanics, Piloting (Space)		11,000	6
 ANALYSIS DROIDS
-Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity
+Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity0to10
 Analysis Droid	Minion	1/1/4/1/1/1	3	3		0/0	Computers, Education		7,500	5
 Interrogation Droid	Rival	1/1/3/1/2/1	3	12		0/0	Coercion, Medicine, Perception, Ranged (Light)	(Restricted)	9,600	8
 LSx-series Slicer Droid	Rival	1/2/4/3/2/2	3	10		0/0	Computers, Cool, Deception, Discipline, Mechanics, Perception, Skulduggery, Stealth	(Restricted)	19,000	8
@@ -37,7 +37,7 @@ RH-Series Research Droid	Rival	1/1/3/2/1/1	2	10		0/0	Computers, Core Worlds, Edu
 T-Series Tactical Droid	Rival	1/1/3/2/2/3	3	10		0/0	Cool, Discipline, Leadership, Perception, Vigilance, Warfare	(Restricted)	8,000	8
 TS-series Interrogation Droid	Rival	2/3/4/4/3/2	4	12		0/0	Coercion, Education, Mechanics, Medicine, Perception, Skulduggery, Xenology	(Restricted)	58,000	9
 COMBAT DROIDS
-Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity
+Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity0to10
 AC Law Enforcement Droid	Rival	3/1/2/2/1/1	5	14		2/2	Coercion, Discipline, Melee, Piloting (Planetary), Streetwise, Vigilance	(Restricted)	9,600	5
 Antiquated Battle Droid	Minion	2/2/1/1/1/1	4	4		0/0	Ranged (Heavy)		6,500	5
 ASP-19 Battle Droid	Nemesis	4/4/2/2/3/2	6	16	12	2/0	Brawl, Coercion, Lightsaber, Melee, Ranged (Heavy), Vigilance	(Restricted)	80,000	9
@@ -55,14 +55,14 @@ Security Droid	Rival	2/2/1/2/1/1	5	14		0/0	Ranged (Light), Vigilance		9,600	5
 Stone Guardian	Rival	5/3/1/2/1/1	7	10		0/0	Athletics, Brawl, Perception, Vigilance		25,000	10
 TRD-2 Sparring Droid	Rival	3/3/2/3/1/1	6	15		2/0	Athletics, Brawl, Coordination, Lightsaber, Melee, Ranged (Heavy)		7,750	6
 HUNTING DROIDS
-Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity
+Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity0to10
 K-9 Series Hunting Droid	Rival	2/3/1/3/1/1	5	9		0/0	Brawl, Perception, Stealth, Survival		7,500	6
 DZ-70 Fugitive Tracker Droid	Rival	2/1/1/3/1/1	4	12		0/0	Ranged (Light), Stealth, Survival, Vigilance	(Restricted)	9,800	4
 SBD series Assistance and Rescue Droid	Rival	2/3/2/2/1/3	4	14		0/0	Cool, Coordination, Mechanics, Medicine, Perception		7,500	3
 87-RM Scout Collector	Rival	4/1/2/1/1/3	8	20		1/1	Perception, Xenology		6,000	6
 Wanderer Scout Surveyor	Rival	2/4/1/1/1/1	3	10		0/0	Perception, Ranged (Light), Stealth, Survival		2,500	6
 LABOUR DROIDS
-Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity
+Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity0to10
 BT-Series Ordnance Droid	Rival	3/1/3/1/1/1	7	15		0/0	Gunnery, Mechanics	(Restricted)	13,500	6
 DTS-series Dismantler Droid	Rival	5/3/2/2/3/2	7	15		0/1	Computers, Mechanics, Perception, Ranged (Heavy)		40,000	6
 DUM-Series Pit Droid	Minion	1/1/0/0/1/1	3	2		0/0	Computers, Mechanics, Perception		450	1
@@ -79,12 +79,12 @@ J9 Worker Drone	Rival	1/2/3/1/2/1	2	11		0/0	Charm, Education, Negotiation, Xenol
 Service Patch Remote	Minion	1/1/1/1/1/1	2	5		0/0	Computers, Mechanics		900	3
 G2 Repair Droid	Rival	1/2/2/1/1/2	1	6		0/0	Astrogation, Computers, Core Worlds, Mechanics, Outer Rim, Piloting (Space)		6,000	5
 MEDICAL DROIDS
-Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity
+Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity0to10
 CT-4 Medical Droid	Rival	1/1/3/1/2/1	2	8		0/0	Computers, Discipline, Medicine, Perception, Xenology		20,000	8
 Medical Droid	Rival	1/1/2/1/1/1	3	10		0/0	Discipline, Medicine, Perception		12,000	4
 Mini-Med	Minion	1/1/1/1/1/0	2	1		0/0			900	3
 PROTOCOL DROIDS
-Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity
+Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity0to10
 3PX-Series Protocol Droid	Rival	1/1/3/1/1/2	2	10		0/0	Charm, Education, Negotiation, Outer Rim, Xenology		7,750	4
 5YQ-Series Protocol Droid	Rival	1/1/3/1/1/2	2	9		0/0	Charm, Core Worlds, Education, Lore, Outer Rim, Underworld, Warfare, Xenology		5,500	3
 BD10-Series Assay Support Droid	Rival	1/1/4/3/1/3	3	10		0/0	Charm, Negotiation, Outer Rim		8,500	5
@@ -102,7 +102,7 @@ SDMN Series Session Droid	Rival	1/2/2/2/1/3	3	7		0/0	Charm, Cool, Computers, Coo
 TC-Series Protocol Droid	Rival	1/1/3/1/1/2	2	10		0/0	Charm, Education, Negotiation, Perception, Xenology		10,000	4
 TTS20-Series Dialectic Droid	Rival	2/1/3/2/1/4	3	8		0/0	Charm, Cool, Core Worlds, Deception, Education, Negotiation, Perception, Streetwise		5,400	7
 REMOTES
-Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity
+Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity0to10
 Butterbug Remote	Minion	1/1/1/1/1/1	2	3		0/0	Mechanics, Melee		700	4
 EOD-Mk IV Explosives Disposal Remote	Minion	1/1/1/1/1/1	2	2		0/0	Mechanics, Perception, Vigilance	(Restricted)	500	6
 Generic Remote	Minion	1/1/1/1/1/1	2	5		0/0	Perception		400	2
@@ -111,7 +111,7 @@ P2F Hostile Environment Remote	Minion	1/2/1/3/1/1	2	4		0/0	Athletics, Cool, Perc
 Shield Remote	Minion	1/1/1/1/1/1	3	6		1/1	Vigilance		1,100	5
 WSW Mk III "Harrier" Combat Remote	Minion	1/3/1/1/1/1	3	8		0/0	Perception, Ranged (Heavy), Ranged (Light), Vigilance	(Restricted)	6,000	6
 SURVEILLANCE DROIDS
-Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity
+Model	NPC	Br/Ag/Int/Cun/Wil/Pr	Soak	WT	ST	M/R Def.	Skills	(Restricted)	Price	Rarity0to10
 AC1-series Surveillance Droid	Minion	1/2/1/1/1/1	2	8		0/0	Perception, Ranged (Light), Stealth		1,100	4
 Chameleon Droid	Rival	2/3/1/2/1/1	3	8		0/0	Perception, Ranged (Heavy), Stealth		4,000	6
 All-Terrain Exploration Droid	Rival	1/3/1/3/1/1	4	15		0/0	Coordination, Perception, Ranged (Heavy), Vigilance		8,900	5
@@ -122,7 +122,7 @@ SR-series Scout/Observation Droid	Rival	2/3/3/3/3/2	4	13		0/0	Athletics, Compute
 TC-SC Infiltration Droid	Nemesis	2/2/3/4/2/3	3	10	10	0/0	Athletics, Computers, Cool, Deception, Melee, Perception, Ranged (Light), Skulduggery, Stealth, Vigilance	(Restricted)	15,600	8
 Viper Probe Droid	Rival	2/3/2/3/1/1	4	12		0/1	Cool, Perception, Ranged (Light), Survival, Vigilance	(Restricted)	13,700	7
 STARSHIP & VEHICULAR DROIDS
-Name	Silh.	Speed	Hand.	Def.	Armor	HT	SS	(Restricted)	Price	Rarity
+Name	Silh.	Speed	Hand.	Def.	Armor	HT	SS	(Restricted)	Price	Rarity0to10
 Droid Tri-Fighter	3	5	+2	0/-/-/0	2	12	8	(Restricted)	40,000	8
 HMP Droid Gunship	3	3	+0	2/-/-/1	4	20	16	(Restricted)	60,000	8
 Hyena-class Droid Bomber	3	4	+0	0/-/-/0	3	14	12	(Restricted)	120,000	7

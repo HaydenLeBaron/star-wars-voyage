@@ -18,7 +18,7 @@ Starfighters
 The starfighter is a catch-all which includes bomber vessels and interceptors, often the smallest of space faring craft, though the bombers can reach the largest sizes as well.
 
 Interceptors
-Model	Silhouette	Speed	HP	Price	Rarity	Hyperdrive?
+Model	Silhouette	Speed	HP	Price	Rarity0to10	Hyperdrive?
 RZ-1 A-wing Light Interceptor	3	6	1	150,000	6	Yes
 A-7 Hunter Interceptor	3	5	1	80,000	6	No
 Alpha-3 Nimbus "V-Wing" Interceptor	3	4	2	120,000	7	No *
@@ -33,7 +33,7 @@ TIE/in Interceptor	3	6	0	(Restricted) 75,000	5	No
 * can dock with hyperspace rings
 
 Fighters
-Model	Silhouette	Speed	HP	Price	Rarity	Hyperdrive?
+Model	Silhouette	Speed	HP	Price	Rarity0to10	Hyperdrive?
 "B-Wing" Heavy Fast Attack Starfighter	3	4	1	150,000	6	Yes
 "Heavy 95" Multi-Role Starfighter	3	4	1	85,000	5	Yes
 "X-Wing" Multi-Role Starfighter	3	5	1	120,000	5	Yes
@@ -81,7 +81,7 @@ Z-TIE	3	4	0	Varies	5	No
 * can dock with hyperspace rings
 
 Bombers
-Model	Silhouette	Speed	HP	Price	Rarity	Hyperdrive?
+Model	Silhouette	Speed	HP	Price	Rarity0to10	Hyperdrive?
 BTL-A4/BTL-S3 Y-Wing Attack Starfighter	3	4	1	80,000	4	Yes
 BTS-A2 "H-Wing" Long-Range Strike Starfighter	3	3	1	225,000	6	Yes
 H-60 Tempest Heavy Bomber	4	3	1	172,000	5	No
@@ -91,7 +91,7 @@ TIE/sa Tactical Bomber	3	4	0	(Restricted) 110,000	5	No
 Shuttles & Personal Craft
 These are often too small to be considered a liner or freighter, but do not bear enough weapons or maneuverability to be considered a patrol boat.
 
-Model	Silhouette	Speed	HP	Price	Rarity	Weapons?
+Model	Silhouette	Speed	HP	Price	Rarity0to10	Weapons?
 AO-2 Cometstrike-class Orbital Assault Pod	4	2	1	30,000	5	Yes
 Coneship	3	5	0	5,000	8	No
 Delta-12 Skysprite	3	4	3	85,000	8	No
@@ -124,7 +124,7 @@ Zeta-class Heavy Cargo Shuttle	4	2	1	(Restricted) 95,000	7	Yes
 Patrol Boats
 These are heavily armed and sometimes also armoured vessels that are the size of light freighters, but fulfill the role of light cruisers in the battlefield. They are typically used in hunting smaller craft by small defense forces and security organisations.
 
-Model	Silhouette	Speed	HP	Price	Rarity	# of Weapons
+Model	Silhouette	Speed	HP	Price	Rarity0to10	# of Weapons
 Auzituck-class Gunship	4	3	3	95,000	7	2x Twins
 Firespray System Patrol Craft	4	4	4	80,000	4	1x
 GAT-12H Skipray Blastboat	4	4	2	150,000	6	4x (twins & tri)

@@ -15,7 +15,7 @@ Contents
 2	MELEE
 2.1	TOOLS AS WEAPONS
 BRAWLING
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 "Storm" Charge Suit (GaG | shock gloves)	Brawl	+0	5	Engaged	3	0		2,000	2	Stun 3
 "Storm" Charge Suit (DC | shock gloves)	Brawl	+0	5	Engaged	3	0		2,000	6	Stun 3
 Backhand Shock Gloves	Brawl	+1	3	Engaged	0	2		2,000	4	Concussive 1, Slow-Firing 1, Stun Damage
@@ -138,7 +138,7 @@ Weik Greatsword	Melee	+4	3	4	2	315	Cumbersome 4, Defensive 1
 Z2 Stun Baton	Melee	+2	6	2	2	200	Disorient 2, Stun Damage
 Z6 Riot Control Baton	Melee	+2	5	2	1	1000	Cortosis, Disorient 2, Stun Damage
 TOOLS AS WEAPONS
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 "Breaker" Heavy Hydrospanner	Melee	+2	4	Engaged	3	-		250	2	Cumbersome 3, Disorient 1, Inaccurate 1
 Copora-Tech Thermal Cutter	Melee	4	4	Engaged	2	-		125	3	Burn 1, Inaccurate 2
 Electromag-Pulse Disruptor	Melee	5	4	Engaged	1	0		180	5	Disorient 1, Ion

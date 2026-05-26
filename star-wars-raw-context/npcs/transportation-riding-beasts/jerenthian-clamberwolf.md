@@ -7,7 +7,7 @@ The powerful, heavily furred clamberwolves are the unquestioned apex predators o
 More information about the beast available on the Wookieepedia article.
 
 JERETHIAN CLAMBERWOLF[1]
-Encumbrance - Price 30,000 Rarity 7
+Encumbrance - Price 30,000 Rarity0to10 7
 
 JERETHIAN CLAMBERWOLF [RIVAL][2]
 Brawn 4 Agility 4 Intellect 1 Cunning 3 Willpower 2 Presence 2 Soak Value 5 Wound Threshold 18 Melee Defense 0 Ranged Defense 0

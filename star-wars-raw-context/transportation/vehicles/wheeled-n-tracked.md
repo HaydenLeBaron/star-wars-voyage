@@ -4,7 +4,7 @@ source: https://star-wars-rpg-ffg.fandom.com/wiki/Category:Wheeled_%26_Tracked
 
 There are few specific models of wheeled or tracked vehicles as their utility is far superseded by repulsorlift technology and walker abilities. However, there are a number which are still produced by certain industries as they have some cult following. In fact, many of these vehicles are actually droid-brain operated vehicles which are entirely unmanned.
 
-Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity	Weapons?
+Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity0to10	Weapons?
 A-11 Model III "Burrower"	3	1	2		45000	7	No
 A-19 "Iron Crawler" Armoured Transport	5	1	4		12500	6	Yes
 Corellian Mining Corporation Digger Crawler	4	1	5		50000	7	No

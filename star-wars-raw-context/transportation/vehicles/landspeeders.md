@@ -13,7 +13,7 @@ Contents
 Swoops & Bikes
 Many landspeeders are known as swoops, or more colloquially known as bikes due to their resemblance to the ancient wheeled vehicle known as bicycles. These can often come with built-in weapons for self defense, or offense as many are used by criminals and gangs.
 
-Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity	Weapons?
+Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity0to10	Weapons?
 580-AvA "Dash" Speeder Bike	2	2	1		1800	6	No
 610-AvA "Dart" Speeder Bike	2	2	4		2400	6	No
 614-AvA Speeder Bike	2	2	1	(Restricted)	4200	6	Yes
@@ -40,7 +40,7 @@ Zephyr-G Swoop	2	2	2		5700	4	No
 Skiffs & Landspeeders
 There is a middle category of landspeeder that includes a variety of utility vehicles and personal transports, as well as some military vehicles.
 
-Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity	Weapons?
+Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity0to10	Weapons?
 8880 Luxury Landspeeder	3	2	2		40000	7	No
 9400 Grand Wanderer	4	2	3		35000	8	No
 A-A3 Dray Light Speeder Truck	3	1	3		7000	2	No
@@ -80,7 +80,7 @@ XP-40 Luxury Coach	3	3	2		45000	7	No
 Military Speeders
 Powerful enough repulsorlifts can be fitted into armoured vehicles in order to enable such weapons platforms as hover tanks. These can often be fast and mobile, though may face issues on more uneven terrain.
 
-Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity	Weapons?
+Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity0to10	Weapons?
 1-L Imperial-Series Repulsor Tank	3	2	1	(Restricted)	50000	5	Yes
 AAT-1 Hover Tank	3	2	2	(Restricted)	75000	6	Yes
 D-4 Mobile Defense Platform	4	2	4		20000	6	Yes

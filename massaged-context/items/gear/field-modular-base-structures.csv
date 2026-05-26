@@ -1,4 +1,4 @@
-Equipment,Price,Rarity,Features
+Equipment,Price,Rarity0to10,Features
 Com C-52 Modular Command Center,"1,750",2,Provides leadership and unit coordination bonuses
 BKR B-70 Modular Reinforced Bunker,"4,900",3,Provides heavy defenses for inhabitants
 Fac L-120 Modular Motor Pool,"1,200",2,Can hold a handful of land vehicles

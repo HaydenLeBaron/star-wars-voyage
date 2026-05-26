@@ -20,7 +20,7 @@ Contents
 5	LEGENDARY
 6	POPULAR ARMOR
 ATTIRE & OTHER CLOTHES
-Type	Defense	Soak	HP	Encum	(Restricted)	Price	Rarity
+Type	Defense	Soak	HP	Encum	(Restricted)	Price	Rarity0to10
 Banal Apparel	0	0	0	-		25	0
 Cargo Clothes	0	0	0	1		30	0
 Concealing Robes	0	1	0	1		150	2
@@ -38,7 +38,7 @@ Resplendent Robes	0	1	0	2		500	5
 Smuggler's Trenchcoat	1	1	0	3		1,650	7
 Tracker Utility Vest	0	0	1	-		100	2
 WORN EQUIPMENT
-Type	Defense	Soak	HP	Encum	(Restricted)	Price	Rarity
+Type	Defense	Soak	HP	Encum	(Restricted)	Price	Rarity0to10
 "Gundark" Scav-Suit	1	1	2	2		3,000	6
 Shockrider Crash Suit	0	2	1	2		3,000	3
 Adverse Environment Gear	0	1	1	2		500	1
@@ -68,7 +68,7 @@ Wing Commander Armored Flight Suit	1	1	1	3		1,500	6
 Zephyr Stealth Suit	1	1	1	2	(Restricted)	5,500	8
 ARMOR
 LIGHT
-Type	Defense	Soak	HP	Encum	(Restricted)	Price	Rarity
+Type	Defense	Soak	HP	Encum	(Restricted)	Price	Rarity0to10
 "Storm" Charge Suit (GaG)	0	2	0	3		2,000	2
 "Storm" Charge Suit (DC)	0	2	0	3		2,000	6
 Alliance Engineer's Helmet and Vest	0	1	0	1		75	1
@@ -106,7 +106,7 @@ Timber Cuirass	1	2	1	4		4,000	5
 Type III "Berethron" Personal Modular Armor	1	1	3	3	(Restricted)	1,250	6
 Verpine Fiber Ultramesh Armor	0	1	2	3		3,000	5
 HEAVY
-Type	Defense	Soak	HP	Encum	(Restricted)	Price	Rarity
+Type	Defense	Soak	HP	Encum	(Restricted)	Price	Rarity0to10
 Ancient Battle Armor	0	2	1	6		3,750	9
 PX-11 "Battlement" Powered Armor	1	3	3	3	(Restricted)	9,000	9
 Armored Robes	1	2	2	5	(Restricted)	4,500	8
@@ -138,13 +138,13 @@ Scavenged Clone Armor	0	2	2	5	(Restricted)	1,000	4
 Protector 1 Combat Armor	1	2	3	4	(Restricted)	5,500	7
 Waterweave	2	1	1	7		6,500	5
 BEAST ARMOR & EQUIPMENT
-Type	Defense	Soak	HP	Encum	(Restricted)	Price	Rarity
+Type	Defense	Soak	HP	Encum	(Restricted)	Price	Rarity0to10
 AniPro Layered Beast Armor	1	1	0	4		2,500	5
 Caballerin-Series Riding Tack	0	0	0	2		250	4
 Capari-series Padded Beast Armor	0	2	0	4		2,500	5
 Destri-series Laminate Beast Armor	0	4	1	7		8,500	7
 H-series Megafauna Carriage	1	0	2	5		5,500	7
 LEGENDARY
-Type	Defense	Soak	HP	Encum	(Restricted)	Price	Rarity
+Type	Defense	Soak	HP	Encum	(Restricted)	Price	Rarity0to10
 Boba Fett's Armor	2	3	0-	6		Not for Sale	10
 Darth Vader's Armor	1	2	-	5		Not for Sale	10

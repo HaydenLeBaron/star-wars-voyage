@@ -1,4 +1,4 @@
-Name,Skill,Dam,Crit,Range,Encumbrance,HP,(Restricted),Price,Rarity,Special,Category
+Name,Skill,Dam,Crit,Range,Encumbrance,HP,(Restricted),Price,Rarity0to10,Special,Category
 """Precision-X"" Marksman Rifle",Ranged (Heavy),9,3,Long,5,1,,"1,500",8,"Pierce 1, Stun setting",BLASTERS
 """Renegade"" Heavy Blaster Pistol",Ranged (Light),8,3,Medium,2,3,,950,4,"Inaccurate 1, Stun setting",BLASTERS
 """Security"" S-5 Heavy Blaster Pistol",Ranged (Light),7,3,Medium,3,1,,"1,250",7,Stun setting,BLASTERS

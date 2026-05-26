@@ -1,4 +1,4 @@
-Drug,(Restricted),Price,Encumbrance,Rarity,Effect
+Drug,(Restricted),Price,Encumbrance,Rarity0to10,Effect
 Ashes of Malachor,(Restricted),750,0,8,Empowers force sensitive beings
 Avabush Spice (single),(Restricted),25,0,6,Induces lethargy and relaxation
 Avabush Spice (box of 100),(Restricted),2000,3,7,Induces lethargy and relaxation

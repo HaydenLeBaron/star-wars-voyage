@@ -1,4 +1,4 @@
-Model,Silhouette,Speed,HP,Price,Rarity,Hyperdrive?,# of Weapons,Weapons?,Category
+Model,Silhouette,Speed,HP,Price,Rarity0to10,Hyperdrive?,# of Weapons,Weapons?,Category
 BTL-A4/BTL-S3 Y-Wing Attack Starfighter,3,4,1,"80,000",4,Yes,,,Bombers
 "BTS-A2 ""H-Wing"" Long-Range Strike Starfighter",3,3,1,"225,000",6,Yes,,,Bombers
 H-60 Tempest Heavy Bomber,4,3,1,"172,000",5,No,,,Bombers

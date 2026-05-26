@@ -1,4 +1,4 @@
-Gear,Price,Encumbrance,Rarity,Features,Category
+Gear,Price,Encumbrance,Rarity0to10,Features,Category
 Aratech R82 Jump Boots,"2,000",2,6,Jetpack on boots,General Equipment
 Backpack,50,-,0,Increases carrying capacity,General Equipment
 BlasTech Model 58 Concealment Holster,40,0,3,Conceals a small weapon,General Equipment

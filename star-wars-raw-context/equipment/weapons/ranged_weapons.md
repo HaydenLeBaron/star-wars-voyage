@@ -28,7 +28,7 @@ Contents
 7	POPULAR RANGED WEAPONS
 ENERGY
 BLASTERS
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 "Precision-X" Marksman Rifle	Ranged (Heavy)	9	3	Long	5	1		1,500	8	Pierce 1, Stun setting
 "Renegade" Heavy Blaster Pistol	Ranged (Light)	8	3	Medium	2	3		950	4	Inaccurate 1, Stun setting
 "Security" S-5 Heavy Blaster Pistol	Ranged (Light)	7	3	Medium	3	1		1,250	7	Stun setting
@@ -162,7 +162,7 @@ X-30 "Lancer" Precision Blaster Pistol	Ranged (Light)	5	4	Long	1	3		1,000	5	Accu
 XL-2 "Flashfire" Light Blaster Pistol	Ranged (Light)	5	3	Medium	1	3		450	5	Disorient 1, Stun setting
 Z-6 Rotary Blaster Cannon	Ranged (Heavy)	12	4	Long	6	3	(Restricted)	3,000	7	Auto-fire (Only), Cumbersome 3, Prepare 1
 OTHER ENERGY WEAPONS
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 "Impact" Repulsor Cannon	Ranged (Heavy)	3	6	Medium	5	1		1,000	7	Blast 3, Concussive 1, Knockdown, Prepare 1, Slow-Firing 1
 AJ-23 Concussive Rifle	Ranged (Heavy)	8	5	Short	4	2		8,000	4	Blast 7, Concussive 2, Inaccurate 2, Knockdown, Stun Damage
 1.8 FD Anti-Infantry Autoturret	Gunnery	17	2	Extreme	25	0	(Restricted)	12,000	6	Auto-fire, Slow-Firing 1, Limited Ammo 8
@@ -184,7 +184,7 @@ Lightbow	Ranged (Heavy)	11	3	Long	5	1		2,000	8	Blast 4, Knockdown, Pierce 3, Slo
 SWE/2 Sonic Rifle	Ranged (Heavy)	8	6	Long	4	0		1,200	6	Concussive 1, Slow-Firing 1, Stun Damage
 PROJECTILE
 SLUGTHROWERS
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 AA8 8-Gauge Scatter Gun	Ranged (Heavy)	7	6	Short	3	2		550	4	Blast 3, Knockdown
 Arquebus	Ranged (Heavy)	9	5	Long	3	4		1,200	5	Cumbersome 3, Prepare 1
 ASP-9 "Vrelt" Autopistol	Ranged (Light)	4	5	Short	1	0		150	4	Auto-fire
@@ -218,7 +218,7 @@ Verpine Shatter Pistol	Ranged (Light)	8	3	Medium	1	2		15,000	8	Knockdown, Pierce
 Verpine Shatter Rifle	Ranged (Heavy)	12	3	Extreme	3	3		30,000	8	Knockdown, Pierce 4
 Vodran Hunting Rifle	Ranged (Heavy)	7	4	Long	4	2		800	7	Cumbersome 2
 THROWN (NON-GRENADE)
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 Ascian Throwing Dagger	Ranged (Light)	+1	2	Short	1	0		65	7	Pierce 2, Limited Ammo 1
 Aurateran Boomerang	Ranged (Light)	4	5	Medium	1	0		65	6	Guided 1, Limited Ammo 1
 Bola	Ranged (Light)	2	-	Short	1	2		20	2	Ensnare 3, Knockdown, Limited Ammo 1
@@ -228,7 +228,7 @@ Repulsor Throwing Razor	Ranged (Light)	5	2	Medium	2	1		850	7	Guided 2, Limited A
 Vibrorang	Ranged (Light)	4	2	Medium	1	0		300	4	Limited Ammo 1, Pierce 2, Vicious 1
 Voss Warspear (thrown)	Ranged (Light)	+2	4	Short	4	2		215	8	Defensive 2, Limited Ammo 1
 OTHER PROJECTILE WEAPONS
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 Corellian Compound Bow (regular arrows)	Ranged (Heavy)	5	5	Medium	3	1		200	5	Cumbersome 3, Knockdown, Limited Ammo 1, Pierce 1
 Dart Gun (gear attachment)	Ranged (Light)	2	5	Short	-	-		200	4	Limited Ammo 1, Pierce 1
 Explosive Tipped Arrows (Corellian Compound Bow)	Ranged (Light)	6	5	Medium	0	0		50	6	Blast 4, Limited Ammo 1
@@ -247,7 +247,7 @@ Styanax Lance	Ranged (Heavy)	8	3	Short	8	2		200	8	Cumbersome 4, Limited Ammo 1, 
 Vac Attack Mk-127 Concealable Disc Launcher	Ranged (Light)	6	3	Short	0	1		800	7	Limited Ammo 4, Pierce 1, Vicious 1
 EXPLOSIVES & ORDNANCE
 GRENADES
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 "Lightning" 22 Ion Grenade	Ranged (Light)	10	5	Short	1	0		65	4	Blast 7, Disorient 5, Limited Ammo 1, Stun Damage (Droid Only)
 AP-M1 Armor Piercing Grenade	Ranged (Light)	13	3	Short	1	0	(Restricted)	200	6	Blast 4, Limited Ammo 1, Pierce 4
 Armor-piercing Grenade	Ranged (Light)	13	3	Short	1	0		100	6	Blast 4, Limited Ammo 1, Pierce 3
@@ -283,21 +283,21 @@ Wipe-3 Data-Purge Grenade	Ranged (Light)	-	-	Short	1	0		100	7	Limited Ammo 1
 WP-19 Incendiary Grenade	Ranged (Light)	8	3	Short	1	0	(Restricted)	125	6	Blast 8, Burn 4, Limited 1
 WW-41 CryoBan Grenade	Ranged (Light)	8	2	Short	1	0		220	7	Blast 6, Disorient 3, Ensnare 3, Limited Ammo 1, Vicious 2
 MICRO-ROCKETS
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 Anti-Armor Micro-Rocket	Ranged (Heavy)	8	4	Short	1	1		300	5	Breach 1, Limited Ammo 1
 Explosive Micro-Rocket	Ranged (Heavy)	7	2	Short	1	1		150	4	Blast 6, Limited Ammo 1
 Flechette Micro-Rocket	Ranged (Heavy)	6	2	Short	1	1		175	5	Blast 5, Limited Ammo 1, Vicious 2
 Incendiary Micro-Rocket	Ranged (Heavy)	6	3	Short	1	1		175	5	Blast 6, Burn 2, Limited Ammo 1
 Ion Micro-Rocket	Ranged (Heavy)	10	3	Short	1	1		100	6	Ion, Limited Ammo 1, Sunder
 MISSILES
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 Concussion Missile	Gunnery	14	4	Extreme	0	0		200	8	Blast 10, Concussive 3, Disorient 5, Guided 2
 Fragmentation Missile	Gunnery	12	4	Extreme	0	0		75	7	Blast 12, Guided 3
 High-Explosive Missile	Gunnery	18	3	Long	-	0	(Restricted)	200	6	Blast 6, Breach 2, Guided 2
 Incendiary Missile	Gunnery	10	3	Extreme	0	0	(Restricted)	145	7	Blast 10, Burn 3, Guided 2
 Plasma Missile	Gunnery	16	3	Medium	0	0	(Restricted)	160	8	Blast 14, Cumbersome 3, Inaccurate 1, Pierce 2
 MINI-TORPEDOS
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 Mini-Torpedo, Anti-Personnel	Ranged (Heavy)	8	2	Long	1	0		100	5	Blast 6, Limited Ammo 1
 Mini-Torpedo, Armor Piercing	Ranged (Heavy)	12	3	Medium	1	0		150	6	Blast 2, Limited Ammo 1, Pierce 4
 Mini-Torpedo, Ink	Ranged (Heavy)	0	n/a	Long	1	0		50	6	Blast 0, Disorient 4, Limited Ammo 1
@@ -305,7 +305,7 @@ Mini-Torpedo, Ion	Ranged (Heavy)	10	2	Long	1	0		150	6	Blast 8, Ion, Limited Ammo
 Mini-Torpedo, Net	Ranged (Heavy)	0	n/a	Medium	1	0		100	5	Blast 0, Ensnare 6, Limited Ammo 1
 Mini-Torpedo, Stun	Ranged (Heavy)	8	2	Long	1	0		300	5	Blast 4, Concussive 2, Limited Ammo 1, Stun Damage
 LAUNCHERS
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 CSPL-12 Projectile Launcher (frag grenades)	Ranged (Light)	8	4	Medium	2	2	(Restricted)	1,200	6	Blast 6, Limited Ammo 3
 Gungan Atlatl (plasma ball)	Ranged (Light)	5	3	Medium	2	0		100	7	Accurate 1, Burn 1, Ion, Limited Ammo 1
 M9 "Boomer" Heavy Pistol	Ranged (Light)	5	3	Medium	3	2		1,000	6	Blast 5, Cumbersome 2, Inaccurate 1
@@ -317,7 +317,7 @@ RLR-331 "Bulldog" Rocket Rifle	Ranged (Heavy)	10	4	Long	6	3	(Restricted)	2,200	7
 RPS-6 Rocket Launcher	Gunnery	22	2	Extreme	8	4	(Restricted)	8,200	8	Blast 14, Breach 1, Cumbersome 4, Guided 2, Limited Ammo 7
 Z50 Grenade Launcher (frag grenades)	Gunnery	8	4	Medium	5	3	(Restricted)	1,250	4	Blast 6, Cumbersome 3, Limited Ammo 6
 OTHER EXPLOSIVES & ORDNANCE
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 "Firecaller" Light Flame Projector	Ranged (Light)	5	2	Short	4	1	(Restricted)	1,200	7	Blast 2, Burn 2, Pierce 2, Vicious 3
 X-42 Heavy Flame Projector	Gunnery	10	2	Medium	6	2	(Restricted)	2,000	7	Blast 6, Burn 4, Vicious 1
 Czerka CZ-28 Flamestrike	Gunnery	9	2	Short	8	3	(Restricted)	2,000	8	Burn 4, Blast 9, Cumbersome 3, Vicious 2
@@ -328,7 +328,7 @@ Model 201 Mortar System	Gunnery	15	3	Extreme	10	1	(Restricted)	5,400	7	Blast 12,
 Under-barrel Flame Projector	Ranged (Heavy)	10	2	Short	-	-	(Restricted)	3,000	5	Blast 2, Burn 5
 Z-6 Jetpack (integrated missile launcher)	Ranged (Heavy)	15	3	Long	3	-		5,250	7	Blast 10, Breach 1, Inaccurate 1, Limited Ammo 5, Prepare 1
 EXOTIC & OTHER
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 CryoBan Projector	Ranged (Heavy)	6	2	Short	3	0		500	4	Blast 6, Cumbersome 3, Vicious 2
 CryoBan Rifle	Ranged (Light)	6	-	Medium	2	1		450	6	Ensnare 1, Pierce 5, Stun Damage
 L70 Acid Projector	Ranged (Heavy)	6	2	Short	4	1		1,250	7	Blast 6, Burn 3, Vicious 1
@@ -339,7 +339,7 @@ R-88 "Suppressor" Riot Rifle	Ranged (Heavy)	8	-	Medium	4	2		2,000	5	Blast 5, Dis
 Spray Stick	Ranged (Heavy)	0	-	Long	4	0		2,500	8	Accurate 2, Ensnare 4, Slow-Firing 1, Stun 8
 Tangle Gun 7	Ranged (Heavy)	1	4	Short	2	1		500	5	Ensnare 3
 TOOLS AS WEAPONS
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 Ion Thruster Gun	Ranged (Heavy)	5	4	Short	8	0		300	2	Concussive 1, Cumbersome 5, Ion, Prepare 1
 Luma Flare	Gunnery	6	3	Long	1	-		50	4	Blast 4, Burn 4, Disorient 2, Inaccurate 2, Prepare 2, Limited Ammo 1
 Multi-Goo Gun	Ranged (Light)	2	NA	Short	2	1		250	1	Disorient 1, Ensnare 4, Knockdown
@@ -347,7 +347,7 @@ Redirection Crystal	Skulduggery	9	4	Short	-	-	(Restricted)	500	9	Limited Ammo 1
 Repulsor Gun	Ranged (Heavy)	3	5	Short	5	0		200	3	Knockdown
 Rivet Gun	Ranged (Light)	4	3	Engaged	4	1		900	1	Ensnare 1, Inaccurate 1, Limited Ammo 1
 LEGENDARY
-Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity	Special
+Name	Skill	Dam	Crit	Range	Encum	HP	(Restricted)	Price	Rarity0to10	Special
 Boba Fett's Armor (integrated flamethrower)	Ranged (Light)	5	2	Short	6	0		Not for Sale	10	Blast 2, Burn 2, Pierce 2, Vicious 3
 Boba Fett's Armor (integrated jetpack missile tube)	Gunnery	20	2	Extreme	6	0		Not for Sale	10	Blast 10, Breach 1, Cumbersome 3, Guided 3, Limited Ammo 1, Prepare 1
 Boba Fett's Armor (integrated whipcord)	Ranged (Light)	1	-	Short	6	0		Not for Sale	10	Ensnare 3, Knockdown, Limited Ammo 1

@@ -1,4 +1,4 @@
-Model,NPC,Br/Ag/Int/Cun/Wil/Pr,Soak,WT,ST,M/R Def.,Skills,(Restricted),Price,Rarity,Category
+Model,NPC,Br/Ag/Int/Cun/Wil/Pr,Soak,WT,ST,M/R Def.,Skills,(Restricted),Price,Rarity0to10,Category
 Analysis Droid,Minion,1/1/4/1/1/1,3,3,,0/0,"Computers, Education",,"7,500",5,ANALYSIS DROIDS
 Interrogation Droid,Rival,1/1/3/1/2/1,3,12,,0/0,"Coercion, Medicine, Perception, Ranged (Light)",(Restricted),"9,600",8,ANALYSIS DROIDS
 LSx-series Slicer Droid,Rival,1/2/4/3/2/2,3,10,,0/0,"Computers, Cool, Deception, Discipline, Mechanics, Perception, Skulduggery, Stealth",(Restricted),"19,000",8,ANALYSIS DROIDS

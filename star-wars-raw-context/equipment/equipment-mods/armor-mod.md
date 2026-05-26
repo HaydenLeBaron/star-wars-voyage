@@ -6,7 +6,7 @@ Armour attachments are mostly based around increasing the utility and features o
 
 
 
-Modification	Price	Rarity	HP Req.	Other Req.	Features
+Modification	Price	Rarity0to10	HP Req.	Other Req.	Features
 Amphibious Modification	500	4	1	Able to have air tank attached	Ability to operate underwater or without air for a number of hours
 Armour Insert	450	3	0	Soak 1-, Defence 0	Clothes count as armoured clothing, though concealed
 Armour Spikes	500	2	3	Covers arms or legs	Covered in spikes, hurting attackers

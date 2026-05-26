@@ -9,7 +9,7 @@ To create such an item using a gear mod requires an Average difficulty Skuldugge
 
 Small items like datapads, comlinks, glow rods, chronos, and boots can only have one mod or attachment. Large items like travel cases, fusion lanterns, and cloaks may have two or more, depending on the nature of the mod and the discretion of the Game Master, but generally the number cannot exceed the item's encumbrance value.[1]
 
-Modification	Price	Rarity	HP Req.	Requirements	Features
+Modification	Price	Rarity0to10	HP Req.	Requirements	Features
 Comlink Bug	150	4	0	Implant in communications device	Broadcasts incoming & outgoing signals of comms to nearby listener
 Concealed Climbing Cord	100	2	0	Any piece of gear	Climbing cord & grappling hook implanted
 Dart Gun	200	4	0	Any piece of gear	Fires dart from concealment

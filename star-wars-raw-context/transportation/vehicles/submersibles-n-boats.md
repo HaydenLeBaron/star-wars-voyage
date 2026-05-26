@@ -12,7 +12,7 @@ Some models listed in the table are actually classified as an airspeeder or land
 Submersibles
 There is a small number of specially produced models of submersible, due to the small number of amphibious species which exist in the galaxy on a large scale.
 
-Model	Silhouette	Speed	HP	Price	Rarity	Weapons?
+Model	Silhouette	Speed	HP	Price	Rarity0to10	Weapons?
 Gungan Bongo Submarine	3	2	0	10,000	7	No
 Hydrospeare Corp Explorer Submersible	3	2	2	(Restricted) 55,000	5	Yes
 IML-2C Aquatic Scout Ship	3	3	4	10,000	5	No
@@ -20,7 +20,7 @@ Mon Calamari Keelkana-class Attack Submersible	2	4	3	(Restricted) 32,000	6	Yes
 Surface Skimmers
 There is a small number of specially produced models of submersible, due to the small number of amphibious species which exist in the galaxy on a large scale.
 
-Model	Silhouette	Speed	HP	Price	Rarity	Weapons?
+Model	Silhouette	Speed	HP	Price	Rarity0to10	Weapons?
 Aquaspeeder	3	2	2	7,000	2	No
 Flasherfish Personal Watercraft	1	4	2	5,000	5	No
 Ubrikkian Industries Pongeeta-class Swamp Speeder	2	2	2	6,600	3	No

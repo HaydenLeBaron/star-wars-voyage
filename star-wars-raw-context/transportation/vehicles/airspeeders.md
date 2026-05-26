@@ -18,7 +18,7 @@ The most meaningful distinction is twofold. First, pressurized cockpits and ion 
 Low-Altitude Airspeeders
 These airspeeders have less powerful repulsor lifts and usually inferior drives. They are entirely incapable of reaching the upper atmosphere. Often these are cheaper, less likely to have weapons, and if used in military operations they support landspeeders.
 
-Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity	Weapons?
+Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity0to10	Weapons?
 T-47 Sandspeeder	2	4	2		18000	5	Yes
 Ascendant Personal Stealth Flyer	2	3	2		35000	9	No
 Civilian Airspeeder	2	3	1		10000	3	No
@@ -33,7 +33,7 @@ Ubrikkian TRL-03 SkyClaw	5	1	5		60000	6	Yes
 High-Altitude Airspeeders
 Most airspeeders are capable of flight upwards of 10km, virtually capable of functioning in the very edges of space. These are often used as cheaper transport vessels for movement between planetary locations, as well as strike vessels.
 
-Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity	Weapons?
+Model	Silhouette	Speed	HP	(Restricted)	Price	Rarity0to10	Weapons?
 BR.549 FasTrak High-Altitude Scout Speeder	2	3	1		25000	6	No
 CAV-11 "Condor" Airspeeder	2	3	2		30000	4	Yes
 G35 "Silver Cloud" Airspeeder	3	4	2		45000	4	No

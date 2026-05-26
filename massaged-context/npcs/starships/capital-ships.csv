@@ -1,4 +1,4 @@
-Model,Crew Complement,Price,Rarity,No of Weapon Batteries,Special Features,Category
+Model,Crew Complement,Price,Rarity0to10,No of Weapon Batteries,Special Features,Category
 Adz-Class Destroyer,30,"4,450,000",7,7x,Starfighters & Extreme Range Sensors,Corvettes (Silhouette 5)
 Braha'Tok-Class Gunship,70,"1,400,000",6,16x,Starfighters,Corvettes (Silhouette 5)
 C-ROC Gozanti-class Light Cruiser,12,"190,000",8,6x,-,Corvettes (Silhouette 5)

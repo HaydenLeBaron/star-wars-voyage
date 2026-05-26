@@ -1,4 +1,4 @@
-Model,Hyperdrive,Encumbrance,HP,Price,Rarity,Weapons?,Encumbrance / Passengers,Passengers,Silhouette,Special;,Category
+Model,Hyperdrive,Encumbrance,HP,Price,Rarity0to10,Weapons?,Encumbrance / Passengers,Passengers,Silhouette,Special;,Category
 Action IV Bulk Freighter,Class 3,"8,500",4,"150,000",4,Yes,,,,,Bulk Freighters
 Action VI Bulk Transport,Class 3 / 20,"10,000",4,"200,000",5,No,,,,,Bulk Freighters
 C-9979 Landing Craft,Class 2 / 15,">5,500 (and complement)",2,"(Restricted) 12,000,000",6,Yes,,,,,Bulk Freighters
