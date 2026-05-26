@@ -105,21 +105,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/alton-kastle_bf3196be.jpeg",
             "embeddingId": "H6j3s5MB"
         },
-        "Anakin Skywalker": {
-            "name": "Anakin Skywalker",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Discovered as a slave on Tatooine by Qui-Gon Jinn and Obi-Wan Kenobi, Anakin Skywalker had the potential to become one of the most powerful Jedi ever. Some even believed he was the prophesied Chosen One who would bring balance to the Force. Always pushing the limits of his Jedi training, seeking to excel and live up to his reputation, Skywalker's passion often brought him into conflict with his mentor, Jedi Master Obi-Wan Kenobi. A hero of the Clone Wars, Anakin was caring and compassionate, but suffered from a deep fear of loss that would prove to be his downfall.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/anakin-skywalker-main_0326586e.png",
-            "embeddingId": "58aPddI7"
-        },
         "Appo": {
             "name": "Appo",
             "type": "",
@@ -149,21 +134,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_aurrasing_01_169_dce3aa30.jpeg",
             "embeddingId": "7kCBH72c"
-        },
-        "Ax Tagrin": {
-            "name": "Ax Tagrin",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The bounty hunter Ax Tagrin offers his services and raw, brute strength to whichever side seems to be winning and has the credits to pay. During the rise of the First Order, a job from Commander Pyre takes him to the Varkana system to use his penchant for advanced double blaster rifles and energy axes to hunt wanted Resistance spies.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ax-tagrin-main_30953c2f.jpeg",
-            "embeddingId": "wQDjB0RX"
         },
         "Azmorigan": {
             "name": "Azmorigan",
@@ -239,21 +209,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/baze-malbus_467fe1ea.jpeg",
             "embeddingId": "O0EBooCq"
-        },
-        "BB-8": {
-            "name": "BB-8",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A skittish but loyal astromech, BB-8 accompanied Poe Dameron on many missions for the Resistance, helping to keep his X-wing in working order. When Poe’s mission to Jakku ended with his capture by the First Order, BB-8 fled into the desert with a vital clue to the location of Luke Skywalker. He rejoined Poe in time for the attack on Starkiller Base, then helped Rey locate Skywalker’s planet of exile. As the Resistance rebuilt its forces after the Battle of Crait, BB-8 helped both Poe and Rey.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/bb-8-main_72775463.jpeg",
-            "embeddingId": "VBq5HcqK"
         },
         "Bendu": {
             "name": "Bendu",
@@ -375,36 +330,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_byph_01_169_739552bd.jpeg",
             "embeddingId": "ABXrKncX"
         },
-        "Captain Canady": {
-            "name": "Captain Canady",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A veteran officer, Moden Canady was captain of the Siege Dreadnought Fulminatrix, charged with annihilating D’Qar’s Resistance base from orbit. Canady commanded a Star Destroyer in the Imperial Starfleet, and was distressed to find himself surrounded by arrogant, inexperienced young First Order officers. He incinerated the base and was preparing to fire on Leia Organa’s flagship when his warship was destroyed by the Resistance’s last remaining bomber.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/captain-canady-db_335c9e1a.jpeg",
-            "embeddingId": "pRR3qzbe"
-        },
-        "Captain Doza": {
-            "name": "Captain Doza",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Solemn and reserved, Captain Imanuel Doza runs the Colossus platform from a pristine office in his namesake tower. Although he has a soft spot for his daughter, Torra, he is seen as a stern man who will not be easily intimidated, even by the First Order.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/resistance-db-captain-imanuel-doza-main-image_aa3aaa04.jpeg",
-            "embeddingId": "mRAgQP5u"
-        },
         "Captain Hark": {
             "name": "Captain Hark",
             "type": "",
@@ -434,36 +359,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/copy_of_cere_junda_-_approved_bd_villainsscreenshots_ce_90fcff43.jpeg",
             "embeddingId": "dspbscLJ"
-        },
-        "Chancellor Villecham": {
-            "name": "Chancellor Villecham",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A Tarsunt from the system of the same name, Lanever Villecham was elected chancellor of the New Republic two years before the First Order’s raid on Jakku. He focused his political efforts on such matters as improving trade relations with neutral systems. Despite Leia Organa’s warnings, Villecham didn’t consider the First Order to be a threat to galactic peace.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/chancellor-villecham_8f267906.jpeg",
-            "embeddingId": "Ag48AmdE"
-        },
-        "Chief Petty Officer Unamo": {
-            "name": "Chief Petty Officer Unamo",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Chief Petty Officer Unamo served the First Order aboard the flagship Finalizer, supervising the massive Star Destroyer’s crew and reporting to higher-ranking members of the command crew such as Lieutenant Mitaka.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/chief-petty-officer-unamo_b969cb85.jpeg",
-            "embeddingId": "klYDWaA8"
         },
         "Chirrut Îmwe": {
             "name": "Chirrut Îmwe",
@@ -525,21 +420,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/clu-lesser_ce89b8aa.jpeg",
             "embeddingId": "fsp2sRXd"
         },
-        "Colonel Datoo": {
-            "name": "Colonel Datoo",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Colonel Datoo supervised the primary fire control room of Starkiller Base. A methodical man and First Order true believer, Datoo was aghast when his fellow officers tried to flee the doomed base.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/colonel-datoo_da714d5e.jpeg",
-            "embeddingId": "8PAFLaqk"
-        },
         "Commandant Cumberlayne Aresko": {
             "name": "Commandant Cumberlayne Aresko",
             "type": "",
@@ -569,21 +449,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/crusher-roodown_3d9da8d6.jpeg",
             "embeddingId": "XULeZi4J"
-        },
-        "Darth Vader": {
-            "name": "Darth Vader",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Once the heroic Jedi Knight named Anakin Skywalker, Darth Vader was seduced by the dark side of the Force. Forever scarred by his defeat on Mustafar, Vader was transformed into a cybernetically-enhanced Sith Lord. At the dawn of the Empire, Vader led the Empire’s eradication of the Jedi Order and the search for survivors. He remained in service of the Emperor -- the evil Darth Sidious -- for decades, enforcing his Master’s will and seeking to crush the Rebel Alliance and other detractors. But there was still good in him…",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/darth-vader-main_4560aff7.jpeg",
-            "embeddingId": "wWeAcCtW"
         },
         "Dedra Meero": {
             "name": "Dedra Meero",
@@ -720,21 +585,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/fife-main_ee8287f6.jpeg",
             "embeddingId": "h6AzNmrS"
         },
-        "First Order Raiders": {
-            "name": "First Order Raiders",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "An elite new class of stormtrooper, the First Order Raiders are highly skilled hunters of a very specific variety, seeking to obtain ancient Sith relics for their commander, Supreme Leader Kylo Ren.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/zro-ff-003454_ea60b13f.jpeg",
-            "embeddingId": "pC8jBlJb"
-        },
         "Fode and Beed": {
             "name": "Fode and Beed",
             "type": "",
@@ -854,21 +704,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/resistance-db-griff-main-image_a9d2d6cc.jpeg",
             "embeddingId": "HG2lQjT2"
-        },
-        "Grogu": {
-            "name": "Grogu",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A mysterious child pursued by bounty hunters on behalf of Imperial interests, the foundling Grogu found protection with the Mandalorian Din Djarin. Through their adventures and journeys through the galaxy, young Grogu is honing remarkable abilities. Although he previously trained as a Jedi, Grogu has chosen to return to Din's side and continues to share his adventures as they take a stand against the Imperial remnant.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/grogu-main_89c92eaa.jpeg",
-            "embeddingId": "R7h3iANQ"
         },
         "Havina Vonreg": {
             "name": "Havina Vonreg",
@@ -1020,21 +855,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/image_86d08fa6.jpeg",
             "embeddingId": "dwaz1U0m"
         },
-        "Amilyn Holdo": {
-            "name": "Amilyn Holdo",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "An unconventional Resistance officer, Amilyn Holdo was one of Leia Organa’s oldest friends. She assumed command of the Resistance fleet after Leia was injured. As the peril to the Resistance grew, Holdo’s insistence on secrecy and her brusque manner led her into conflict with Poe Dameron. She sacrificed her life to save the Resistance transports during the desperate flight to Crait.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ep8-ff-004349_fd1e44fa.jpeg",
-            "embeddingId": "XGPTfx2P"
-        },
         "Ap’Lek": {
             "name": "Ap’Lek",
             "type": "",
@@ -1079,21 +899,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/tlj-db-bargwill-tomder-main-image_40c3eecb.jpeg",
             "embeddingId": "Gcl5OC1y"
-        },
-        "Beaumont Kin": {
-            "name": "Beaumont Kin",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A historian who once aspired to become an educator, after the destruction of the Hosnian system Beaumont Kin abandoned his academic career to become a captain in the Resistance’s intelligence division. He offers the cause broad knowledge on a variety of topics.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/beaumont-kin-main_6f85612e.jpeg",
-            "embeddingId": "YjtrNX97"
         },
         "Benni Baro": {
             "name": "Benni Baro",
@@ -1170,21 +975,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_c21highsinger_01_169_82dccb3b.jpeg",
             "embeddingId": "xm7Y5ZwE"
         },
-        "C-3PO (See-Threepio)": {
-            "name": "C-3PO (See-Threepio)",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "C-3PO longs for more peaceful times, but his continued service to the Resistance — and his knowledge of more than seven million forms of communication — keeps the worry-prone droid in the frontlines of galactic conflict. Programmed for etiquette and protocol, Threepio was built by a young Anakin Skywalker, and has been a constant companion to astromech R2-D2. Over the years, he was involved in some of the galaxy’s most defining moments and thrilling battles. Since the Empire’s defeat, C-3PO has served Leia Organa, head of a Resistance spy ring aimed at undermining the First Order.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/c-3po-main_417a2902.jpeg",
-            "embeddingId": "26Hz5IMT"
-        },
         "C2-B5": {
             "name": "C2-B5",
             "type": "",
@@ -1200,21 +990,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/c2-b5-main_b2481990.jpeg",
             "embeddingId": "yRu81AK0"
         },
-        "Caluan Ematt": {
-            "name": "Caluan Ematt",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Like many Resistance officers, Caluan Ematt is a veteran of the Rebel Alliance. During the Galactic Civil War, he was a member of the Shrikes recon unit – and the sole survivor after an ambush on Tanaab. Promoted from major to general after the Battle of Starkiller Base, Ematt fled D’Qar with Leia Organa ahead of the First Order’s hunters.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ep8-184774_37d3861e.jpeg",
-            "embeddingId": "59YHAMCK"
-        },
         "Camie": {
             "name": "Camie",
             "type": "",
@@ -1229,21 +1004,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/camie-main_c4bdef4f.jpeg",
             "embeddingId": "7kiFif3C"
-        },
-        "Captain Phasma": {
-            "name": "Captain Phasma",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Clad in distinctive armor of salvaged chromium, Captain Phasma commands the First Order’s legions of stormtroopers. A tough veteran commander, she has no use for fancy titles or complex war rooms, preferring to lead her troops in battle against the First Order’s enemies. A determined survivor, Phasma betrayed the First Order on Starkiller Base. She managed to conceal her treachery, but fell in battle against Finn, one of her former soldiers.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/captain-phasma_8f4ea1d7.jpeg",
-            "embeddingId": "AEGhkrFs"
         },
         "CB-23": {
             "name": "CB-23",
@@ -1289,21 +1049,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_chieftainpieter_01_169_9b81139b.jpeg",
             "embeddingId": "myjdDtQY"
-        },
-        "Chopper (C1-10P)": {
-            "name": "Chopper (C1-10P)",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Chopper was the resident droid of the Ghost, assisting the crew in everything from ship maintenance to combat -- even though he didn't always want to. Recovered from a crashed ship on Ryloth, the droid was pulled from the wreckage and became a loyal companion to Hera Syndulla when she was still just a child. After many years of repairs and patch jobs, Chopper had a beat-up, worn look that matched his sometimes cranky personality. Aesthetics aside, he was an essential part of this small rebel team, and ultimately, was loyal and heroic.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/chopper-main_607bb2d9.jpeg",
-            "embeddingId": "ksZv8dny"
         },
         "Cliegg Lars": {
             "name": "Cliegg Lars",
@@ -1364,21 +1109,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_warthog_01_169_3bc31322.jpeg",
             "embeddingId": "UA7IyH8F"
-        },
-        "Clone Trooper Jesse": {
-            "name": "Clone Trooper Jesse",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The clone troopers of the 501st Legion are a tight-knit bunch, loyal to their Jedi General, Anakin Skywalker. Clone Commander Jesse is a hard-fighting patriot who proudly wears the cog-shaped symbol of the Galactic Republic on his helmet, and has a large tattoo that covers his face. After the execution of Order 66, however, Jesse and the rest of the clones are blindly loyal to the Emperor, and not even his brother, the clone known as Rex, can compete with the chip's programming.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/victory-and-death-jesse_95acb3bc.jpeg",
-            "embeddingId": "uaGZimSk"
         },
         "Dak Ralter": {
             "name": "Dak Ralter",
@@ -1455,21 +1185,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/eg-86_c531d3ee.jpeg",
             "embeddingId": "ve2x5Yxl"
         },
-        "Eila": {
-            "name": "Eila",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Eila, like more and more unfortunate souls throughout the galaxy, knows the wrath of the First Order and Kylo Ren firsthand. Having survived their raid of her village on Tehar, she and her brother Kel snuck aboard a cargo ship, leaving the smoldering ashes of their homeworld behind. Now, the siblings hide out on the Colossus...until a bounty on their heads attracts the attention of Kazuda Xiono and the First Order.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/resistance-db-eila-main-image_6f641e1f.jpeg",
-            "embeddingId": "dctFixmU"
-        },
         "Embo": {
             "name": "Embo",
             "type": "",
@@ -1514,21 +1229,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ferry-droid-main_f5c0acee.jpeg",
             "embeddingId": "JWzF9KPP"
-        },
-        "First Order Sentry Droid": {
-            "name": "First Order Sentry Droid",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Although first thought to be abandoned, the presence of Resistance pilots on the First Order's mining operation triggers a patrolling sentry droid, a squat sentinel often seen keeping watch in the corridors of high-level First Order stations, bases, and ships.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/resistance-db-first-order-sentry-droid-main-image_e04676b0.jpeg",
-            "embeddingId": "WWlpumjx"
         },
         "Fourth Sister inquisitor": {
             "name": "Fourth Sister inquisitor",
@@ -1665,21 +1365,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/solo-db-glaucus-main-image_feb8410d.jpeg",
             "embeddingId": "IhE9AwRv"
         },
-        "Glem": {
-            "name": "Glem",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Glem, a gravel-voiced Rodian scavenger working on the Colossus platform, will trade and barter for better shifts on the dock and choice debris scrounged from the depths of the surrounding waters. But when the First Order comes looking for a pirate spy, he shows no loyalty to Synara -- or anyone but himself.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/resistance-db-glem-main-image_7aa7511b.jpeg",
-            "embeddingId": "wKwOiUwp"
-        },
         "Gooti Terez": {
             "name": "Gooti Terez",
             "type": "",
@@ -1709,21 +1394,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/gor-koresh-main_3811d644.jpeg",
             "embeddingId": "pXyPyDey"
-        },
-        "Goss Toowers": {
-            "name": "Goss Toowers",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Goss Toowers, a member of the Shozer species, is one of the hard-working technicians who keep the Resistance base on D’Qar running. Toowers and his fellow ground crew members handle everything from monitoring the arrival and departure of ships to maintaining the Resistance’s X-wing squadrons – often the only line of defense for worlds targeted by the First Order.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ep7_ia_56067_copy_451033d2.jpeg",
-            "embeddingId": "urh4S8SK"
         },
         "Governor Torul Blom": {
             "name": "Governor Torul Blom",
@@ -1785,51 +1455,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_gwarm_01_169_c11e93ee.jpeg",
             "embeddingId": "067SIwNx"
         },
-        "Hamato Xiono": {
-            "name": "Hamato Xiono",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A senator from Hosnian Prime, Hamato Xiono is among the New Republic's most elite politicians. Although he must often use his standing to help his son, Kazuda, when the boy is recruited by the Resistance he rejects his father's help to take on the burden for himself. After the destruction of Hosnian Prime, Hamato reaches out to his son with a special coded message to tell him that the family has survived, but warns Kaz that he has been identified by the First Order as a spy, putting everyone he knows in danger.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/hamato-xiono_5bed40e9.jpeg",
-            "embeddingId": "C7W4IAP1"
-        },
-        "Ilco Munica": {
-            "name": "Ilco Munica",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "An Abednedo adherent of the once-banned Church of the Force, Ilco Munica dwelled in Tuanul on Jakku alongside fellow members of his faith. When the First Order attacked the village, Ilco fought back with his blaster rifle, but could offer little resistance to professional soldiers.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ilco-munica_62fe2ee9.jpeg",
-            "embeddingId": "vobKMULB"
-        },
-        "Jabba the Hutt": {
-            "name": "Jabba the Hutt",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Jabba the Hutt was one of the galaxy’s most powerful gangsters, with far-reaching influence in both politics and the criminal underworld. There were no second chances with Jabba, something Han Solo would find out -- though the slug-like alien would ultimately fall victim to his own hubris and vengeful ways.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/Jabba-The-Hutt_b5a08a70.jpeg",
-            "embeddingId": "TxWDyexe"
-        },
         "Jarek Yeager": {
             "name": "Jarek Yeager",
             "type": "",
@@ -1890,21 +1515,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/johharcampaignart_b57d8a1b.jpeg",
             "embeddingId": "WHZlABCN"
         },
-        "Kaydel Connix": {
-            "name": "Kaydel Connix",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A lieutenant at the D’Qar Resistance base, Kaydel Connix coordinated communications during the Starkiller Base raid. She then helped organize the evacuation of D’Qar and served aboard the Raddus. Connix shared Poe Dameron’s misgivings about Vice Admiral Holdo, conspiring with the starfighter ace against their new commander and joining his brief-lived mutiny. She survived the Battle of Crait, escaping with the remnants of the Resistance.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/tlj-connix-main-image-2_b744059a.jpeg",
-            "embeddingId": "jRLOYJj2"
-        },
         "Aayla Secura": {
             "name": "Aayla Secura",
             "type": "",
@@ -1919,21 +1529,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_aaylasecura_01_169_39a65af2.jpeg",
             "embeddingId": "KYAnUbqj"
-        },
-        "Admiral Ackbar": {
-            "name": "Admiral Ackbar",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A veteran commander, Ackbar led the defense of his homeworld, Mon Cala, during the Clone Wars and then masterminded the rebel attack on the second Death Star at the Battle of Endor. Ackbar realized the rebels had been drawn into a trap at Endor, but adjusted, with his fleet buying valuable time for the attack to succeed. After the Battle of Endor, Ackbar became a Grand Admiral in the New Republic, winning many victories including the pivotal Battle of Jakku. He retired to Mon Cala, but was coaxed back into service with the Resistance by Leia Organa.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_ackbar_01_169_55137220.jpeg",
-            "embeddingId": "ksGBQEDI"
         },
         "Admiral Coburn": {
             "name": "Admiral Coburn",
@@ -1980,21 +1575,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_admiralmotti_01_169_f01d2570.jpeg",
             "embeddingId": "ls0kUWRK"
         },
-        "Admiral Statura": {
-            "name": "Admiral Statura",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A veteran Resistance officer, Statura fought to liberate his homeworld of Garel from the Empire while he was just a teenager. Later, Leia Organa recruited him to handle ship procurement and logistics for the Resistance. The technically savvy Statura helped identify the thermal oscillator as the key target in the Resistance’s attack on Starkiller Base.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/admiral-statura_42dcca12.jpeg",
-            "embeddingId": "T4LDsgpM"
-        },
         "Agen Kolar": {
             "name": "Agen Kolar",
             "type": "",
@@ -2024,21 +1604,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/agent-del-meeko_8f173763.jpeg",
             "embeddingId": "dnjsrS8w"
-        },
-        "Ahsoka Tano": {
-            "name": "Ahsoka Tano",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Ahsoka Tano, a Togruta female, was the Padawan learner to Anakin Skywalker and a hero of the Clone Wars. Alongside Anakin, she grew from headstrong student into a mature leader. But her destiny laid along a different path than the Jedi.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ahsoka-main_47d8386d.jpeg",
-            "embeddingId": "viHWKGve"
         },
         "Alcida-Auka": {
             "name": "Alcida-Auka",
@@ -2130,21 +1695,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/bail-organa-main_ad4b657d.jpeg",
             "embeddingId": "JZWfnVoW"
         },
-        "Boba Fett": {
-            "name": "Boba Fett",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "With his customized Mandalorian armor, deadly weaponry, Boba Fett was once regarded as one of the most fearsome and capable bounty hunters in the galaxy. An unaltered genetic clone of his father, bounty hunter Jango Fett, Boba learned combat and martial skills from a young age. Over the course of his career, which included contracts for the Empire and the criminal underworld, he became a legend. Although Fett seemingly met his demise in the Sarlacc pit on Tatooine after falling into the Great Pit of Carkoon, Boba survived the beast and lived to reclaim his armor, taking over the throne at Jabba's Palace.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/boba-fett-main_a8fade4d.jpeg",
-            "embeddingId": "jVAFcVZu"
-        },
         "Bosco The Mad Bomber Brix": {
             "name": "Bosco The Mad Bomber Brix",
             "type": "",
@@ -2235,21 +1785,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/clink-main_102023d2.jpeg",
             "embeddingId": "6NQYrrdz"
         },
-        "Clone Commander Bacara": {
-            "name": "Clone Commander Bacara",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Clone Commander Bacara (clone designation CC-1138) was the leader of the Galactic Marines, a unit of clone troopers famous for their distinctive armor and relentlessness in combat. Known for his aggressive tactics, Bacara led Republic forces against the Separatists during the Outer Rim Sieges, culminating in the assault on Mygeeto.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_clonecommanderbacara_01_169_aa642060.jpeg",
-            "embeddingId": "OY0OCHVe"
-        },
         "Colonel Bandwin Cor": {
             "name": "Colonel Bandwin Cor",
             "type": "",
@@ -2264,21 +1799,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/colonel-bandwin-cor-main_812b64d1.jpeg",
             "embeddingId": "sw8EGBpC"
-        },
-        "Commander D'Acy": {
-            "name": "Commander D'Acy",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Leia Organa personally recruited Larma D’Acy to join the Resistance after years of service defending the Warlentta system. With the support of her wife, Wrobie Tyce, who adapted her acumen as a courier ship pilot to fight the First Order by Larma’s side, D'Acy has stepped into a broader strategic command position, personally advising General Organa and rolling up her sleeves for the hands-on work of getting the Ajan Kloss outpost fully operational.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/commander-d-acy-main_f239be90.jpeg",
-            "embeddingId": "kXik5fBj"
         },
         "Crokind Shand": {
             "name": "Crokind Shand",
@@ -2370,21 +1890,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_doctorgubacher_01_169_501caa2a.jpeg",
             "embeddingId": "bp4vlg4Q"
         },
-        "Doctor Kalonia": {
-            "name": "Doctor Kalonia",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A good-humored, sympathetic physician with the rank of major in the Resistance army, Doctor Kalonia is assigned to the Resistance base on D’Qar. She attended both Chewbacca and Finn after they were wounded. Her calm bedside manner and knowledge of Shyriiwook soothed Chewie, who allowed Kalonia to tend to his blaster burn.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/doctor-kalonia_1b313899.jpeg",
-            "embeddingId": "vfwGhspM"
-        },
         "Dume": {
             "name": "Dume",
             "type": "",
@@ -2415,21 +1920,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/Eeth-Koth2_246ea172.jpeg",
             "embeddingId": "rAnYChSY"
         },
-        "Ello Asty": {
-            "name": "Ello Asty",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The Abednedo pilot Ello Asty was known among his fellow Resistance pilots for his superb abilities behind the stick and occasional trouble remembering that a squadron must act as a team, not a loose collection of individuals. Ello flew with Cobalt Squadron in the early days of the Resistance and was a member of Blue Squadron during the attack on Starkiller Base. Ground fire ripped through his X-wing, ending his life.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ello-asty_2f33541b.jpeg",
-            "embeddingId": "2GHVIZfu"
-        },
         "Father": {
             "name": "Father",
             "type": "",
@@ -2459,21 +1949,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/fenn-rau_f1be177c.jpeg",
             "embeddingId": "lG8erQOw"
-        },
-        "Finn": {
-            "name": "Finn",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Committed to the cause of the Resistance, Finn fights alongside his closest friends in the struggle to defeat the First Order, the evil regime he once served as a stormtrooper. As FN-2187, he was trained from birth to serve the First Order, but a skirmish on Jakku awakened his conscience and drove him down a different path, one that proved both heroic and dangerous.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/finn-main_ad2b705b.jpeg",
-            "embeddingId": "FpY8sFSa"
         },
         "Flix": {
             "name": "Flix",
@@ -2580,21 +2055,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/hermie-odle-16-9_5bb4fd3a.jpeg",
             "embeddingId": "bRlXuXpE"
         },
-        "Hondo Ohnaka": {
-            "name": "Hondo Ohnaka",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A tough, pragmatic Weequay, Hondo Ohnaka led a notorious Outer Rim pirate gang from his headquarters on Florrum. A former colleague of Jango Fett and a former lover of Aurra Sing, Ohnaka won fame during the Clone Wars when he kidnapped Count Dooku, Obi-Wan Kenobi, and Anakin Skywalker and tried to ransom all three for a big payout. Since that incident, Ohnaka continues to serve himself, not being above robbing, blinding, or betraying his friends and foes. Decades later, he started Ohnaka Transport Solutions on Black Spire Outpost to run contraband throughout the galaxy. Chewbacca has reluctantly partnered with the charming pirate to fund refurbishment of the Millennium Falcon.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/hondo-ohnaka_6ab3af8b.jpeg",
-            "embeddingId": "0HtBRh5h"
-        },
         "Inspector Jen June": {
             "name": "Inspector Jen June",
             "type": "",
@@ -2669,21 +2129,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/acw_ia_94347_a7d2b0ac.jpeg",
             "embeddingId": "RAV5VItt"
-        },
-        "Korr Sella": {
-            "name": "Korr Sella",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The capable, no-nonsense Korr Sella assisted Leia Organa during her career in the New Republic’s Galactic Senate and remained in her service when Leia left politics to establish the Resistance. Sella served as Leia’s link to the Senate, bringing intelligence to allies and supporters who agreed with her warnings about the First Order. Sella was on Hosnian Prime as Leia’s envoy when the Starkiller superweapon destroyed the system, ending her life.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/korr-sella_fba116a4.jpeg",
-            "embeddingId": "8MuGs5H0"
         },
         "8D8": {
             "name": "8D8",
@@ -2775,21 +2220,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/babwa-venomor-main_d6b841df.jpeg",
             "embeddingId": "eNfeNLgb"
         },
-        "BB-9E": {
-            "name": "BB-9E",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The First Order benefits from the latest technology, and its warships rely on dark, gleaming BB astromech units to keep machinery operational and ensure procedures are followed. Assigned to the Supremacy, BB-9E keeps a sharp photoreceptor out – in every spectrum -- for infiltrators, saboteurs and other threats to Supreme Leader Snoke’s flagship.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/bb-9e-tlj-db_2e928ac7.jpeg",
-            "embeddingId": "MqoyR2bo"
-        },
         "Bell Zettifar": {
             "name": "Bell Zettifar",
             "type": "",
@@ -2835,36 +2265,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/bib-fortuna-main_376ba1ba.jpeg",
             "embeddingId": "tp8yFN6z"
         },
-        "Bollie Prindel": {
-            "name": "Bollie Prindel",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A member of the ground crew assigned to the Resistance base on D’Qar, Bollie Prindel is one of many crewers keeping the Resistance’s starfighter squadrons ready for action on short notice.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ep7_ia_62761_7b583f55.jpeg",
-            "embeddingId": "L5CDzGXy"
-        },
-        "Boolio": {
-            "name": "Boolio",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A mine overseer at the Sinta Glacier Colony, Boolio finds himself thrust into the galactic struggle after a mole within the First Order mysteriously supplies him with a file filled with critical intelligence. Acting swiftly, Boolio arranges to deliver this intel to the Resistance. His heroism soon leads to his arrest and execution.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/boolio-main_bab306ba.jpeg",
-            "embeddingId": "9JgMdLEb"
-        },
         "Bossk": {
             "name": "Bossk",
             "type": "",
@@ -2894,21 +2294,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/Bultar-swan_7e78a9bc.jpeg",
             "embeddingId": "rqRAovRU"
-        },
-        "Cad Bane": {
-            "name": "Cad Bane",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A ruthless bounty hunter from the planet Duro, Cad Bane was the preeminent blaster-for-hire in the galaxy at the time of the Clone Wars and after the conflict ended. Using an impressive arsenal of weapons and allies, the cold, cruel, and calculating Bane would literally track his prey to the ends of the galaxy if required. Bane carried custom twin blaster pistols, gauntlets studded with control devices, a concealed bola, explosives, integrated breathing apparatus, and rocket boots, ensuring that he was always well prepared for any situation that may arise.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/cad-bane-main_1fbcbcd8.jpeg",
-            "embeddingId": "nLBNKKy1"
         },
         "Cade": {
             "name": "Cade",
@@ -3060,66 +2445,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/clegg-holdfast_1633585d.jpeg",
             "embeddingId": "OlkwK9r7"
         },
-        "Clone Pilot Odd Ball": {
-            "name": "Clone Pilot Odd Ball",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A capable clone pilot with experience flying multiple starfighters and attack craft, Odd Ball fought at Teth, Umbara and Coruscant, sometimes flying alongside Obi-Wan Kenobi. He joined the hunt for the escaped Padawan Ahsoka Tano on Coruscant, and was engaged in battle above Utapau when Supreme Chancellor Palpatine issued Order 66, directing all clone forces to turn their weapons on their Jedi Generals.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/oddball_9e5f9aa6.jpeg",
-            "embeddingId": "9ETzTkAY"
-        },
-        "Clone Trooper Hardcase": {
-            "name": "Clone Trooper Hardcase",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Let me at 'em! was Hardcase's typical reaction when presented with enemy forces, no matter how overwhelming the odds. Legend has it that his growth chamber sprung a leak during his formation on Kamino, resulting in his characteristic, somewhat aberrant, but nonetheless useful hyperactivity. When the blaster bolts fly, Hardcase loses all sense of self-preservation and returns fire with zeal, determined to wipe out the enemy with repeated sweeps of his rotary laser cannon.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/hardcase_36c2eaea.jpeg",
-            "embeddingId": "i81wNfox"
-        },
-        "Clone Trooper Tup": {
-            "name": "Clone Trooper Tup",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A rookie clone trooper in the 501st Legion, Tup acclimated well within the ranks of seasoned veterans. Unlike some of the newer clones, like Dogma, who seemed wound a little too tight, Tup was far more willing to learn from his brothers' experiences. Tup could be distinguished by the teardrop shaped tattoo on his face, and the matching markings on his helmet. He served during the grueling campaign to retake the shadowy planet Umbara, under the command of the fierce General Pong Krell.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/tup_1de373c2.jpeg",
-            "embeddingId": "PWzfgRPj"
-        },
-        "Clone X": {
-            "name": "Clone X",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A mysterious and formidable assassin who is highly skilled and adept at stealth tactics, the commando known as Clone X is a conditioned warrior who takes on risky, top-secret missions.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/the-bad-batch-season-2-ep-7-story-gallery-09_434ced0a.jpeg",
-            "embeddingId": "ycttMPhI"
-        },
         "Commander Jun Sato": {
             "name": "Commander Jun Sato",
             "type": "",
@@ -3134,21 +2459,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/commander-jun-sato-main-image_afc16f9c.jpeg",
             "embeddingId": "sJqsLWXm"
-        },
-        "Commander Pyre": {
-            "name": "Commander Pyre",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "An ominous figure in gleaming gold stormtrooper armor, Commander Pyre leads the tenacious First Order forces on a mission to find a pair of refugee children on the Colossus platform.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/resistance-db-commander-pyre-main-image_b0a9816a.jpeg",
-            "embeddingId": "B6x64j9o"
         },
         "Constable Zuvio": {
             "name": "Constable Zuvio",
@@ -3270,21 +2580,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/the-bad-batch-story-gallery-metamorphosis-03_36241a52.jpeg",
             "embeddingId": "LM50Xbwj"
         },
-        "Drell": {
-            "name": "Drell",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "As part of Kragan Gorr's pirate gang, Drell is a competent crewman entrusted with important missions, who seems to derive a warped sense of joy from wreaking havoc in the galaxy and shooting down enemy fighters.  But despite his fearsome appearance and gruff attitude, his skills are no match for the First Order.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/resistance-db-drell-main-image_0b2cbd27.jpeg",
-            "embeddingId": "ctxXwgEa"
-        },
         "Echo": {
             "name": "Echo",
             "type": "",
@@ -3375,21 +2670,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/figrin-dan_59ce7b09.jpeg",
             "embeddingId": "A7JIIeNR"
         },
-        "FN-2199": {
-            "name": "FN-2199",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A stormtrooper raised from birth to serve the First Order, FN-2199 fought alongside his comrades FN-2000, FN-2003 and FN-2187. During combat training he took the nickname Nines. After FN-2187 defected from the First Order, Nines encountered his old squadmate again during the raid on Takodana. Angrily denouncing FN-2187 as a traitor, he tried to subdue his former friend with a Z6 riot baton, but was gunned down by Han Solo.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/fn-2199_bfaed44a.jpeg",
-            "embeddingId": "TV6PouBa"
-        },
         "Frisk": {
             "name": "Frisk",
             "type": "",
@@ -3435,21 +2715,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/garindan-main-image_409cd281.jpeg",
             "embeddingId": "p4TEAaxH"
         },
-        "General Grievous": {
-            "name": "General Grievous",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "General Grievous was a brilliant Separatist military strategist and a feared Jedi hunter, known for his ruthlessness and hacking cough. His body itself was a weapon, allowing him lightning quick strikes and devastating blows. But he was also quick to run from a fight, a tactic that worked until one final meeting with Obi-Wan Kenobi.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/General-Grievous_c9df9cb5.jpeg",
-            "embeddingId": "B2OGJlMO"
-        },
         "General Kalani": {
             "name": "General Kalani",
             "type": "",
@@ -3464,21 +2729,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/general_kalani_4d7e9be0.jpeg",
             "embeddingId": "ZqkbiR3j"
-        },
-        "General Quinn": {
-            "name": "General Quinn",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Domaric Quinn has ascended the First Order ranks to become an important commander and earn a seat on Kylo Ren’s Supreme Council. A former Imperial officer, he loathes the mysticism of the Force and is suspicious of the First Order’s new Sith allies on Exegol. When Ren tires of Quinn’s caustic questions, Quinn learns the perils of crossing the Supreme Leader.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/general-quinn-main_bbe54055.jpeg",
-            "embeddingId": "Boy2vZto"
         },
         "Gobi Glie": {
             "name": "Gobi Glie",
@@ -3599,21 +2849,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/halle-burtoni-main_db6b8f2b.jpeg",
             "embeddingId": "odalJtth"
-        },
-        "Hugh Sion": {
-            "name": "Hugh Sion",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A former pilot in the New Republic navy, Hugh Sion and Kazuda Xiono flew together until Kaz was thought lost in a battle with a red TIE fighter operated by Major Baron Vonreg. Like Kazuda, Hugh eventually found his way into the Resistance where the two old squadron mates were reunited once more.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/hugh-sion-main_5b52561f.jpeg",
-            "embeddingId": "xQOB6ixc"
         },
         "Hunter": {
             "name": "Hunter",
@@ -3750,21 +2985,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_jinx_01_169_6909b9bc.jpeg",
             "embeddingId": "shGg4Xkf"
         },
-        "Kanan Jarrus / Caleb Dume": {
-            "name": "Kanan Jarrus / Caleb Dume",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Not every Jedi perished in Order 66. Once known by the name Caleb Dume, Kanan Jarrus survived the Emperor’s purge, going underground for years and hiding the truth about who he really was. To keep his past a secret, Kanan carried a blaster -- an uncommon practice for a Jedi -- and used a lightsaber that had to be assembled. In the years leading up to the galactic civil war, he was a leader among the Ghost crew, a small group of rebels looking to strike back against the Empire, and with the emergence of the Force-sensitive Ezra, once again embraced his identity as a Jedi Knight.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/kanan-jarrus-caleb-dume-main_f803f0ca.jpeg",
-            "embeddingId": "hDEXMltv"
-        },
         "Kekit": {
             "name": "Kekit",
             "type": "",
@@ -3854,36 +3074,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/resistance-db-4d-m1n-main-image_2a163064.jpeg",
             "embeddingId": "2GmauMTD"
-        },
-        "Admiral Griss": {
-            "name": "Admiral Griss",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A veteran First Order officer, Frantis Griss commands the Steadfast and its battlegroup and sits on the Supreme Council. He has an excellent relationship with Allegiant General Pryde, which proves useful when the First Order must coordinate its efforts with the Sith armada revealed at Exegol.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/admiral-griss-main_d6144ea9.jpeg",
-            "embeddingId": "ctP30qO3"
-        },
-        "Aftab Ackbar": {
-            "name": "Aftab Ackbar",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "To uphold the legacy of his father, Admiral Gial Ackbar’s son, Aftab, now serves the Resistance as a Y-wing pilot. Beyond his family's close ties to rebel efforts, Aftab’s recruitment was part of a larger effort to bring more Mon Calamari aid to the cause.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/aftab-ackbar-main_3d257fbb.jpeg",
-            "embeddingId": "6yoVQtdV"
         },
         "Alderaanian Royal guards": {
             "name": "Alderaanian Royal guards",
@@ -4110,21 +3300,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/captain-elk-main_a226514b.jpeg",
             "embeddingId": "cv1tNBnB"
         },
-        "Captain Gawat": {
-            "name": "Captain Gawat",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Idrosen Gawat led the planetary defense forces safeguarding the Mykapo system before coming out of retirement to join the Resistance. A seasoned veteran, Gawat serves as executive officer aboard the Raddus, assisting Admiral Ackbar.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/tlj-db-captain-gawat-main-image_33cfc639.jpeg",
-            "embeddingId": "Ri8l8SII"
-        },
         "Captain Needa": {
             "name": "Captain Needa",
             "type": "",
@@ -4215,21 +3390,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_chairmanpapanoida_01_169_aa41311a.jpeg",
             "embeddingId": "AyMy1Fqq"
         },
-        "Chewbacca": {
-            "name": "Chewbacca",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A legendary Wookiee warrior and Han Solo’s longtime co-pilot, Chewbacca continues to serve as faithful first mate to carry out daring missions against the First Order behind the controls of the Millennium Falcon. Known as Chewie to his closest friends, he was part of a core group of rebels who restored freedom to the galaxy during the reign of the Galactic Empire. Known for his short temper and accuracy with a bowcaster, Chewie also has a big heart and unwavering loyalty to his friends.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/chewie-main_e1968a8a.jpeg",
-            "embeddingId": "vjEDxNE3"
-        },
         "Clone Captain Rex": {
             "name": "Clone Captain Rex",
             "type": "",
@@ -4244,51 +3404,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/the-bad-batch-battle-scars-story-gallery-05_d3235dee.jpeg",
             "embeddingId": "GFoiUjDB"
-        },
-        "Clone Commander Doom": {
-            "name": "Clone Commander Doom",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A clone commander, Doom served alongside the twin Jedi Masters Tiplar and Tiplee. Doom led a flanking maneuver during the Battle of Ringo Vinda, supported by clone troopers including Fives and Tup. When a seemingly disoriented Tup suddenly shot Tiplar in the back, the momentum of the attack was lost and Anakin Skywalker ordered Doom and his men to retreat.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/image_947960d1.jpeg",
-            "embeddingId": "4BvAcmLJ"
-        },
-        "Clone Commander Scorch": {
-            "name": "Clone Commander Scorch",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Clone Commander Scorch understands the sensitive nature of the Empire's scientific studies. After one cloning experiment gets loose on the world of Silla, Scorch diligently assists his fellow soldiers in corralling the panicked villagers and escorting them off world to ensure that the Empire remains fully in control of the situation.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/scorch-main_b23d43ae.jpeg",
-            "embeddingId": "GI6rS2fV"
-        },
-        "Clone Commander Wolffe": {
-            "name": "Clone Commander Wolffe",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Clone Commander Wolffe (clone designation CC-3636) served under General Plo Koon in the Clone Wars, as commander of the tight-knit unit known as the Wolfpack. A seasoned and battered combatant, Wolffe has witnessed some of the worst the war has to offer. Early in the Clone Wars, he lost his entire command when Master Plo's flagship, Triumphant, was destroyed by the despicable General Grievous. Despite such tragedy, he fights on bravely, proudly brandishing his battle scars and instilling loyalty among his men.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ACW_IA_77349_2a55f9c8.jpeg",
-            "embeddingId": "2FHOzoRD"
         },
         "Clone Veteran": {
             "name": "Clone Veteran",
@@ -4365,21 +3480,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_daultaydofine_01_169_c94b9f38.jpeg",
             "embeddingId": "Lc6VsmeB"
         },
-        "DJ": {
-            "name": "DJ",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "An amoral thief and talented slicer, DJ dwells in the shadows thrown off by Canto Bight’s glitz, stealing whatever he needs and resolutely refusing to take sides in the growing conflict between the First Order and the Resistance.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/dj_503c3838.jpeg",
-            "embeddingId": "Z5KnN4rT"
-        },
         "Doctor Nuvo Vindi": {
             "name": "Doctor Nuvo Vindi",
             "type": "",
@@ -4424,21 +3524,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/mira-bridger_2b5ea7de.jpeg",
             "embeddingId": "4PzrfZhz"
-        },
-        "Ezra Bridger": {
-            "name": "Ezra Bridger",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Growing up on his own during the age of the Empire, Ezra Bridger relied on his street smarts -- and subconscious Force abilities -- to survive. He became a con artist and small-time thief, doing what he needed to get by on his home planet Lothal. But this reality also hardened Ezra, who by the time he was 14 years old, had little trust for anyone. That would change with his introduction to the Ghost crew, a small band of rebels fighting back against the Empire. Ezra came to believe in their cause, and saw that he could help change the galaxy for the better. And with the help of Kanan Jarrus, he began to learn the ways of the Jedi.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ezra-bridger-s3_2236d8f8.jpeg",
-            "embeddingId": "y8hxWesM"
         },
         "Fixer": {
             "name": "Fixer",
@@ -4485,21 +3570,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/gar-saxon-main_09ad9ff9.jpeg",
             "embeddingId": "QDUPYqT1"
         },
-        "Garazeb Zeb Orrelios": {
-            "name": "Garazeb Zeb Orrelios",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Meet the muscle of the Ghost team. Garazeb Zeb Orrelios was a cunning Lasat honor guard who adopted the cause of rebellion against the Empire. Despite his hulking frame, Zeb was actually highly-educated and articulate. Still, he loved beating up stormtroopers, who he nicknamed “bucket heads.”",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/zeb-main-tms3_b370aa93.jpeg",
-            "embeddingId": "d8YiY5sH"
-        },
         "Garnac": {
             "name": "Garnac",
             "type": "",
@@ -4514,21 +3584,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_garnac_01_169_054a0fce.jpeg",
             "embeddingId": "HVBgjTOf"
-        },
-        "General Parnadee": {
-            "name": "General Parnadee",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The First Order’s senior ground commander, Bellava Parnadee is focused on worlds resisting occupation by the regime, a duty that often takes her far from her regular post aboard the Steadfast. A member of the Supreme Council, she is careful to stay on the right side of mercurial Supreme Leader Kylo Ren.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/general-parnadee-main_3d8570f2.jpeg",
-            "embeddingId": "K15XWufu"
         },
         "Governor Pryce": {
             "name": "Governor Pryce",
@@ -4575,21 +3630,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/grozzhs-main_b4a01de9.jpeg",
             "embeddingId": "vZWXG4s2"
         },
-        "Grummgar": {
-            "name": "Grummgar",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A hulking Dowutin, Grummgar was at Maz Kanata’s castle when Han Solo, Finn and Rey visited. Sitting beside the bounty hunter and First Order spy Bazine Netal, Grummgar was given a wide berth by the castle’s other guests. He makes his credits as a mercenary and big-game hunter, with his kills including the molsume, a predator native to Ithor.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/grummgar_20545f02.jpeg",
-            "embeddingId": "WqnMngRd"
-        },
         "Hallion Nark": {
             "name": "Hallion Nark",
             "type": "",
@@ -4604,21 +3644,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/resistance-db-hallion-nark-main-image-2_058631f1.jpeg",
             "embeddingId": "THZ1B17J"
-        },
-        "Han Solo": {
-            "name": "Han Solo",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Han Solo rose from an impoverished childhood on the mean streets of Corellia to become one of the heroes of the Rebel Alliance. As captain of the Millennium Falcon, Han and his co-pilot Chewbacca came to believe in the cause of galactic freedom, joining Luke Skywalker and Princess Leia Organa in the fight against the Empire. After the Battle of Endor, Han faced difficult times in a chaotic galaxy, leading to a shattering confrontation with his estranged son Ben.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/han-solo-main_a4c8ff79.jpeg",
-            "embeddingId": "qJAl5vZP"
         },
         "Hermione Bagwa": {
             "name": "Hermione Bagwa",
@@ -4709,21 +3734,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/acw_ia_94357_9d980bc5.jpeg",
             "embeddingId": "JVM2571F"
-        },
-        "Jango Fett": {
-            "name": "Jango Fett",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "In the final years of the Republic, Jango Fett was regarded as the best bounty hunter in the galaxy. A proficient marksman and unarmed combatant, Fett was covered in a sleek armored suit that concealed his scarred face. His combat gear featured an arsenal of weaponry, including retractable wrist blades, a snare, dual blaster pistols and other more exotic tools of the trade. In combat, Jango used his harnessed jetpack to gain the advantage of speed and height over his enemies. The backpack also carried a nasty surprise -- an explosive rocket could be launched from it. For interstellar travel, Jango traveled aboard his well-worn starship, Slave I.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_jangofett_01_169_884cefab.jpeg",
-            "embeddingId": "v0fWsznB"
         },
         "Jaybo Hood": {
             "name": "Jaybo Hood",
@@ -4829,21 +3839,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/steel-claw-kane-main_ede943f9.jpeg",
             "embeddingId": "qkpM4Ifg"
-        },
-        "B-U4D (Buford)": {
-            "name": "B-U4D (Buford)",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A burly loading droid clad in yellow ceramic armor plate, B-U4D serves on D’Qar as part of the ground crew that keeps the Resistance’s starfighters ready to fly. Tough and hard-working, “Buford” is one of many Resistance droids granted independence and seen as partners in the cause rather than mere machines.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/b-u4d_73f93ac6.jpeg",
-            "embeddingId": "Hhb3n4S2"
         },
         "Beilert Valance": {
             "name": "Beilert Valance",
@@ -4965,111 +3960,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/cassian-andor-main_d583d3b2.jpeg",
             "embeddingId": "cGxAJIAs"
         },
-        "Clone Commander Bly": {
-            "name": "Clone Commander Bly",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A veteran of many Clone Wars battles, Clone Commander Bly (clone designation CC-5052) served in the 327th Star Corps on such worlds as Quell, Maridun, and Felucia. Bly developed a close working relationship with Jedi General Aayla Secura, who was always reassured to know the dependable clone trooper had her back.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_clonecommanderbly_01_169_7452adc7.jpeg",
-            "embeddingId": "J2CZ8iaB"
-        },
-        "Clone Commander Fox": {
-            "name": "Clone Commander Fox",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Commander Fox led the Coruscant Guard, an elite clone trooper unit assigned to serve as peace-keepers on the Galactic Republic capital. Like every other clone trooper in the Guard, Fox was bound by honor and duty to protect and serve the Supreme Chancellor and the members of the Galactic Senate. Utterly fearless, he was always the first to lead the charge into battle, even in the most perilous combat situations. His exemplary performance has made him one of the most highly decorated soldiers in the Republic army.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_clonecommanderfox_01_169_703bfe09.jpeg",
-            "embeddingId": "Aww7Wdx1"
-        },
-        "Clone Commander Gree": {
-            "name": "Clone Commander Gree",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Clone Commander Gree, designation 1004, led the Elite Corps of clone troopers during the Clone Wars. He saw deployments on such heated battlefronts as Kashyyyk. Gree himself wore camouflaged armor to better blend into jungle surroundings. Though a faithful commander who carried out the Jedi's orders, Gree was ultimately loyal to the Republic. When Chancellor Palpatine enacted Order 66, Gree understood it was a worst-case scenario contingency -- the Jedi had betrayed the Republic, and were therefore dangerous enemies of the state.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_clonecommandergree_01_169_ccbc3da4.jpeg",
-            "embeddingId": "UYJedWVf"
-        },
-        "Clone Commander Neyo": {
-            "name": "Clone Commander Neyo",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Clone Commander Neyo was stationed on Saleucami during the Outer Rim Sieges. While on speeder bike patrol with his Jedi general, Stass Allie, he received Order 66 directly from Supreme Chancellor Palpatine. The command identified Allie as an enemy of the Republic. Carrying out the order, he stopped his BARC speeder bike, falling in behind the Jedi. He and a wingman opened fire with their speeder-mounted laser cannons, killing Stass Allie and destroying her speeder bike.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_clonecommanderneyo_01_169_c4721166.jpeg",
-            "embeddingId": "QFo8emgU"
-        },
-        "Clone Commander Thorn": {
-            "name": "Clone Commander Thorn",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Clone Commander Thorn was a Republic soldier during the Clone Wars who led an escort of Padmé Amidala to Scipio. After nightfall, Thorn detected a coming Separatist assault, and acted fast to warn the Senator. With his Z06 blaster cannon (nicknamed the “Hammer”), he and his troops did what they could to hold off the attack. Battle droids closing in around him, Thorn unleashed a torrent of blaster bolts and a “For the Republic!” battle cry before falling valiantly.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/image_9edb7ee6.jpeg",
-            "embeddingId": "bd3KHVuI"
-        },
-        "Clone Trooper Boil": {
-            "name": "Clone Trooper Boil",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "When trooper Waxer was en route to Ryloth on a mission to liberate its besieged population of Twi'leks, he was at first callously dismissive of their plight. If we're here to free the tail-heads, the least they can do is get out of our way, he said. But, time spent on the planet with a brave little survivor of a Nabat village opened Boil's eyes. The resourceful girl, Numa, guided Boil and his squadmate Waxer through hidden passageways beneath the village, which proved crucial in freeing hostages held by the Separatists. To honor Numa, Boil had a cartoon illustration of Numa added to his helmet.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/acw_ia_20764_2243fe1c.jpeg",
-            "embeddingId": "fBB2tr74"
-        },
-        "Clone Trooper Kix": {
-            "name": "Clone Trooper Kix",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Kix served as a  medic in the 501st Legion of clone troopers. He is equipped with medpacs and other first aid equipment to help tend to his fellow squadmates in the thick of battle. Though Kix is dedicated to preserving the life of his fellow brothers, he has no qualms about fighting the enemy. Stencilled across his head is the phrase, a good droid is a dead one as testament to his mettle.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/kix_fac440b1.jpeg",
-            "embeddingId": "OkcJBkO6"
-        },
         "Controller LT-319": {
             "name": "Controller LT-319",
             "type": "",
@@ -5084,21 +3974,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/controller-lt-319_9910e259.jpeg",
             "embeddingId": "g2cue232"
-        },
-        "CS-515": {
-            "name": "CS-515",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A stormtrooper stationed on the Colossus in the early days of the First Order's occupation, CS-515 was briefly knocked unconscious in an altercation with two orphans and awoke in the bowels of the platform's engineering department. While the real soldier was indisposed, secret spy Kazuda Xiono donned his armor and went undercover in disguise in an effort to gain valuable information for the Resistance. But the real CS-515 eventually returned to the First Order, disoriented and in need of a memory wipe.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/cs-515_main_5de5a450.jpeg",
-            "embeddingId": "ZSC0shpq"
         },
         "D-O": {
             "name": "D-O",
@@ -5400,21 +4275,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/image_8e2fc142.jpeg",
             "embeddingId": "2xgspmZV"
         },
-        "Jannah": {
-            "name": "Jannah",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "From an oceanic moon, Jannah leads a band of warriors, ready to charge against the forces of the First Order.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/jannah-main_4b348047.jpeg",
-            "embeddingId": "PbfGXu4S"
-        },
         "Jar Jar Binks": {
             "name": "Jar Jar Binks",
             "type": "",
@@ -5429,36 +4289,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_jarjarbinks_01_169_c70767ab.jpeg",
             "embeddingId": "P8iDAXvH"
-        },
-        "Jaycris Tubbs": {
-            "name": "Jaycris Tubbs",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Tubbs flies an X-wing as part of the Resistance bombers’ fighter escort above D’Qar -- a dangerous mission requiring pilots to stick close to the bombers and endure deadly fire from First Order TIEs. Tubbs and his fellow pilots will need all of their skill and a little luck to survive.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/tlj-databank-jaycris-tubbs-main-image_17500755.jpeg",
-            "embeddingId": "Q0u03YjF"
-        },
-        "Jess Pava": {
-            "name": "Jess Pava",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A brave young Resistance pilot, Jess, or Testor as she is also called, grew up idolizing the legendary pilots of previous generations, such as Luke Skywalker and Wedge Antilles. Jess gets her own chance at glory when the Resistance attacks Starkiller Base, flying alongside Poe Dameron and Snap Wexley under the call sign Blue Three.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/jess-pava-db-main-image_6ce7904d.jpeg",
-            "embeddingId": "hJQepyRi"
         },
         "Jira": {
             "name": "Jira",
@@ -5504,21 +4334,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ep8-076637_jw_9f26b27a.jpeg",
             "embeddingId": "QTHVqSus"
-        },
-        "Kel": {
-            "name": "Kel",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The only survivors of a First Order raid that wiped out their village on Tehar, Kel and his younger sister, Eila, find themselves on the run on the Colossus platform with a sizable bounty on their heads. Kel is fiercely protective of his sister, especially when she gets injured and needs medicine. But he quickly realizes they can't escape agents of the First Order without some help.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/resistance-db-kel-main-image_ad6a3d42.jpeg",
-            "embeddingId": "fo20beaN"
         },
         "King Sanjay Rash": {
             "name": "King Sanjay Rash",
@@ -5654,21 +4469,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/azi-3-main_8e635a30.jpeg",
             "embeddingId": "NIZNnSp3"
-        },
-        "Bazine Netal": {
-            "name": "Bazine Netal",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A feared bounty hunter, Bazine Netal grew up on Chaaktil, where she learned a range of deadly martial arts at Delphi Kloda’s combat school. Netal’s baffleweave dress jams sensors, while her black cowl hides burn damage inflicted by a flamethrower in her youth. Netal is a deadly opponent whose typical arsenal includes a snub-nosed blaster, poisoned dagger, throwing knives and concealed thermal detonators. She was at Maz’s castle in the company of Grummgar when Han Solo, Finn and Rey arrived, and slipped away to report their location to the First Order.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/bazine-netal_7cc1f5c5.jpeg",
-            "embeddingId": "S2BkAnLj"
         },
         "Birnok": {
             "name": "Birnok",
@@ -5895,21 +4695,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/clone-captain-grey-main_5cb81e7d.jpeg",
             "embeddingId": "FZZuCzcT"
         },
-        "Clone Trooper Waxer": {
-            "name": "Clone Trooper Waxer",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Waxer served as part of Ghost Company, under the command of Clone Commander Cody during the campaigns to retake Ryloth and Geonosis. Waxer and Boil were often an inseparable pair, and together formed a recon team scouting the abandoned Twi'lek village of Nabat. There, they found a young girl named Numa, the sole survivor of a Separatist assault. Though the hard-edged Boil at first didn't want anything to do with the little girl, Waxer was compassionate and decided to protect her well-being. Numa proved extremely resourceful, guiding Waxer and Boil through underground passages that allowed them to bypass Separatist forces.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/waxer_ca041ec3.jpeg",
-            "embeddingId": "KzAjdx2j"
-        },
         "Coleman Trebor": {
             "name": "Coleman Trebor",
             "type": "",
@@ -5954,21 +4739,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/iden-versio_945333fa.jpeg",
             "embeddingId": "5s7YjNMW"
-        },
-        "Count Dooku": {
-            "name": "Count Dooku",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Count Dooku was a menacing Sith Lord and central figure in the Clone Wars. Once a Jedi -- trained by Yoda -- he became disillusioned with the Jedi Order and thirsted for greater power. Dooku voluntarily left the light side behind and became Darth Sidious’ dark side disciple, taking the secret name Darth Tyranus and leading the Separatist army. Dooku advanced Sidious’s secret plot to take over the galaxy, but forgot that betrayal is the nature of the Sith.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/Count-Dooku_4f552149.jpeg",
-            "embeddingId": "KFWOSVBv"
         },
         "Dexter Jettster": {
             "name": "Dexter Jettster",
@@ -6044,51 +4814,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/garven-dreis_efe9195b.jpeg",
             "embeddingId": "8JhToYAi"
-        },
-        "General Engell": {
-            "name": "General Engell",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "An admirer of Kylo Ren’s, Amret Engell has assumed responsibility for stormtrooper training after the death of Captain Phasma. She sees each new world liberated by the First Order as a source of valuable children to be trained as soldiers for Ren’s regime.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/general-engells-main_30552427.jpeg",
-            "embeddingId": "A5ObrTsF"
-        },
-        "General Hux": {
-            "name": "General Hux",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Young and ruthless, General Hux is a believer in technology, and eagerly awaits the day when the First Order’s innovations will help bring down the remnants of the New Republic and the Resistance – a victory he believes will also lead to his ruling the galaxy. His increasingly poisonous rivalry with Kylo Ren causes him to take a desperate gamble.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/general-hux-main_9dbfab69.jpeg",
-            "embeddingId": "6PRlKcPT"
-        },
-        "General Pryde": {
-            "name": "General Pryde",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A veteran of the Imperial military, Allegiant General Pryde serves the First Order as part of a second wave of leadership kept in reserve by Supreme Leader Snoke during the unveiling of Starkiller Base. After Snoke’s death, Pryde serves the new Supreme Leader Kylo Ren in a position of privilege and power.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/general-pryde-main_78f767c7.jpeg",
-            "embeddingId": "OLpJQyBB"
         },
         "General Tandin": {
             "name": "General Tandin",
@@ -6375,21 +5100,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/kawlan-roken-main_b2402c7f.jpeg",
             "embeddingId": "2GbINzck"
         },
-        "Kazuda Kaz Xiono": {
-            "name": "Kazuda Kaz Xiono",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Confident and skilled in the cockpit of a New Republic X-wing fighter, Kaz's new assignment as a spy for the Resistance leaves him feeling out of his element. Now living on the independent fueling station known as the Colossus, Kaz is doing his best to fit in as a mechanic so he can carry out his mission.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/resistance-kazuda-xiono-main-image_4379b2da.jpeg",
-            "embeddingId": "pOD05OmS"
-        },
         "Keeve Trennis": {
             "name": "Keeve Trennis",
             "type": "",
@@ -6450,21 +5160,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/klik-klak_1743e561.jpeg",
             "embeddingId": "mt6BprBr"
         },
-        "5-L": {
-            "name": "5-L",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A mouse droid serving aboard a First Order Star Destroyer, 5-L is briefly reprogrammed to serve Tam Ryvora on a covert mission to return to her friends aboard the Colossus.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/5-l-main_c6302f4f.jpeg",
-            "embeddingId": "f6l4rGIW"
-        },
         "Admiral Garrick Versio": {
             "name": "Admiral Garrick Versio",
             "type": "",
@@ -6495,36 +5190,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_admiralpiett_01_169_18014135.jpeg",
             "embeddingId": "MJ896Yuh"
         },
-        "Aeosian Queen": {
-            "name": "Aeosian Queen",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The regal Aeosian Queen rules her people with a firm hand. After her tribe's healers were lost in an attack by the First Order, she seeks retribution against the next wave of trespassers on her world.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/aeosian-queen_af2376ae.jpeg",
-            "embeddingId": "3DTqaERA"
-        },
-        "Agent Tierny": {
-            "name": "Agent Tierny",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A specially-trained member of the First Order Security Bureau with a mysterious scar on her jaw, Agent Tierny hopes to restore peace to the galaxy through absolute order. A master of manipulation, Tierny's tactics more often involve lulling her targets into a false sense of security rather than using more aggressive forms of interrogation. Her arrival at the Colossus platform, as part of a First Order security takeover, ushers in sheer chaos when the platform is plunged deep into the waters of Castilon, leaving only Doza Tower above sea level.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/agent-tierny-main_64a6bbd2.jpeg",
-            "embeddingId": "n6R1Yqzh"
-        },
         "Ardo Barodai": {
             "name": "Ardo Barodai",
             "type": "",
@@ -6539,21 +5204,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ardo-barodai-main_bf024031.jpeg",
             "embeddingId": "F6wpIRSS"
-        },
-        "Asajj Ventress": {
-            "name": "Asajj Ventress",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "An assassin trained in the ways of the dark side by Count Dooku, Asajj Ventress yearned to be considered a true Sith, but such status wasn't allowed under the Sith's Rule of Two. Ventress fought with twin red-bladed lightsabers, and clashed with Obi-Wan Kenobi and Anakin Skywalker many times. But her destiny would not lie with the Sith. After Dooku rejected her as his apprentice and tried to kill her, Ventress returned to her roots as a Nightsister, made a living as a bounty hunter, and – in the strangest twist of all – rediscovered the way of the light that she’d rejected long ago as a Jedi Padawan.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/Asajj-Ventress_d5ca9413.jpeg",
-            "embeddingId": "6ozxSf60"
         },
         "Ask Aak": {
             "name": "Ask Aak",
@@ -6840,21 +5490,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_clonecommanderponds_01_169_f0cc9515.jpeg",
             "embeddingId": "bbPYCXip"
         },
-        "Clone Trooper Dogma": {
-            "name": "Clone Trooper Dogma",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Fervently loyal to the Galactic Republic, trooper Dogma was one of the newer generation of clone troopers fighting on the frontlines of the Clone Wars. Unlike seasoned veterans like Clone Captain Rex and ARC Trooper Fives, Dogma was more rigid in his thinking, easily -- and eagerly -- submitting to appropriate authority. When clones troopers of the 501st began grousing about General Krell's obstinate and dangerous command style, Dogma jumped to defend their commander. Dogma supported  the general -- and passionately believed in their duty to carry out his orders.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/dogma_bcf07ef3.jpeg",
-            "embeddingId": "8D0GSEco"
-        },
         "Dava Cassamam": {
             "name": "Dava Cassamam",
             "type": "",
@@ -6884,21 +5519,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/davo-sculdun-main_f1254e40.jpeg",
             "embeddingId": "GBxA8I0s"
-        },
-        "Din Djarin (The Mandalorian)": {
-            "name": "Din Djarin (The Mandalorian)",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The Mandalorian, known to some as Din Djarin, is a battle-worn bounty hunter, making his way through a dangerous galaxy in an uncertain age. Reunited with Grogu, Djarin undertakes a new quest to reclaim a place in Mandalorian society as his scattered people unite to take a stand against the Imperial remnant.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/din-djarin-main_a3810794.jpeg",
-            "embeddingId": "5g9pTaGs"
         },
         "Dokk Strassi's guards": {
             "name": "Dokk Strassi's guards",
@@ -6990,21 +5610,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/eighth-brother_968dee8b.jpeg",
             "embeddingId": "anxRO4kk"
         },
-        "Emperor Palpatine / Darth Sidious": {
-            "name": "Emperor Palpatine / Darth Sidious",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The dark side of the Force is a pathway to many abilities some consider to be unnatural, and Sheev Palpatine is the most infamous follower of its doctrines. Scheming, powerful, and evil to the core, Darth Sidious restored the Sith and destroyed the Jedi Order. Living a double life, he was also Palpatine, a Naboo Senator and phantom menace. He manipulated the political system of the Galactic Republic until he was named Supreme Chancellor -- and eventually Emperor – and ruled the galaxy through fear and tyranny. The galaxy rejoiced when he died at the Battle of Endor, but Sidious had cheated death and patiently plotted a return to power.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/emperor-palpatine-main_d6632d0a.jpeg",
-            "embeddingId": "zpz4q3KG"
-        },
         "EV-9D9": {
             "name": "EV-9D9",
             "type": "",
@@ -7094,21 +5699,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/g2-1b7-main_d72ce66a.jpeg",
             "embeddingId": "6RE9Oi9D"
-        },
-        "GA-97": {
-            "name": "GA-97",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "GA-97 looks much the same as every other servant droid found at Maz’s castle on Takodana, but the battered automaton is actually part of the galaxy-wide network of droids secretly serving the Resistance. After spotting BB-8, GA-7 swiftly reported this discovery to C-3PO on D’Qar. Resistance starfighters and troops then raced to Takodana, desperate to beat the First Order to the site of the signal.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ga-97_eb9c3632.jpeg",
-            "embeddingId": "wimpa6WS"
         },
         "Garma": {
             "name": "Garma",
@@ -7200,36 +5790,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/gonky-main_0c6942e5.jpeg",
             "embeddingId": "YrHhet89"
         },
-        "Grand Admiral Thrawn": {
-            "name": "Grand Admiral Thrawn",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "When Governor Pryce of Lothal wanted a stronger commander to dismantle the rebellion, the Empire answered with Grand Admiral Thrawn. Thrawn was a male Chiss, with striking blue skin, red eyes, and an angular face, known for his brilliant strategic mind and ruthlessness. He was determined to “pull the rebels apart piece by piece.”",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/grand-admiral-thrawn2_bda317f3.jpeg",
-            "embeddingId": "Ac7e2bz3"
-        },
-        "Grand Moff Tarkin": {
-            "name": "Grand Moff Tarkin",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "An ambitious, ruthless proponent of military power, Wilhuff Tarkin became a favorite of Supreme Chancellor Palpatine and rose rapidly through the Imperial ranks. Shortly after the Empire's creation, he was put in charge of the construction of the Death Star. Tarkin saw the Death Star as a way to crush all dissent to the Empire's rule -- fear of the station's planet-killing superlaser would keep the galaxy's star systems in line. He demonstrated the station's power by destroying Alderaan, but died soon afterwards when the Death Star itself was destroyed.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/aftermath-the-bad-batch-story-gallery-14_d05778d2.jpeg",
-            "embeddingId": "QQArrrpv"
-        },
         "Gron": {
             "name": "Gron",
             "type": "",
@@ -7244,21 +5804,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/gron_2c097f8e.jpeg",
             "embeddingId": "mxHVprAM"
-        },
-        "Hera Syndulla": {
-            "name": "Hera Syndulla",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The captain and heart of the Ghost crew, Hera Syndulla was a gifted pilot and leader. While Hera was a strong commander -- and especially adept at dogfighting with TIE fighters -- she was also warm and nurturing. The Twi’lek could bring out the best in her team, which consisted of very different personalities, making them believe in themselves, each other, and their struggle against the Empire.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/hera-syndulla-main_9a8a6181.jpeg",
-            "embeddingId": "fcKAQtnU"
         },
         "IG-11": {
             "name": "IG-11",
@@ -7440,21 +5985,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_kiadimundi_01_169_0a8842d3.jpeg",
             "embeddingId": "M7NeC0JN"
         },
-        "Klaud": {
-            "name": "Klaud",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Klaud might have joined the Resistance as a result of mistaken identity, but he is welcomed as an ally by the freedom fighters.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/klaud-main_80fe2839.jpeg",
-            "embeddingId": "BAbDXOUk"
-        },
         "Krrsantan": {
             "name": "Krrsantan",
             "type": "",
@@ -7484,21 +6014,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/kitster_1928585a.jpeg",
             "embeddingId": "fSPXrpOt"
-        },
-        "Kragan Gorr": {
-            "name": "Kragan Gorr",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The notorious pirate Kragan Gorr has a reputation for leading ruthless attacks under the cover of environmental threats. In addition to his pirate gang and associates feeding him important tactical intelligence, Kragan is secretly in league with the First Order.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/resistance-db-kragan-gorr-main-image_aa96ff4c.jpeg",
-            "embeddingId": "ngbjeHpg"
         },
         "Lens Kamo": {
             "name": "Lens Kamo",
@@ -7635,21 +6150,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/moroffb-main_48ab6946.jpeg",
             "embeddingId": "lWph1ScE"
         },
-        "Norath": {
-            "name": "Norath",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Resistance spy Norath Kev is on a secret mission to gather valuable intel on the First Order, tracking the rising threat through black market activity at Vargo Spaceport on Varkana.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/norath-mian_eb0c1296.jpeg",
-            "embeddingId": "ydZ5IBWA"
-        },
         "Oppo Rancisis": {
             "name": "Oppo Rancisis",
             "type": "",
@@ -7679,21 +6179,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/orla-jareni-main_8579287d.jpeg",
             "embeddingId": "Iw9FrQBu"
-        },
-        "Padmé Amidala": {
-            "name": "Padmé Amidala",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Padmé Amidala was a courageous, hopeful leader, serving as Queen and then Senator of Naboo -- and was also handy with a blaster. Despite her ideals and all she did for the cause of peace, her secret, forbidden marriage to Jedi Anakin Skywalker would prove to have dire consequences for the galaxy.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/Padme-Amidala_05d50c8a.jpeg",
-            "embeddingId": "nsMZjMQ9"
         },
         "Passel Argente": {
             "name": "Passel Argente",
@@ -8130,21 +6615,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/tee-va_10520f7c.jpeg",
             "embeddingId": "B0YFlJ59"
         },
-        "Temiri Blagg": {
-            "name": "Temiri Blagg",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Temiri Blagg leads a forlorn existence in the shadows of Canto Bight’s wealth, caring for fathiers in stables ruled by the iron-fisted groom Bargwill Tomder. Temiri dreams of a better life somewhere among the stars. When two desperate Resistance fighters cross his path, he must make a crucial choice.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/temiri-blagg-tlj-db_38d63f20.jpeg",
-            "embeddingId": "Cc2KunYm"
-        },
         "Tryla": {
             "name": "Tryla",
             "type": "",
@@ -8294,21 +6764,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/lt-514-main_7454fead.jpeg",
             "embeddingId": "rEXfKVLE"
-        },
-        "Lt. Gauge": {
-            "name": "Lt. Gauge",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The fervidly loyal and utterly ambitious commanding officer of the new First Order installation on Batuu. Lieutenant Gauge first thought his assignment to Batuu, which was so far from the eyes of his superiors, was a bad omen for his career....turns out there was no greater honor.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/gauge-main_594aa1bb.jpeg",
-            "embeddingId": "WpidTlp1"
         },
         "Lula Talisola": {
             "name": "Lula Talisola",
@@ -8490,36 +6945,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/last-jedi-databank-neepers-panpick-main-image_273190de.jpeg",
             "embeddingId": "wnYqVG6d"
         },
-        "Nien Nunb": {
-            "name": "Nien Nunb",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A native of Sullust, Nien Nunb was a smuggler who fought for both the Rebel Alliance and the Resistance during his long career. An expert pilot, he served as Lando Calrissian’s co-pilot aboard the Millennium Falcon during the Battle of Endor, flew an X-wing in the raid on Starkiller Base and survived the First Order’s assault on Crait. He was then killed fighting for freedom at Exegol.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/nien-nunb-main_1dbef681.jpeg",
-            "embeddingId": "Sn8AB9hp"
-        },
-        "Oga Garra": {
-            "name": "Oga Garra",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The elusive local crime boss of Black Spire Outpost on Batuu, few have seen Oga in the flesh and have lived to tell the tale. She has earned an infamous, almost mythical reputation among smugglers, criminals, and prominent figures of the underworld. Even the mere mention of her name sets the locals on edge. Many local Batuuans wonder whether she’ll finally make an appearance now that the First Order has arrived on Black Spire Outpost, but she remains hidden, preferring to run her cantina and the outpost in the shadows.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/oga-garra-main_b003a39a.jpeg",
-            "embeddingId": "bUBElll0"
-        },
         "Omera": {
             "name": "Omera",
             "type": "",
@@ -8609,21 +7034,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_petro_01_169_b0583a6e.jpeg",
             "embeddingId": "5hQ4vI9t"
-        },
-        "Petty Officer Thanisson": {
-            "name": "Petty Officer Thanisson",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A young member of the Finalizer’s command crew, Thanisson was present aboard the First Order flagship during the raid on Jakku, and reported the theft of a Special Forces TIE fighter by FN-2187 and the Resistance pilot Poe Dameron.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/thanisson_8c496e84.png",
-            "embeddingId": "1n9PwMLH"
         },
         "Pyke Guard": {
             "name": "Pyke Guard",
@@ -8760,21 +7170,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/rystall-sant-16-9_a7bfab45.jpeg",
             "embeddingId": "oF3558Bg"
         },
-        "Sabine Wren": {
-            "name": "Sabine Wren",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Sabine Wren was a Mandalorian warrior, explosives expert, and graffiti artist -- qualities that came in handy as one of the first rebels against the Empire. Part of the Ghost crew, Sabine used her gift for bomb-making to great effect against the Empire, and would often mark her work with spray-paint tags. Her classic Mandalorian armor was notable for incorporating her own custom stylings, reflecting her creative-meets-rebellious spirit.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/sabine-wren-s3_b9553ce2.jpeg",
-            "embeddingId": "XYxUfA56"
-        },
         "Salman Paak": {
             "name": "Salman Paak",
             "type": "",
@@ -8849,21 +7244,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/seezel-main_4a5a7209.jpeg",
             "embeddingId": "SZLNBZ5j"
-        },
-        "Shmi Skywalker Lars": {
-            "name": "Shmi Skywalker Lars",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The mother of Anakin Skywalker was also a brave and resilient woman who survived life as a slave to become a Tatooine moisture farmer. Shmi surrendered her son to the Jedi Order, putting him on a path to become one of the greatest Jedi. Her death at the hands of Tusken Raiders became a critical step on Anakin's journey to the dark side.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_shmiskywalkerlars_01_169_7449f0a8.jpeg",
-            "embeddingId": "zbXe1MQk"
         },
         "Sifo-Dyas": {
             "name": "Sifo-Dyas",
@@ -9510,21 +7890,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ram-jomaram-main_c9d934c3.jpeg",
             "embeddingId": "v9aOrVzY"
         },
-        "Rey": {
-            "name": "Rey",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Seemingly abandoned by her parents on Jakku, Rey grew up a scavenger amid the wreckage of war. Her life changed when she agreed to help a droid on an urgent mission for the Resistance. Rey discovered she was powerful in the Force, and sought out the vanished Jedi Master Luke Skywalker to train her. That ended in disappointment, as did her attempt to bring Kylo Ren back to the light. But the resilient Rey continued her training and learned the truth about her parentage and her mysterious connection with Kylo. She then faced her greatest test: a confrontation with fear and evil that would determine the galaxy’s fate.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/rey-main_ca4bb0d7.jpeg",
-            "embeddingId": "OugUS8lG"
-        },
         "Rune Haako": {
             "name": "Rune Haako",
             "type": "",
@@ -9855,21 +8220,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/utoonihs-main_14146203.jpeg",
             "embeddingId": "uctvYUWd"
         },
-        "Vi Moradi": {
-            "name": "Vi Moradi",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Vi is a female spy who serves in the Resistance. Some time prior to the First Order’s attack on Hosnian Prime, she was captured and interrogated for information regarding the past of Captain Phasma by Phasma’s rival, Cardinal, in exchange for her release. Recognizing her talent, General Organa sent Vi and other spies to scout for a new Resistance command location. Vi traveled to Black Spire Outpost on Batuu, where she managed to secure a safe location for the Resistance to rendezvous.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/vi-moradi-main_8f88b2a0.jpeg",
-            "embeddingId": "YgzT2ANW"
-        },
         "Volzang Li-Thrull": {
             "name": "Volzang Li-Thrull",
             "type": "",
@@ -10004,36 +8354,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/lyana-main_82415529.jpeg",
             "embeddingId": "bvIL96Ey"
-        },
-        "Mace Windu": {
-            "name": "Mace Windu",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A grim Jedi Master with an amethyst-bladed lightsaber, Mace Windu was the champion of the Jedi Order, with little tolerance for the failings of the Senate, the arguments of politicians, or the opinions of rebellious Jedi. As the Clone Wars intensified, Mace sensed the dark side of the Force at work, and knew the Jedi's enemies were plotting to destroy the Order and end its stewardship of the galaxy.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/Mace-Windu_b35242e5.jpeg",
-            "embeddingId": "lezW1MlE"
-        },
-        "Major Brance": {
-            "name": "Major Brance",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A communications officer at the Resistance base on D’Qar, Taslin Brance brought word of the First Order’s raid on Jakku to Leia Organa. Brance feared BB-8 had been lost in the attack, but Leia told him never to underestimate a droid. Major Brance later had the grim duty of informing Leia of the destruction of Hosnian Prime.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/major-brance_5b77fed7.jpeg",
-            "embeddingId": "lsWxf0oR"
         },
         "Major Rigosso": {
             "name": "Major Rigosso",
@@ -10305,21 +8625,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/otua_blank_c97ef986.jpeg",
             "embeddingId": "8fM9ATKo"
         },
-        "Poe Dameron": {
-            "name": "Poe Dameron",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A Resistance starfighter ace, Poe Dameron is one of Leia Organa’s most-trusted operatives. He can fly anything – which is fortunate given how often his headstrong nature leads him into trouble. Poe leads the attack that destroys Starkiller Base, but soon finds himself on the run from the First Order. Sidelined without his beloved X-wing, he learns tough lessons about leadership, heroism and sacrifice. Those lessons will prove essential in rebuilding the Resistance before a showdown with the forces of evil at Exegol.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/poe-main_611e1021.jpeg",
-            "embeddingId": "v0hg9lGf"
-        },
         "Priestess": {
             "name": "Priestess",
             "type": "",
@@ -10470,21 +8775,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ryder-azadi_a3c999ab.jpeg",
             "embeddingId": "GYFqplOo"
         },
-        "Savage Opress": {
-            "name": "Savage Opress",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Savage Opress was once a common Nightbrother whose fighting prowess impressed Asajj Ventress. Transformed into a monstrous warrior by Mother Talzin, Opress became Count Dooku's new assassin and secret Sith apprentice. His loyalty, however, remained to Talzin. The Nightsisters leader gave Savage a new quest: to find his brother, Darth Maul, who had somehow survived his apparent death and was living in exile in the Outer Rim. Savage located Maul and became his brother’s enforcer in the Shadow Collective, but died when Darth Sidious confronted the two Sith warriors on Mandalore.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_savageopress_01_169_02e79834.jpeg",
-            "embeddingId": "T2shVxxw"
-        },
         "Senator Nower Jebel": {
             "name": "Senator Nower Jebel",
             "type": "",
@@ -10559,21 +8849,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/sionver-boll-main-image_cd0dbba3.jpeg",
             "embeddingId": "aRXAigPI"
-        },
-        "Snap Wexley": {
-            "name": "Snap Wexley",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Temmin “Snap” Wexley is a pilot in Blue Squadron known as the best recon flier in the Resistance’s Starfighter Corps. Snap grew up on the Outer Rim world of Akiva, the son of a rebel Y-wing pilot who flew in the Battle of Endor. His recon flight of Starkiller Base helps the Resistance come up with a plan to destroy the First Order superweapon.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/snap-wexley-main_41d2bba2.jpeg",
-            "embeddingId": "y2rMsXbk"
         },
         "Soniee": {
             "name": "Soniee",
@@ -10800,21 +9075,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/vicrul-main_3ae1a83a.jpeg",
             "embeddingId": "MB9BsqJY"
         },
-        "Vober Dand": {
-            "name": "Vober Dand",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A grizzled Tarsunt, Vober Dand serves in the Resistance’s Ground Logistics Division, monitoring operations. He is known as a stickler for detail and proper procedure. During the Resistance’s attack on Starkiller Base, Dand monitored the squadrons’ losses with increasing worry. Dand continued his service to the Resistance after the evacuation of D’Qar.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/vober-dand_1fbbfa39.jpeg",
-            "embeddingId": "S6NCnwi0"
-        },
         "Winta": {
             "name": "Winta",
             "type": "",
@@ -10859,21 +9119,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/screen_shot_2015-08-03_at_10_b0b47660.jpeg",
             "embeddingId": "hBVLBHMz"
-        },
-        "Yoda": {
-            "name": "Yoda",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Yoda was a legendary Jedi Master and stronger than most in his connection with the Force. Small in size but wise and powerful, he trained Jedi for over 800 years, playing integral roles in the Clone Wars, the instruction of Luke Skywalker, and unlocking the path to immortality.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/Yoda-Retina_2a7ecc26.jpeg",
-            "embeddingId": "2TCdBLuM"
         },
         "Zaina": {
             "name": "Zaina",
@@ -10949,21 +9194,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/lt-dicer_eefbfe94.jpeg",
             "embeddingId": "FYKnN0iB"
-        },
-        "Lor San Tekka": {
-            "name": "Lor San Tekka",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A legendary traveler and explorer, Lor San Tekka was a longtime ally of the New Republic and the Resistance. After the Battle of Endor, San Tekka helped Luke Skywalker recover secret Jedi lore that the Empire had tried to erase. He then retired to live simply on Jakku, where he followed the dictates of the once-forbidden Church of the Force. Leia Organa sent Poe Dameron in search of San Tekka, who gave him a portion of a map revealing Luke’s planet of exile. San Tekka was then killed by Kylo Ren, who sought the same information.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/lor-san-tekka_3ebccd38.jpeg",
-            "embeddingId": "tXu6oG6u"
         },
         "Lt. Nolan": {
             "name": "Lt. Nolan",
@@ -11129,21 +9359,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/nils-tenant_5a249bfe.jpeg",
             "embeddingId": "TR78ABxw"
-        },
-        "Nix Jerd": {
-            "name": "Nix Jerd",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The bombardier aboard Resistance bomber Cobalt Hammer, Nix Jerd hails from the Mid Rim world of Lantillies. His bomber flies into the teeth of the First Order’s defenses above D’Qar, targeting a massive Siege Dreadnought. As explosions rattle Cobalt Hammer, Nix keeps a firm grip on the remote trigger that will release the bomber’s payload.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ep8-018959_bg_40a476d8.jpeg",
-            "embeddingId": "w3kNUFnu"
         },
         "Numa": {
             "name": "Numa",
@@ -11490,36 +9705,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/roland-durand-main_f705224a.jpeg",
             "embeddingId": "whcHV1am"
         },
-        "Rolt": {
-            "name": "Rolt",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A regular at Aunt Z's tavern, Rolt is initially welcoming of the new presence of the First Order security forces protecting the Colossus. But as the number of soldiers escalates, individual freedoms are sacrificed and even an innocent walk around the platform can end in arrest.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/rolt-main_f1193622.jpeg",
-            "embeddingId": "T1oA9JKy"
-        },
-        "Rose Tico": {
-            "name": "Rose Tico",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A maintenance tech with a talent for tinkering, Rose Tico joined the Resistance with her sister Paige after the First Order devastated her home system. A chance encounter with Finn pushed her onto the front lines of the new galactic civil war – and her sister’s death caused her to redouble her efforts for the Resistance cause.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/rose-tico-main_cbac29b9.jpeg",
-            "embeddingId": "0qyPjqBU"
-        },
         "Sarco Plank": {
             "name": "Sarco Plank",
             "type": "",
@@ -11640,21 +9825,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/suu-lawquane-main_85c364b7.jpeg",
             "embeddingId": "Azh9tFI2"
         },
-        "Tallie Lintra": {
-            "name": "Tallie Lintra",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Hailing from Pippip 3, young Lieutenant Tallissan Lintra is one of the Resistance’s best pilots, impressing even Poe Dameron with her flying skills. Tallie leads a hastily assembled squadron of A-wings and X-wings above D’Qar, protecting the Resistance’s vulnerable bombers on their attack run against a First Order Siege Dreadnought. Tallie died when Kylo Ren blasted the main hangar of the Raddus with missiles.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ep8-ff-002619_d78fe932.jpeg",
-            "embeddingId": "BSQAbA3d"
-        },
         "Taramyn Barcona": {
             "name": "Taramyn Barcona",
             "type": "",
@@ -11744,21 +9914,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/the-client-main_6fae992d.jpeg",
             "embeddingId": "CyRZVxD3"
-        },
-        "The Grand Inquisitor": {
-            "name": "The Grand Inquisitor",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Not much is known about the Empire’s Grand Inquisitor. The Pau’an is the leader of an elite cadre of Force-sensitive interrogators and hunters tasked with tracking down Jedi survivors who escaped Order 66. He reports directly to Darth Vader. Like his superior, the Inquisitor is an intimidating figure, dressed in black and wielding a red, double-bladed lightsaber.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/the-grand-inquisitor-main_aba95c9f.jpeg",
-            "embeddingId": "69i9QTau"
         },
         "Thi-Sen": {
             "name": "Thi-Sen",
@@ -11850,21 +10005,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/varko-grey-main_483c4dd3.jpeg",
             "embeddingId": "UqS2gtLE"
         },
-        "Venisa Doza": {
-            "name": "Venisa Doza",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A fearless freedom fighter, Venisa Doza once fought with the Rebel Alliance to dismantle the Galactic Empire but fell in love with an Imperial officer in the process. While her family remains safe aboard the Colossus - after convincing Imanuel Doza to defect, the two married and had a child - Venisa has answered the call of the Resistance, insistent on fighting back against the threat of the First Order so that her daughter, Torra, might one day live in a galaxy at peace.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/rendezvous-point-ep-main_34c03b89.jpeg",
-            "embeddingId": "BuujNNHg"
-        },
         "Lady Proxima": {
             "name": "Lady Proxima",
             "type": "",
@@ -11924,21 +10064,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/leechee-main_84a34936.jpeg",
             "embeddingId": "M1q7iIsR"
-        },
-        "Lieutenant Mitaka": {
-            "name": "Lieutenant Mitaka",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A young officer in the First Order Navy, Dopheld Mitaka graduated at the top of his Academy class and received a coveted post aboard the Finalizer. It was a plum assignment Mitaka would sometimes regret, as his duties included telling Kylo Ren of the First Order’s failure to capture the fugitive Resistance droid BB-8.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/lieutenant-mitaka_e941988f.jpeg",
-            "embeddingId": "AzfrPBhg"
         },
         "Lindon Javes": {
             "name": "Lindon Javes",
@@ -12075,21 +10200,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_orubathehutt_01_169_0d440129.jpeg",
             "embeddingId": "vuvqF2TY"
         },
-        "Pammich Nerro Goode": {
-            "name": "Pammich Nerro Goode",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A young Resistance fighter, Pammich Nerro Goode serves as lead dispatcher for D’Qar’s starfighters during the attack on Starkiller Base. After the Resistance flees its base, Goode is pressed into duty as a transport pilot.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/tlj-db-pammich-nerro-goode-main-image_fef55c87.jpeg",
-            "embeddingId": "7BPMUqHu"
-        },
         "Peteen": {
             "name": "Peteen",
             "type": "",
@@ -12149,21 +10259,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/zero-main_f2e822d5.jpeg",
             "embeddingId": "8H7Xv8W3"
-        },
-        "R2-D2": {
-            "name": "R2-D2",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A reliable and versatile astromech droid, R2-D2 has served Padmé Amidala, Anakin Skywalker, and Luke Skywalker in turn, showing great bravery in rescuing his masters and their friends from many perils. A skilled starship mechanic and fighter pilot's assistant, he has an unlikely but enduring friendship with the fussy protocol droid C-3PO.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/r2-d2-main_f315b094.jpeg",
-            "embeddingId": "v2jQ13t8"
         },
         "R4-P17": {
             "name": "R4-P17",
@@ -12330,36 +10425,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/stass-allie_cbfbe9a1.jpeg",
             "embeddingId": "eLbQpBlw"
         },
-        "Stomeroni Starck": {
-            "name": "Stomeroni Starck",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Talented but headstrong, Stomeroni Starck flies an X-wing during the evacuation of D’Qar, protecting the Resistance bombers on their attack run against the First Order. While appreciative of Starck’s skills behind the control yoke, Tallie Lintra must work to keep the impulsive pilot in check.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/tlj-databank-stomeroni-stark-main-image_ace66055.jpeg",
-            "embeddingId": "q4ipl8Lp"
-        },
-        "Strono Cookie Tuggs": {
-            "name": "Strono Cookie Tuggs",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Former head chef at Maz’s castle on Takodana, Strono Tuggs is a disfigured Artiodac known as Cookie. Tuggs served in the castle kitchens for centuries, but since the First Order attack, he has left to pursue his lifelong dream of running his own food transport – Tuggs' Grub. He travels across the galaxy to collect exotic ingredients for his unique and delectable offerings.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/strono-cookie-tuggs_0a785a77.jpeg",
-            "embeddingId": "Wvtu1ydu"
-        },
         "Sudswater Dillifay Glon": {
             "name": "Sudswater Dillifay Glon",
             "type": "",
@@ -12375,21 +10440,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/sudswater-dillifay-glon_25ca3f57.jpeg",
             "embeddingId": "Aujcq2MZ"
         },
-        "Supreme Leader Kylo Ren": {
-            "name": "Supreme Leader Kylo Ren",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The son of Han Solo and Leia Organa, Ben Solo was seduced by the dark side of the Force and renamed himself Kylo Ren: leader of the Knights of Ren, champion of the First Order, and apprentice to Supreme Leader Snoke. Driven to destroy the past, Kylo killed his father and his master, supplanting Snoke as Supreme Leader. But he remained haunted by his father’s death, his connection with the mysterious Rey, and the pull of the good in himself. In time, all three would help Ben Solo return to the light.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/kylo-ren-main-tros-a_6d77fd1e.jpeg",
-            "embeddingId": "SaGUiMtL"
-        },
         "Taga": {
             "name": "Taga",
             "type": "",
@@ -12404,21 +10454,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/taga-main_158bfbb7.jpeg",
             "embeddingId": "dHUekcSm"
-        },
-        "Tara Rashin": {
-            "name": "Tara Rashin",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Tara started as a Guavian Death Gang foot soldier, and quickly worked her way up thanks to her savvy and brutality. After pledging her Death Gang oath she took control of her own cell and developed a cozy business relationship with the First Order.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/tara-main_92d5805f.jpeg",
-            "embeddingId": "uSlGdes7"
         },
         "TC-14": {
             "name": "TC-14",
@@ -12509,21 +10544,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ACW_IA_114418_8f751288.jpeg",
             "embeddingId": "w4BnEDO7"
-        },
-        "Torch": {
-            "name": "Torch",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The older models of astromech droids are often overlooked as little more than scrap, but Torch's loyalty and abilities to mask all signs of functionality to play dead make this droid an indispensable ally. Whether breaking Venisa Doza out of a First Order prison cell, piloting a TIE as a clever diversion, or setting off a series of explosions to cover a hasty escape, this little droid is more than capable under fire.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/torch-main_9138011f.jpeg",
-            "embeddingId": "3MV4rNca"
         },
         "Trace": {
             "name": "Trace",
@@ -12675,21 +10695,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_zatt_01_169_046bf55f.jpeg",
             "embeddingId": "bBQQgEKN"
         },
-        "Leia Organa": {
-            "name": "Leia Organa",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Princess Leia Organa was one of the greatest leaders of the Rebel Alliance, fearless on the battlefield and dedicated to ending the Empire’s tyranny. Daughter of Padmé Amidala and Anakin Skywalker, sister of Luke Skywalker, and with a soft spot for scoundrels, Leia ranked among the galaxy’s great heroes. But life under the New Republic proved difficult for her. Sidelined by a new generation of political leaders, she struck out on her own to oppose the First Order as founder of the Resistance. These setbacks in her political career were accompanied by more personal losses, which she endured with her seemingly inexhaustible will.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/leia-organa-feature-image_d0f5e9_056d9177.jpeg",
-            "embeddingId": "IlA0w1Ae"
-        },
         "Letta Turmond": {
             "name": "Letta Turmond",
             "type": "",
@@ -12795,21 +10800,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/mee-deechi_e9e6a7a4.jpeg",
             "embeddingId": "Ansf0ZMY"
         },
-        "Mika Grey": {
-            "name": "Mika Grey",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Fearless and inventive, Mika Grey is a rugged, old treasure hunter of sorts whose aim is less about riches and more about keeping destructive and powerful artifacts out of the hands of the First Order's Supreme Leader Kylo Ren. After one particular two-and-a-half-year search, the planet-hopping archaeologist discovers an ancient Sith relic that holds untold, life-ending power at its core, but she destroys it to shake the First Order operatives on her tail. This may be why she prefers to work alone.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/zro-ff-003412_d04ee858.jpeg",
-            "embeddingId": "76pnehwJ"
-        },
         "O-Mer": {
             "name": "O-Mer",
             "type": "",
@@ -12839,21 +10829,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_odymandrell_01_169_39b1886d.jpeg",
             "embeddingId": "zsJ4BwvX"
-        },
-        "Paige Tico": {
-            "name": "Paige Tico",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A talented pilot and gunner, Paige Tico operates the ventral guns on the Resistance bomber Cobalt Hammer. She fled the Otomok system and joined the Resistance with her younger sister Rose. Paige loves animals, particularly fathiers, and dreams of seeing one during some quiet period when the galaxy is at peace.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/paige-tico-tlj_df2960c8.jpeg",
-            "embeddingId": "aJLoMjpI"
         },
         "Pao": {
             "name": "Pao",
@@ -12899,21 +10874,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ponda-baba-main-image_5addfeb7.jpeg",
             "embeddingId": "YCihhH44"
-        },
-        "Qui-Gon Jinn": {
-            "name": "Qui-Gon Jinn",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A venerable if maverick Jedi Master, Qui-Gon Jinn was a student of the living Force. Qui-Gon lived for the moment, espousing a philosophy of feel, don't think -- use your instincts. On Tatooine, Qui-Gon discovered a young slave boy named Anakin Skywalker who was strong in the Force. Sensing the boy's potential, Qui-Gon liberated Anakin from slavery. The Jedi Master presented Anakin to the Jedi Council, but they deemed the boy too old to begin training and dangerously full of fear and anger. They refused to allow Qui-Gon to train Anakin, but rescinded their decision to fulfill Qui-Gon's dying wish.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/qui-gon-jinn-main_3386f119.jpeg",
-            "embeddingId": "DFe4UqzL"
         },
         "R5-D4": {
             "name": "R5-D4",
@@ -13154,21 +11114,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/sskeer-main_9faf9d90.jpeg",
             "embeddingId": "aqfWuHSM"
-        },
-        "Supreme Leader Snoke": {
-            "name": "Supreme Leader Snoke",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "The Supreme Leader of the First Order, the mysterious Snoke was powerful with the dark side of the Force, and seduced Ben Solo into abandoning the Jedi path to become his apprentice. He also commanded the technological war machine engineered to destroy the New Republic and the Resistance. Kylo Ren turned on his master and killed him, but would soon learn that Snoke had been a mere puppet, created and controlled by a more powerful master of the dark side.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ep8-ff-006360_c95dace6.jpeg",
-            "embeddingId": "W07zPuA2"
         },
         "Tam Ryvora": {
             "name": "Tam Ryvora",
@@ -13500,21 +11445,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/zett-jukassa_0eb7f414.jpeg",
             "embeddingId": "fQA7S4hU"
         },
-        "Zorii Bliss": {
-            "name": "Zorii Bliss",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "It is difficult for scoundrels to remain neutral in the war between First Order and Resistance, and Zorii Bliss and the Spice Runners of Kijimi must soon take a side.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/zorii-bliss-main_77af69f5.jpeg",
-            "embeddingId": "TAcI2wAL"
-        },
         "L3-37": {
             "name": "L3-37",
             "type": "",
@@ -13529,21 +11459,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/hs-ff-002814_b09d97b4.jpeg",
             "embeddingId": "lJxcgVW2"
-        },
-        "Lando Calrissian": {
-            "name": "Lando Calrissian",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Lando Calrissian may have come late to the fight against the Empire, but his role in destroying the second Death Star cemented his reputation as a hero. In his youth, Lando was a sportsman seeking a fortune at the sabacc tables. After he lost his beloved ship to Han Solo, Lando spent years living the high life and pursuing get-rich-quick schemes, with uneven results. He went semi-respectable as the baron administrator of Cloud City, only to be drawn into the fight against the Empire. After a personal tragedy, Lando sought solace in isolation on Pasaana, unaware that the galaxy would need him again.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/lando-main_a207290e.jpeg",
-            "embeddingId": "rZ6o0p9A"
         },
         "Lark and Jonk a.k.a. The Twins": {
             "name": "Lark and Jonk a.k.a. The Twins",
@@ -13574,21 +11489,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/le-12-main_2e862e6f.jpeg",
             "embeddingId": "8Y2IplOY"
-        },
-        "Lieutenant Galek": {
-            "name": "Lieutenant Galek",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "With an ever-present scowl to match the rest of her severe demeanor, First Order flight instructor Lieutenant Galek has little patience for the antics of cadets who fail to follow basic orders. Known for her harsh tactics, on the training field she believes strongly in survival of the fittest, utilizing live fire instead of stun blasts to most effectively approximate real battle situations and doling out firm but fair punishments. In Galek's view, the First Order thrives by culling the weak so only the strongest survive.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/zro-ff-002960_copy_d15769b5.jpeg",
-            "embeddingId": "A6JDHw9F"
         },
         "Lobot": {
             "name": "Lobot",
@@ -13635,21 +11535,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/databank_lottdod_01_169_7219a66c.jpeg",
             "embeddingId": "SciT8usw"
         },
-        "Luke Skywalker": {
-            "name": "Luke Skywalker",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Luke Skywalker was a Tatooine farmboy who rose from humble beginnings to become one of the greatest Jedi the galaxy has ever known. Along with his friends Princess Leia and Han Solo, Luke battled the evil Empire, discovered the truth of his parentage, and ended the tyranny of the Sith. A generation later, the location of the famed Jedi master was one of the galaxy’s greatest mysteries. Haunted by Ben Solo’s fall to evil and convinced the Jedi had to end, Luke sought exile on a distant world, ignoring the galaxy’s pleas for help. But his solitude would be interrupted – and Luke Skywalker had one final, momentous role to play in the struggle between good and evil.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/luke-skywalker-main_fb34a1ff.jpeg",
-            "embeddingId": "nQCARQQO"
-        },
         "M5-BZ": {
             "name": "M5-BZ",
             "type": "",
@@ -13679,21 +11564,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/magistrate-morgan-elsbeth-main_d7b9d192.jpeg",
             "embeddingId": "SJdKgYlB"
-        },
-        "Major Vonreg": {
-            "name": "Major Vonreg",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "An elite First Order operative clad in distinct crimson armor and with a TIE fighter to match, Major Baron Elrik Vonreg reports directly to Captain Phasma. Part of a secret operation, he makes a personal visit to the Colossus with a shipment of fuel, all in an attempt to coerce Captain Doza into approving First Order protection on the platform.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/resistance-db-major-baron-vonreg-main-image_9461c679.jpeg",
-            "embeddingId": "zVgoSbgd"
         },
         "Mak Plain": {
             "name": "Mak Plain",
@@ -13725,21 +11595,6 @@
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/mar-tuuk_f6186b0c.jpeg",
             "embeddingId": "k43iOnyQ"
         },
-        "Maul": {
-            "name": "Maul",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A deadly, agile Sith Lord trained by the evil Darth Sidious, Darth Maul was a formidable warrior and scheming mastermind. He wielded an intimidating double-bladed lightsaber and fought with a menacing ferocity. Though he fell in battle against Obi-Wan Kenobi, the Zabrak from Dathomir would prove to be much harder to destroy than originally believed.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/Darth-Maul_632eb5af.jpeg",
-            "embeddingId": "TUBeODdl"
-        },
         "Max Rebo": {
             "name": "Max Rebo",
             "type": "",
@@ -13754,21 +11609,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/max-rebo-main_df002ffc.jpeg",
             "embeddingId": "Kg5KdQnZ"
-        },
-        "MB-13": {
-            "name": "MB-13",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "After suffering damage in a scuffle on the Colossus, First Order droid MB-13 emerges from hiding to seek revenge on CB-23 and her friends, attacking and deactivating the small ball droid and tying up Neeku Vozo. The damage from the earlier skirmish makes it difficult for the First Order droid to get a clear view of Kaz and Torra for an effective attack, but the scrappy droid is able to bypass tower controls to try to get an encoded message to the First Order.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/zro-ff-002829_88ed4a56.jpeg",
-            "embeddingId": "akDGhJbt"
         },
         "Melch": {
             "name": "Melch",
@@ -13889,21 +11729,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/nooa-main_91e10d59.jpeg",
             "embeddingId": "yjvez8Pg"
-        },
-        "Obi-Wan Kenobi": {
-            "name": "Obi-Wan Kenobi",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "A legendary Jedi Master, Obi-Wan Kenobi was a noble man and gifted in the ways of the Force. He trained Anakin Skywalker, served as a general in the Republic Army during the Clone Wars, and guided Luke Skywalker as a mentor.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/obi-wan-kenobi-main_3286c63c.jpeg",
-            "embeddingId": "boQ3fudp"
         },
         "Okalin": {
             "name": "Okalin",
@@ -14039,21 +11864,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/pyke-boss-main_3b514bf4.jpeg",
             "embeddingId": "rfuTfT2S"
-        },
-        "PZ-4CO (Peazy-Fourseeo)": {
-            "name": "PZ-4CO (Peazy-Fourseeo)",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Built to resemble the long-necked Tofallid species, PZ-4CO is an invaluable intelligence droid based at the Resistance headquarters on D’Qar. Despite her hulking appearance, she speaks in a pleasant voice, offering tactical data and communications support during operations. “Peazy” and C-3PO often work together to monitor the Resistance’s galaxy-wide network of droid agents.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/ep7_ia_65171_fff70308.jpeg",
-            "embeddingId": "8UqOFOls"
         },
         "QT-KT": {
             "name": "QT-KT",
@@ -14279,21 +12089,6 @@
             "detailType": "basic",
             "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/t3-k10-main_fa853bf8.jpeg",
             "embeddingId": "nmVokNt8"
-        },
-        "Teroj Kee": {
-            "name": "Teroj Kee",
-            "type": "",
-            "currentLocation": "",
-            "currentArea": "",
-            "gender": "",
-            "basicInfo": "Teroj Kee is a no-good swindler who claims to be with the Mining Guild and has been scheming to steal a rare and important part from Flix and Orka's shop. But through a series of impressive spy maneuvers, Kaz manages to follow the scoundrel and discovers that he's actually working with the First Order.",
-            "hiddenInfo": "",
-            "personality": [],
-            "abilities": [],
-            "tier": "strong",
-            "detailType": "basic",
-            "portraitUrl": "https://lumiere-a.akamaihd.net/v1/images/resistance-db-teroj-kee-main-image_1c99d7b3.jpeg",
-            "embeddingId": "B8I7XseM"
         },
         "Tobias Beckett": {
             "name": "Tobias Beckett",
