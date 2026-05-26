@@ -128,7 +128,6 @@ def extract_bonuses_and_description(row, category, filename, name):
             
     # 2. Text-based bonuses from Features, Effect, or Special
     combined_text = ""
-    desc_val = ""
     
     # Find any of these text columns
     for col in ["features", "effect", "special"]:
@@ -136,23 +135,6 @@ def extract_bonuses_and_description(row, category, filename, name):
             val = row[col].strip()
             if val:
                 combined_text += " " + val
-                if not desc_val:
-                    desc_val = val
-                elif val not in desc_val:
-                    desc_val += " | " + val
-
-    # If no text column has a value, construct a default description
-    if not desc_val:
-        if category == "Weapon":
-            desc_val = f"A combat-ready Star Wars weapon. Skill: {row.get('skill', 'Combat')}, Damage: {row.get('dam', '0')}, Crit: {row.get('crit', '-')}, Range: {row.get('range', 'Engaged')}."
-        elif category == "Apparel":
-            desc_val = f"Protective wear. Soak: {row.get('soak', '0')}, Defense: {row.get('defense', '0')}, HP: {row.get('hp', '0')}."
-        elif category == "Accessory":
-            desc_val = f"An accessory modification for gear, weapons, or armor."
-        elif category == "Consumable":
-            desc_val = f"A consumable item. Price: {row.get('price', '0')}, Rarity: {row.get('rarity0to10', '0')}."
-        else:
-            desc_val = f"A useful Star Wars item."
 
     # Search for +1, +2, etc. stat/skill bonuses in text
     if combined_text:
@@ -195,12 +177,47 @@ def extract_bonuses_and_description(row, category, filename, name):
                             "value": val
                         })
 
-    return bonuses, desc_val
+    return bonuses, ""
+
+# Suffixes representing source books or technical/database duplicate annotations to be stripped
+STRIP_SUFFIXES = {
+    'CaM', 'CotR', 'DC', 'DoH', 'EotE', 'EtU', 'FC', 'FO', 'FiB', 'GaG', 
+    'GaG, AoR', 'GaG, CaM', 'KoF', 'KtP', 'LoNH', 'ND', 'RotS', 'SM', 'SS', 
+    'SS Errata', 'SS, DC', 'SoF', 'table', 'table entry', 'entry'
+}
+
+def normalize_name(name):
+    # Strip quotes
+    name = name.strip('"\'')
+    
+    # Check if there is a trailing parenthetical suffix to strip
+    match = re.search(r'\(([^)]+)\)\s*$', name)
+    if match:
+        suffix = match.group(1).strip()
+        if suffix in STRIP_SUFFIXES:
+            name = re.sub(r'\s*\([^)]+\)\s*$', '', name)
+            
+    return name.strip()
+
+def merge_bonuses(bonuses1, bonuses2):
+    # Merge two lists of bonus dictionaries
+    merged = list(bonuses1)
+    for b in bonuses2:
+        if b not in merged:
+            # Check if there's an existing bonus of same type and variable
+            existing = next((x for x in merged if x['type'] == b['type'] and x['variable'] == b['variable']), None)
+            if existing:
+                # Keep the one with higher absolute value
+                if abs(b.get('value', 0)) > abs(existing.get('value', 0)):
+                    existing['value'] = b['value']
+            else:
+                merged.append(b)
+    return merged
 
 def main():
     print(f"Reading CSV files from {ITEMS_CSV_DIR}...")
     
-    items_map = {}
+    raw_items = []
     
     for root, dirs, files in os.walk(ITEMS_CSV_DIR):
         for file in files:
@@ -249,30 +266,80 @@ def main():
                         item_data = {
                             "name": name,
                             "category": category,
-                            "description": description,
+                            "description": description if description else "",
                             "bonuses": bonuses
                         }
                         if slot:
                             item_data["slot"] = slot
                         else:
                             item_data["slot"] = ""
+                        
+                        raw_items.append(item_data)
                             
-                        # Deduplication logic
-                        if name in items_map:
-                            prev_category = items_map[name]["category"]
-                            if CATEGORY_PRIORITY[category] > CATEGORY_PRIORITY[prev_category]:
-                                print(f"  Updating '{name}': {prev_category} -> {category}")
-                                items_map[name] = item_data
-                            else:
-                                # Merge description or bonuses if they are richer
-                                if len(item_data["description"]) > len(items_map[name]["description"]):
-                                    items_map[name]["description"] = item_data["description"]
-                                for bonus in item_data["bonuses"]:
-                                    if bonus not in items_map[name]["bonuses"]:
-                                        items_map[name]["bonuses"].append(bonus)
+    # Group items by normalized name
+    grouped_items = {}
+    for item in raw_items:
+        norm = normalize_name(item["name"])
+        if norm not in grouped_items:
+            grouped_items[norm] = []
+        grouped_items[norm].append(item)
+        
+    items_map = {}
+    merges_count = 0
+    
+    for norm, group in grouped_items.items():
+        if len(group) == 1:
+            # Single item - just rename to clean normalized name and keep it
+            item = group[0]
+            item["name"] = norm
+            items_map[norm] = item
+        else:
+            # Multiple items - group by category/slot to keep functional variants separate
+            subgroups = {}
+            for item in group:
+                sub_key = (item["category"], item["slot"])
+                if sub_key not in subgroups:
+                    subgroups[sub_key] = []
+                subgroups[sub_key].append(item)
+                
+            for (cat, slot), sub_items in subgroups.items():
+                merged_item = {
+                    "name": norm,
+                    "category": cat,
+                    "slot": slot,
+                    "description": "",
+                    "bonuses": []
+                }
+                
+                # Seed with first item
+                merged_item["description"] = sub_items[0]["description"]
+                merged_item["bonuses"] = list(sub_items[0]["bonuses"])
+                
+                for item in sub_items[1:]:
+                    # Keep richer description
+                    desc = item["description"]
+                    if desc and (not merged_item["description"] or len(desc) > len(merged_item["description"])):
+                        merged_item["description"] = desc
+                    # Merge bonuses
+                    merged_item["bonuses"] = merge_bonuses(merged_item["bonuses"], item["bonuses"])
+                
+                if len(subgroups) > 1:
+                    # If there are multiple functional variants, preserve names to distinguish them
+                    for item in sub_items:
+                        orig_name = item["name"]
+                        clean_name = normalize_name(orig_name)
+                        if clean_name == norm:
+                            final_name = orig_name if orig_name != norm else f"{norm} ({cat})"
                         else:
-                            items_map[name] = item_data
-                            
+                            final_name = orig_name
+                        item_copy = dict(item)
+                        item_copy["name"] = final_name
+                        items_map[final_name] = item_copy
+                else:
+                    items_map[norm] = merged_item
+                    if len(sub_items) > 1:
+                        merges_count += 1
+                        
     # Dump to output file
     output_data = {
         "items": items_map
@@ -282,7 +349,8 @@ def main():
     with open(OUTPUT_JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(output_data, f, indent=4, ensure_ascii=False)
         
-    print(f"\nSuccessfully wrote {len(items_map)} unique items to {OUTPUT_JSON_PATH}!")
+    print(f"\nSuccessfully wrote {len(items_map)} items to {OUTPUT_JSON_PATH}!")
+    print(f"Total merged duplicate item groups: {merges_count}")
 
 if __name__ == "__main__":
     main()
