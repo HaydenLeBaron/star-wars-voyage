@@ -1,22 +1,22 @@
 {
     "items": {
-        "Banal Apparel": {
-            "name": "Banal Apparel",
-            "category": "Apparel",
+        "Banal Armor": {
+            "name": "Banal Armor",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "Cargo Clothes": {
             "name": "Cargo Clothes",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "Concealing Robes": {
             "name": "Concealing Robes",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -29,14 +29,14 @@
         },
         "Diplomat's Robes": {
             "name": "Diplomat's Robes",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "outerwear"
         },
         "Heavy Clothing": {
             "name": "Heavy Clothing",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -49,7 +49,7 @@
         },
         "Heavy Robes": {
             "name": "Heavy Robes",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -62,7 +62,7 @@
         },
         "Holographic Costume": {
             "name": "Holographic Costume",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -75,7 +75,7 @@
         },
         "Lector's Outfit": {
             "name": "Lector's Outfit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -88,14 +88,14 @@
         },
         "Noble Regalia": {
             "name": "Noble Regalia",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "Nomad Greatcoat": {
             "name": "Nomad Greatcoat",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -108,14 +108,14 @@
         },
         "Performer's Attire": {
             "name": "Performer's Attire",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "Pit Crew Coveralls": {
             "name": "Pit Crew Coveralls",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -128,7 +128,7 @@
         },
         "Polis Massan Bodysuit": {
             "name": "Polis Massan Bodysuit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -141,7 +141,7 @@
         },
         "Resplendent Robes": {
             "name": "Resplendent Robes",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -154,7 +154,7 @@
         },
         "Smuggler's Trenchcoat": {
             "name": "Smuggler's Trenchcoat",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -167,14 +167,14 @@
         },
         "Tracker Utility Vest": {
             "name": "Tracker Utility Vest",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "AniPro Layered Beast Armor": {
             "name": "AniPro Layered Beast Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -187,14 +187,14 @@
         },
         "Caballerin-Series Riding Tack": {
             "name": "Caballerin-Series Riding Tack",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "Capari-series Padded Beast Armor": {
             "name": "Capari-series Padded Beast Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -207,7 +207,7 @@
         },
         "Destri-series Laminate Beast Armor": {
             "name": "Destri-series Laminate Beast Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -220,7 +220,7 @@
         },
         "H-series Megafauna Carriage": {
             "name": "H-series Megafauna Carriage",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -233,7 +233,7 @@
         },
         "Ancient Battle Armor": {
             "name": "Ancient Battle Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -246,7 +246,7 @@
         },
         "PX-11 \"Battlement\" Powered Armor": {
             "name": "PX-11 \"Battlement\" Powered Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -259,7 +259,7 @@
         },
         "Armored Robes": {
             "name": "Armored Robes",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -270,48 +270,9 @@
             ],
             "slot": "outerwear"
         },
-        "Chitin Armor": {
-            "name": "Chitin Armor",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 100
-                }
-            ],
-            "slot": "body"
-        },
-        "Luck\" Armor": {
-            "name": "Luck\" Armor",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 100
-                }
-            ],
-            "slot": "body"
-        },
-        "Heavy Battle Armor": {
-            "name": "Heavy Battle Armor",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 125
-                }
-            ],
-            "slot": "body"
-        },
         "HT-77 Cold Assault Armor": {
             "name": "HT-77 Cold Assault Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -324,7 +285,7 @@
         },
         "Hutt Shell Armor": {
             "name": "Hutt Shell Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -337,7 +298,7 @@
         },
         "Imperial Hazard Trooper Armor": {
             "name": "Imperial Hazard Trooper Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -350,7 +311,7 @@
         },
         "Jedi Battle Armor": {
             "name": "Jedi Battle Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -363,7 +324,7 @@
         },
         "Katarn-class Commando Armor": {
             "name": "Katarn-class Commando Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -376,7 +337,7 @@
         },
         "Mk I Katarn-class Commando Armor": {
             "name": "Mk I Katarn-class Commando Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -389,7 +350,7 @@
         },
         "Kav-Dann Power Armor": {
             "name": "Kav-Dann Power Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -402,7 +363,7 @@
         },
         "Laminate Armor": {
             "name": "Laminate Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -415,7 +376,7 @@
         },
         "Leviathan Power Armor": {
             "name": "Leviathan Power Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -428,7 +389,7 @@
         },
         "Mandalorian Armor": {
             "name": "Mandalorian Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -441,7 +402,7 @@
         },
         "N-57 Armor": {
             "name": "N-57 Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -454,7 +415,7 @@
         },
         "Mk II \"Hotspot\" Insulated Armor": {
             "name": "Mk II \"Hotspot\" Insulated Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -467,7 +428,7 @@
         },
         "Mk II \"Steelskin\" Anti-concussive Armor": {
             "name": "Mk II \"Steelskin\" Anti-concussive Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -480,7 +441,7 @@
         },
         "Mk IV Riot Armor": {
             "name": "Mk IV Riot Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -493,7 +454,7 @@
         },
         "Phase I ARC Trooper Armor": {
             "name": "Phase I ARC Trooper Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "slot": "body",
             "description": "",
             "bonuses": [
@@ -506,7 +467,7 @@
         },
         "Phase I Clone Trooper Armor": {
             "name": "Phase I Clone Trooper Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -519,7 +480,7 @@
         },
         "Phase II ARC Trooper Armor": {
             "name": "Phase II ARC Trooper Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -532,7 +493,7 @@
         },
         "Phase II Clone Trooper Armor": {
             "name": "Phase II Clone Trooper Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -545,7 +506,7 @@
         },
         "Powered Capacitive Armor": {
             "name": "Powered Capacitive Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -558,7 +519,7 @@
         },
         "Rebel Heavy Battle Armor": {
             "name": "Rebel Heavy Battle Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -571,7 +532,7 @@
         },
         "Scavenged Clone Armor": {
             "name": "Scavenged Clone Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -584,7 +545,7 @@
         },
         "Protector 1 Combat Armor": {
             "name": "Protector 1 Combat Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -597,7 +558,7 @@
         },
         "Waterweave": {
             "name": "Waterweave",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -607,49 +568,10 @@
                 }
             ],
             "slot": "body"
-        },
-        "Boba Fett's Armor": {
-            "name": "Boba Fett's Armor",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 200
-                }
-            ],
-            "slot": "body"
-        },
-        "Darth Vader's Armor": {
-            "name": "Darth Vader's Armor",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 125
-                }
-            ],
-            "slot": "body"
-        },
-        "Storm\" Charge Suit": {
-            "name": "Storm\" Charge Suit",
-            "category": "Apparel",
-            "slot": "body",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 100
-                }
-            ]
         },
         "Alliance Engineer's Helmet and Vest": {
             "name": "Alliance Engineer's Helmet and Vest",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -662,85 +584,7 @@
         },
         "Alliance Light Stealth Armor": {
             "name": "Alliance Light Stealth Armor",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 100
-                }
-            ],
-            "slot": "body"
-        },
-        "Armored Clothing": {
-            "name": "Armored Clothing",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 75
-                }
-            ],
-            "slot": "body"
-        },
-        "Armored Drop Suit": {
-            "name": "Armored Drop Suit",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 75
-                }
-            ],
-            "slot": "body"
-        },
-        "Armored Half-vest": {
-            "name": "Armored Half-vest",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 75
-                }
-            ],
-            "slot": "body"
-        },
-        "Beast-hide Armor": {
-            "name": "Beast-hide Armor",
-            "category": "Apparel",
-            "slot": "body",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 50
-                }
-            ]
-        },
-        "Blast Vest": {
-            "name": "Blast Vest",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 50
-                }
-            ],
-            "slot": "body"
-        },
-        "Catch Vest": {
-            "name": "Catch Vest",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -753,7 +597,7 @@
         },
         "Clone Dive Armor": {
             "name": "Clone Dive Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -766,7 +610,7 @@
         },
         "Clone Reconnaissance Armor": {
             "name": "Clone Reconnaissance Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -779,7 +623,7 @@
         },
         "Custom Tailored Armored Jacket": {
             "name": "Custom Tailored Armored Jacket",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -792,7 +636,7 @@
         },
         "Flare Jacket": {
             "name": "Flare Jacket",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -805,7 +649,7 @@
         },
         "Formal Council Armor": {
             "name": "Formal Council Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -818,7 +662,7 @@
         },
         "Hunter's Trophy Armor (completed)": {
             "name": "Hunter's Trophy Armor (completed)",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -831,7 +675,7 @@
         },
         "Hunter's Trophy Armor (custom-made)": {
             "name": "Hunter's Trophy Armor (custom-made)",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -844,7 +688,7 @@
         },
         "Imperial Storm Commando Armor": {
             "name": "Imperial Storm Commando Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -857,7 +701,7 @@
         },
         "Jedi Commander Armor": {
             "name": "Jedi Commander Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -870,7 +714,7 @@
         },
         "Jedi Reconnaissance Armor": {
             "name": "Jedi Reconnaissance Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -883,7 +727,7 @@
         },
         "Jedi Temple Guard Armor": {
             "name": "Jedi Temple Guard Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -896,7 +740,7 @@
         },
         "Mk I NightStalker Infiltrator Suit": {
             "name": "Mk I NightStalker Infiltrator Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -909,7 +753,7 @@
         },
         "Mk III Flak Vest": {
             "name": "Mk III Flak Vest",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -922,7 +766,7 @@
         },
         "Mk IX Personal Mimetic Concealment Suit": {
             "name": "Mk IX Personal Mimetic Concealment Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "slot": "body",
             "description": "",
             "bonuses": [
@@ -935,7 +779,7 @@
         },
         "Mountaineer Armor": {
             "name": "Mountaineer Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -948,7 +792,7 @@
         },
         "Padded Armor": {
             "name": "Padded Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -961,7 +805,7 @@
         },
         "Pioneer Armor": {
             "name": "Pioneer Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "slot": "body",
             "description": "",
             "bonuses": [
@@ -974,7 +818,7 @@
         },
         "Riot Armor": {
             "name": "Riot Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -987,7 +831,7 @@
         },
         "Second Skin Armor": {
             "name": "Second Skin Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1000,7 +844,7 @@
         },
         "Survivalist Armor": {
             "name": "Survivalist Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1013,7 +857,7 @@
         },
         "Timber Cuirass": {
             "name": "Timber Cuirass",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1026,7 +870,7 @@
         },
         "Type III \"Berethron\" Personal Modular Armor": {
             "name": "Type III \"Berethron\" Personal Modular Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1039,7 +883,7 @@
         },
         "Verpine Fiber Ultramesh Armor": {
             "name": "Verpine Fiber Ultramesh Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1052,7 +896,7 @@
         },
         "Gundark\" Scav-Suit": {
             "name": "Gundark\" Scav-Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1065,7 +909,7 @@
         },
         "Shockrider Crash Suit": {
             "name": "Shockrider Crash Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1078,7 +922,7 @@
         },
         "Adverse Environment Gear": {
             "name": "Adverse Environment Gear",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1091,7 +935,7 @@
         },
         "Biogel Suit": {
             "name": "Biogel Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1104,7 +948,7 @@
         },
         "CF-9 Republic Naval Flight Suit": {
             "name": "CF-9 Republic Naval Flight Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1117,7 +961,7 @@
         },
         "Climbsuit": {
             "name": "Climbsuit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1130,7 +974,7 @@
         },
         "Cloaking Coat": {
             "name": "Cloaking Coat",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1141,22 +985,9 @@
             ],
             "slot": "outerwear"
         },
-        "Crash Gear": {
-            "name": "Crash Gear",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 50
-                }
-            ],
-            "slot": "body"
-        },
         "EOD-Mk II Explosives Disposal Armor": {
             "name": "EOD-Mk II Explosives Disposal Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1169,7 +1000,7 @@
         },
         "Enviro-suit": {
             "name": "Enviro-suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1182,20 +1013,7 @@
         },
         "Fabricators' Protective Gear": {
             "name": "Fabricators' Protective Gear",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 50
-                }
-            ],
-            "slot": "body"
-        },
-        "G-suit": {
-            "name": "G-suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1208,7 +1026,7 @@
         },
         "Hauling Harness": {
             "name": "Hauling Harness",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1219,9 +1037,9 @@
             ],
             "slot": "body"
         },
-        "Individual Field Disruptor (Apparel)": {
-            "name": "Individual Field Disruptor (Apparel)",
-            "category": "Apparel",
+        "Individual Field Disruptor (Armor)": {
+            "name": "Individual Field Disruptor (Armor)",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1247,7 +1065,7 @@
         },
         "Mechanic's Utility Suit": {
             "name": "Mechanic's Utility Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1260,7 +1078,7 @@
         },
         "P-14 Hazardous Industry Suit": {
             "name": "P-14 Hazardous Industry Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1273,7 +1091,7 @@
         },
         "Personal Deflector Shield": {
             "name": "Personal Deflector Shield",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1286,7 +1104,7 @@
         },
         "Reflect Body Glove": {
             "name": "Reflect Body Glove",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1299,7 +1117,7 @@
         },
         "Reinforced Environment Gear": {
             "name": "Reinforced Environment Gear",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1312,7 +1130,7 @@
         },
         "Sakiyan Shadowsuit": {
             "name": "Sakiyan Shadowsuit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1325,7 +1143,7 @@
         },
         "SeaScape Diving Suit": {
             "name": "SeaScape Diving Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1338,33 +1156,7 @@
         },
         "Sith Pain Harness": {
             "name": "Sith Pain Harness",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 100
-                }
-            ],
-            "slot": "body"
-        },
-        "Thinsuit": {
-            "name": "Thinsuit",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "armor",
-                    "value": 50
-                }
-            ],
-            "slot": "body"
-        },
-        "Training Suit": {
-            "name": "Training Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1377,7 +1169,7 @@
         },
         "TX-3 Combat Flight Suit": {
             "name": "TX-3 Combat Flight Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1390,7 +1182,7 @@
         },
         "Wing Commander Armored Flight Suit": {
             "name": "Wing Commander Armored Flight Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1403,7 +1195,7 @@
         },
         "Zephyr Stealth Suit": {
             "name": "Zephyr Stealth Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -1598,13 +1390,6 @@
         },
         "Microdroid Listener": {
             "name": "Microdroid Listener",
-            "category": "Tool",
-            "description": "",
-            "bonuses": [],
-            "slot": ""
-        },
-        "Mine Detector": {
-            "name": "Mine Detector",
             "category": "Tool",
             "description": "",
             "bonuses": [],
@@ -1834,16 +1619,9 @@
             "bonuses": [],
             "slot": ""
         },
-        "Binders": {
-            "name": "Binders",
-            "category": "Tool",
-            "description": "",
-            "bonuses": [],
-            "slot": ""
-        },
         "Biotech \"Bag & Tag\" Forensics Investigation Kit": {
             "name": "Biotech \"Bag & Tag\" Forensics Investigation Kit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
@@ -1983,7 +1761,7 @@
         },
         "Shadowcloak": {
             "name": "Shadowcloak",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "outerwear"
@@ -2009,13 +1787,6 @@
             "bonuses": [],
             "slot": ""
         },
-        "Stun Cuffs": {
-            "name": "Stun Cuffs",
-            "category": "Tool",
-            "description": "",
-            "bonuses": [],
-            "slot": ""
-        },
         "Thalassian Security Collar": {
             "name": "Thalassian Security Collar",
             "category": "Tool",
@@ -2032,45 +1803,45 @@
         },
         "Com C-52 Modular Command Center": {
             "name": "Com C-52 Modular Command Center",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "BKR B-70 Modular Reinforced Bunker": {
             "name": "BKR B-70 Modular Reinforced Bunker",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Fac L-120 Modular Motor Pool": {
             "name": "Fac L-120 Modular Motor Pool",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "HNG F-104 Modular Hangar": {
             "name": "HNG F-104 Modular Hangar",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "HNG F-304 Modular Hangar/Motor Pool": {
             "name": "HNG F-304 Modular Hangar/Motor Pool",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "MilBar F-221 Modular Barracks": {
             "name": "MilBar F-221 Modular Barracks",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Survivalist\" Mess Kit": {
             "name": "Survivalist\" Mess Kit",
@@ -2088,41 +1859,6 @@
         },
         "A99 Custom Biome Generator": {
             "name": "A99 Custom Biome Generator",
-            "category": "Tool",
-            "description": "",
-            "bonuses": [],
-            "slot": ""
-        },
-        "Aquasuit": {
-            "name": "Aquasuit",
-            "category": "Apparel",
-            "description": "",
-            "bonuses": [],
-            "slot": "body"
-        },
-        "Beast Call": {
-            "name": "Beast Call",
-            "category": "Tool",
-            "description": "",
-            "bonuses": [],
-            "slot": ""
-        },
-        "Breath Mask/Respirator": {
-            "name": "Breath Mask/Respirator",
-            "category": "Tool",
-            "description": "",
-            "bonuses": [],
-            "slot": ""
-        },
-        "Camouflage Netting": {
-            "name": "Camouflage Netting",
-            "category": "Tool",
-            "description": "",
-            "bonuses": [],
-            "slot": ""
-        },
-        "Condenser Unit": {
-            "name": "Condenser Unit",
             "category": "Tool",
             "description": "",
             "bonuses": [],
@@ -2149,13 +1885,6 @@
             "bonuses": [],
             "slot": ""
         },
-        "Crash Survival Kit": {
-            "name": "Crash Survival Kit",
-            "category": "Tool",
-            "description": "",
-            "bonuses": [],
-            "slot": ""
-        },
         "Czerka BC-7 Environmental Cocoon": {
             "name": "Czerka BC-7 Environmental Cocoon",
             "category": "Tool",
@@ -2169,13 +1898,6 @@
             "description": "",
             "bonuses": [],
             "slot": "Consumable"
-        },
-        "Disaster Relief Kit": {
-            "name": "Disaster Relief Kit",
-            "category": "Tool",
-            "description": "",
-            "bonuses": [],
-            "slot": ""
         },
         "Electro-Snare": {
             "name": "Electro-Snare",
@@ -2220,7 +1942,7 @@
         },
         "Fabritech CX-2000 Holographic Ghillie Suit": {
             "name": "Fabritech CX-2000 Holographic Ghillie Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
@@ -2231,13 +1953,6 @@
             "description": "",
             "bonuses": [],
             "slot": ""
-        },
-        "Field Ration Pack": {
-            "name": "Field Ration Pack",
-            "category": "Consumable",
-            "description": "",
-            "bonuses": [],
-            "slot": "Consumable"
         },
         "FlashFire Camp Stove": {
             "name": "FlashFire Camp Stove",
@@ -2297,7 +2012,7 @@
         },
         "Kamperdine Clothing Specialists Body Glove": {
             "name": "Kamperdine Clothing Specialists Body Glove",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
@@ -2385,13 +2100,6 @@
             "bonuses": [],
             "slot": ""
         },
-        "Riding Tack": {
-            "name": "Riding Tack",
-            "category": "Tool",
-            "description": "",
-            "bonuses": [],
-            "slot": ""
-        },
         "Rim Excursions Inc. Tauntaun Pup Tent": {
             "name": "Rim Excursions Inc. Tauntaun Pup Tent",
             "category": "Tool",
@@ -2415,7 +2123,7 @@
         },
         "Spacesuit": {
             "name": "Spacesuit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
@@ -2450,7 +2158,7 @@
         },
         "Thermal Cloak": {
             "name": "Thermal Cloak",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "outerwear"
@@ -2499,14 +2207,14 @@
         },
         "CryonCorp Mk. I Cat's Eye Multipurpose Sensor Suite": {
             "name": "CryonCorp Mk. I Cat's Eye Multipurpose Sensor Suite",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "DefenStar Ltd. Nyalsan II Planetary Shield Generator": {
             "name": "DefenStar Ltd. Nyalsan II Planetary Shield Generator",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
@@ -2688,49 +2396,49 @@
         },
         "Adrenal Implant": {
             "name": "Adrenal Implant",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Appraiser's Eye": {
             "name": "Appraiser's Eye",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Avionics Interface": {
             "name": "Avionics Interface",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Biofeedback Regulator": {
             "name": "Biofeedback Regulator",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cortex Bomb": {
             "name": "Cortex Bomb",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cyber Disguise": {
             "name": "Cyber Disguise",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cybernetic Arms (Mod V)": {
             "name": "Cybernetic Arms (Mod V)",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [
                 {
@@ -2739,11 +2447,11 @@
                     "value": 1
                 }
             ],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cybernetic Arms (Mod VI)": {
             "name": "Cybernetic Arms (Mod VI)",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [
                 {
@@ -2752,11 +2460,11 @@
                     "value": 1
                 }
             ],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cybernetic Brain Implant": {
             "name": "Cybernetic Brain Implant",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [
                 {
@@ -2765,18 +2473,18 @@
                     "value": 1
                 }
             ],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cybernetic Cavity": {
             "name": "Cybernetic Cavity",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cybernetic Eyes": {
             "name": "Cybernetic Eyes",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [
                 {
@@ -2785,11 +2493,11 @@
                     "value": 1
                 }
             ],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cybernetic Legs (Mod II)": {
             "name": "Cybernetic Legs (Mod II)",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [
                 {
@@ -2798,11 +2506,11 @@
                     "value": 1
                 }
             ],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cybernetic Legs (Mod III)": {
             "name": "Cybernetic Legs (Mod III)",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [
                 {
@@ -2811,60 +2519,60 @@
                     "value": 1
                 }
             ],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cybernetic Reflexes": {
             "name": "Cybernetic Reflexes",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cybernetic Respirator": {
             "name": "Cybernetic Respirator",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cybernetic Weapon Implant": {
             "name": "Cybernetic Weapon Implant",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cyberscanner Limb": {
             "name": "Cyberscanner Limb",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Digital Lockpick": {
             "name": "Digital Lockpick",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Escape Circuit": {
             "name": "Escape Circuit",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Gank Comm Implant": {
             "name": "Gank Comm Implant",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Immune Implant": {
             "name": "Immune Implant",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [
                 {
@@ -2873,11 +2581,11 @@
                     "value": 1
                 }
             ],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Implant Armor": {
             "name": "Implant Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [
                 {
@@ -2890,87 +2598,87 @@
         },
         "Implanted Cyberjack": {
             "name": "Implanted Cyberjack",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Lockbreaker Hand": {
             "name": "Lockbreaker Hand",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Multi-Tool Hand": {
             "name": "Multi-Tool Hand",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Networked Slicing Uplink": {
             "name": "Networked Slicing Uplink",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Neural Recorder": {
             "name": "Neural Recorder",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Neuro-Saav Cyborg/Droid Interface": {
             "name": "Neuro-Saav Cyborg/Droid Interface",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Neuromachine Interface": {
             "name": "Neuromachine Interface",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Pain Damper": {
             "name": "Pain Damper",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Q-22 Retinal Tracker": {
             "name": "Q-22 Retinal Tracker",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Repli-Limb Prosthetic (Limbs)": {
             "name": "Repli-Limb Prosthetic (Limbs)",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Repli-Limb Prosthetic (Organs)": {
             "name": "Repli-Limb Prosthetic (Organs)",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
-        "Repulsor Fist (Accessory)": {
-            "name": "Repulsor Fist (Accessory)",
-            "category": "Accessory",
+        "Repulsor Fist (Aux)": {
+            "name": "Repulsor Fist (Aux)",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Repulsor Fist (Weapon)": {
             "name": "Repulsor Fist (Weapon)",
@@ -2987,42 +2695,42 @@
         },
         "Retinal Implant": {
             "name": "Retinal Implant",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Surge Override Switch": {
             "name": "Surge Override Switch",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Swift 78B Vessel Courier System": {
             "name": "Swift 78B Vessel Courier System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Vessel Implant": {
             "name": "Vessel Implant",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Vocal Emulator Implant": {
             "name": "Vocal Emulator Implant",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Aratech R82 Jump Boots": {
             "name": "Aratech R82 Jump Boots",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "feet"
@@ -3190,7 +2898,7 @@
         },
         "Rocket Boots": {
             "name": "Rocket Boots",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "feet"
@@ -3252,7 +2960,7 @@
         },
         "Corellian Mining Corporation EVA Powersuit": {
             "name": "Corellian Mining Corporation EVA Powersuit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
@@ -3271,12 +2979,12 @@
             "bonuses": [],
             "slot": ""
         },
-        "CZ-88 Heavy Loader Arm (Accessory)": {
-            "name": "CZ-88 Heavy Loader Arm (Accessory)",
-            "category": "Accessory",
+        "CZ-88 Heavy Loader Arm (Aux)": {
+            "name": "CZ-88 Heavy Loader Arm (Aux)",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Demolitions Tool Kit": {
             "name": "Demolitions Tool Kit",
@@ -3615,7 +3323,7 @@
         },
         "WJ-880 Blinding Helmet": {
             "name": "WJ-880 Blinding Helmet",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "head"
@@ -4397,20 +4105,6 @@
             "bonuses": [],
             "slot": "Consumable"
         },
-        "Basic Lightsaber Hilt": {
-            "name": "Basic Lightsaber Hilt",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [],
-            "slot": "Weapon"
-        },
-        "Broadsaber Hilt": {
-            "name": "Broadsaber Hilt",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [],
-            "slot": "Weapon"
-        },
         "Crossguard Lightsaber Hilt": {
             "name": "Crossguard Lightsaber Hilt",
             "category": "Weapon",
@@ -4425,100 +4119,6 @@
             "bonuses": [],
             "slot": "Weapon"
         },
-        "Great Lightsaber Hilt": {
-            "name": "Great Lightsaber Hilt",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [],
-            "slot": "Weapon"
-        },
-        "Guard Shoto Hilt": {
-            "name": "Guard Shoto Hilt",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [],
-            "slot": "Weapon"
-        },
-        "Lightfoil Hilt": {
-            "name": "Lightfoil Hilt",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [],
-            "slot": "Weapon"
-        },
-        "Lightsaber Pike Hilt": {
-            "name": "Lightsaber Pike Hilt",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [],
-            "slot": "Weapon"
-        },
-        "Shoto Hilt": {
-            "name": "Shoto Hilt",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [],
-            "slot": "Weapon"
-        },
-        "Temple Guard Lightsaber Pike Hilt": {
-            "name": "Temple Guard Lightsaber Pike Hilt",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [],
-            "slot": "Weapon"
-        },
-        "Darth Vader's Lightsaber": {
-            "name": "Darth Vader's Lightsaber",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 10
-                }
-            ],
-            "slot": "Weapon"
-        },
-        "Luke Skywalker's Lightsaber": {
-            "name": "Luke Skywalker's Lightsaber",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 6
-                }
-            ],
-            "slot": "Weapon"
-        },
-        "Master Lodaka's Lightsaber": {
-            "name": "Master Lodaka's Lightsaber",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 10
-                }
-            ],
-            "slot": "Weapon"
-        },
-        "Obi-Wan Kenobi's Lightsaber": {
-            "name": "Obi-Wan Kenobi's Lightsaber",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 10
-                }
-            ],
-            "slot": "Weapon"
-        },
         "The Darksaber": {
             "name": "The Darksaber",
             "category": "Weapon",
@@ -4528,19 +4128,6 @@
                     "type": "stat",
                     "variable": "damage",
                     "value": 6
-                }
-            ],
-            "slot": "Weapon"
-        },
-        "Warde's Lightsaber": {
-            "name": "Warde's Lightsaber",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 9
                 }
             ],
             "slot": "Weapon"
@@ -4567,32 +4154,6 @@
                     "type": "stat",
                     "variable": "damage",
                     "value": 1
-                }
-            ],
-            "slot": "Weapon"
-        },
-        "Basic Lightsaber (GaG, FaD)": {
-            "name": "Basic Lightsaber (GaG, FaD)",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 6
-                }
-            ],
-            "slot": "Weapon"
-        },
-        "Basic Lightsaber (CotR, RotS)": {
-            "name": "Basic Lightsaber (CotR, RotS)",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 6
                 }
             ],
             "slot": "Weapon"
@@ -4740,19 +4301,6 @@
             ],
             "slot": "Weapon"
         },
-        "Training Lightsaber": {
-            "name": "Training Lightsaber",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 6
-                }
-            ],
-            "slot": "Weapon"
-        },
         "Contained Energy Ax": {
             "name": "Contained Energy Ax",
             "category": "Weapon",
@@ -4790,20 +4338,6 @@
                     "value": 1
                 }
             ],
-            "slot": "Weapon"
-        },
-        "Storm\" Charge Suit (GaG | shock gloves)": {
-            "name": "Storm\" Charge Suit (GaG | shock gloves)",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [],
-            "slot": "Weapon"
-        },
-        "Storm\" Charge Suit (DC | shock gloves)": {
-            "name": "Storm\" Charge Suit (DC | shock gloves)",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [],
             "slot": "Weapon"
         },
         "Backhand Shock Gloves": {
@@ -4950,12 +4484,12 @@
             ],
             "slot": "Weapon"
         },
-        "Reinforced Gauntlets (Accessory)": {
-            "name": "Reinforced Gauntlets (Accessory)",
-            "category": "Accessory",
+        "Reinforced Gauntlets (Aux)": {
+            "name": "Reinforced Gauntlets (Aux)",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Retractable Garrote (entry)": {
             "name": "Retractable Garrote (entry)",
@@ -4971,12 +4505,12 @@
             "bonuses": [],
             "slot": "Weapon"
         },
-        "Retractable Garrote (Accessory)": {
-            "name": "Retractable Garrote (Accessory)",
-            "category": "Accessory",
+        "Retractable Garrote (Aux)": {
+            "name": "Retractable Garrote (Aux)",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "S-1 Vamblade (single)": {
             "name": "S-1 Vamblade (single)",
@@ -5019,7 +4553,7 @@
         },
         "Shield Gauntlet": {
             "name": "Shield Gauntlet",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
@@ -5092,7 +4626,7 @@
         },
         "Activv1 Riot Shield": {
             "name": "Activv1 Riot Shield",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
@@ -5109,19 +4643,6 @@
                     "value": 5
                 }
             ]
-        },
-        "Ashla Staff": {
-            "name": "Ashla Staff",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 2
-                }
-            ],
-            "slot": "Weapon"
         },
         "Bardottan Electrolance": {
             "name": "Bardottan Electrolance",
@@ -5149,12 +4670,12 @@
             ],
             "slot": "Weapon"
         },
-        "Bayonet (Accessory)": {
-            "name": "Bayonet (Accessory)",
-            "category": "Accessory",
+        "Bayonet (Aux)": {
+            "name": "Bayonet (Aux)",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Beastmaster's Vibro-glaive": {
             "name": "Beastmaster's Vibro-glaive",
@@ -5215,12 +4736,12 @@
             ],
             "slot": "Weapon"
         },
-        "Boot Blade (Accessory)": {
-            "name": "Boot Blade (Accessory)",
-            "category": "Accessory",
+        "Boot Blade (Aux)": {
+            "name": "Boot Blade (Aux)",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Ceremonial Blade": {
             "name": "Ceremonial Blade",
@@ -5276,23 +4797,10 @@
         },
         "Cortosis Shield": {
             "name": "Cortosis Shield",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
-        },
-        "Cortosis Staff (Refined)": {
-            "name": "Cortosis Staff (Refined)",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 3
-                }
-            ],
-            "slot": "Weapon"
         },
         "Cortosis Sword": {
             "name": "Cortosis Sword",
@@ -5400,7 +4908,7 @@
         },
         "Energy Buckler": {
             "name": "Energy Buckler",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
@@ -5498,7 +5006,7 @@
         },
         "Gungan Personal Energy Shield": {
             "name": "Gungan Personal Energy Shield",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
@@ -5544,7 +5052,7 @@
         },
         "Kyuzo War Shield": {
             "name": "Kyuzo War Shield",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
@@ -5564,7 +5072,7 @@
         },
         "M3 Bulwark Blast Shield": {
             "name": "M3 Bulwark Blast Shield",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
@@ -5784,12 +5292,12 @@
             ],
             "slot": "Weapon"
         },
-        "Retractable Wrist Blades (Accessory)": {
-            "name": "Retractable Wrist Blades (Accessory)",
-            "category": "Accessory",
+        "Retractable Wrist Blades (Aux)": {
+            "name": "Retractable Wrist Blades (Aux)",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Rodian Cryogen Whip": {
             "name": "Rodian Cryogen Whip",
@@ -5891,7 +5399,7 @@
         },
         "Sith Shield": {
             "name": "Sith Shield",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
@@ -6273,12 +5781,12 @@
             ],
             "slot": "Weapon"
         },
-        "Personal Vibrosaw (Accessory)": {
-            "name": "Personal Vibrosaw (Accessory)",
-            "category": "Accessory",
+        "Personal Vibrosaw (Aux)": {
+            "name": "Personal Vibrosaw (Aux)",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Whipcord Thrower (Weapon)": {
             "name": "Whipcord Thrower (Weapon)",
@@ -6293,12 +5801,12 @@
             ],
             "slot": "Weapon"
         },
-        "Whipcord Thrower (Accessory)": {
-            "name": "Whipcord Thrower (Accessory)",
-            "category": "Accessory",
+        "Whipcord Thrower (Aux)": {
+            "name": "Whipcord Thrower (Aux)",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Precision-X\" Marksman Rifle": {
             "name": "Precision-X\" Marksman Rifle",
@@ -7613,8 +7121,8 @@
             ],
             "slot": "Weapon"
         },
-        "Secondary Ion Blaster (Weapon)": {
-            "name": "Secondary Ion Blaster (Weapon)",
+        "Secondary Ion Blaster": {
+            "name": "Secondary Ion Blaster",
             "category": "Weapon",
             "description": "",
             "bonuses": [
@@ -7625,13 +7133,6 @@
                 }
             ],
             "slot": "Weapon"
-        },
-        "Secondary Ion Blaster (Accessory)": {
-            "name": "Secondary Ion Blaster (Accessory)",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
         },
         "Site-145 Replica Blaster Pistol": {
             "name": "Site-145 Replica Blaster Pistol",
@@ -7724,12 +7225,12 @@
             ],
             "slot": "Weapon"
         },
-        "Stun Blaster Attachment (Accessory)": {
-            "name": "Stun Blaster Attachment (Accessory)",
-            "category": "Accessory",
+        "Stun Blaster Attachment (Aux)": {
+            "name": "Stun Blaster Attachment (Aux)",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "SX-21 Pump-Action Scatter Blaster": {
             "name": "SX-21 Pump-Action Scatter Blaster",
@@ -8471,84 +7972,6 @@
                     "type": "stat",
                     "variable": "damage",
                     "value": 8
-                }
-            ],
-            "slot": "Weapon"
-        },
-        "Boba Fett's Armor (integrated flamethrower)": {
-            "name": "Boba Fett's Armor (integrated flamethrower)",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 5
-                }
-            ],
-            "slot": "Weapon"
-        },
-        "Boba Fett's Armor (integrated jetpack missile tube)": {
-            "name": "Boba Fett's Armor (integrated jetpack missile tube)",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 20
-                }
-            ],
-            "slot": "Weapon"
-        },
-        "Boba Fett's Armor (integrated whipcord)": {
-            "name": "Boba Fett's Armor (integrated whipcord)",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 1
-                }
-            ],
-            "slot": "Weapon"
-        },
-        "Chewbacca's Bowcaster": {
-            "name": "Chewbacca's Bowcaster",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 10
-                }
-            ],
-            "slot": "Weapon"
-        },
-        "Han Solo's Customized DL-44 Heavy Blaster Pistol": {
-            "name": "Han Solo's Customized DL-44 Heavy Blaster Pistol",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 7
-                }
-            ],
-            "slot": "Weapon"
-        },
-        "Qi'ra's Monlitzer S-195 Blaster Pistol": {
-            "name": "Qi'ra's Monlitzer S-195 Blaster Pistol",
-            "category": "Weapon",
-            "description": "",
-            "bonuses": [
-                {
-                    "type": "stat",
-                    "variable": "damage",
-                    "value": 5
                 }
             ],
             "slot": "Weapon"
@@ -9659,12 +9082,12 @@
             ],
             "slot": "Weapon"
         },
-        "Underslung Scattergun (Accessory)": {
-            "name": "Underslung Scattergun (Accessory)",
-            "category": "Accessory",
+        "Underslung Scattergun (Aux)": {
+            "name": "Underslung Scattergun (Aux)",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Verpine Heavy Shatter Rifle": {
             "name": "Verpine Heavy Shatter Rifle",
@@ -9759,7 +9182,7 @@
         },
         "Kyuzo War Shield (thrown)": {
             "name": "Kyuzo War Shield (thrown)",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
@@ -9857,1963 +9280,1725 @@
         },
         "Amplifying Chamber": {
             "name": "Amplifying Chamber",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Augmented Spin Barrel": {
             "name": "Augmented Spin Barrel",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Beam Splitter": {
             "name": "Beam Splitter",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Blaster Actuating Module": {
             "name": "Blaster Actuating Module",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Blaster Energy Dampener": {
             "name": "Blaster Energy Dampener",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Blaster Suppressor": {
             "name": "Blaster Suppressor",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Clone Firing Key": {
             "name": "Clone Firing Key",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Enhanced XCiter": {
             "name": "Enhanced XCiter",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Galven Pattern Resequencing": {
             "name": "Galven Pattern Resequencing",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Hunting Barrel": {
             "name": "Hunting Barrel",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Insulated Firing Mechanism": {
             "name": "Insulated Firing Mechanism",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Ionizing Focusing Coils": {
             "name": "Ionizing Focusing Coils",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Mandalorian Chamber": {
-            "name": "Mandalorian Chamber",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Marksman Barrel": {
             "name": "Marksman Barrel",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Overcharged Actuating Module": {
             "name": "Overcharged Actuating Module",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Rapid-Recharge XCiter": {
             "name": "Rapid-Recharge XCiter",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Shortened Barrel": {
             "name": "Shortened Barrel",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Spread Barrel": {
             "name": "Spread Barrel",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Tibanna-Jacked": {
             "name": "Tibanna-Jacked",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "XCiter Overcharge": {
             "name": "XCiter Overcharge",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Bowcaster Accelerator Enhancement": {
             "name": "Bowcaster Accelerator Enhancement",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Bowcaster Automatic Re-Cocker": {
             "name": "Bowcaster Automatic Re-Cocker",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Droid Brain Detonator": {
             "name": "Droid Brain Detonator",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Grenade Cling": {
             "name": "Grenade Cling",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Ordnance Impeller": {
             "name": "Ordnance Impeller",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Proximity Detonator": {
             "name": "Proximity Detonator",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Augmented Vibro-motor": {
             "name": "Augmented Vibro-motor",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Balanced Hilt": {
-            "name": "Balanced Hilt",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cortosis Forging": {
             "name": "Cortosis Forging",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Energy Overclock Setting": {
             "name": "Energy Overclock Setting",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Mono-Molecular Edge": {
             "name": "Mono-Molecular Edge",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Poison Reservoir": {
             "name": "Poison Reservoir",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Serrated Edge": {
             "name": "Serrated Edge",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Shield Discharge Pack": {
             "name": "Shield Discharge Pack",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
         },
         "Shock Pulse Emitter": {
             "name": "Shock Pulse Emitter",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Stun Pulse": {
             "name": "Stun Pulse",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Weighted Head": {
             "name": "Weighted Head",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Arakyd 900 Gene-Lock": {
             "name": "Arakyd 900 Gene-Lock",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Ascension Gun": {
             "name": "Ascension Gun",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Bipod Mount": {
             "name": "Bipod Mount",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Built-in Blaster Sight": {
             "name": "Built-in Blaster Sight",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Combat Tested": {
             "name": "Combat Tested",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Corellian Arms Model 2 Wrist Mount": {
             "name": "Corellian Arms Model 2 Wrist Mount",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Czerka H9 Pistol Grip": {
             "name": "Czerka H9 Pistol Grip",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Droid Targeting System": {
             "name": "Droid Targeting System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Electronic Sighting System": {
             "name": "Electronic Sighting System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Environmental Adaptation Kit": {
             "name": "Environmental Adaptation Kit",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Filed Front Sight": {
             "name": "Filed Front Sight",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Force-Attuned Resonator": {
             "name": "Force-Attuned Resonator",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Forearm Grip": {
             "name": "Forearm Grip",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Gyrostabilizer": {
             "name": "Gyrostabilizer",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Hair Trigger": {
             "name": "Hair Trigger",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Integrated Illuminator": {
             "name": "Integrated Illuminator",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Integrated Scanner": {
             "name": "Integrated Scanner",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Marked-Target Firing Lock": {
             "name": "Marked-Target Firing Lock",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Merr-Sonn VX Hands-Free Weapon System": {
             "name": "Merr-Sonn VX Hands-Free Weapon System",
-            "category": "Accessory",
-            "slot": "Accessory",
+            "category": "Aux",
+            "slot": "Aux",
             "description": "",
             "bonuses": []
         },
         "Motion Tracker": {
             "name": "Motion Tracker",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Multi-Optic Sight": {
             "name": "Multi-Optic Sight",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Night Vision Scope": {
             "name": "Night Vision Scope",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Optimized Energy Cell": {
             "name": "Optimized Energy Cell",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Overcharge Valve": {
             "name": "Overcharge Valve",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Removed Safety Features": {
             "name": "Removed Safety Features",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Set Trigger": {
             "name": "Set Trigger",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Sonic Scope": {
             "name": "Sonic Scope",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "SoroSuub \"Bantha's Eye\" Laser Sight": {
             "name": "SoroSuub \"Bantha's Eye\" Laser Sight",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "SoroSuub \"Final Word\" Secondary Missile System": {
             "name": "SoroSuub \"Final Word\" Secondary Missile System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Stripped Down": {
             "name": "Stripped Down",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Telescopic Optical Sight": {
             "name": "Telescopic Optical Sight",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Tripod Mount": {
             "name": "Tripod Mount",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Under-Barrel Flame Projector": {
             "name": "Under-Barrel Flame Projector",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Under-Barrel Grapnel Launcher": {
             "name": "Under-Barrel Grapnel Launcher",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Under-Barrel Grenade Launcher": {
             "name": "Under-Barrel Grenade Launcher",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Under-Barrel Micro-Rocket Rack": {
             "name": "Under-Barrel Micro-Rocket Rack",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Vibro-Bayonet": {
             "name": "Vibro-Bayonet",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Weapon Harness": {
             "name": "Weapon Harness",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Weapon Sling": {
             "name": "Weapon Sling",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Slugthrower Suppressor": {
             "name": "Slugthrower Suppressor",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Componentization": {
             "name": "Componentization",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Custom Grip": {
             "name": "Custom Grip",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Lightweight Frame": {
             "name": "Lightweight Frame",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Magnetic Weapon Tether": {
             "name": "Magnetic Weapon Tether",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Paired Weapons": {
             "name": "Paired Weapons",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Scanner-Proof Hardware": {
             "name": "Scanner-Proof Hardware",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Shadowsheath": {
             "name": "Shadowsheath",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Superior Weapon Customization": {
-            "name": "Superior Weapon Customization",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Weapon Signature Reduction": {
             "name": "Weapon Signature Reduction",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Collision Avoidance System": {
             "name": "Collision Avoidance System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Ejection System": {
             "name": "Ejection System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Engine Boosting System": {
             "name": "Engine Boosting System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Foreign Debris Ejector": {
             "name": "Foreign Debris Ejector",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Handling Upgrades": {
             "name": "Handling Upgrades",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "High-Output Repulsor Coils": {
             "name": "High-Output Repulsor Coils",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Pair of Podracer Engines": {
             "name": "Pair of Podracer Engines",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Podracer Control Cables": {
             "name": "Podracer Control Cables",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Reinforced Engine Cowlings": {
             "name": "Reinforced Engine Cowlings",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Shield Generator": {
             "name": "Shield Generator",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
         },
         "Advanced Subspace Encryption Array": {
             "name": "Advanced Subspace Encryption Array",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Astrogation Droid Brain": {
             "name": "Astrogation Droid Brain",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Briefing Auditorium": {
             "name": "Briefing Auditorium",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cloaking Device": {
             "name": "Cloaking Device",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "outerwear"
         },
         "Decoy Buoy": {
             "name": "Decoy Buoy",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Enhanced Hyperspace Shields": {
             "name": "Enhanced Hyperspace Shields",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
         },
         "HoloNet Pirate Array": {
             "name": "HoloNet Pirate Array",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Hyperdrive Generator": {
             "name": "Hyperdrive Generator",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Overcharged Ion Engines": {
             "name": "Overcharged Ion Engines",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Reinforced Shield Generator": {
             "name": "Reinforced Shield Generator",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
         },
         "Secondary Transponder": {
             "name": "Secondary Transponder",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Slicing Computer": {
             "name": "Slicing Computer",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Advanced Targeting Array": {
             "name": "Advanced Targeting Array",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "All-Terrain Legs": {
             "name": "All-Terrain Legs",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Amphibious Modification": {
             "name": "Amphibious Modification",
-            "category": "Accessory",
-            "slot": "Accessory",
+            "category": "Aux",
+            "slot": "Aux",
             "description": "",
             "bonuses": []
         },
         "Armored Computer Core": {
             "name": "Armored Computer Core",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "Autopilot Droid Brain": {
             "name": "Autopilot Droid Brain",
-            "category": "Accessory",
-            "slot": "Accessory",
+            "category": "Aux",
+            "slot": "Aux",
             "description": "",
             "bonuses": []
         },
         "Cloaked Smuggling Compartments": {
             "name": "Cloaked Smuggling Compartments",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "outerwear"
         },
         "Containment Field": {
             "name": "Containment Field",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Electronic Counter-Countermeasures Suite": {
             "name": "Electronic Counter-Countermeasures Suite",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "Electronic Countermeasures Suite": {
             "name": "Electronic Countermeasures Suite",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "Encrypted Computer": {
             "name": "Encrypted Computer",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Enhanced Carbon-Durasteel Armor": {
             "name": "Enhanced Carbon-Durasteel Armor",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "Enhanced Prisoner Lockup": {
             "name": "Enhanced Prisoner Lockup",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Environmental Simulators": {
             "name": "Environmental Simulators",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Gunner Droid Brain": {
             "name": "Gunner Droid Brain",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Hardened Circuits": {
             "name": "Hardened Circuits",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "High-Output Ion Turbine": {
             "name": "High-Output Ion Turbine",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Holo-Tank": {
             "name": "Holo-Tank",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Holographic Shell": {
             "name": "Holographic Shell",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Hull/Keel Reinforcement": {
             "name": "Hull/Keel Reinforcement",
-            "category": "Accessory",
-            "slot": "Accessory",
+            "category": "Aux",
+            "slot": "Aux",
             "description": "",
             "bonuses": []
         },
         "Hush Kit": {
             "name": "Hush Kit",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Hydraulic Control Circuits": {
             "name": "Hydraulic Control Circuits",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Interior Broadcast Suite": {
             "name": "Interior Broadcast Suite",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "Laser Focusing Array": {
             "name": "Laser Focusing Array",
-            "category": "Accessory",
-            "slot": "Accessory",
+            "category": "Aux",
+            "slot": "Aux",
             "description": "",
             "bonuses": []
         },
         "Luxury Passenger Compartments": {
             "name": "Luxury Passenger Compartments",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Nightshadow Coating": {
             "name": "Nightshadow Coating",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Onboard Amenities Unit": {
             "name": "Onboard Amenities Unit",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Overcharged Shields": {
             "name": "Overcharged Shields",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
         },
         "Oversized External Weapons Mount": {
             "name": "Oversized External Weapons Mount",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Physical Countermeasures": {
             "name": "Physical Countermeasures",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Pseudo-Cloaking Device": {
             "name": "Pseudo-Cloaking Device",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "outerwear"
         },
         "Ram Attachment": {
             "name": "Ram Attachment",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Rapid Cargo Evacuation Chute": {
             "name": "Rapid Cargo Evacuation Chute",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Reinforced Armor Plating": {
             "name": "Reinforced Armor Plating",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "Retractable Weapon System": {
             "name": "Retractable Weapon System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Retrofitted Hangar Bay": {
             "name": "Retrofitted Hangar Bay",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Security Measures": {
             "name": "Security Measures",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Sensor Baffler": {
             "name": "Sensor Baffler",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Sensor Shunt": {
             "name": "Sensor Shunt",
-            "category": "Accessory",
-            "slot": "Accessory",
+            "category": "Aux",
+            "slot": "Aux",
             "description": "",
             "bonuses": []
         },
         "T9 Stinger Assault Boarding Tube": {
             "name": "T9 Stinger Assault Boarding Tube",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Slave Circuit": {
             "name": "Slave Circuit",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Smuggling Compartments": {
             "name": "Smuggling Compartments",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Tactical Command, Control, and Communications Suite": {
             "name": "Tactical Command, Control, and Communications Suite",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "Theater Command and Control System": {
             "name": "Theater Command and Control System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Upgraded Comms Array": {
             "name": "Upgraded Comms Array",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "WhisperThrust Engine": {
             "name": "WhisperThrust Engine",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Augmented Buffer": {
             "name": "Augmented Buffer",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Enhanced Repulsorlift": {
             "name": "Enhanced Repulsorlift",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Fogger Smoke Generator": {
             "name": "Fogger Smoke Generator",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Gravity Mine Launcher": {
             "name": "Gravity Mine Launcher",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Maneuvering Thrusters": {
             "name": "Maneuvering Thrusters",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Mobile Listening Post": {
             "name": "Mobile Listening Post",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Upgraded Firepower": {
             "name": "Upgraded Firepower",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Missile Pack": {
             "name": "Missile Pack",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Mini-Missile Pack": {
             "name": "Mini-Missile Pack",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Ax-108 \"Ground Buzzer\" Surface-Defense Blaster Cannon": {
             "name": "Ax-108 \"Ground Buzzer\" Surface-Defense Blaster Cannon",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Electromagnetic Tow Cable Launcher": {
             "name": "Electromagnetic Tow Cable Launcher",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Flak Cannons (light)": {
             "name": "Flak Cannons (light)",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Flak Cannons (medium)": {
             "name": "Flak Cannons (medium)",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Flak Cannons (heavy)": {
             "name": "Flak Cannons (heavy)",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Ion Torpedo Launcher": {
             "name": "Ion Torpedo Launcher",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Minelayer": {
             "name": "Minelayer",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Plasma Drill": {
             "name": "Plasma Drill",
-            "category": "Accessory",
-            "slot": "Accessory",
+            "category": "Aux",
+            "slot": "Aux",
             "description": "",
             "bonuses": []
         },
         "Repeating Ion Cannon": {
             "name": "Repeating Ion Cannon",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Grappler 213 Tactical Tractor Beam": {
             "name": "Grappler 213 Tactical Tractor Beam",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "MM-XT Mini-Missile Tube": {
             "name": "MM-XT Mini-Missile Tube",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Termite Torpedo Launcher": {
             "name": "Termite Torpedo Launcher",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Armour Insert": {
             "name": "Armour Insert",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Armour Spikes": {
             "name": "Armour Spikes",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Athakam Medtech SmartMed 2000 Integrated Med-Systems": {
             "name": "Athakam Medtech SmartMed 2000 Integrated Med-Systems",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Automated Weapon Mounting": {
             "name": "Automated Weapon Mounting",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Bio-Support Dispenser": {
             "name": "Bio-Support Dispenser",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Biofeedback System": {
             "name": "Biofeedback System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Ceremonial Adornment": {
             "name": "Ceremonial Adornment",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Chedak Communications Multi-Band Comlink": {
             "name": "Chedak Communications Multi-Band Comlink",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Clone Polarised Electrobinoculars": {
             "name": "Clone Polarised Electrobinoculars",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cortosis Weave": {
             "name": "Cortosis Weave",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "CryonCorp Omniscan 3 Integrated Scanner": {
             "name": "CryonCorp Omniscan 3 Integrated Scanner",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Custom Fit": {
             "name": "Custom Fit",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Droid Brain Defence System": {
             "name": "Droid Brain Defence System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Energy Dispersion System": {
             "name": "Energy Dispersion System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Enhanced Optic Suite": {
             "name": "Enhanced Optic Suite",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "Hardened": {
             "name": "Hardened",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Heating System": {
             "name": "Heating System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "In-Helmet Scanner": {
             "name": "In-Helmet Scanner",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "head"
         },
         "Industrial Automaton \"Accu-Strike\" Integrated Targeting Computer": {
             "name": "Industrial Automaton \"Accu-Strike\" Integrated Targeting Computer",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Integrated Ascension Gear": {
             "name": "Integrated Ascension Gear",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Integrated Holsters": {
             "name": "Integrated Holsters",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Integrated Slicer Gear": {
             "name": "Integrated Slicer Gear",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Ion Shielding": {
             "name": "Ion Shielding",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
         },
         "Jump Boots": {
             "name": "Jump Boots",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "feet"
         },
         "Kiirium Coating": {
             "name": "Kiirium Coating",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Low-Friction Coating": {
             "name": "Low-Friction Coating",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Micro-Rocket Armour Mounting": {
             "name": "Micro-Rocket Armour Mounting",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Optical Camouflage System": {
             "name": "Optical Camouflage System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Passive Foliage Suit": {
             "name": "Passive Foliage Suit",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "body"
         },
         "Physiological Enhancement System": {
             "name": "Physiological Enhancement System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Portable Plasma Shield": {
             "name": "Portable Plasma Shield",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
         },
         "Quick Shed": {
             "name": "Quick Shed",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Radiation Shielding": {
             "name": "Radiation Shielding",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
         },
         "Reactive Plating": {
             "name": "Reactive Plating",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Reflec Adaptive Skin": {
             "name": "Reflec Adaptive Skin",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Reflec Shadowskin": {
             "name": "Reflec Shadowskin",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Repulsor Pack": {
             "name": "Repulsor Pack",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Repulsor-Assisted Lifting": {
             "name": "Repulsor-Assisted Lifting",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Scannerweave": {
             "name": "Scannerweave",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Self-Repair Systems": {
             "name": "Self-Repair Systems",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Squad Tactical Systems": {
             "name": "Squad Tactical Systems",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Stealth Field Generator": {
             "name": "Stealth Field Generator",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Strength Enhancement System": {
             "name": "Strength Enhancement System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Stun Matrix": {
             "name": "Stun Matrix",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Superior Armour Customisation": {
-            "name": "Superior Armour Customisation",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "TaggeCo MB-7 \"Ranger\" Range Finder": {
             "name": "TaggeCo MB-7 \"Ranger\" Range Finder",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Thermal Shielding System": {
             "name": "Thermal Shielding System",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
         },
         "Threat Monitor": {
             "name": "Threat Monitor",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Tracking System": {
             "name": "Tracking System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Utility Arm": {
             "name": "Utility Arm",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Vacuum Sealed": {
             "name": "Vacuum Sealed",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Water Reclamation System": {
             "name": "Water Reclamation System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Comlink Bug": {
             "name": "Comlink Bug",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Concealed Climbing Cord": {
             "name": "Concealed Climbing Cord",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Dart Gun": {
             "name": "Dart Gun",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Hidden Compartment": {
             "name": "Hidden Compartment",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Holo Converter": {
             "name": "Holo Converter",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Self-Destruct System": {
             "name": "Self-Destruct System",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Subminiature Holocam": {
             "name": "Subminiature Holocam",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Athiss Cave Crystal": {
-            "name": "Athiss Cave Crystal",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Barab Ingot": {
-            "name": "Barab Ingot",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Christophsis Crystal": {
-            "name": "Christophsis Crystal",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Corrupted Crystal": {
             "name": "Corrupted Crystal",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Cracked Crystal": {
             "name": "Cracked Crystal",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Cracked Jedha Crystal": {
-            "name": "Cracked Jedha Crystal",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Dantari Crystal": {
-            "name": "Dantari Crystal",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Dragite Gem": {
             "name": "Dragite Gem",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Etaan Crystal": {
             "name": "Etaan Crystal",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Ghostfire Crystal": {
             "name": "Ghostfire Crystal",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Ilum Crystal": {
-            "name": "Ilum Crystal",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Kimber Stone": {
             "name": "Kimber Stone",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Krayt Dragon Pearl": {
             "name": "Krayt Dragon Pearl",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Lorrdian Gemstone": {
-            "name": "Lorrdian Gemstone",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Mephite Crystal": {
-            "name": "Mephite Crystal",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Nishalorite Stone": {
             "name": "Nishalorite Stone",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Sapith Gem": {
             "name": "Sapith Gem",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Seeker Crystal": {
-            "name": "Seeker Crystal",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Solari Crystal": {
-            "name": "Solari Crystal",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Sorian Crystal": {
-            "name": "Sorian Crystal",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Tainted Nightsister Crystal": {
-            "name": "Tainted Nightsister Crystal",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Thontiin Crystal": {
-            "name": "Thontiin Crystal",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Training Lightsaber Emitter": {
-            "name": "Training Lightsaber Emitter",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Unstable Kyber Crystal": {
-            "name": "Unstable Kyber Crystal",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Varpeline Crystal": {
-            "name": "Varpeline Crystal",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Zophis Crystal": {
-            "name": "Zophis Crystal",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Blade Drain": {
-            "name": "Blade Drain",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Catastrophic Failure Modification": {
-            "name": "Catastrophic Failure Modification",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Curved Hilt": {
-            "name": "Curved Hilt",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Cyclic Crystal Array": {
-            "name": "Cyclic Crystal Array",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Damping Emitter": {
-            "name": "Damping Emitter",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Dual-Phase Modification": {
             "name": "Dual-Phase Modification",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Extended Hilt": {
-            "name": "Extended Hilt",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Flickerphase Blade": {
             "name": "Flickerphase Blade",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Fusion Shunt": {
             "name": "Fusion Shunt",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Hilt-Masking Kit": {
-            "name": "Hilt-Masking Kit",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Ionizing Emitter Matrix": {
             "name": "Ionizing Emitter Matrix",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Overcharged Power Cell": {
             "name": "Overcharged Power Cell",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Pistol Hilt": {
             "name": "Pistol Hilt",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Pommel Cap": {
-            "name": "Pommel Cap",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Reflex Grip": {
-            "name": "Reflex Grip",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         },
         "Reinforced Magnetic Shielding": {
             "name": "Reinforced Magnetic Shielding",
-            "category": "Apparel",
+            "category": "Armor",
             "description": "",
             "bonuses": [],
             "slot": "shield"
         },
-        "Shien Reverse Grip Customization": {
-            "name": "Shien Reverse Grip Customization",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Superior Hilt Personalisation": {
-            "name": "Superior Hilt Personalisation",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
         "Thisspiasian Stabilising Coils": {
             "name": "Thisspiasian Stabilising Coils",
-            "category": "Accessory",
+            "category": "Aux",
             "description": "",
             "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Tholothian Heartwood Hilt": {
-            "name": "Tholothian Heartwood Hilt",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
-        },
-        "Walking Stick Hilt Disguise": {
-            "name": "Walking Stick Hilt Disguise",
-            "category": "Accessory",
-            "description": "",
-            "bonuses": [],
-            "slot": "Accessory"
+            "slot": "Aux"
         }
     }
 }

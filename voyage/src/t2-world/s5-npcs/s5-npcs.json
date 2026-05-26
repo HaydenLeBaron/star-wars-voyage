@@ -14477,7 +14477,7 @@
                 "Skill: Computers",
                 "Skill: Education"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "uvIz9Hok"
@@ -14758,7 +14758,7 @@
                 "Defense (M/R): 0/0",
                 "Skill: Ranged (Heavy)"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "arkjoR11"
@@ -15329,7 +15329,7 @@
                 "Skill: Mechanics",
                 "Skill: Perception"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "pSQtT2uv"
@@ -15351,7 +15351,7 @@
                 "Skill: Computers",
                 "Skill: Mechanics"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "m8pJBvHF"
@@ -15396,7 +15396,7 @@
                 "Skill: Athletics",
                 "Skill: Coordination"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "Jf9YRb0e"
@@ -15417,7 +15417,7 @@
                 "Defense (M/R): 0/0",
                 "Skill: Athletics"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "B0ObMjt0"
@@ -15465,7 +15465,7 @@
                 "Defense (M/R): 0/0",
                 "Skill: Mechanics"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "UdVO7xMc"
@@ -15488,7 +15488,7 @@
                 "Skill: Mechanics",
                 "Skill: Perception"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "IUfT09ni"
@@ -15510,7 +15510,7 @@
                 "Skill: Perception",
                 "Skill: Ranged (Light)"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "3NVZcYYk"
@@ -15580,7 +15580,7 @@
                 "Skill: Computers",
                 "Skill: Mechanics"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "pS3ZBYAS"
@@ -15674,7 +15674,7 @@
                 "Wound Threshold: 1",
                 "Defense (M/R): 0/0"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "JJIyVQTw"
@@ -16099,7 +16099,7 @@
                 "Skill: Mechanics",
                 "Skill: Melee"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "uvF6mMlo"
@@ -16123,7 +16123,7 @@
                 "Skill: Vigilance",
                 "Restricted Droid Model"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "xQVEuraS"
@@ -16144,7 +16144,7 @@
                 "Defense (M/R): 0/0",
                 "Skill: Perception"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "NHJdhdL2"
@@ -16166,7 +16166,7 @@
                 "Skill: Perception",
                 "Skill: Ranged (Light)"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "3FGC46oo"
@@ -16190,7 +16190,7 @@
                 "Skill: Perception",
                 "Skill: Resilience"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "CeEPUx6z"
@@ -16211,7 +16211,7 @@
                 "Defense (M/R): 1/1",
                 "Skill: Vigilance"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "otgyNpMB"
@@ -16236,7 +16236,7 @@
                 "Skill: Vigilance",
                 "Restricted Droid Model"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "itmmPE05"
@@ -16259,7 +16259,7 @@
                 "Skill: Ranged (Light)",
                 "Skill: Stealth"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "26MlPmGs"
@@ -16331,7 +16331,7 @@
                 "Skill: Stealth",
                 "Restricted Droid Model"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "vDiutA9Q"
@@ -16353,7 +16353,7 @@
                 "Skill: Perception",
                 "Skill: Vigilance"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "rAR3JnrW"
@@ -16375,7 +16375,7 @@
                 "Skill: Perception",
                 "Skill: Vigilance"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "SbX8cIRq"
@@ -16514,7 +16514,7 @@
                 "Ability: Shriek (a creereen can set up a shrieking racket as an action. All targets within short range that the creereen considers enemies must make a Hard difficulty Resilience check. Failure causes a target to suffer 4 strain and become disoriented until the noise stops. Characters in sealed armor or who are wearing ear protection are not affected.)",
                 "Ability: Silhouette 0"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "I9Yakc8f"
@@ -16539,7 +16539,7 @@
                 "Ability: Scorching Touch (when an opponent ends its turn engaged with the fissrit, the opponent suffers 1 wound and 1 strain)",
                 "Ability: Silhouette 0"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "6enpRfkO"
@@ -16643,7 +16643,7 @@
                 "Skill: Survival",
                 "Ability: Flyer"
             ],
-            "tier": "basic",
+            "tier": "trivial",
             "detailType": "detailed",
             "portraitUrl": "",
             "embeddingId": "KNMjOOej"
