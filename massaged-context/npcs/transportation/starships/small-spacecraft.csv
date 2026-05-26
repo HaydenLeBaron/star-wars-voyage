@@ -1,0 +1,104 @@
+Model,Silhouette,Speed,HP,Price,Rarity,Hyperdrive?,# of Weapons,Weapons?,Category
+BTL-A4/BTL-S3 Y-Wing Attack Starfighter,3,4,1,"80,000",4,Yes,,,Bombers
+"BTS-A2 ""H-Wing"" Long-Range Strike Starfighter",3,3,1,"225,000",6,Yes,,,Bombers
+H-60 Tempest Heavy Bomber,4,3,1,"172,000",5,No,,,Bombers
+Hyena-class Droid Bomber,3,4,1,"(Restricted) 120,000",7,No,,,Bombers
+"TIE/ca ""Punisher"" Starfighter (aka TIE/it Interdictor Starfighter)",3,4,0,"(Restricted) 253,000",7,No,,,Bombers
+TIE/sa Tactical Bomber,3,4,0,"(Restricted) 110,000",5,No,,,Bombers
+"""B-Wing"" Heavy Fast Attack Starfighter",3,4,1,"150,000",6,Yes,,,Fighters
+"""Heavy 95"" Multi-Role Starfighter",3,4,1,"85,000",5,Yes,,,Fighters
+"""X-Wing"" Multi-Role Starfighter",3,5,1,"120,000",5,Yes,,,Fighters
+A-Type Stiletto,3,4,0,"90,000",7,No,,,Fighters
+Aggressor Assault Fighter,4,5,3,"160,000",6,Yes,,,Fighters
+"Alpha-class Xg-1 ""Star Wing"" Assault Gunboat",3,4,2,"(Restricted) 135,000",7,Yes,,,Fighters
+ARC-170 Heavy Starfighter,3,4,2,"(Restricted) 180,000",5,Yes,,,Fighters
+ARC-40B Scout-Reconnaissance Fighter,3,4,2,"85,000",7,Yes,,,Fighters
+Belbullab-22 Heavy Starfighter,3,4,3,"168,000",6,Yes,,,Fighters
+Blade-32 Superiority Fighter,3,4,1,"60,000",7,Yes,,,Fighters
+CloakShape Fighter,3,4,3,"38,000",4,No,,,Fighters
+Cutlass-9 Patrol Fighter,3,3,3,"40,000",4,Yes,,,Fighters
+Delta-6 System Defense Starfighter,3,4,2,"30,000",4,No *,,,Fighters
+Droid Tri-Fighter,3,5,2,"(Restricted) 40,000",8,No,,,Fighters
+"E-7 ""E-Wing"" Multi-Role Starfighter",3,5,1,"160,000",8,Yes,,,Fighters
+G-1A Heavy Starfighter,3,4,4,"130,000",7,Yes,,,Fighters
+HH-87 Starhopper Starfighter,3,4,2,"50,000",4,Yes,,,Fighters
+HLAF-500 Starfighter,3,4,1,"70,000",5,Yes,,,Fighters
+"IE-440 ""Nighthawk"" Multi-Role Starfighter",3,5,4,"124,800",7,Yes,,,Fighters
+Kihraxz Light Starfighter,3,4,5,"65,000",6,Yes,,,Fighters
+Koensayr AD-1S Modular Multi-Role Starfighter,3,3,8,"25,000",7,No,,,Fighters
+LAF-250 Starfighter,3,4,1,"60,000",4,No,,,Fighters
+M12-L Kimogila Heavy Starfighter,4,4,2,"150,000",5,Yes,,,Fighters
+"Mandalorian Protectorate ""Fang"" Starfighter",3,6,1,"175,000*",8*,Yes*,,,Fighters
+Miy'til Starfighter,2,4,1,"210,000",8,Yes,,,Fighters
+Preybird-class Starfighter,3,4,1,"84,000",8,Yes,,,Fighters
+Prototype-B6,3,4,1,Unique,-,Yes,,,Fighters
+R-41 Starchaser,3,4,2,"55,000",7,Yes,,,Fighters
+Republic Z-95 Headhunter,3,4,2,"75,000",5,No,,,Fighters
+StarViper-class Attack Platform,3,4,0,"160,000",7,Yes,,,Fighters
+Starviper M-2,3,4,0,"160,000",7,Yes,,,Fighters
+"TIE/ag ""Aggressor"" Starfighter",3,4,0,"(Restricted) 75,000",9,No,,,Fighters
+"TIE/d ""Defender"" Multi-Role Starfighter",3,4,0,"(Restricted) 300,000",8,Yes,,,Fighters
+"TIE/hu ""Hunter"" Multi-role Starfighter",3,5,0,"(Restricted) 275,000",9,Yes,,,Fighters
+TIE/ln Starfighter,3,5,0,"(Restricted) 50,000",4,No,,,Fighters
+TIE/mg Mining Guild Starfighter,3,4,0,"(Restricted) 40,000",6,No,,,Fighters
+"TIE/ph ""Phantom"" Multi-Role Stealth Starfighter",3,5,0,"(Restricted) 365,000",9,Yes,,,Fighters
+"TIE/br ""Brute"" Heavy Starfighter",3,4,0,"(Restricted) 188,000",4,No,,,Fighters
+"TIE/rp ""Reaper"" Attack Lander",3,4,0,"(Restricted) 100,000",6,No,,,Fighters
+TIE/sk Striker Multi-Role Fighter,3,6,0,"(Restricted) 50,000",6,No,,,Fighters
+V-19 Torrent Starfighter,3,4,1,"75,000",4,Yes,,,Fighters
+Vulture-class Droid Starfighter,3,5,0,"40,000",5,No,,,Fighters
+Z-95-AF4 Headhunter,3,4,2,"55,000",4,No,,,Fighters
+Z-TIE,3,4,0,Varies,5,No,,,Fighters
+RZ-1 A-wing Light Interceptor,3,6,1,"150,000",6,Yes,,,Interceptors
+A-7 Hunter Interceptor,3,5,1,"80,000",6,No,,,Interceptors
+"Alpha-3 Nimbus ""V-Wing"" Interceptor",3,4,2,"120,000",7,No *,,,Interceptors
+"ARX-T3 ""Suncutter"" Light Interceptor",3,5,1,"110,000",6,Yes,,,Interceptors
+CL-1c Lancet Interceptor,3,5,0,"55,000",5,Yes,,,Interceptors
+Delta-7 Aethersprite Interceptor,3,5,2,"78,000",6,No *,,,Interceptors
+Eta-2 Actis-class Light Interceptor,3,6,1,"(Restricted) 290,000",8,No *,,,Interceptors
+MandalMotors M3-A Scyk Interceptor,3,5,1,"55,000",4,Yes,,,Interceptors
+"R-60 ""T-Wing"" Interceptor",3,6,1,"95,000",7,Yes,,,Interceptors
+Tallanx-class Stealth Fighter,3,5,2,"(Restricted) 120,000",9,Yes,,,Interceptors
+TIE/in Interceptor,3,6,0,"(Restricted) 75,000",5,No,,,Interceptors
+Auzituck-class Gunship,4,3,3,"95,000",7,Yes,2x Twins,,Patrol Boats
+Firespray System Patrol Craft,4,4,4,"80,000",4,Yes,1x,,Patrol Boats
+GAT-12H Skipray Blastboat,4,4,2,"150,000",6,Yes,4x (twins & tri),,Patrol Boats
+"H-22A ""D-Wing"" Heavy Attack Boat",4,3,1,"145,000",6,Yes,4x (twins & quad),,Patrol Boats
+Imperial Customs Frigate,4,3,2,"(Restricted) 140,000",6,Yes,6x Twins,,Patrol Boats
+Incom A-36 Pathfinder-class Force Reconnaissance Vessel,4,4,2,"135,000",7,Yes,3x,,Patrol Boats
+MandalMotors M22-T Krayt Gunship,4,4,2,"185,000",6,Yes,3x (twins & others),,Patrol Boats
+PB-950 Patrol Boat,5,3,3,"150,000",5,Yes,4x (quad & others),,Patrol Boats
+PPB Pocket Patrol Boat,3,4,2,"70,000",5,Yes,1x,,Patrol Boats
+Regulator-class Patrol Vessel,4,4,2,"110,000",6,Yes,2x (twin & quad),,Patrol Boats
+SS-54 Light Assault Gunship,3,3,2,"110,000",6,Yes,2x (twin & quad),,Patrol Boats
+VT-49 Decimator,4,3,1,"160,000",6,Yes,3x (quads & twin),,Patrol Boats
+YQ-400 Monitor-Class System Patrol Ship,4,3,0,"200,000",8,Yes,2x Twins,,Patrol Boats
+AO-2 Cometstrike-class Orbital Assault Pod,4,2,1,"30,000",5,No,,Yes,Shuttles & Personal Craft
+Coneship,3,5,0,"5,000",8,No,,No,Shuttles & Personal Craft
+Delta-12 Skysprite,3,4,3,"85,000",8,No,,No,Shuttles & Personal Craft
+Delta-class T-3c Shuttle,4,3,2,"(Restricted) 160,000",6,Yes,,Yes,Shuttles & Personal Craft
+Droch-class Boarding Ship,3,3,2,"43,000",7,No,,Yes,Shuttles & Personal Craft
+Escape Pod,2,3,1,"5,000",7,No,,No,Shuttles & Personal Craft
+Eta-Class Shuttle,4,3,2,"100,000",6,Yes,,Yes,Shuttles & Personal Craft
+Far*Reach Reconnaissance Ship,4,3,3,"60,000",7,Yes,,Yes,Shuttles & Personal Craft
+Incom A-24 Sleuth-class Scout Ship,3,4,3,"45,000",6,Yes,,Yes,Shuttles & Personal Craft
+ISP-6 Shuttle Pod,2,4,1,"(Restricted) 15,000",6,No,,Yes,Shuttles & Personal Craft
+Jadthu-Class Landing Ship,5,3,2,"200,000",5,No,,Yes,Shuttles & Personal Craft
+JM-5000 JumpMaster Long Range Scout,4,4,2,"55,000",5,Yes,,Yes,Shuttles & Personal Craft
+KST-100 Kestrel Light Executive Transport,3,4,4,"120,000",7,Yes,,Yes,Shuttles & Personal Craft
+Lambda-Class T4-A Long Range Shuttle,4,3,2,"(Restricted) 140,000",6,Yes,,Yes,Shuttles & Personal Craft
+Legate-Class Courier,4,4,3,"65,000",6,Yes,,Yes,Shuttles & Personal Craft
+Life Boat,3,3,2,"15,000",7,No,,Yes,Shuttles & Personal Craft
+Loronar E-9 Explorer-class Armed Long-Range Scout Vessel,4,3,4,"120,000",6,Yes,,Yes,Shuttles & Personal Craft
+Nu-class Transport,4,3,2,"85,000",5,Yes,,Yes,Shuttles & Personal Craft
+Pathfinder Scout Ship,4,4,2,"45,000",6,yes,,Yes,Shuttles & Personal Craft
+Punworcca 116-class Interstellar Sloop,3,3,2,"240,000",9,No,,No,Shuttles & Personal Craft
+Rho-1 Limulus-Class Courier,3,4,2,"55,000",8,Yes,,Yes,Shuttles & Personal Craft
+Sentinel-Class Landing Craft,4,3,0,"(Restricted) 240,000",7,Yes,,Yes,Shuttles & Personal Craft
+Sheathipede-class Transport Shuttle,4,3,2,"120,000",6,No,,No,Shuttles & Personal Craft
+Skywatcher-class Deep Space Scout Ship,4,3,3,"(Restricted) 120,000",5,Yes,,Yes,Shuttles & Personal Craft
+T-6 Shuttle,4,3,2,"100,000",7,No,,No,Shuttles & Personal Craft
+Trident-class Assault Ship,4,4,2,"120,000",8,No,,No,Shuttles & Personal Craft
+UT-60D U-Wing Troop Transport,4,4,3,"65,000",6,Yes,,Yes,Shuttles & Personal Craft
+V-19b Dart Personal Flyer,3,4,1,"60,000",7,No,,No,Shuttles & Personal Craft
+Zeta-class Heavy Cargo Shuttle,4,2,1,"(Restricted) 95,000",7,Yes,,Yes,Shuttles & Personal Craft
